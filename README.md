@@ -1,4 +1,4 @@
-# Budget Backrooms ![test](https://img.shields.io/github/repo-size/DavidJoacaRo/Budget-Backrooms) ![test2](https://img.shields.io/github/downloads/DavidJoacaRo/Budget-Backrooms/total)
+# Budget Backrooms ![alpha](https://img.shields.io/github/v/release/DavidJoacaRo/Budget-Backrooms) ![test](https://img.shields.io/github/repo-size/DavidJoacaRo/Budget-Backrooms) ![dwnlds](https://img.shields.io/github/downloads/DavidJoacaRo/Budget-Backrooms/ALPHA/total) ![lstcommit](https://img.shields.io/github/last-commit/DavidJoacaRo/Budget-Backrooms)
 What happens if you give a developer... Unreal Engine 4 and no experience? This, my first game ever made on UE4 with blueprints.
 
 I know other devs did way better than me but I wanted to try for the first time.
@@ -39,9 +39,12 @@ Thanks alot to the youtube tutorials and my friends who helped me and gave more 
 |Entities|❓
 |Escaping from Level 0|📅
 |More levels|📅
+|Extend Map|📅
 
 
-✔ - Working
+✔ - Done
+
+🛠 - Working on it
 
 ❌ - Not Working / Not Added
 
