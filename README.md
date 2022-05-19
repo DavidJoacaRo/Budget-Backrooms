@@ -37,7 +37,7 @@ Thanks alot to the youtube tutorials and my friends who helped me and gave more 
 |Pause Menu|✔
 |Main Menu|✔
 |Entities|🛠
-|Escaping from Level 0|✔
+|Escaping from Level 0|🛠
 |More levels|📅
 |Extend Map|✔
 
