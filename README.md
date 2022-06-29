@@ -15,6 +15,7 @@ Thanks alot to the youtube tutorials and my friends who helped me and gave more 
 
 
 # 🛠 Setting up the project:
+### ❗ **These steps are for modifying the game, if you want to download the game go [here](https://github.com/DavidJoacaRo/Budget-Backrooms/releases)** ❗
 
 * Download the project | You can download the ZIP or clone it with git, or just use whatever you're familiar with, an example can be found in the screenshot below: ![something like this](https://cdn.upload.systems/uploads/qRf7X7qy.png)
 
