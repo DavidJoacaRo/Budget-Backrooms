@@ -5,121 +5,15 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "RawInput",
-			"Enabled": true
-		},
-		{
-			"Name": "EnhancedInput",
-			"Enabled": true
-		},
-		{
-			"Name": "BlueprintStats",
-			"Enabled": true
-		},
-		{
-			"Name": "CableComponent",
-			"Enabled": false
-		},
-		{
-			"Name": "CameraShakePreviewer",
-			"Enabled": false
-		},
-		{
-			"Name": "AppleMoviePlayer",
-			"Enabled": false
-		},
-		{
-			"Name": "AppleImageUtils",
-			"Enabled": false
-		},
-		{
-			"Name": "ChaosClothEditor",
-			"Enabled": false
-		},
-		{
-			"Name": "ChaosCloth",
-			"Enabled": false
-		},
-		{
-			"Name": "ChaosEditor",
-			"Enabled": false
-		},
-		{
-			"Name": "ColorCorrectRegions",
-			"Enabled": true
-		},
-		{
-			"Name": "DungeonGeneratorPlugin",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3ef6cc9c5400434784446008160cb5c7"
-		},
-		{
-			"Name": "CommonUI",
-			"Enabled": true
-		},
-		{
 			"Name": "Substance",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
 		},
 		{
-			"Name": "Volumetrics",
-			"Enabled": true
-		},
-		{
-			"Name": "SafeDelete",
+			"Name": "DungeonGeneratorPlugin",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/daf26df8b4c94149900ea0dd0a264071"
-		},
-		{
-			"Name": "TimeClock",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6f6a4afb66af43deb946a48b78d8c80a"
-		},
-		{
-			"Name": "WindowsDialogBox",
-			"Enabled": true
-		},
-		{
-			"Name": "EditorDiscordRichPresence",
-			"Enabled": true
-		},
-		{
-			"Name": "DisasterRecoveryClient",
-			"Enabled": true
-		},
-		{
-			"Name": "PerformanceMonitor",
-			"Enabled": true
-		},
-		{
-			"Name": "BlueprintFileUtils",
-			"Enabled": true
-		},
-		{
-			"Name": "SoundUtilities",
-			"Enabled": true
-		},
-		{
-			"Name": "SoundVisualizations",
-			"Enabled": true
-		},
-		{
-			"Name": "SoundFields",
-			"Enabled": false
-		},
-		{
-			"Name": "Spatialization",
-			"Enabled": true
-		},
-		{
-			"Name": "SoundMod",
-			"Enabled": true
-		},
-		{
-			"Name": "SoundCueTemplates",
-			"Enabled": true
-		},
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3ef6cc9c5400434784446008160cb5c7"
+		}
 	],
 	"TargetPlatforms": [
 		"WindowsNoEditor"
