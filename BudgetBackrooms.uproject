@@ -13,11 +13,14 @@
 			"Name": "DungeonGeneratorPlugin",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3ef6cc9c5400434784446008160cb5c7"
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
 		"WindowsNoEditor",
-		"LinuxNoEditor",
-		"LinuxAArch64NoEditor"
+		"LinuxNoEditor"
 	]
 }
