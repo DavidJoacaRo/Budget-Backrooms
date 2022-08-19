@@ -1,13 +1,10 @@
-# Budget Backrooms ![alpha](https://img.shields.io/github/v/release/DavidJoacaRo/Budget-Backrooms) ![test](https://img.shields.io/github/repo-size/DavidJoacaRo/Budget-Backrooms) ![dwnlds](https://img.shields.io/github/downloads/DavidJoacaRo/Budget-Backrooms/total) ![last_commit](https://img.shields.io/github/last-commit/DavidJoacaRo/Budget-Backrooms/main)
+# Budget Backrooms ![alpha](https://img.shields.io/github/v/release/DavidJoacaRo/Budget-Backrooms) ![test](https://img.shields.io/github/repo-size/DavidJoacaRo/Budget-Backrooms) ![dwnlds](https://img.shields.io/github/downloads/DavidJoacaRo/Budget-Backrooms/total) ![last_commit](https://img.shields.io/github/last-commit/DavidJoacaRo/Budget-Backrooms/main) [![](https://dcbadge.vercel.app/api/server/WVuTB56ag4?style=flat&theme=default-inverted)](https://discord.gg/WVuTB56ag4)
 What happens if you give a developer... Unreal Engine 4 and no experience? This, my first game ever made on UE4 with blueprints.
 
 I know other devs did way better than me but I wanted to try for the first time.
 Thanks alot to the youtube tutorials and my friends who helped me and gave more ideas!
 
 **Hope you like it! ❣**
-
-#### 💬  **_If you'd like to leave any feedback or just chat, you're welcome to join the Discord Server by clicking [here](https://discord.gg/WVuTB56ag4)_**
-
 
 ### ❗ **_These steps are for modifying the game, if you want to download the game go [here](https://github.com/DavidJoacaRo/Budget-Backrooms/releases)_** ❗
 
