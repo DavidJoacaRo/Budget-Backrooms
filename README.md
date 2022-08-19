@@ -6,6 +6,11 @@ Thanks alot to the youtube tutorials and my friends who helped me and gave more 
 
 **Hope you like it! ❣**
 
+#### 💬  **_If you'd like to leave any feedback or just chat, you're welcome to join the Discord Server by clicking [here](https://discord.gg/WVuTB56ag4)_**
+
+
+### ❗ **_These steps are for modifying the game, if you want to download the game go [here](https://github.com/DavidJoacaRo/Budget-Backrooms/releases)_** ❗
+
 ## 📋 Minimum requirements to setup the project.
 
 * Unreal Engine 4.27 or better
@@ -15,7 +20,6 @@ Thanks alot to the youtube tutorials and my friends who helped me and gave more 
 
 
 # 🛠 Setting up the project:
-### ❗ **These steps are for modifying the game, if you want to download the game go [here](https://github.com/DavidJoacaRo/Budget-Backrooms/releases)** ❗
 
 * Download the project | You can download the ZIP or clone it with git, or just use whatever you're familiar with, an example can be found in the screenshot below: ![something like this](https://cdn.upload.systems/uploads/qRf7X7qy.png)
 
