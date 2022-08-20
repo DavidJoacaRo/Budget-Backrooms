@@ -1,22 +1,26 @@
-# Budget Backrooms ![alpha](https://img.shields.io/github/v/release/DavidJoacaRo/Budget-Backrooms) ![test](https://img.shields.io/github/repo-size/DavidJoacaRo/Budget-Backrooms) ![dwnlds](https://img.shields.io/github/downloads/DavidJoacaRo/Budget-Backrooms/total) ![last_commit](https://img.shields.io/github/last-commit/DavidJoacaRo/Budget-Backrooms/main)
+# Budget Backrooms ![alpha](https://img.shields.io/github/v/release/DavidJoacaRo/Budget-Backrooms) ![test](https://img.shields.io/github/repo-size/DavidJoacaRo/Budget-Backrooms) ![dwnlds](https://img.shields.io/github/downloads/DavidJoacaRo/Budget-Backrooms/total) ![last_commit](https://img.shields.io/github/last-commit/DavidJoacaRo/Budget-Backrooms/main) [![](https://dcbadge.vercel.app/api/server/WVuTB56ag4?style=flat&theme=default-inverted)](https://discord.gg/WVuTB56ag4)
 What happens if you give a developer... Unreal Engine 4 and no experience? This, my first game ever made on UE4 with blueprints.
 
 I know other devs did way better than me but I wanted to try for the first time.
-Thanks alot to the youtube tutorials and my friends who helped me and gave more ideas!
 
 **Hope you like it! ❣**
-
-#### 💬  **_If you'd like to leave any feedback or just chat, you're welcome to join the Discord Server by clicking [here](https://discord.gg/WVuTB56ag4)_**
-
 
 ### ❗ **_These steps are for modifying the game, if you want to download the game go [here](https://github.com/DavidJoacaRo/Budget-Backrooms/releases)_** ❗
 
 ## 📋 Minimum requirements to setup the project.
 
 * Unreal Engine 4.27 or better
-* A good PC to open the project
+* A good PC to open the project (you'll automatically compile the shaders when opening the project for the first time)
 * Visual Studio 2022 (optional, only install it if you'd like to build it for Windows)
 
+### 🔌 Plugins (optional)
+
+* [Dungeon Generator](https://www.unrealengine.com/marketplace/en-US/product/dungeon-generator-02)
+* [Flat Nodes*](https://www.unrealengine.com/marketplace/en-US/product/flat-nodes)
+* [Substance](https://www.unrealengine.com/marketplace/en-US/product/substance-plugin)
+* [Time Clock*](https://www.unrealengine.com/marketplace/en-US/product/time-clock)
+* Water [enable in engine]
+##### * not really necessary
 
 
 # 🛠 Setting up the project:
@@ -46,7 +50,7 @@ Thanks alot to the youtube tutorials and my friends who helped me and gave more 
 |More levels|🛠
 |Extend Map|✔
 |Saving System|📅
-|More Settings (Sensivity, Audio Volume)|📅
+|More Settings (Sensitivity, Audio Volume)|📅
 |Better Graphic Settings|📅
 
 
