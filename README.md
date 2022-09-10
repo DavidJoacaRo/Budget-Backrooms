@@ -18,6 +18,7 @@ I know other devs did way better than me but I wanted to try for the first time.
 * [Blueprint Graph Screenshot*](https://www.unrealengine.com/marketplace/en-US/product/blueprint-graph-screenshot)
 * [Dungeon Generator](https://www.unrealengine.com/marketplace/en-US/product/dungeon-generator-02)
 * [Flat Nodes*](https://www.unrealengine.com/marketplace/en-US/product/flat-nodes)
+* GPU Lightmass [enable in engine, enable only if you want to use baked lighting]
 * [Substance](https://www.unrealengine.com/marketplace/en-US/product/substance-plugin)
 * [Time Clock*](https://www.unrealengine.com/marketplace/en-US/product/time-clock)
 * Water [enable in engine]
