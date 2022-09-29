@@ -58,7 +58,7 @@
 		{
 			"Name": "ImagePlate",
 			"Enabled": true
-		}
+		},
 	],
 	"TargetPlatforms": [
 		"WindowsNoEditor"
