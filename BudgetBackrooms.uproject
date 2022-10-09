@@ -59,6 +59,10 @@
 			"Name": "ImagePlate",
 			"Enabled": true
 		},
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": true
+		}
 	],
 	"TargetPlatforms": [
 		"WindowsNoEditor"
