@@ -15,12 +15,8 @@ I know other devs did way better than me but I wanted to try for the first time.
 
 ### 🔌 Plugins (optional)
 
-* [Dungeon Generator](https://www.unrealengine.com/marketplace/en-US/product/dungeon-generator-02)
-* [Flat Nodes*](https://www.unrealengine.com/marketplace/en-US/product/flat-nodes)
-* [Substance](https://www.unrealengine.com/marketplace/en-US/product/substance-plugin)
-* [Time Clock*](https://www.unrealengine.com/marketplace/en-US/product/time-clock)
-* Water [enable in engine]
-##### * not really necessary
+You can check the available & required plugins inside ![BudgetBackrooms.uproject](https://github.com/DavidJoacaRo/Budget-Backrooms/blob/main/BudgetBackrooms.uproject) by opening it with an text editor (Notepad, Notepad++, Visual Studio Code, etc.)
+
 More plugins will be enabled when you start up the project, you'll get a prompt, click yes or no if you want to use them.
 
 
@@ -39,6 +35,9 @@ More plugins will be enabled when you start up the project, you'll get a prompt,
 * **Congrats! You can now edit the project and do any modifications you like.**
 
 # 📔 Features
+
+##TODO: will update this when i have time
+
 
 |Feature|Status|
 |---|---|
