@@ -37,13 +37,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "WinDualShock",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64"
-			]
-		},
-		{
 			"Name": "ActorPalette",
 			"Enabled": true
 		},
