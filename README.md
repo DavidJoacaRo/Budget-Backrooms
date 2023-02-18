@@ -37,31 +37,4 @@ More plugins will be required to be installed when you start up the project, you
 * **Congrats! You can now edit the project and do any modifications you like.**
 
 # 📔 Features
-
-##TODO: will update this when i have time
-
-
-|Feature|Status|
-|---|---|
-|Basic Movement| ✔
-|Ambience| ✔
-|Pause Menu|✔
-|Main Menu|✔
-|Entities|✔
-|Escaping from Level 0|✔
-|More levels|🛠
-|Extend Map|✔
-|Saving System|📅
-|More Settings (Sensitivity, Audio Volume)|📅
-|Better Graphic Settings|📅
-
-
-✔ - Done
-
-🛠 - Working on it
-
-❌ - Not Working / Not Added
-
-📅 - Scheduled for future update
-
-❓ - I don't know how to implement (yet)
+There was a to-do list here, but I moved it [here](https://debonair-roquefort-a00.notion.site/edb7d48c272949809fdd477942612e84?v=21d0a6ee219440918ecdd293aad7392a) on Notion.
