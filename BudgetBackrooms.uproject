@@ -76,7 +76,7 @@
 		},
 		{
 			"Name": "SiriusUtilityNodes",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d5e0fa8a4b174b0a85db3697c1d53b98"
 		},
 		{
@@ -86,7 +86,7 @@
 		},
 		{
 			"Name": "TypewriterPlugin",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/5796d04c2eba4cffa4bd7df597220967"
 		},
 		{
@@ -356,6 +356,15 @@
 		{
 			"Name": "Paper2D",
 			"Enabled": false
+		},
+		{
+			"Name": "WebMMoviePlayer",
+			"Enabled": false
+		},
+		{
+			"Name": "ShaderOptimizationTool",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/513a79316d754c5881f90cf8053e3a4e"
 		}
 	],
 	"TargetPlatforms": [
