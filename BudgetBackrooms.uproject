@@ -321,10 +321,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "AssetSearch",
-			"Enabled": true
-		},
-		{
 			"Name": "IOSDeviceProfileSelector",
 			"Enabled": false
 		},
@@ -365,6 +361,14 @@
 			"Name": "ShaderOptimizationTool",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/513a79316d754c5881f90cf8053e3a4e"
+		},
+		{
+			"Name": "AnalyticsBlueprintLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "AudioCapture",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
