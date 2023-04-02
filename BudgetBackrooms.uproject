@@ -59,14 +59,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "ResonanceAudio",
-			"Enabled": true
-		},
-		{
-			"Name": "SoundVisualizations",
-			"Enabled": true
-		},
-		{
 			"Name": "BlueprintStats",
 			"Enabled": true
 		},
@@ -243,10 +235,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "Ansel",
-			"Enabled": true
-		},
-		{
 			"Name": "ChunkDownloader",
 			"Enabled": false
 		},
@@ -369,6 +357,66 @@
 		{
 			"Name": "AudioCapture",
 			"Enabled": false
+		},
+		{
+			"Name": "MotoSynth",
+			"Enabled": false
+		},
+		{
+			"Name": "ResonanceAudio",
+			"Enabled": true
+		},
+		{
+			"Name": "Synthesis",
+			"Enabled": false
+		},
+		{
+			"Name": "SoundVisualizations",
+			"Enabled": true
+		},
+		{
+			"Name": "CryptoKeys",
+			"Enabled": false
+		},
+		{
+			"Name": "KDevelopSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "LauncherChunkInstaller",
+			"Enabled": false
+		},
+		{
+			"Name": "MacGraphicsSwitching",
+			"Enabled": false
+		},
+		{
+			"Name": "MultiUserClient",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemNull",
+			"Enabled": false
+		},
+		{
+			"Name": "SlateInsights",
+			"Enabled": true
+		},
+		{
+			"Name": "TextureShare",
+			"Enabled": true
+		},
+		{
+			"Name": "TimeSynth",
+			"Enabled": true
+		},
+		{
+			"Name": "AudioModulation",
+			"Enabled": true
+		},
+		{
+			"Name": "RawInput",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
