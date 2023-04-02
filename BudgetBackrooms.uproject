@@ -363,10 +363,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "ResonanceAudio",
-			"Enabled": true
-		},
-		{
 			"Name": "Synthesis",
 			"Enabled": false
 		},
@@ -416,6 +412,14 @@
 		},
 		{
 			"Name": "RawInput",
+			"Enabled": true
+		},
+		{
+			"Name": "ResonanceAudio",
+			"Enabled": true
+		},
+		{
+			"Name": "SoundCueTemplates",
 			"Enabled": true
 		}
 	],
