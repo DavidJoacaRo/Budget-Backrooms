@@ -187,15 +187,6 @@
 			]
 		},
 		{
-			"Name": "SteamVR",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win32",
-				"Win64",
-				"Linux"
-			]
-		},
-		{
 			"Name": "OnlineFramework",
 			"Enabled": true
 		},
@@ -421,6 +412,20 @@
 		{
 			"Name": "SoundCueTemplates",
 			"Enabled": true
+		},
+		{
+			"Name": "SOverlay",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/cc7ed32bbc164220b5bda680b9843745"
+		},
+		{
+			"Name": "SteamVR",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Linux"
+			]
 		}
 	],
 	"TargetPlatforms": [
