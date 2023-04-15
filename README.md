@@ -1,11 +1,19 @@
 # Budget Backrooms ![alpha](https://img.shields.io/github/v/release/DavidJoacaRo/Budget-Backrooms?include_prereleases) ![test](https://img.shields.io/github/repo-size/DavidJoacaRo/Budget-Backrooms) ![dwnlds](https://img.shields.io/github/downloads/DavidJoacaRo/Budget-Backrooms/total) ![last_commit](https://img.shields.io/github/last-commit/DavidJoacaRo/Budget-Backrooms/main) [![](https://dcbadge.vercel.app/api/server/WVuTB56ag4?style=flat&theme=default-inverted)](https://discord.gg/WVuTB56ag4)
-What happens if you give a developer... Unreal Engine 4 and no experience? This, my first game ever made on UE4 with blueprints.
+First-time project in Unreal Engine. This is what came out, **Budget Backrooms**.
 
-I know other devs did way better than me but I wanted to try for the first time.
+Non-procedural levels, goofy ahh AI's, and stolen sounds from `freesound.org`.
 
-**Hope you like it! ❣**
+Appreciating if you play it, give some feedack  [here](https://forms.gle/KpLdoD4cHb7tFGoo6) and yeah, enjoy!
 
-### ❗ **_These steps are for modifying the game, if you want to download the game go [here](https://github.com/DavidJoacaRo/Budget-Backrooms/releases)_** ❗
+The development and sweaty update side of this game can be found on the [Discord Server](https://discord.gg/WVuTB56ag4) (even though the server is dead).
+
+**Enjoy ❣**
+
+___
+
+### ❗ **_The steps below are for modifying the game, if you want to download the game go [here](https://github.com/DavidJoacaRo/Budget-Backrooms/releases)_** ❗
+
+___
 
 ## 📋 Minimum requirements to setup the project.
 
