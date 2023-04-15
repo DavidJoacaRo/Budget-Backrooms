@@ -1,9 +1,7 @@
 # Budget Backrooms ![alpha](https://img.shields.io/github/v/release/DavidJoacaRo/Budget-Backrooms?include_prereleases) ![test](https://img.shields.io/github/repo-size/DavidJoacaRo/Budget-Backrooms) ![dwnlds](https://img.shields.io/github/downloads/DavidJoacaRo/Budget-Backrooms/total) ![last_commit](https://img.shields.io/github/last-commit/DavidJoacaRo/Budget-Backrooms/main) [![](https://dcbadge.vercel.app/api/server/WVuTB56ag4?style=flat&theme=default-inverted)](https://discord.gg/WVuTB56ag4)
 First-time project in Unreal Engine. This is what came out, **Budget Backrooms**.
 
-Non-procedural levels, goofy ahh AI's, and stolen sounds from `freesound.org`.
-
-Appreciating if you play it, give some feedack  [here](https://forms.gle/KpLdoD4cHb7tFGoo6) and yeah, enjoy!
+Non-procedural levels, goofy ahh AI's, and stolen sounds from `freesound.org`. Appreciating if you play it, give some feedack  [here](https://forms.gle/KpLdoD4cHb7tFGoo6) and yeah, enjoy!
 
 The development and sweaty update side of this game can be found on the [Discord Server](https://discord.gg/WVuTB56ag4) (even though the server is dead).
 
