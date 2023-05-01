@@ -453,6 +453,10 @@
 			"SupportedTargetPlatforms": [
 				"Mac"
 			]
+		},
+		{
+			"Name": "Ansel",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
