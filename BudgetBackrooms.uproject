@@ -67,11 +67,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "SiriusUtilityNodes",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d5e0fa8a4b174b0a85db3697c1d53b98"
-		},
-		{
 			"Name": "HardwareData",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/b789e944afb94301a59ff8d5e88ba0a5"
@@ -382,11 +377,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "SOverlay",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/cc7ed32bbc164220b5bda680b9843745"
-		},
-		{
 			"Name": "SteamVR",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
@@ -394,11 +384,6 @@
 				"Win64",
 				"Linux"
 			]
-		},
-		{
-			"Name": "AsyncLoadingScreen",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/01f39767dc6b4290877f38365787cbf8"
 		},
 		{
 			"Name": "AndroidMoviePlayer",
