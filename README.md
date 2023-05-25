@@ -7,6 +7,30 @@ Non-procedural levels, goofy ahh AI's, and stolen sounds from `freesound.org`.
 
 Join the official game's [Discord Server](https://discord.gg/WVuTB56ag4) for support.
 
-**Enjoy ❣**
+# 📔 Features
+
+|Feature|Status|
+|---|---|
+|Memerooms| ✔
+|Hardcore| ✔
+|Debug Cheats|✔
+|Changelog|✔
+|Level 4|🛠
+|Level 1 (Hardcore)|🛠
+|More levels|🛠
+|Extend Level 2|✔
+|Better Achievements|📅
+|Better Anti-Cheat|❓
+
+
+✔ - Done
+
+🛠 - Working on it
+
+❌ - Not Working / Not Added
+
+📅 - Scheduled for future update
+
+❓ - I don't know how to implement (yet)
 
 **Even though this is open source, I would like you to NOT make mods on top of my own or claim this as your own**
