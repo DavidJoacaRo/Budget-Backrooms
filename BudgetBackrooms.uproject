@@ -443,6 +443,16 @@
 			"Name": "UltimateWindowPolice",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/46a05b6e073c4bc2ac65d62e9ae1d1d6"
+		},
+		{
+			"Name": "XsollaLogin",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/62e5cde57b564c75bc9e6dffe2dedf88"
+		},
+		{
+			"Name": "ReadWritePlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/74b9f3d768c845ad8282fd4aa0cef343"
 		}
 	],
 	"TargetPlatforms": [

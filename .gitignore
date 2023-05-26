@@ -16,7 +16,3 @@ Build/WindowsNoEditor/FileOpenOrder/CookerOpenOrder.log
 Build/WindowsNoEditor/FileOpenOrder/CookerOpenOrder.log
 Build/WindowsNoEditor/FileOpenOrder/EditorOpenOrder.log
 *.log
-Content/Maps/M_StartupMap/W_DevWarn.uasset
-Content/Widgets/DebugCheats/DevMenu.uasset
-Content/Widgets/DebugCheats/DevMenuAccess.uasset
-Content/Widgets/W_DebugInfoDIag/W_LoryModStartDev.uasset
