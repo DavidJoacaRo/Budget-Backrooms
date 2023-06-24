@@ -244,10 +244,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "EnhancedInput",
-			"Enabled": true
-		},
-		{
 			"Name": "GameFeatures",
 			"Enabled": true
 		},
@@ -462,6 +458,50 @@
 			"Name": "DetectivePlugin",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/44c95a9d27754a3cbf664b334ccc5b19"
+		},
+		{
+			"Name": "GameplayInsights",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "GraphPrinter",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/466303b6cd724968b3ee0a1a1b623f4b"
+		},
+		{
+			"Name": "LevelSnapshots",
+			"Enabled": true
+		},
+		{
+			"Name": "CodeView",
+			"Enabled": true
+		},
+		{
+			"Name": "Firebase",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Android",
+				"IOS"
+			]
+		},
+		{
+			"Name": "LensDistortion",
+			"Enabled": true
+		},
+		{
+			"Name": "Text3D",
+			"Enabled": true
+		},
+		{
+			"Name": "WinDualShock",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		}
 	],
 	"TargetPlatforms": [
