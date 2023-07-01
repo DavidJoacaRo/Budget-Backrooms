@@ -12,5 +12,4 @@ The development and sweaty update side of this game can be found on the [Discord
 **If you'd like to modify the project, the page was moved [here](https://github.com/DavidJoacaRo/Budget-Backrooms/wiki/Modding) on the Wiki.**
 
 
-# 📔 Features
-There was a to-do list here, but I moved it [here](https://debonair-roquefort-a00.notion.site/edb7d48c272949809fdd477942612e84?v=21d0a6ee219440918ecdd293aad7392a) on Notion.
+# 📔 Planned stuff for this project can be seen [here on Notion](https://dabardibid.notion.site/edb7d48c272949809fdd477942612e84?v=21d0a6ee219440918ecdd293aad7392a&pvs=4)
