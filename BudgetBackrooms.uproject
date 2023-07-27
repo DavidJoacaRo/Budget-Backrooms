@@ -508,6 +508,14 @@
 			"Name": "OptickPlugin",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/1.3.3fa1.3.3fd1.3.3f"
+		},
+		{
+			"Name": "ArchVisCharacter",
+			"Enabled": false
+		},
+		{
+			"Name": "AssetSearch",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
