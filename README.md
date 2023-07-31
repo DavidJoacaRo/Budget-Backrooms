@@ -15,7 +15,7 @@ The development and sweaty update side of this game can be found on the [Discord
 **Enjoy ❣**
 
 # 🔧 Setting up the project
-**If you'd like to modify the project, the page was moved [here in the Wiki](https://github.com/DavidJoacaRo/Budget-Backrooms/wiki/Modding) on the Wiki.**
+**If you'd like to modify the project, the page was moved [here on the Wiki](https://github.com/DavidJoacaRo/Budget-Backrooms/wiki/Modding)**
 
 
 # 📔 Planned stuff for this project can be seen [here on Notion](https://dabardibid.notion.site/edb7d48c272949809fdd477942612e84?v=21d0a6ee219440918ecdd293aad7392a&pvs=4)
