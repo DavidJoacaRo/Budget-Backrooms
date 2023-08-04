@@ -51,10 +51,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "CommonUI",
-			"Enabled": true
-		},
-		{
 			"Name": "ColorCorrectRegions",
 			"Enabled": true
 		},
@@ -172,10 +168,6 @@
 				"Android",
 				"HoloLens"
 			]
-		},
-		{
-			"Name": "OnlineFramework",
-			"Enabled": true
 		},
 		{
 			"Name": "SubversionSourceControl",
@@ -515,6 +507,22 @@
 		},
 		{
 			"Name": "AssetSearch",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemIOS",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"IOS",
+				"TVOS"
+			]
+		},
+		{
+			"Name": "CommonUI",
 			"Enabled": true
 		}
 	],
