@@ -15,16 +15,6 @@
 	],
 	"Plugins": [
 		{
-			"Name": "Substance",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
-		},
-		{
-			"Name": "DungeonGeneratorPlugin",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3ef6cc9c5400434784446008160cb5c7"
-		},
-		{
 			"Name": "Water",
 			"Enabled": true
 		},
@@ -32,11 +22,6 @@
 			"Name": "FlatNodes",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/b719437f3fb54c259b34227363df8cab"
-		},
-		{
-			"Name": "TimeClock",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6f6a4afb66af43deb946a48b78d8c80a"
 		},
 		{
 			"Name": "DisasterRecoveryClient",
@@ -63,29 +48,9 @@
 			"Enabled": true
 		},
 		{
-			"Name": "HardwareData",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/b789e944afb94301a59ff8d5e88ba0a5"
-		},
-		{
-			"Name": "TypewriterPlugin",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/5796d04c2eba4cffa4bd7df597220967"
-		},
-		{
-			"Name": "DiscordRichPresence",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/bea6edf5f297438ca3e8340702749642"
-		},
-		{
 			"Name": "AchievementSystem",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d9f6e0a8c92f47db9e2fde6080bed630"
-		},
-		{
-			"Name": "LDAssistant",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/51c5a9a0d5f84beba23aab69bed8d28c"
 		},
 		{
 			"Name": "VisualStudioTools",
@@ -428,28 +393,9 @@
 			"Enabled": true
 		},
 		{
-			"Name": "ConsoleEnhanced",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/86123c85a4474d609c5cef8a7fc5786b"
-		},
-		{
 			"Name": "UltimateWindowPolice",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/46a05b6e073c4bc2ac65d62e9ae1d1d6"
-		},
-		{
-			"Name": "FSR",
-			"Enabled": true
-		},
-		{
-			"Name": "PluginDownloader",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/b5ff499954db477eb46af6537f1f9c1b"
-		},
-		{
-			"Name": "DetectivePlugin",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/44c95a9d27754a3cbf664b334ccc5b19"
 		},
 		{
 			"Name": "GameplayInsights",
@@ -458,11 +404,6 @@
 		{
 			"Name": "GameplayAbilities",
 			"Enabled": true
-		},
-		{
-			"Name": "GraphPrinter",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/466303b6cd724968b3ee0a1a1b623f4b"
 		},
 		{
 			"Name": "CodeView",
@@ -492,16 +433,6 @@
 			]
 		},
 		{
-			"Name": "Xsolla",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e32fb866a54a4a36a2359fb7a5251b59"
-		},
-		{
-			"Name": "OptickPlugin",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/1.3.3fa1.3.3fd1.3.3f"
-		},
-		{
 			"Name": "ArchVisCharacter",
 			"Enabled": false
 		},
@@ -523,6 +454,10 @@
 		},
 		{
 			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "DiscordRpc",
 			"Enabled": true
 		}
 	],
