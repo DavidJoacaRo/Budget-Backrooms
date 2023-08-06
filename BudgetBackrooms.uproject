@@ -63,19 +63,9 @@
 			"Enabled": true
 		},
 		{
-			"Name": "HardwareData",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/b789e944afb94301a59ff8d5e88ba0a5"
-		},
-		{
 			"Name": "TypewriterPlugin",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/5796d04c2eba4cffa4bd7df597220967"
-		},
-		{
-			"Name": "DiscordRichPresence",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/bea6edf5f297438ca3e8340702749642"
 		},
 		{
 			"Name": "AchievementSystem",
@@ -523,6 +513,10 @@
 		},
 		{
 			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "DiscordRpc",
 			"Enabled": true
 		}
 	],
