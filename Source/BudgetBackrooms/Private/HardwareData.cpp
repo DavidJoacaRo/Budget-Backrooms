@@ -18,18 +18,18 @@ void UHardwareData::IsGamepadConnected(bool& IsGamepadConnected)
 
 void UHardwareData::GetCpuInformation(FHardwareData_CpuInfo& CpuInformation)
 {
-    CpuInformation.CpuBrand = FGenericPlatformMisc::GetCPUBrand();
-    CpuInformation.CpuCores = FGenericPlatformMisc::NumberOfCores();
-    CpuInformation.CpuUsage = FGenericPlatformTime::GetCPUTime().CPUTimePct;
+    CpuInformation.CpuBrand = FPlatformMisc::GetCPUBrand();
+    CpuInformation.CpuCores = FPlatformMisc::NumberOfCores();
+    CpuInformation.CpuUsage = FWindowsPlatformTime::GetCPUTime().CPUTimePct;
 }
 
 void UHardwareData::GetGpuInformation(FHardwareData_GpuInfo& GpuInformation)
 {
-    FGPUDriverInfo driverInfo = FGenericPlatformMisc::GetGPUDriverInfo(GRHIAdapterName);
+    FGPUDriverInfo driverInfo = FPlatformMisc::GetGPUDriverInfo(GRHIAdapterName);
 
-    GpuInformation.PrimaryGpuBrand = FGenericPlatformMisc::GetPrimaryGPUBrand();
+    GpuInformation.PrimaryGpuBrand = FPlatformMisc::GetPrimaryGPUBrand();
     GpuInformation.ProviderName = driverInfo.ProviderName;
     GpuInformation.DriverVersion = driverInfo.UserDriverVersion;
     GpuInformation.DriverDate = driverInfo.DriverDate;
-    GpuInformation.RHIName = driverInfo.RHIName;
+    GpuInformation.RHIName = GDynamicRHI->GetName();
 }

@@ -15,5 +15,5 @@ class BUDGETBACKROOMS_API UDiscordUtils : public UBlueprintFunctionLibrary
 	GENERATED_BODY()
 	
 	UFUNCTION(BlueprintPure, Category = "Discord Utils")
-		static void GetUnixTimestamp(int64& timestamp);
+		static void ConvertDateToUnix(FDateTime date, int64& timestamp);
 };
