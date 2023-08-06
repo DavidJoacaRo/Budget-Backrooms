@@ -20,7 +20,7 @@ void UHardwareData::GetCpuInformation(FHardwareData_CpuInfo& CpuInformation)
 {
     CpuInformation.CpuBrand = FPlatformMisc::GetCPUBrand();
     CpuInformation.CpuCores = FPlatformMisc::NumberOfCores();
-    CpuInformation.CpuUsage = FWindowsPlatformTime::GetCPUTime().CPUTimePct;
+    CpuInformation.CpuUsage = FPlatformTime::GetCPUTime().CPUTimePct;
 }
 
 void UHardwareData::GetGpuInformation(FHardwareData_GpuInfo& GpuInformation)
