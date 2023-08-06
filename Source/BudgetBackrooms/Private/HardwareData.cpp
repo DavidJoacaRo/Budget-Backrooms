@@ -1,6 +1,3 @@
-
-
-
 #include "HardwareData.h"
 
 void UHardwareData::IsGamepadConnected(bool& IsGamepadConnected)
