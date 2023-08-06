@@ -14,7 +14,7 @@ void UDiscordUtils::GetRandomString(int32 Length, FString& RandomString)
 	const FString characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	FString Result = "";
 	for (int32 i = 0; i < Length; i++) {
-		Result += characters[FMath::RandRange(0, characters.Len())];
+		Result += characters[FMath::RandRange(0, characters.Len() - 1)];
 	}
 	RandomString = Result;
 }
