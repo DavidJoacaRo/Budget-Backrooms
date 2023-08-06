@@ -5,11 +5,7 @@ void UHardwareData::IsGamepadConnected(bool& IsGamepadConnected)
 
     auto genericApplication = FSlateApplication::Get().GetPlatformApplication();
     
-    if (genericApplication.Get() != nullptr && genericApplication->IsGamepadAttached())
-    {
-        IsGamepadConnected = true;
-    }
-    IsGamepadConnected = false;
+    IsGamepadConnected = genericApplication.Get() != nullptr && genericApplication->IsGamepadAttached();
 }
 
 
