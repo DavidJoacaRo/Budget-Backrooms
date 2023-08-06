@@ -14,4 +14,7 @@ class BUDGETBACKROOMS_API UDiscordUtils : public UBlueprintFunctionLibrary
 	
 	UFUNCTION(BlueprintPure, Category = "Discord Utils")
 		static void ConvertDateToUnix(FDateTime date, int64& timestamp);
+
+	UFUNCTION(BlueprintPure, Category = "Discord Utils")
+		static void GetRandomString(int32 Length, FString& RandomString);
 };
