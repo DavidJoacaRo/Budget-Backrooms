@@ -11,7 +11,7 @@
 
 First-time project in Unreal Engine 4. This is what came out, **Budget Backrooms**.
 
-Non-procedural levels, goofy ahh AI's, and stolen sounds from `freesound.org`. Appreciating if you play it, give some feedback  [here](https://forms.gle/KpLdoD4cHb7tFGoo6) and yeah, enjoy!
+Non-procedural levels, goofy ahh AI's, and stolen sounds from `freesound.org`. I would appreciate it if you play it, give some feedback  [here](https://forms.gle/KpLdoD4cHb7tFGoo6) and yeah, enjoy!
 
 The development and sweaty update side of this game can be found on the [Discord Server](https://discord.gg/WVuTB56ag4) (even though the server is dead).
 
@@ -21,4 +21,4 @@ The development and sweaty update side of this game can be found on the [Discord
 **If you'd like to modify the project, the page was moved [here on the Wiki](https://github.com/DavidJoacaRo/Budget-Backrooms/wiki/Modding)**
 
 
-# 📔 Planned stuff for this project can be seen [here on Notion](https://dabardibid.notion.site/edb7d48c272949809fdd477942612e84?v=21d0a6ee219440918ecdd293aad7392a&pvs=4)
+# 📔 Roadmap can be found [here on Notion](https://dabardibid.notion.site/edb7d48c272949809fdd477942612e84?v=21d0a6ee219440918ecdd293aad7392a&pvs=4)
