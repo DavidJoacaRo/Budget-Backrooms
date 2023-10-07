@@ -540,6 +540,10 @@
 		{
 			"Name": "EnhancedInput",
 			"Enabled": true
+		},
+		{
+			"Name": "WindowsDialogBox",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
