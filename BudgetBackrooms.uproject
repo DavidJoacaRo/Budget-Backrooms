@@ -543,7 +543,7 @@
 		},
 		{
 			"Name": "WindowsDialogBox",
-			"Enabled": true
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
