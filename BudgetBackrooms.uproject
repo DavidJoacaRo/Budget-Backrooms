@@ -379,10 +379,6 @@
 			]
 		},
 		{
-			"Name": "AndroidPermission",
-			"Enabled": false
-		},
-		{
 			"Name": "MovieRenderPipeline",
 			"Enabled": true
 		},
