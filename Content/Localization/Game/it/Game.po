@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-07-31 17:00\n"
-"PO-Revision-Date: 2023-07-31 17:00\n"
+"POT-Creation-Date: 2023-12-16 12:23\n"
+"PO-Revision-Date: 2023-12-16 12:23\n"
 "Language-Team: \n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -13,39 +13,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#. Key:	0053BAD7403EFC89F1899ABF6BDB737F
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_27.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_27.Text
-msgctxt ",0053BAD7403EFC89F1899ABF6BDB737F"
-msgid "Medium"
-msgstr ""
-
-#. Key:	02ED8B414F72956E478E5F837A952E5C
-#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_0.Text
-#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_0.Text
-msgctxt ",02ED8B414F72956E478E5F837A952E5C"
-msgid "Gamemodes"
-msgstr ""
-
-#. Key:	03D03AC3456F968B0351B3AD3F092FCB
-#. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_4.Text
-#: /Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_4.Text
-msgctxt ",03D03AC3456F968B0351B3AD3F092FCB"
-msgid "(anniversary edition, happy one year :DDD)"
-msgstr ""
-
-#. Key:	03EDA3DD4B9F6D070C0A4B9FD328A778
-#. SourceLocation:	/Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock_0.Text
-#: /Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock_0.Text
-msgctxt ",03EDA3DD4B9F6D070C0A4B9FD328A778"
-msgid "Screw you,\r\nnext page please!"
-msgstr ""
-
-#. Key:	0654F931446D23D278D621B308E0B793
-#. SourceLocation:	/Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.TextBlock_85.Text
-#: /Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.TextBlock_85.Text
-msgctxt ",0654F931446D23D278D621B308E0B793"
-msgid "You are now in Debug Mode"
+#. Key:	0403F8384DD243BA5DFA23A34DF7291E
+#. SourceLocation:	/Game/Widgets/W_DelDiag/W_DelDiag.W_DelDiag_C:ExecuteUbergraph_W_DelDiag [Script Bytecode]
+#: /Game/Widgets/W_DelDiag/W_DelDiag.W_DelDiag_C:ExecuteUbergraph_W_DelDiag [Script Bytecode]
+msgctxt ",0403F8384DD243BA5DFA23A34DF7291E"
+msgid "Yes"
 msgstr ""
 
 #. Key:	066AAD0F432400DE433D138705B00951
@@ -55,60 +27,25 @@ msgctxt ",066AAD0F432400DE433D138705B00951"
 msgid "fffffffffffuck you david"
 msgstr ""
 
-#. Key:	0679E35B41D4DB9FFD3DE696BA0FE614
-#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_145.Text
-#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_145.Text
-msgctxt ",0679E35B41D4DB9FFD3DE696BA0FE614"
-msgid "M_LV_Poolrooms"
+#. Key:	06FA728F4F2B8EE3F171C99EB7B5A3F7
+#. SourceLocation:	/Game/Widgets/W_Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_22.Text
+#: /Game/Widgets/W_Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_22.Text
+msgctxt ",06FA728F4F2B8EE3F171C99EB7B5A3F7"
+msgid "RUN!"
 msgstr ""
 
-#. Key:	0701FF224FCC7FB43105F5991CE5A49D
-#. SourceLocation:	/Game/Widgets/W_PauseMenu/W_GraphicMenuPause.W_GraphicMenuPause_C:WidgetTree.TextBlock_4.Text
-#: /Game/Widgets/W_PauseMenu/W_GraphicMenuPause.W_GraphicMenuPause_C:WidgetTree.TextBlock_4.Text
-msgctxt ",0701FF224FCC7FB43105F5991CE5A49D"
-msgid "AMD FidelityFX Super Resolution 1.0"
+#. Key:	0B63AE0B4768A30314B307AB9675F418
+#. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_1.Text
+#: /Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_1.Text
+msgctxt ",0B63AE0B4768A30314B307AB9675F418"
+msgid "Budget\r\nBackrooms"
 msgstr ""
 
-#. Key:	0A691E8D442A81EFA42BA89079D7C4B5
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_3.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_3.Text
-msgctxt ",0A691E8D442A81EFA42BA89079D7C4B5"
-msgid "70"
-msgstr ""
-
-#. Key:	0B7DDA3842BA8BFA910D6E9689ED727D
-#. SourceLocation:	/Game/Widgets/W_PauseMenu/ControlsWidget.ControlsWidget_C:WidgetTree.TextBlock_2.Text
-#: /Game/Widgets/W_PauseMenu/ControlsWidget.ControlsWidget_C:WidgetTree.TextBlock_2.Text
-msgctxt ",0B7DDA3842BA8BFA910D6E9689ED727D"
-msgid "` - Unreal Engine Console \r\n; - Debug Camera\r\n' - AI Debug Mode\r\nTAB (while in Unused Level Gamemode) - Hardware Information"
-msgstr ""
-
-#. Key:	0D6FBE174AB25C5709BA75926C4EC1D0
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock.Text
-msgctxt ",0D6FBE174AB25C5709BA75926C4EC1D0"
-msgid "1"
-msgstr ""
-
-#. Key:	0F6405C0448812A5F6176C8BA3DE4DEE
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_2.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_2.Text
-msgctxt ",0F6405C0448812A5F6176C8BA3DE4DEE"
-msgid "50"
-msgstr ""
-
-#. Key:	0FB492D640956B7645C9F692F177F9A7
-#. SourceLocation:	/Game/Widgets/W_NotifyTest/W_NotifyHUD_C5.W_NotifyHUD_C5_C:WidgetTree.TextBlock_0.Text
-#: /Game/Widgets/W_NotifyTest/W_NotifyHUD_C5.W_NotifyHUD_C5_C:WidgetTree.TextBlock_0.Text
-msgctxt ",0FB492D640956B7645C9F692F177F9A7"
-msgid "Survival Difficulty: Class 5"
-msgstr ""
-
-#. Key:	0FC51F684049CF980DE208A2533B7093
-#. SourceLocation:	/Game/Widgets/W_NotifyTest/W_NotifyHUD_C1.W_NotifyHUD_C1_C:WidgetTree.TextBlock_2.Text
-#: /Game/Widgets/W_NotifyTest/W_NotifyHUD_C1.W_NotifyHUD_C1_C:WidgetTree.TextBlock_2.Text
-msgctxt ",0FC51F684049CF980DE208A2533B7093"
-msgid "》Secure\r\n》Minimal Entity Count"
+#. Key:	0CC0EA584CE4691B97BD4B81C5A6EEE8
+#. SourceLocation:	/Game/Widgets/W_Animations/W_Safezone.W_Safezone_C:WidgetTree.TextBlock_1.Text
+#: /Game/Widgets/W_Animations/W_Safezone.W_Safezone_C:WidgetTree.TextBlock_1.Text
+msgctxt ",0CC0EA584CE4691B97BD4B81C5A6EEE8"
+msgid "Now entering..."
 msgstr ""
 
 #. Key:	103FC79D4420074F4D9EB88997EB5674
@@ -118,18 +55,18 @@ msgctxt ",103FC79D4420074F4D9EB88997EB5674"
 msgid "Looks like you've disabled Anti-Aliasing and having FidelityFX enabled at the same time. I don't wanna stress you bud but the quality is gonna look worse so I'd recommend you atleast try to keep Anti-Aliasing on low. Just sayin'"
 msgstr ""
 
+#. Key:	10B56E324DD535C86DE171AA03A1DD95
+#. SourceLocation:	/Game/Widgets/W_Warn/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock.Text
+#: /Game/Widgets/W_Warn/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock.Text
+msgctxt ",10B56E324DD535C86DE171AA03A1DD95"
+msgid "The game is experiencing slow performance. To improve, adjust graphical settings in the Pause Menu."
+msgstr ""
+
 #. Key:	11725C93458C388566C2158F453178A4
 #. SourceLocation:	/Game/Widgets/W_LoadingScreen/W_Memerooms_Loading.W_Memerooms_Loading_C:WidgetTree.small_text.Text
 #: /Game/Widgets/W_LoadingScreen/W_Memerooms_Loading.W_Memerooms_Loading_C:WidgetTree.small_text.Text
 msgctxt ",11725C93458C388566C2158F453178A4"
-msgid "You're now going to..."
-msgstr ""
-
-#. Key:	11ACA0D04530BCA72C3768B9C083A316
-#. SourceLocation:	/Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.TextBlock_2.Text
-#: /Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.TextBlock_2.Text
-msgctxt ",11ACA0D04530BCA72C3768B9C083A316"
-msgid "Resume"
+msgid "Now no-clipping to..."
 msgstr ""
 
 #. Key:	1360B1DC44A90F1FE3597A80039A1D62
@@ -139,51 +76,9 @@ msgctxt ",1360B1DC44A90F1FE3597A80039A1D62"
 msgid "RUN!"
 msgstr ""
 
-#. Key:	13BBB4A94D31711682888093EBD5364D
-#. SourceLocation:	/Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.TextBlock_1.Text
-#: /Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.TextBlock_1.Text
-msgctxt ",13BBB4A94D31711682888093EBD5364D"
-msgid "Quit to main menu"
-msgstr ""
-
-#. Key:	13EDF007496408D5C4B0779E768906F7
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_19.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_19.Text
-msgctxt ",13EDF007496408D5C4B0779E768906F7"
-msgid "Epic"
-msgstr ""
-
-#. Key:	1470CFD644BF23B35DE3ECAD2D16CDD0
-#. SourceLocation:	/Game/Widgets/W_DebugInfoDIag/W_DebugInfoDiag.W_DebugInfoDiag_C:WidgetTree.TextBlock_0.Text
-#: /Game/Widgets/W_DebugInfoDIag/W_DebugInfoDiag.W_DebugInfoDiag_C:WidgetTree.TextBlock_0.Text
-msgctxt ",1470CFD644BF23B35DE3ECAD2D16CDD0"
-msgid "Debug Mode it's a flashy name meaning that you are in a incompleted level with cheat access, noclip, speed and more stuff to come!"
-msgstr ""
-
-#. Key:	155F7E6C488B71EF11190F9715134915
-#. SourceLocation:	/Game/Widgets/FadeIn.FadeIn_C:WidgetTree.TextBlock_0.Text
-#: /Game/Widgets/FadeIn.FadeIn_C:WidgetTree.TextBlock_0.Text
-msgctxt ",155F7E6C488B71EF11190F9715134915"
-msgid "Loading..."
-msgstr ""
-
-#. Key:	15F7348B421CC7270EEEDC99116E1AD0
-#. SourceLocation:	/Game/Widgets/W_DebV2.W_DebV2_C:ExecuteUbergraph_W_DebV2 [Script Bytecode]
-#: /Game/Widgets/W_DebV2.W_DebV2_C:ExecuteUbergraph_W_DebV2 [Script Bytecode]
-msgctxt ",15F7348B421CC7270EEEDC99116E1AD0"
-msgid "Provider: {0}"
-msgstr ""
-
-#. Key:	160210AF4EEB4429CA6D9284B6B8E6E7
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_17.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_17.Text
-msgctxt ",160210AF4EEB4429CA6D9284B6B8E6E7"
-msgid "Medium"
-msgstr ""
-
 #. Key:	1661FE164B80B233E848B987B6E34D1D
-#. SourceLocation:	/Game/Widgets/W_Tooltips/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
-#: /Game/Widgets/W_Tooltips/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
+#. SourceLocation:	/Game/Widgets/W_Warn/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
+#: /Game/Widgets/W_Warn/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
 msgctxt ",1661FE164B80B233E848B987B6E34D1D"
 msgid "This feels off..."
 msgstr ""
@@ -195,25 +90,11 @@ msgctxt ",18091DCB4D286220E2E78894815EBE8E"
 msgid "Texture Quality"
 msgstr ""
 
-#. Key:	18DDA6CD4BF818C4D623FDA9428B4923
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_12.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_12.Text
-msgctxt ",18DDA6CD4BF818C4D623FDA9428B4923"
-msgid "OFF"
-msgstr ""
-
 #. Key:	18E514F044D4715BA8EBFFB6ED251459
 #. SourceLocation:	/Game/Widgets/W_Prohibited/W_PhbitedMemerooms.W_PhbitedMemerooms_C:WidgetTree.TextBlock_1.Text
 #: /Game/Widgets/W_Prohibited/W_PhbitedMemerooms.W_PhbitedMemerooms_C:WidgetTree.TextBlock_1.Text
 msgctxt ",18E514F044D4715BA8EBFFB6ED251459"
-msgid "F in chat"
-msgstr ""
-
-#. Key:	1A1A11964F681A715F97C8BB6C1D9353
-#. SourceLocation:	/Game/Widgets/W_NotifyTest/W_NotifyHUD_C1.W_NotifyHUD_C1_C:WidgetTree.TextBlock_0.Text
-#: /Game/Widgets/W_NotifyTest/W_NotifyHUD_C1.W_NotifyHUD_C1_C:WidgetTree.TextBlock_0.Text
-msgctxt ",1A1A11964F681A715F97C8BB6C1D9353"
-msgid "Survival Difficulty: Class 1"
+msgid "Fuck you David"
 msgstr ""
 
 #. Key:	1A8C72D646BF429E378787BD0809460E
@@ -230,53 +111,11 @@ msgctxt ",1B06C0A4487BC5E56FEDA5AC4C1F499B"
 msgid "Video\r\nSettings"
 msgstr ""
 
-#. Key:	1B1517E04E48B86F751327B8E9C22F57
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_24.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_24.Text
-msgctxt ",1B1517E04E48B86F751327B8E9C22F57"
-msgid "High"
-msgstr ""
-
-#. Key:	1B4B26D64E01DAA65F0FEEBF2E78A815
-#. SourceLocation:	/Game/Widgets/W_PauseMenu/ControlsWidget.ControlsWidget_C:WidgetTree.TextBlock_1.Text
-#: /Game/Widgets/W_PauseMenu/ControlsWidget.ControlsWidget_C:WidgetTree.TextBlock_1.Text
-msgctxt ",1B4B26D64E01DAA65F0FEEBF2E78A815"
-msgid "WASD - Move around\r\nE - Interact\r\nF - Flashlight\r\nC - Zoom\r\nLCTRL (Left CTRL) - Peek behind the player."
-msgstr ""
-
-#. Key:	1B82E1BC48429D775318C59746861EF0
-#. SourceLocation:	/Game/Widgets/W_PauseMenu/W_GraphicMenuPause.W_GraphicMenuPause_C:WidgetTree.TextBlock_21.Text
-#: /Game/Widgets/W_PauseMenu/W_GraphicMenuPause.W_GraphicMenuPause_C:WidgetTree.TextBlock_21.Text
-msgctxt ",1B82E1BC48429D775318C59746861EF0"
-msgid "Anti-Aliasing"
-msgstr ""
-
-#. Key:	1DCDB004433D82562E043DACA46C1074
-#. SourceLocation:	/Game/Widgets/W_DebugInfoDIag/W_DebugInfoDiag.W_DebugInfoDiag_C:WidgetTree.TextBlock_2.Text
-#: /Game/Widgets/W_DebugInfoDIag/W_DebugInfoDiag.W_DebugInfoDiag_C:WidgetTree.TextBlock_2.Text
-msgctxt ",1DCDB004433D82562E043DACA46C1074"
-msgid "Got it"
-msgstr ""
-
-#. Key:	1E9FD9D041B937843676FF86A328D307
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_15.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_15.Text
-msgctxt ",1E9FD9D041B937843676FF86A328D307"
-msgid "Texture Quality"
-msgstr ""
-
-#. Key:	1ED2D8BD44C22FD45626AEA72FFD5C3F
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_6.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_6.Text
-msgctxt ",1ED2D8BD44C22FD45626AEA72FFD5C3F"
-msgid "100"
-msgstr ""
-
-#. Key:	1EFDEC5A42DC562759690F81ABD956A9
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_22.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_22.Text
-msgctxt ",1EFDEC5A42DC562759690F81ABD956A9"
-msgid "Low"
+#. Key:	1D7C9D3144D722EB7C783BB328182A4F
+#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock.Text
+#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock.Text
+msgctxt ",1D7C9D3144D722EB7C783BB328182A4F"
+msgid "Depth of Field"
 msgstr ""
 
 #. Key:	1FC10EE84C7B7F2CEEF21F8FE74EE42D
@@ -293,27 +132,6 @@ msgctxt ",20F3970145DD796217DD6296535FAC1F"
 msgid "Gamemode unavailable yet.\r\n:("
 msgstr ""
 
-#. Key:	217C385543A60640166F338EA3875D40
-#. SourceLocation:	/Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_0.Text
-#: /Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_0.Text
-msgctxt ",217C385543A60640166F338EA3875D40"
-msgid "Continue"
-msgstr ""
-
-#. Key:	21A2B40F4B8001EC6801CBA16189AD55
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_15.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_15.Text
-msgctxt ",21A2B40F4B8001EC6801CBA16189AD55"
-msgid "Texture Quality"
-msgstr ""
-
-#. Key:	21DF064240F0224012AE0FA1DBF6876F
-#. SourceLocation:	/Game/Widgets/W_DebV2.W_DebV2_C:WidgetTree.cpu_name.Text
-#: /Game/Widgets/W_DebV2.W_DebV2_C:WidgetTree.cpu_name.Text
-msgctxt ",21DF064240F0224012AE0FA1DBF6876F"
-msgid "CPU Name"
-msgstr ""
-
 #. Key:	22421B744A7B577C3C6BC0856297430A
 #. SourceLocation:	/Game/Widgets/W_AudioSettings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_4.Text
 #: /Game/Widgets/W_AudioSettings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_4.Text
@@ -321,25 +139,11 @@ msgctxt ",22421B744A7B577C3C6BC0856297430A"
 msgid "Audio Settings"
 msgstr ""
 
-#. Key:	233E9C724DDE9D6B268736A62435A123
-#. SourceLocation:	/Game/Widgets/W_Tooltips/Empty_TT.Empty_TT_C:WidgetTree.TextBlock_0.Text
-#: /Game/Widgets/W_Tooltips/Empty_TT.Empty_TT_C:WidgetTree.TextBlock_0.Text
-msgctxt ",233E9C724DDE9D6B268736A62435A123"
-msgid "//TEXT HERE//"
-msgstr ""
-
-#. Key:	240F5E7C40B89C68C790F9A70E287937
-#. SourceLocation:	/Game/Widgets/W_PauseMenu/W_GraphicMenuPause.W_GraphicMenuPause_C:WidgetTree.TextBlock_15.Text
-#: /Game/Widgets/W_PauseMenu/W_GraphicMenuPause.W_GraphicMenuPause_C:WidgetTree.TextBlock_15.Text
-msgctxt ",240F5E7C40B89C68C790F9A70E287937"
-msgid "Texture Quality"
-msgstr ""
-
-#. Key:	256064344289478637DF8AA0DA120257
-#. SourceLocation:	/Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_1.Text
-#: /Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_1.Text
-msgctxt ",256064344289478637DF8AA0DA120257"
-msgid "Well.. I guess that's it for now.\r\nYou've reached the end of this version, feel free to explore more, quit, or do whatever you want.\r\n\r\nThank you for playing the game, and perhaps fill out that survey form because apparently, your opinion matters."
+#. Key:	24783675495A29482773CA8614B460EA
+#. SourceLocation:	/Game/Widgets/W_GeneralSettings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_3.Text
+#: /Game/Widgets/W_GeneralSettings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_3.Text
+msgctxt ",24783675495A29482773CA8614B460EA"
+msgid "View Bobbing Intensity"
 msgstr ""
 
 #. Key:	26996A5E4A32E19E39F6D68E2DDADBC2
@@ -349,46 +153,11 @@ msgctxt ",26996A5E4A32E19E39F6D68E2DDADBC2"
 msgid "Shadow Quality"
 msgstr ""
 
-#. Key:	26D5052948A78752C42D6B8D528D1E48
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_24.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_24.Text
-msgctxt ",26D5052948A78752C42D6B8D528D1E48"
-msgid "High"
-msgstr ""
-
-#. Key:	27337F674135211D9C6ADDA28BBB9FC5
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_0.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_0.Text
-msgctxt ",27337F674135211D9C6ADDA28BBB9FC5"
-msgid "Return to settings menu"
-msgstr ""
-
-#. Key:	28F137F94709AE7DCCE3F698B8CAA4C2
-#. SourceLocation:	/Game/Widgets/W_LVRunEscape/W_LVRunEscape.W_LVRunEscape_C:WidgetTree.tip1.Text
-#: /Game/Widgets/W_LVRunEscape/W_LVRunEscape.W_LVRunEscape_C:WidgetTree.tip1.Text
-msgctxt ",28F137F94709AE7DCCE3F698B8CAA4C2"
-msgid "Tip 1: You will have to run through\r\nthe hallway desperately trying\r\nto find an exit"
-msgstr ""
-
-#. Key:	2A1B5DED49C6C258E7F3AC81A0B422F1
-#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock.Text
-#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock.Text
-msgctxt ",2A1B5DED49C6C258E7F3AC81A0B422F1"
-msgid "Classic"
-msgstr ""
-
 #. Key:	2A667FE6424C23DC22B3E782EB5B54FF
 #. SourceLocation:	/Game/Widgets/W_DelDiag/W_DelDiag.W_DelDiag_C:WidgetTree.TextBlock_1.Text
 #: /Game/Widgets/W_DelDiag/W_DelDiag.W_DelDiag_C:WidgetTree.TextBlock_1.Text
 msgctxt ",2A667FE6424C23DC22B3E782EB5B54FF"
 msgid "Yes"
-msgstr ""
-
-#. Key:	2A92293E4560C3EE6AD404AB625FAA4E
-#. SourceLocation:	/Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_3.Text
-#: /Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_3.Text
-msgctxt ",2A92293E4560C3EE6AD404AB625FAA4E"
-msgid "Restart\r\nlevel"
 msgstr ""
 
 #. Key:	2B4B6E584CE52C960934C99609E07362
@@ -426,53 +195,11 @@ msgctxt ",2CFCBAB74BC8CAE59F7F29BFDA2D55AD"
 msgid "You're about to delete the following:"
 msgstr ""
 
-#. Key:	2D55C0D145B320683394F89C43E832BA
-#. SourceLocation:	/Game/Widgets/W_DebV2.W_DebV2_C:WidgetTree.TextBlock.Text
-#: /Game/Widgets/W_DebV2.W_DebV2_C:WidgetTree.TextBlock.Text
-msgctxt ",2D55C0D145B320683394F89C43E832BA"
-msgid "-"
-msgstr ""
-
-#. Key:	2F64692A4A7D9BA01D602ABBEDE5ECF6
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_9.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_9.Text
-msgctxt ",2F64692A4A7D9BA01D602ABBEDE5ECF6"
-msgid "ON"
-msgstr ""
-
 #. Key:	304E7B6A452E76A3FD98B3814DD0470E
 #. SourceLocation:	/Game/Widgets/W_CornerReminder/W_CornerReminder.W_CornerReminder_C:WidgetTree.name.Text
 #: /Game/Widgets/W_CornerReminder/W_CornerReminder.W_CornerReminder_C:WidgetTree.name.Text
 msgctxt ",304E7B6A452E76A3FD98B3814DD0470E"
 msgid "Level 0"
-msgstr ""
-
-#. Key:	30D599064429BFA2A5D4BF9A48E02CBB
-#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_10.Text
-#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_10.Text
-msgctxt ",30D599064429BFA2A5D4BF9A48E02CBB"
-msgid "M_Intro"
-msgstr ""
-
-#. Key:	312414C04ED11D3EAB9AD699CF249B6D
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_21.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_21.Text
-msgctxt ",312414C04ED11D3EAB9AD699CF249B6D"
-msgid "Anti-Aliasing"
-msgstr ""
-
-#. Key:	3228D2FB41A23EEF4B2734BBF9AE89C1
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_9.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_9.Text
-msgctxt ",3228D2FB41A23EEF4B2734BBF9AE89C1"
-msgid "ON"
-msgstr ""
-
-#. Key:	3233E74049BD2321CEB245B38FDB54FD
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_34.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_34.Text
-msgctxt ",3233E74049BD2321CEB245B38FDB54FD"
-msgid "Epic"
 msgstr ""
 
 #. Key:	323A35494C506FDA98B5E2B47C5525F6
@@ -493,28 +220,21 @@ msgstr ""
 #. SourceLocation:	/Game/Widgets/W_DelDiag/W_DelAnim.W_DelAnim_C:ExecuteUbergraph_W_DelAnim [Script Bytecode]
 #: /Game/Widgets/W_DelDiag/W_DelAnim.W_DelAnim_C:ExecuteUbergraph_W_DelAnim [Script Bytecode]
 msgctxt ",342155674A8565ECE8C5DBBCAB476EB8"
-msgid "Resetting player completions..."
-msgstr ""
-
-#. Key:	34229AB4455D9871A5D828B537C81629
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_12.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_12.Text
-msgctxt ",34229AB4455D9871A5D828B537C81629"
-msgid "OFF"
-msgstr ""
-
-#. Key:	34488032495C19E1610159A2DBFD4769
-#. SourceLocation:	/Game/Widgets/W_LVRunEscape/W_LVRunEscape.W_LVRunEscape_C:WidgetTree.tip2.Text
-#: /Game/Widgets/W_LVRunEscape/W_LVRunEscape.W_LVRunEscape_C:WidgetTree.tip2.Text
-msgctxt ",34488032495C19E1610159A2DBFD4769"
-msgid "Tip 2: At the same time you are chased"
+msgid "Wiping player data..."
 msgstr ""
 
 #. Key:	34CF8B3946D39E4BF4D31283A09C40FC
-#. SourceLocation:	/Game/Widgets/W_Tooltips/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
-#: /Game/Widgets/W_Tooltips/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
+#. SourceLocation:	/Game/Widgets/W_Warn/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
+#: /Game/Widgets/W_Warn/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
 msgctxt ",34CF8B3946D39E4BF4D31283A09C40FC"
 msgid "Why am I doing this?"
+msgstr ""
+
+#. Key:	34D6F70A4EBED7126302998F3F013140
+#. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn_old.W_Respawn_old_C:WidgetTree.Tip.Text
+#: /Game/Widgets/W_Respawn/W_Respawn_old.W_Respawn_old_C:WidgetTree.Tip.Text
+msgctxt ",34D6F70A4EBED7126302998F3F013140"
+msgid "Tip: Smilers hate light."
 msgstr ""
 
 #. Key:	353340D64CB689BB3301CCA38FFFE543
@@ -525,45 +245,10 @@ msgid "Option disabled, please set \"Anti-Aliasing\" to Low or better."
 msgstr ""
 
 #. Key:	35D2913A43EC7C20C9AB329DD1532965
-#. SourceLocation:	/Game/Widgets/W_Tooltips/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
-#: /Game/Widgets/W_Tooltips/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
+#. SourceLocation:	/Game/Widgets/W_Warn/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
+#: /Game/Widgets/W_Warn/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
 msgctxt ",35D2913A43EC7C20C9AB329DD1532965"
 msgid "This looks risky.."
-msgstr ""
-
-#. Key:	3650C407465DD500D03123838D9AB811
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_10.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_10.Text
-msgctxt ",3650C407465DD500D03123838D9AB811"
-msgid "OFF"
-msgstr ""
-
-#. Key:	3774E15F44F6970EF7CF1DBED8B4D06C
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_26.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_26.Text
-msgctxt ",3774E15F44F6970EF7CF1DBED8B4D06C"
-msgid "Low"
-msgstr ""
-
-#. Key:	38ACD9C44B611623E70B86AEFC573734
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_8.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_8.Text
-msgctxt ",38ACD9C44B611623E70B86AEFC573734"
-msgid "VSync"
-msgstr ""
-
-#. Key:	398320C1454C06B821D9CCA0EB17BD10
-#. SourceLocation:	/Game/Widgets/W_EasterEgg1/EasterEgg1.EasterEgg1_C:WidgetTree.TextBlock_3.Text
-#: /Game/Widgets/W_EasterEgg1/EasterEgg1.EasterEgg1_C:WidgetTree.TextBlock_3.Text
-msgctxt ",398320C1454C06B821D9CCA0EB17BD10"
-msgid "More info"
-msgstr ""
-
-#. Key:	3C5F80AA4DBB9A53AF77929A40897E0E
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_7.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_7.Text
-msgctxt ",3C5F80AA4DBB9A53AF77929A40897E0E"
-msgid "40"
 msgstr ""
 
 #. Key:	3CD57F374BF1D50078E5C8BDA6A31D21
@@ -573,37 +258,16 @@ msgctxt ",3CD57F374BF1D50078E5C8BDA6A31D21"
 msgid "Return"
 msgstr ""
 
-#. Key:	3D92C0F647D2FD91B3B563A3A76DF4CD
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_31.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_31.Text
-msgctxt ",3D92C0F647D2FD91B3B563A3A76DF4CD"
-msgid "Low"
-msgstr ""
-
 #. Key:	3D9AF7624CA02E7CD2A5EEADC42E13A9
-#. SourceLocation:	/Game/Widgets/W_Tooltips/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
-#: /Game/Widgets/W_Tooltips/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
+#. SourceLocation:	/Game/Widgets/W_Warn/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
+#: /Game/Widgets/W_Warn/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
 msgctxt ",3D9AF7624CA02E7CD2A5EEADC42E13A9"
 msgid "I should restore the power first."
 msgstr ""
 
-#. Key:	3E7342D54325338AEEA2C382E9616FB5
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_4.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_4.Text
-msgctxt ",3E7342D54325338AEEA2C382E9616FB5"
-msgid "80"
-msgstr ""
-
-#. Key:	3E74717B48AB7890557234A27263C4BF
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_22.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_22.Text
-msgctxt ",3E74717B48AB7890557234A27263C4BF"
-msgid "Low"
-msgstr ""
-
 #. Key:	3F43F82C44FEAEC5C700589CBF034E2A
-#. SourceLocation:	/Game/Widgets/W_Tooltips/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
-#: /Game/Widgets/W_Tooltips/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
+#. SourceLocation:	/Game/Widgets/W_Warn/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
+#: /Game/Widgets/W_Warn/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
 msgctxt ",3F43F82C44FEAEC5C700589CBF034E2A"
 msgid "I don't have a good feeling, perhaps I should head the other way."
 msgstr ""
@@ -615,116 +279,18 @@ msgctxt ",3F60C01D4F018D823832059D48173F0B"
 msgid "Miscellaneous\r\nSettings"
 msgstr ""
 
-#. Key:	3FAA8C7F462855B6475311B01F73244F
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_12.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_12.Text
-msgctxt ",3FAA8C7F462855B6475311B01F73244F"
-msgid "OFF"
+#. Key:	408D53B240A142C80EA98BA1D3DB02C6
+#. SourceLocation:	/Game/Widgets/W_Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_2.Text
+#: /Game/Widgets/W_Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_2.Text
+msgctxt ",408D53B240A142C80EA98BA1D3DB02C6"
+msgid "RUN!"
 msgstr ""
 
-#. Key:	40056F1640D052E79C64A78B118449C6
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_0.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_0.Text
-msgctxt ",40056F1640D052E79C64A78B118449C6"
-msgid "Return to settings menu"
-msgstr ""
-
-#. Key:	4231363F4C8A15224C23088B30F7F1F2
-#. SourceLocation:	/Game/Widgets/W_PauseMenu/W_GraphicMenuPause.W_GraphicMenuPause_C:WidgetTree.BRUv.Text
-#: /Game/Widgets/W_PauseMenu/W_GraphicMenuPause.W_GraphicMenuPause_C:WidgetTree.BRUv.Text
-msgctxt ",4231363F4C8A15224C23088B30F7F1F2"
-msgid "Show FPS statistics"
-msgstr ""
-
-#. Key:	428A6E0948BEB6726F61E4B83BCA6A0C
-#. SourceLocation:	/Game/Widgets/W_PauseMenu/W_GraphicMenuPause.W_GraphicMenuPause_C:WidgetTree.TextBlock_13.Text
-#: /Game/Widgets/W_PauseMenu/W_GraphicMenuPause.W_GraphicMenuPause_C:WidgetTree.TextBlock_13.Text
-msgctxt ",428A6E0948BEB6726F61E4B83BCA6A0C"
-msgid "Shadow Quality"
-msgstr ""
-
-#. Key:	42EF03EC49619C8137231DAF8B440190
-#. SourceLocation:	/Game/Widgets/W_PauseMenu/W_GraphicMenuPause.W_GraphicMenuPause_C:WidgetTree.fsr_warn.Text
-#: /Game/Widgets/W_PauseMenu/W_GraphicMenuPause.W_GraphicMenuPause_C:WidgetTree.fsr_warn.Text
-msgctxt ",42EF03EC49619C8137231DAF8B440190"
-msgid "Option disabled, please set \"Anti-Aliasing\" to Low or better."
-msgstr ""
-
-#. Key:	43480B9F4BA0262AB8E4999B7DD8999C
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_34.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_34.Text
-msgctxt ",43480B9F4BA0262AB8E4999B7DD8999C"
-msgid "Epic"
-msgstr ""
-
-#. Key:	434C0ECD4256157896A6B4A4BA0E3022
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_28.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_28.Text
-msgctxt ",434C0ECD4256157896A6B4A4BA0E3022"
-msgid "High"
-msgstr ""
-
-#. Key:	4404D33E4D37396AB7411FAFE8E4204B
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_28.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_28.Text
-msgctxt ",4404D33E4D37396AB7411FAFE8E4204B"
-msgid "High"
-msgstr ""
-
-#. Key:	4473CF2F4B15CD7814ED0EAF56DC4ABB
-#. SourceLocation:	/Game/Widgets/W_NotifyTest/W_NotifyHUD_C5.W_NotifyHUD_C5_C:WidgetTree.TextBlock_2.Text
-#: /Game/Widgets/W_NotifyTest/W_NotifyHUD_C5.W_NotifyHUD_C5_C:WidgetTree.TextBlock_2.Text
-msgctxt ",4473CF2F4B15CD7814ED0EAF56DC4ABB"
-msgid "Unknown area, no data available."
-msgstr ""
-
-#. Key:	452A54B94501F1E6A90C08B92F0E7134
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_14.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_14.Text
-msgctxt ",452A54B94501F1E6A90C08B92F0E7134"
-msgid "ON"
-msgstr ""
-
-#. Key:	46186C3E401836D1E18FE08F9D46B2E5
-#. SourceLocation:	/Game/Widgets/W_DebV2.W_DebV2_C:ExecuteUbergraph_W_DebV2 [Script Bytecode]
-#: /Game/Widgets/W_DebV2.W_DebV2_C:ExecuteUbergraph_W_DebV2 [Script Bytecode]
-msgctxt ",46186C3E401836D1E18FE08F9D46B2E5"
-msgid "Driver Date: {0}"
-msgstr ""
-
-#. Key:	46EAC7E347E087B36E30A8B2E18E5F74
-#. SourceLocation:	/Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock_1.Text
-#: /Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock_1.Text
-msgctxt ",46EAC7E347E087B36E30A8B2E18E5F74"
-msgid "Looks like you're done here. Would you like to contribute to the game & answer to a 5-minute survey? Come on, it's not gonna hurt, be honest as possible if you want :)"
-msgstr ""
-
-#. Key:	4828D2A2444DF62CBFE8B5B7930F3CA3
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_23.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_23.Text
-msgctxt ",4828D2A2444DF62CBFE8B5B7930F3CA3"
-msgid "Medium"
-msgstr ""
-
-#. Key:	48FDC35246D7AB8AEAA1C3BC9DC84890
-#. SourceLocation:	/Game/Widgets/W_PauseMenu/W_GraphicMenuPause.W_GraphicMenuPause_C:WidgetTree.TextBlock_2.Text
-#: /Game/Widgets/W_PauseMenu/W_GraphicMenuPause.W_GraphicMenuPause_C:WidgetTree.TextBlock_2.Text
-msgctxt ",48FDC35246D7AB8AEAA1C3BC9DC84890"
-msgid "Motion Blur"
-msgstr ""
-
-#. Key:	4921502945E5079A0867B59BBCB1C063
-#. SourceLocation:	/Game/Widgets/W_Achievement/W_AchPage.W_AchPage_C:WidgetTree.TextBlock_50.Text
-#: /Game/Widgets/W_Achievement/W_AchPage.W_AchPage_C:WidgetTree.TextBlock_50.Text
-msgctxt ",4921502945E5079A0867B59BBCB1C063"
-msgid "<< Back to Main Menu"
-msgstr ""
-
-#. Key:	49EAD9B4434B11A9B491679AB99A917D
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock.Text
-msgctxt ",49EAD9B4434B11A9B491679AB99A917D"
-msgid "%"
+#. Key:	48C844644A16D45A8BBD65995C133D37
+#. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_Streamer.W_TT_Streamer_C:WidgetTree.te.Text
+#: /Game/Widgets/W_Tooltips/W_TT_Streamer.W_TT_Streamer_C:WidgetTree.te.Text
+msgctxt ",48C844644A16D45A8BBD65995C133D37"
+msgid "Enabling the option will mute Level 0 background music, and/or will replace some sounds with copyright-free ones."
 msgstr ""
 
 #. Key:	4A685E724120F27E5D75E28584F8E8AD
@@ -734,81 +300,32 @@ msgctxt ",4A685E724120F27E5D75E28584F8E8AD"
 msgid "Achievements"
 msgstr ""
 
-#. Key:	4B18598A4B40FA472EF3358145BD2B90
-#. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn_LV0.W_Respawn_LV0_C:WidgetTree.TextBlock_0.Text
-#: /Game/Widgets/W_Respawn/W_Respawn_LV0.W_Respawn_LV0_C:WidgetTree.TextBlock_0.Text
-msgctxt ",4B18598A4B40FA472EF3358145BD2B90"
-msgid "Go to main menu"
-msgstr ""
-
-#. Key:	4B3A7AC14C85AE885D2D4E85484ACC82
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_18.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_18.Text
-msgctxt ",4B3A7AC14C85AE885D2D4E85484ACC82"
-msgid "High"
-msgstr ""
-
 #. Key:	4C531DE34C0FF0DE9657D1B964C26A36
-#. SourceLocation:	/Game/Widgets/W_Tooltips/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
-#: /Game/Widgets/W_Tooltips/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
+#. SourceLocation:	/Game/Widgets/W_Warn/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
+#: /Game/Widgets/W_Warn/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
 msgctxt ",4C531DE34C0FF0DE9657D1B964C26A36"
 msgid "Whose idea was it to cut off the power?"
 msgstr ""
 
-#. Key:	4C8AA8F349D731711BF25ABAB9A3F1AB
-#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_8.Text
-#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_8.Text
-msgctxt ",4C8AA8F349D731711BF25ABAB9A3F1AB"
-msgid "Unused levels are a part of this game's big ass size. Here you find a list of playable, unused levels, that didn't made it into the Classic Gamemode or any gamemode at all.\r\n\r\nList may change :)\r\n\r\nNote: Discord RPC *may* not be visible because I'm too lazy or I didn't want to add it into the level"
+#. Key:	4EEAEEBA4F190CCEA81A3DB76A99E478
+#. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_RestartReq.W_TT_RestartReq_C:WidgetTree.restart_text.Text
+#: /Game/Widgets/W_Tooltips/W_TT_RestartReq.W_TT_RestartReq_C:WidgetTree.restart_text.Text
+msgctxt ",4EEAEEBA4F190CCEA81A3DB76A99E478"
+msgid "Manual game restart is required in order to apply changes."
 msgstr ""
 
-#. Key:	4D7A9AFA4E8E246F5419658A2F227176
-#. SourceLocation:	/Game/Widgets/W_DelDiag/W_DelDiag.W_DelDiag_C:WidgetTree.TextBlock_0.Text
-#: /Game/Widgets/W_DelDiag/W_DelDiag.W_DelDiag_C:WidgetTree.TextBlock_0.Text
-msgctxt ",4D7A9AFA4E8E246F5419658A2F227176"
-msgid "Delete saved data"
-msgstr ""
-
-#. Key:	4FF3CA0A42DBBFD7EA581C90AF445AC4
-#. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_1.Text
-#: /Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_1.Text
-msgctxt ",4FF3CA0A42DBBFD7EA581C90AF445AC4"
-msgid "Budget\r\nBackrooms"
-msgstr ""
-
-#. Key:	508378B042A0725591856D860BEA2766
-#. SourceLocation:	/Game/Widgets/W_DebV2.W_DebV2_C:WidgetTree.TextBlock_1.Text
-#: /Game/Widgets/W_DebV2.W_DebV2_C:WidgetTree.TextBlock_1.Text
-msgctxt ",508378B042A0725591856D860BEA2766"
-msgid "CPU Info"
-msgstr ""
-
-#. Key:	50A9CA174926FB5E22614C9984C8CB92
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_23.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_23.Text
-msgctxt ",50A9CA174926FB5E22614C9984C8CB92"
-msgid "Medium"
-msgstr ""
-
-#. Key:	51015D19423F579BD04C93AA9A918BF9
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_23.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_23.Text
-msgctxt ",51015D19423F579BD04C93AA9A918BF9"
-msgid "Medium"
-msgstr ""
-
-#. Key:	512D2F2B46CF621EA97DF2848E84E404
-#. SourceLocation:	/Game/Widgets/W_LVRunEscape/W_LVRunEscape.W_LVRunEscape_C:WidgetTree.TextBlock_51.Text
-#: /Game/Widgets/W_LVRunEscape/W_LVRunEscape.W_LVRunEscape_C:WidgetTree.TextBlock_51.Text
-msgctxt ",512D2F2B46CF621EA97DF2848E84E404"
-msgid "Resume"
+#. Key:	52B16461484F7D1D757D9298A256A23A
+#. SourceLocation:	/Game/Widgets/W_Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_3.Text
+#: /Game/Widgets/W_Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_3.Text
+msgctxt ",52B16461484F7D1D757D9298A256A23A"
+msgid "FASTER"
 msgstr ""
 
 #. Key:	52E157914CE8B0F1AFA61E95E1CB0970
 #. SourceLocation:	/Game/Widgets/W_AudioSettings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_85.Text
 #: /Game/Widgets/W_AudioSettings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_85.Text
 msgctxt ",52E157914CE8B0F1AFA61E95E1CB0970"
-msgid "Apply"
+msgid "Apply & exit"
 msgstr ""
 
 #. Key:	539E48624D1E986B9D6C68BB1113AC80
@@ -818,95 +335,32 @@ msgctxt ",539E48624D1E986B9D6C68BB1113AC80"
 msgid "Total Achievement Completion"
 msgstr ""
 
-#. Key:	54BDCF844AE24D4596CD11B5ABE69E7A
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_34.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_34.Text
-msgctxt ",54BDCF844AE24D4596CD11B5ABE69E7A"
-msgid "Epic"
-msgstr ""
-
-#. Key:	54EB8E24458BB63DB97315A74E25F00A
-#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_11.Text
-#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_11.Text
-msgctxt ",54EB8E24458BB63DB97315A74E25F00A"
-msgid "Even though I had no place to put Gamemode in title, this is The Memerooms™. A goofy ahh refined experience of Budget Backrooms.\r\n\r\nI've inserted 21st century humor into the game, finally, after one year in development I've finally wanted to release *ONE* gamemode. Credits to Lory Games for releasing this before me (check his modpack on itch.io)\r\n\r\nModifiers:\r\n- Howlers are replaced with NextBots; that are fast as hell, and they will hunt you down no matter what.\r\n- Infinite Stamina.\r\n- Increased Player Speed; NASA Speed"
-msgstr ""
-
-#. Key:	559AA7AF406F7FF3D67C5497BE1AEC61
-#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_193.Text
-#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_193.Text
-msgctxt ",559AA7AF406F7FF3D67C5497BE1AEC61"
-msgid "Play Gamemode"
-msgstr ""
-
-#. Key:	568341F5443934F32FB78AA3352B3B9D
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_22.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_22.Text
-msgctxt ",568341F5443934F32FB78AA3352B3B9D"
-msgid "Low"
-msgstr ""
-
-#. Key:	56C2398E404C7A1F2BD51486EFB74026
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_26.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_26.Text
-msgctxt ",56C2398E404C7A1F2BD51486EFB74026"
-msgid "Low"
-msgstr ""
-
 #. Key:	56CC942F4E5CC98507254BA16A7C7979
 #. SourceLocation:	/Game/Widgets/W_Credits/W_Credits_Memerooms.W_Credits_Memerooms_C:WidgetTree.TextBlock_3.Text
 #: /Game/Widgets/W_Credits/W_Credits_Memerooms.W_Credits_Memerooms_C:WidgetTree.TextBlock_3.Text
 msgctxt ",56CC942F4E5CC98507254BA16A7C7979"
-msgid "Lory Games for making this gamemode before me in A SINGLE FUCKING DAY!/11 WHAT THE FUCK?!111 (check out his modpack btw on itch.io @lorenzohappy19)\r\n\r\nLory Games - Support In Development, Ideas\r\nLory Games - (Game) Launcher\r\n"
+msgid "Lory Games - Integrating Memerooms in Lory's Modpack [github.com/lorenzohappy19] before me"
 msgstr ""
 
-#. Key:	5B01E0A64686673A6F12F6A6F25814B9
-#. SourceLocation:	/Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_4.Text
-#: /Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_4.Text
-msgctxt ",5B01E0A64686673A6F12F6A6F25814B9"
-msgid "That's all folks!"
-msgstr ""
-
-#. Key:	5C7EAB0C42A030DF8955CC9ACE93B410
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_25.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_25.Text
-msgctxt ",5C7EAB0C42A030DF8955CC9ACE93B410"
-msgid "Epic"
+#. Key:	56E0BAE94C64DFE328BC6F8F3C51DD0F
+#. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:Parse Steam Profile Name [Script Bytecode]
+#: /Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:Parse Steam Profile Name [Script Bytecode]
+msgctxt ",56E0BAE94C64DFE328BC6F8F3C51DD0F"
+msgid "Playing as {0}"
 msgstr ""
 
 #. Key:	5D3415E74A7A04F780851C9B66A5162F
 #. SourceLocation:	/Game/Widgets/W_DelDiag/W_DelAnim.W_DelAnim_C:ExecuteUbergraph_W_DelAnim [Script Bytecode]
 #: /Game/Widgets/W_DelDiag/W_DelAnim.W_DelAnim_C:ExecuteUbergraph_W_DelAnim [Script Bytecode]
 msgctxt ",5D3415E74A7A04F780851C9B66A5162F"
-msgid "Resetting achievements...."
+msgid "Re-locking achievements..."
 msgstr ""
 
-#. Key:	60509824424F6920125ADB86CE86F154
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_8.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_8.Text
-msgctxt ",60509824424F6920125ADB86CE86F154"
-msgid "VSync"
-msgstr ""
-
-#. Key:	606805C340EDA7C57DF31796C1F0897F
-#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_1.Text
-#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_1.Text
-msgctxt ",606805C340EDA7C57DF31796C1F0897F"
-msgid "Hardcore"
-msgstr ""
-
-#. Key:	62FD32EE492E75A7D58A0AB7BB33A2E2
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_0.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_0.Text
-msgctxt ",62FD32EE492E75A7D58A0AB7BB33A2E2"
-msgid "Return to settings menu"
-msgstr ""
-
-#. Key:	6366616F42DD42ACE70F62B1AA6F7905
-#. SourceLocation:	/Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.title.Text
-#: /Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.title.Text
-msgctxt ",6366616F42DD42ACE70F62B1AA6F7905"
-msgid "Paused"
+#. Key:	5D7E0E444BBC9C78C75D978AFF6E0F60
+#. SourceLocation:	/Game/Widgets/W_GeneralSettings/W_GeneralSettings.W_GeneralSettings_C:Slider Val [Script Bytecode]
+#: /Game/Widgets/W_GeneralSettings/W_GeneralSettings.W_GeneralSettings_C:Slider Val [Script Bytecode]
+msgctxt ",5D7E0E444BBC9C78C75D978AFF6E0F60"
+msgid "2,5 (Default)"
 msgstr ""
 
 #. Key:	6392E9F74B46CAA3B7FB318D90561323
@@ -916,34 +370,6 @@ msgctxt ",6392E9F74B46CAA3B7FB318D90561323"
 msgid "Version Highlights"
 msgstr ""
 
-#. Key:	643A6BB24DA08F4FA489AB85D5CED8BE
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_31.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_31.Text
-msgctxt ",643A6BB24DA08F4FA489AB85D5CED8BE"
-msgid "Low"
-msgstr ""
-
-#. Key:	6471092740979876BD3313B3D181763B
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_16.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_16.Text
-msgctxt ",6471092740979876BD3313B3D181763B"
-msgid "Low"
-msgstr ""
-
-#. Key:	65141E544586DC5929B32E89C6815E02
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_10.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_10.Text
-msgctxt ",65141E544586DC5929B32E89C6815E02"
-msgid "OFF"
-msgstr ""
-
-#. Key:	66D5D6BA401D4C19A1DAAAB21A0D205D
-#. SourceLocation:	/Game/Widgets/RespawnFadeIn.RespawnFadeIn_C:WidgetTree.TextBlock_0.Text
-#: /Game/Widgets/RespawnFadeIn.RespawnFadeIn_C:WidgetTree.TextBlock_0.Text
-msgctxt ",66D5D6BA401D4C19A1DAAAB21A0D205D"
-msgid "You got caught!\r\nRespawning..."
-msgstr ""
-
 #. Key:	692AC5DD4218F7289893C596DBCD2BB2
 #. SourceLocation:	/Game/Widgets/W_CornerReminder/W_CornerReminder.W_CornerReminder_C:WidgetTree.desc.Text
 #: /Game/Widgets/W_CornerReminder/W_CornerReminder.W_CornerReminder_C:WidgetTree.desc.Text
@@ -951,67 +377,32 @@ msgctxt ",692AC5DD4218F7289893C596DBCD2BB2"
 msgid "\"The Lobby\""
 msgstr ""
 
-#. Key:	69DE68B148FA4A94ED593786AFED3619
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_31.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_31.Text
-msgctxt ",69DE68B148FA4A94ED593786AFED3619"
-msgid "Low"
+#. Key:	6A5895C94975E4273745409B88CE53D8
+#. SourceLocation:	/Game/Widgets/W_Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_4.Text
+#: /Game/Widgets/W_Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_4.Text
+msgctxt ",6A5895C94975E4273745409B88CE53D8"
+msgid "FASTER"
 msgstr ""
 
-#. Key:	6D76448E42DB938179086BA967018314
-#. SourceLocation:	/Game/Widgets/W_DebV2.W_DebV2_C:WidgetTree.rhi.Text
-#: /Game/Widgets/W_DebV2.W_DebV2_C:WidgetTree.rhi.Text
-msgctxt ",6D76448E42DB938179086BA967018314"
-msgid "Rendering Hardware Interface"
-msgstr ""
-
-#. Key:	6F615E314F245CD94327B38F557B395E
-#. SourceLocation:	/Game/Widgets/W_DebV2.W_DebV2_C:ExecuteUbergraph_W_DebV2 [Script Bytecode]
-#: /Game/Widgets/W_DebV2.W_DebV2_C:ExecuteUbergraph_W_DebV2 [Script Bytecode]
-msgctxt ",6F615E314F245CD94327B38F557B395E"
-msgid "Rendering Hardware Interface: {0}"
+#. Key:	6DBAF3F647996966C7B8E5BDBDDC097C
+#. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn.W_Respawn_C:WidgetTree.TextBlock.Text
+#: /Game/Widgets/W_Respawn/W_Respawn.W_Respawn_C:WidgetTree.TextBlock.Text
+msgctxt ",6DBAF3F647996966C7B8E5BDBDDC097C"
+msgid "Respawn"
 msgstr ""
 
 #. Key:	704A61E54D8CA487018B9F92D6762B7A
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.BRUv.Text
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.BRUv.Text
 msgctxt ",704A61E54D8CA487018B9F92D6762B7A"
-msgid "Show FPS statistics"
-msgstr ""
-
-#. Key:	70777739430B6F2B780BA4BD11FE2205
-#. SourceLocation:	/Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.title_1.Text
-#: /Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.title_1.Text
-msgctxt ",70777739430B6F2B780BA4BD11FE2205"
-msgid "Playing..."
-msgstr ""
-
-#. Key:	70EAA2D549E193E3E4FA0E91F652BC13
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_5.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_5.Text
-msgctxt ",70EAA2D549E193E3E4FA0E91F652BC13"
-msgid "90"
-msgstr ""
-
-#. Key:	712440444910D7D35266FEAA9A6BDC62
-#. SourceLocation:	/Game/Widgets/W_Achievement/W_AchUnlock.W_AchUnlock_C:WidgetTree.PercentText.Text
-#: /Game/Widgets/W_Achievement/W_AchUnlock.W_AchUnlock_C:WidgetTree.PercentText.Text
-msgctxt ",712440444910D7D35266FEAA9A6BDC62"
-msgid "1000/200"
+msgid "Toggle FPS Counter"
 msgstr ""
 
 #. Key:	717467B041210819657883A8AEE4AF61
 #. SourceLocation:	/Game/Widgets/W_InteractPopup/W_Interact_Powerbox.W_Interact_Powerbox_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/W_InteractPopup/W_Interact_Powerbox.W_Interact_Powerbox_C:WidgetTree.TextBlock.Text
 msgctxt ",717467B041210819657883A8AEE4AF61"
-msgid "to restart the power."
-msgstr ""
-
-#. Key:	725368F94DB08AF0C31272B9FFD8795F
-#. SourceLocation:	/Game/Widgets/W_LVRunEscape/W_LVRunEscape.W_LVRunEscape_C:WidgetTree.title.Text
-#: /Game/Widgets/W_LVRunEscape/W_LVRunEscape.W_LVRunEscape_C:WidgetTree.title.Text
-msgctxt ",725368F94DB08AF0C31272B9FFD8795F"
-msgid "Some tips before getting started"
+msgid "Press E to restart the power."
 msgstr ""
 
 #. Key:	72EC17AD4FE3120A104CA2A984A9F671
@@ -1021,41 +412,6 @@ msgctxt ",72EC17AD4FE3120A104CA2A984A9F671"
 msgid "Deleting map data..."
 msgstr ""
 
-#. Key:	738AC265436DB870C9CB75BF660AC852
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_17.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_17.Text
-msgctxt ",738AC265436DB870C9CB75BF660AC852"
-msgid "Medium"
-msgstr ""
-
-#. Key:	7682EE1F49A6F8191CA9FCA1B52B6217
-#. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_3.Text
-#: /Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_3.Text
-msgctxt ",7682EE1F49A6F8191CA9FCA1B52B6217"
-msgid "Info: For this version, \"Google Resonance\" aka the reverb effect was completly disabled due to a critical issue. More info on GitHub"
-msgstr ""
-
-#. Key:	775F3A8E4A66C7A732BC2EB7C148D064
-#. SourceLocation:	/Game/Widgets/W_NotifyTest/W_NotifyHUD_C5.W_NotifyHUD_C5_C:WidgetTree.teiccer.Text
-#: /Game/Widgets/W_NotifyTest/W_NotifyHUD_C5.W_NotifyHUD_C5_C:WidgetTree.teiccer.Text
-msgctxt ",775F3A8E4A66C7A732BC2EB7C148D064"
-msgid "Proceed with caution"
-msgstr ""
-
-#. Key:	7766185E41DD649DB2739E988561D68F
-#. SourceLocation:	/Game/Widgets/W_PauseMenu/W_GraphicMenuPause.W_GraphicMenuPause_C:WidgetTree.TextBlock_30.Text
-#: /Game/Widgets/W_PauseMenu/W_GraphicMenuPause.W_GraphicMenuPause_C:WidgetTree.TextBlock_30.Text
-msgctxt ",7766185E41DD649DB2739E988561D68F"
-msgid "Post-Processing"
-msgstr ""
-
-#. Key:	77E6E92449500A1B3964A6ABEF7185AF
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_27.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_27.Text
-msgctxt ",77E6E92449500A1B3964A6ABEF7185AF"
-msgid "Medium"
-msgstr ""
-
 #. Key:	7938DC2040A75C61A2A55A845D39B377
 #. SourceLocation:	/Game/Widgets/W_CornerReminder/W_CornerReminder.W_CornerReminder_C:WidgetTree.TextBlock_0.Text
 #: /Game/Widgets/W_CornerReminder/W_CornerReminder.W_CornerReminder_C:WidgetTree.TextBlock_0.Text
@@ -1063,81 +419,11 @@ msgctxt ",7938DC2040A75C61A2A55A845D39B377"
 msgid "Press F to turn on\r\nyour flashlight"
 msgstr ""
 
-#. Key:	79C17944491C0F8ABEBD7E8E9AED4DF7
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_33.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_33.Text
-msgctxt ",79C17944491C0F8ABEBD7E8E9AED4DF7"
-msgid "High"
-msgstr ""
-
-#. Key:	7A5270E84F5FCC51AD99318ED4D7C54E
-#. SourceLocation:	/Game/Widgets/W_Prohibited/W_PhbitedSubLevels.W_PhbitedSubLevels_C:WidgetTree.TextBlock.Text
-#: /Game/Widgets/W_Prohibited/W_PhbitedSubLevels.W_PhbitedSubLevels_C:WidgetTree.TextBlock.Text
-msgctxt ",7A5270E84F5FCC51AD99318ED4D7C54E"
-msgid "Sublevels are disabled, because most of the playtesters are taking it as a quick shortcut; I'm taking away freedom but come on, play the game how it was intended.\r\n\r\nFinish the game once to access the sub-levels."
-msgstr ""
-
-#. Key:	7ACA73A54226AE3D9B8731832723850B
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_28.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_28.Text
-msgctxt ",7ACA73A54226AE3D9B8731832723850B"
-msgid "High"
-msgstr ""
-
-#. Key:	7CAED5B4486A7A6CBC16EE96167EE8B7
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_1.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_1.Text
-msgctxt ",7CAED5B4486A7A6CBC16EE96167EE8B7"
-msgid "Resolution Scaling"
-msgstr ""
-
-#. Key:	7EF6EE464205F8E71100BF9BC4E45EF3
-#. SourceLocation:	/Game/Widgets/W_PauseMenu/ControlsWidget.ControlsWidget_C:WidgetTree.TextBlock_69.Text
-#: /Game/Widgets/W_PauseMenu/ControlsWidget.ControlsWidget_C:WidgetTree.TextBlock_69.Text
-msgctxt ",7EF6EE464205F8E71100BF9BC4E45EF3"
-msgid "Movement"
-msgstr ""
-
-#. Key:	808B006F4AB834E8DFFFA9A820F7C19B
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.BRUv.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.BRUv.Text
-msgctxt ",808B006F4AB834E8DFFFA9A820F7C19B"
-msgid "Toggle FPS Counter"
-msgstr ""
-
-#. Key:	8119F3F34B90307C4229F5B81A45FD16
-#. SourceLocation:	/Game/Widgets/W_PauseMenu/ControlsWidget.ControlsWidget_C:WidgetTree.TextBlock_0.Text
-#: /Game/Widgets/W_PauseMenu/ControlsWidget.ControlsWidget_C:WidgetTree.TextBlock_0.Text
-msgctxt ",8119F3F34B90307C4229F5B81A45FD16"
-msgid "Control scheme (not editable for now)"
-msgstr ""
-
-#. Key:	81F749314B17C792D2EF44A3C72503B7
-#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_9.Text
-#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_9.Text
-msgctxt ",81F749314B17C792D2EF44A3C72503B7"
-msgid "Lighting_Test"
-msgstr ""
-
-#. Key:	81FA843C4A97517C154DF492D9DFC654
-#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_2.Text
-#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_2.Text
-msgctxt ",81FA843C4A97517C154DF492D9DFC654"
-msgid "Unused Levels"
-msgstr ""
-
-#. Key:	827B79204792FF0A8B18EA839C8C94D7
-#. SourceLocation:	/Game/Widgets/W_DebV2.W_DebV2_C:WidgetTree.cpucores.Text
-#: /Game/Widgets/W_DebV2.W_DebV2_C:WidgetTree.cpucores.Text
-msgctxt ",827B79204792FF0A8B18EA839C8C94D7"
-msgid "CPU Cores"
-msgstr ""
-
-#. Key:	8456584747D02B3D7F2EF2A3073B4E2B
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_14.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_14.Text
-msgctxt ",8456584747D02B3D7F2EF2A3073B4E2B"
-msgid "ON"
+#. Key:	7E1ADCD548C9324BC2CA69BD1476F3AE
+#. SourceLocation:	/Game/Widgets/W_Animations/W_Safezone.W_Safezone_C:WidgetTree.TextBlock.Text
+#: /Game/Widgets/W_Animations/W_Safezone.W_Safezone_C:WidgetTree.TextBlock.Text
+msgctxt ",7E1ADCD548C9324BC2CA69BD1476F3AE"
+msgid "Safe Zone"
 msgstr ""
 
 #. Key:	84DBC7384AA7AAC2F2C1D0B48ECBEDAF
@@ -1145,20 +431,6 @@ msgstr ""
 #: /Game/Widgets/W_LoadingScreen/W_Memerooms_Loading.W_Memerooms_Loading_C:WidgetTree.title.Text
 msgctxt ",84DBC7384AA7AAC2F2C1D0B48ECBEDAF"
 msgid "The Memerooms™"
-msgstr ""
-
-#. Key:	850A894842AB9E4812177AB5934BFEBA
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_13.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_13.Text
-msgctxt ",850A894842AB9E4812177AB5934BFEBA"
-msgid "Shadow Quality"
-msgstr ""
-
-#. Key:	86A670DA4AF70C6582380EAB0FFEE8DB
-#. SourceLocation:	/Game/Widgets/W_AudioSettings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock.Text
-#: /Game/Widgets/W_AudioSettings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock.Text
-msgctxt ",86A670DA4AF70C6582380EAB0FFEE8DB"
-msgid "*insert percentage here*"
 msgstr ""
 
 #. Key:	86BCAF0245EDE47AD823FB83CF7A9BCF
@@ -1182,20 +454,6 @@ msgctxt ",892CF167411347302BB99F8D36BD93A1"
 msgid "kind of pause icon"
 msgstr ""
 
-#. Key:	8A9C5A2B416C98E00E045F8C64BDFCA1
-#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_5.Text
-#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_5.Text
-msgctxt ",8A9C5A2B416C98E00E045F8C64BDFCA1"
-msgid "Classic Gamemode"
-msgstr ""
-
-#. Key:	8B215CF9464D8FA519B9BBB9D4FE03F4
-#. SourceLocation:	/Game/Widgets/W_EasterEgg1/EasterEgg1.EasterEgg1_C:WidgetTree.TextBlock_1.Text
-#: /Game/Widgets/W_EasterEgg1/EasterEgg1.EasterEgg1_C:WidgetTree.TextBlock_1.Text
-msgctxt ",8B215CF9464D8FA519B9BBB9D4FE03F4"
-msgid "You found an Easter Egg!"
-msgstr ""
-
 #. Key:	8C6C255A491C6097D7C9F0B087AD2F18
 #. SourceLocation:	/Game/Widgets/W_Credits/W_Credits_Memerooms.W_Credits_Memerooms_C:WidgetTree.TextBlock_69.Text
 #: /Game/Widgets/W_Credits/W_Credits_Memerooms.W_Credits_Memerooms_C:WidgetTree.TextBlock_69.Text
@@ -1207,7 +465,7 @@ msgstr ""
 #. SourceLocation:	/Game/Widgets/W_Warn/W_ControllerWarn.W_ControllerWarn_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/W_Warn/W_ControllerWarn.W_ControllerWarn_C:WidgetTree.TextBlock.Text
 msgctxt ",8E5797074539148476C001B7AC88E791"
-msgid "Looks like you have a controller connected. Since v0.0.10, controller support has been scrapped since it was complete trash. Only functional things now are vibrations, but menu selection and player movement are not working yet. (unless you waste time to remap controller keys as keyboard keys)"
+msgid "Looks like you have a controller conencted (or probably just a bug), the support is halfway done, some UI Elements may not work / be bugged. Sensitivity is still WIP so it's gonna be slow to turn the camera."
 msgstr ""
 
 #. Key:	8F5B97114176D27B552C2587A302E397
@@ -1231,20 +489,6 @@ msgctxt ",90D2E00443A2DCA4DDB88082A4F8A4E6"
 msgid "You can press Left Click to exit Screensaver Mode after this screen."
 msgstr ""
 
-#. Key:	9162438949B6B56B0EDBE8A67EE5074F
-#. SourceLocation:	/Game/Widgets/W_PauseMenu/W_GraphicMenuPause.W_GraphicMenuPause_C:WidgetTree.TextBlock_0.Text
-#: /Game/Widgets/W_PauseMenu/W_GraphicMenuPause.W_GraphicMenuPause_C:WidgetTree.TextBlock_0.Text
-msgctxt ",9162438949B6B56B0EDBE8A67EE5074F"
-msgid "Return"
-msgstr ""
-
-#. Key:	929408BC45B96F3CC78507BD87C307DF
-#. SourceLocation:	/Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_2.Text
-#: /Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_2.Text
-msgctxt ",929408BC45B96F3CC78507BD87C307DF"
-msgid "Back to \r\nsurvey page"
-msgstr ""
-
 #. Key:	92E9BF4846193CB072D4CC86C6522B14
 #. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_VideoSett.W_TT_VideoSett_C:WidgetTree.TextBlock_0.Text
 #: /Game/Widgets/W_Tooltips/W_TT_VideoSett.W_TT_VideoSett_C:WidgetTree.TextBlock_0.Text
@@ -1252,25 +496,11 @@ msgctxt ",92E9BF4846193CB072D4CC86C6522B14"
 msgid "When leaving this page,\r\nyour changes are saved \r\nautomatically."
 msgstr ""
 
-#. Key:	93AD98F64BB88DDED51FB089B7F5F909
-#. SourceLocation:	/Game/Widgets/W_DebV2.W_DebV2_C:WidgetTree.gpu_provider.Text
-#: /Game/Widgets/W_DebV2.W_DebV2_C:WidgetTree.gpu_provider.Text
-msgctxt ",93AD98F64BB88DDED51FB089B7F5F909"
-msgid "GPU Provider"
-msgstr ""
-
 #. Key:	93D998194175AAF9C989EA904ED51F1C
 #. SourceLocation:	/Game/Widgets/W_Credits/W_Credits_Memerooms.W_Credits_Memerooms_C:WidgetTree.TextBlock_0.Text
 #: /Game/Widgets/W_Credits/W_Credits_Memerooms.W_Credits_Memerooms_C:WidgetTree.TextBlock_0.Text
 msgctxt ",93D998194175AAF9C989EA904ED51F1C"
 msgid "Credits for The Memerooms™"
-msgstr ""
-
-#. Key:	93DE5BEB42B382286511ADBBF7AAC48E
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_14.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_14.Text
-msgctxt ",93DE5BEB42B382286511ADBBF7AAC48E"
-msgid "ON"
 msgstr ""
 
 #. Key:	940CA13E452B66BA51291D884AE0A4AF
@@ -1287,39 +517,11 @@ msgctxt ",94AA793E42A87A598920CE8DE1E3DAA4"
 msgid "Development"
 msgstr ""
 
-#. Key:	9521AFDB44D0035F54474187A16AC196
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_1.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_1.Text
-msgctxt ",9521AFDB44D0035F54474187A16AC196"
-msgid "Resolution Scaling"
-msgstr ""
-
-#. Key:	959FE9B5490A8804F9A7C3B9AC5E8D93
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_32.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_32.Text
-msgctxt ",959FE9B5490A8804F9A7C3B9AC5E8D93"
-msgid "Medium"
-msgstr ""
-
-#. Key:	95B266604DD6E813949537AC5B0EC1FC
-#. SourceLocation:	/Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock.Text
-#: /Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock.Text
-msgctxt ",95B266604DD6E813949537AC5B0EC1FC"
-msgid "Exit to \r\nmain menu"
-msgstr ""
-
 #. Key:	95CD8F5948B895FFFFD3AEAD41A45930
 #. SourceLocation:	/Game/Widgets/W_Warn/W_GraphicsConflict.W_GraphicsConflict_C:WidgetTree.TextBlock_132.Text
 #: /Game/Widgets/W_Warn/W_GraphicsConflict.W_GraphicsConflict_C:WidgetTree.TextBlock_132.Text
 msgctxt ",95CD8F5948B895FFFFD3AEAD41A45930"
 msgid "Wait!"
-msgstr ""
-
-#. Key:	9641A86B4E16ABBA1479ECAFC311ED93
-#. SourceLocation:	/Game/Widgets/W_InteractPopup/W_Interact_Powerbox.W_Interact_Powerbox_C:WidgetTree.TextBlock_0.Text
-#: /Game/Widgets/W_InteractPopup/W_Interact_Powerbox.W_Interact_Powerbox_C:WidgetTree.TextBlock_0.Text
-msgctxt ",9641A86B4E16ABBA1479ECAFC311ED93"
-msgid "Press"
 msgstr ""
 
 #. Key:	97494E14468916A014D0CAA273B40A35
@@ -1329,39 +531,11 @@ msgctxt ",97494E14468916A014D0CAA273B40A35"
 msgid "Nuh-uh"
 msgstr ""
 
-#. Key:	9767AE76404CB9B5F99916854CEBB6B0
-#. SourceLocation:	/Game/Widgets/W_DebV2.W_DebV2_C:WidgetTree.Text.Text
-#: /Game/Widgets/W_DebV2.W_DebV2_C:WidgetTree.Text.Text
-msgctxt ",9767AE76404CB9B5F99916854CEBB6B0"
-msgid "GPU Info"
-msgstr ""
-
-#. Key:	979D0D7C4F2C6184C06964A8BF32353E
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_30.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_30.Text
-msgctxt ",979D0D7C4F2C6184C06964A8BF32353E"
-msgid "Post-Processing"
-msgstr ""
-
-#. Key:	98812C4B4C6BFC62C7010B85D05D9555
-#. SourceLocation:	/Game/Widgets/W_Prohibited/W_PhbitedSubLevels.W_PhbitedSubLevels_C:WidgetTree.TextBlock_1.Text
-#: /Game/Widgets/W_Prohibited/W_PhbitedSubLevels.W_PhbitedSubLevels_C:WidgetTree.TextBlock_1.Text
-msgctxt ",98812C4B4C6BFC62C7010B85D05D9555"
-msgid "Screw you, David!"
-msgstr ""
-
 #. Key:	9979C46246D64603C1F98EAD25AA454C
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_21.Text
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_21.Text
 msgctxt ",9979C46246D64603C1F98EAD25AA454C"
 msgid "Anti-Aliasing"
-msgstr ""
-
-#. Key:	9BC45AE744E62BDD95FA9CB71D0F6658
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_18.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_18.Text
-msgctxt ",9BC45AE744E62BDD95FA9CB71D0F6658"
-msgid "High"
 msgstr ""
 
 #. Key:	9D449D5349C1EB7F21CDBF82989BB519
@@ -1371,41 +545,6 @@ msgctxt ",9D449D5349C1EB7F21CDBF82989BB519"
 msgid "Waiting for game..."
 msgstr ""
 
-#. Key:	9E2046E4480087ACA899D2BBC54624F1
-#. SourceLocation:	/Game/Widgets/W_LVRunEscape/W_LVRunEscape.W_LVRunEscape_C:WidgetTree.TextBlock_69.Text
-#: /Game/Widgets/W_LVRunEscape/W_LVRunEscape.W_LVRunEscape_C:WidgetTree.TextBlock_69.Text
-msgctxt ",9E2046E4480087ACA899D2BBC54624F1"
-msgid "Whatever, don't show me this again."
-msgstr ""
-
-#. Key:	A15ECD1F4F1D85FB437E43901219891D
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_16.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_16.Text
-msgctxt ",A15ECD1F4F1D85FB437E43901219891D"
-msgid "Low"
-msgstr ""
-
-#. Key:	A1C40F3149A23982A22232BA752C1330
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_13.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_13.Text
-msgctxt ",A1C40F3149A23982A22232BA752C1330"
-msgid "Shadow Quality"
-msgstr ""
-
-#. Key:	A22F78484DDEF116D05FBCB66BB008C6
-#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_6.Text
-#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_6.Text
-msgctxt ",A22F78484DDEF116D05FBCB66BB008C6"
-msgid "Experience the Backrooms in its most authentic form with the Classic gamemode. Traverse through various levels and find the exit while encountering strange phenomena and otherworldly entities. The first level is guided by arrows on the walls, but beware of noclippable walls that lead to sub-levels. You're not alone in the Backrooms, so stay alert and keep moving."
-msgstr ""
-
-#. Key:	A4CB96444FA2D3914EA0B6BA453B7095
-#. SourceLocation:	/Game/Widgets/W_DebV2.W_DebV2_C:ExecuteUbergraph_W_DebV2 [Script Bytecode]
-#: /Game/Widgets/W_DebV2.W_DebV2_C:ExecuteUbergraph_W_DebV2 [Script Bytecode]
-msgctxt ",A4CB96444FA2D3914EA0B6BA453B7095"
-msgid "Cores: {0}"
-msgstr ""
-
 #. Key:	A824E12A4A5D2812A0D4139D6D74DD7B
 #. SourceLocation:	/Game/Widgets/W_Warn/W_GraphicsConflict.W_GraphicsConflict_C:WidgetTree.TextBlock_63.Text
 #: /Game/Widgets/W_Warn/W_GraphicsConflict.W_GraphicsConflict_C:WidgetTree.TextBlock_63.Text
@@ -1413,25 +552,11 @@ msgctxt ",A824E12A4A5D2812A0D4139D6D74DD7B"
 msgid "Fine fine, whatever you say..."
 msgstr ""
 
-#. Key:	A94624F946A1CE8FBC5D719ECA95B2F3
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_30.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_30.Text
-msgctxt ",A94624F946A1CE8FBC5D719ECA95B2F3"
-msgid "Post-Processing"
-msgstr ""
-
-#. Key:	A97DE58E4F1FA713A36D5195C77F7283
-#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_4.Text
-#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_4.Text
-msgctxt ",A97DE58E4F1FA713A36D5195C77F7283"
-msgid "The Memerooms™"
-msgstr ""
-
-#. Key:	AB77687B41C2792EEF77E595E59DBF97
-#. SourceLocation:	/Game/Widgets/W_DebV2.W_DebV2_C:WidgetTree.driver_Date.Text
-#: /Game/Widgets/W_DebV2.W_DebV2_C:WidgetTree.driver_Date.Text
-msgctxt ",AB77687B41C2792EEF77E595E59DBF97"
-msgid "Driver Date"
+#. Key:	A989F67944BEA18B4D05E38A4204D50F
+#. SourceLocation:	/Game/Widgets/W_GeneralSettings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_2.Text
+#: /Game/Widgets/W_GeneralSettings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_2.Text
+msgctxt ",A989F67944BEA18B4D05E38A4204D50F"
+msgid "Discord RPC Status"
 msgstr ""
 
 #. Key:	ABA111DF47427567EA45E9B3A5579A5B
@@ -1441,13 +566,6 @@ msgctxt ",ABA111DF47427567EA45E9B3A5579A5B"
 msgid "VSync"
 msgstr ""
 
-#. Key:	ABFBC9874A4044C5A3EFE2A7A728A536
-#. SourceLocation:	/Game/Widgets/W_DebV2.W_DebV2_C:ExecuteUbergraph_W_DebV2 [Script Bytecode]
-#: /Game/Widgets/W_DebV2.W_DebV2_C:ExecuteUbergraph_W_DebV2 [Script Bytecode]
-msgctxt ",ABFBC9874A4044C5A3EFE2A7A728A536"
-msgid "Driver Version: {0}"
-msgstr ""
-
 #. Key:	ACE7A09943384A3ED43C87B14F331C7C
 #. SourceLocation:	/Game/Widgets/W_CornerReminder/W_CornerReminder.W_CornerReminder_C:WidgetTree.TextBlock_1.Text
 #: /Game/Widgets/W_CornerReminder/W_CornerReminder.W_CornerReminder_C:WidgetTree.TextBlock_1.Text
@@ -1455,60 +573,18 @@ msgctxt ",ACE7A09943384A3ED43C87B14F331C7C"
 msgid "Hold V to look behind you."
 msgstr ""
 
-#. Key:	AD7DBA0043B70D71BC2B6083CD00F0DE
-#. SourceLocation:	/Game/Widgets/W_GeneralSettings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_192.Text
-#: /Game/Widgets/W_GeneralSettings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_192.Text
-msgctxt ",AD7DBA0043B70D71BC2B6083CD00F0DE"
-msgid "Delete Saved Data"
-msgstr ""
-
-#. Key:	AE25CB96421089B7F25C6C849745278B
-#. SourceLocation:	/Game/Widgets/W_PauseMenu/W_GraphicMenuPause.W_GraphicMenuPause_C:WidgetTree.TextBlock_3.Text
-#: /Game/Widgets/W_PauseMenu/W_GraphicMenuPause.W_GraphicMenuPause_C:WidgetTree.TextBlock_3.Text
-msgctxt ",AE25CB96421089B7F25C6C849745278B"
-msgid "VSync"
+#. Key:	AE37393348921D5E2025D7A42D566D9F
+#. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn.W_Respawn_C:WidgetTree.dead.Text
+#: /Game/Widgets/W_Respawn/W_Respawn.W_Respawn_C:WidgetTree.dead.Text
+msgctxt ",AE37393348921D5E2025D7A42D566D9F"
+msgid "You Died"
 msgstr ""
 
 #. Key:	AE5CCB4242DCF6F2767D4FB1AF8BA62E
 #. SourceLocation:	/Game/Widgets/W_InteractionHint/W_InteractionHint.W_InteractionHint_C:WidgetTree.TextBlock_0.Text
 #: /Game/Widgets/W_InteractionHint/W_InteractionHint.W_InteractionHint_C:WidgetTree.TextBlock_0.Text
 msgctxt ",AE5CCB4242DCF6F2767D4FB1AF8BA62E"
-msgid "You can interact on highlighted \r\nobjects by pressing  "
-msgstr ""
-
-#. Key:	AF92BBDE48F1CFEE2C591BB18CBB004B
-#. SourceLocation:	/Game/Widgets/W_Crosshair/W_CrosshairAdditional.W_CrosshairAdditional_C:WidgetTree.version.Text
-#: /Game/Widgets/W_Crosshair/W_CrosshairAdditional.W_CrosshairAdditional_C:WidgetTree.version.Text
-msgctxt ",AF92BBDE48F1CFEE2C591BB18CBB004B"
-msgid "// VERSION GOES HERE //"
-msgstr ""
-
-#. Key:	AFEFC51046A554591E0BB79F0B9CE493
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_10.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_10.Text
-msgctxt ",AFEFC51046A554591E0BB79F0B9CE493"
-msgid "OFF"
-msgstr ""
-
-#. Key:	B14AC28A46A3E5CE7520AF85E8238B1B
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_15.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_15.Text
-msgctxt ",B14AC28A46A3E5CE7520AF85E8238B1B"
-msgid "Texture Quality"
-msgstr ""
-
-#. Key:	B1DD77C547FB9435B0A9D6BEDD089D2E
-#. SourceLocation:	/Game/Widgets/W_GeneralSettings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_0.Text
-#: /Game/Widgets/W_GeneralSettings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_0.Text
-msgctxt ",B1DD77C547FB9435B0A9D6BEDD089D2E"
-msgid "Miscellaneous Settings"
-msgstr ""
-
-#. Key:	B2420F3B43491F4BD031E588B7EFF02F
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_33.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_33.Text
-msgctxt ",B2420F3B43491F4BD031E588B7EFF02F"
-msgid "High"
+msgid "You can pick up the \r\nflashlight by pressing E"
 msgstr ""
 
 #. Key:	B2CBA6D141EF64E6397E959470FEEEF1
@@ -1518,53 +594,11 @@ msgctxt ",B2CBA6D141EF64E6397E959470FEEEF1"
 msgid "This Gamemode uses the following songs as the background music:"
 msgstr ""
 
-#. Key:	B32E603A4DE2C8D6DAA598B7CA2B388E
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_13.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_13.Text
-msgctxt ",B32E603A4DE2C8D6DAA598B7CA2B388E"
-msgid "Shadow Quality"
-msgstr ""
-
-#. Key:	B3AF49A241D4939F5A30BA8FB1E487CC
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_1.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_1.Text
-msgctxt ",B3AF49A241D4939F5A30BA8FB1E487CC"
-msgid "Resolution Scaling"
-msgstr ""
-
-#. Key:	B43FA3B64C727FF9675519BA75566BBF
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_19.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_19.Text
-msgctxt ",B43FA3B64C727FF9675519BA75566BBF"
-msgid "Epic"
-msgstr ""
-
-#. Key:	B48DED2C47839096C4084195BF092DAB
-#. SourceLocation:	/Game/Widgets/W_VersionHighlights/W_VersionHighlights.W_VersionHighlights_C:WidgetTree.TextBlock.Text
-#: /Game/Widgets/W_VersionHighlights/W_VersionHighlights.W_VersionHighlights_C:WidgetTree.TextBlock.Text
-msgctxt ",B48DED2C47839096C4084195BF092DAB"
-msgid "> You can now use AMD FidelityFX (check graphic settings) to boost your FPS. Say bye-bye to the Resolution Scaling.\r\n> New Levels\r\n> Main Menu UI a bit refined\r\n> New Graphic Settings menu\r\n> Memerooms\r\n> A more, exquisite experience. Stuff was improved.\r\n\r\nYou'll find out more, check out GitHub for a nerdy changelog... or if you're smart enough to see the changes yourself."
-msgstr ""
-
-#. Key:	B55C0E68441B7D4F837B3EAEED61DC67
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock.Text
-msgctxt ",B55C0E68441B7D4F837B3EAEED61DC67"
-msgid "60"
-msgstr ""
-
-#. Key:	B6C6D3C34B6C190FD05FF5BBCEDD27DD
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_24.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_24.Text
-msgctxt ",B6C6D3C34B6C190FD05FF5BBCEDD27DD"
-msgid "High"
-msgstr ""
-
-#. Key:	BA0DF03844D2D0621A8344BFD0EBC159
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_9.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_9.Text
-msgctxt ",BA0DF03844D2D0621A8344BFD0EBC159"
-msgid "ON"
+#. Key:	B4FBA8D94D28B0306D449EA6C5B8AE88
+#. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn.W_Respawn_C:ExecuteUbergraph_W_Respawn [Script Bytecode]
+#: /Game/Widgets/W_Respawn/W_Respawn.W_Respawn_C:ExecuteUbergraph_W_Respawn [Script Bytecode]
+msgctxt ",B4FBA8D94D28B0306D449EA6C5B8AE88"
+msgid "Skill Issue"
 msgstr ""
 
 #. Key:	BA255D7F4A9D01961D5BDAB4916E56EF
@@ -1578,7 +612,14 @@ msgstr ""
 #. SourceLocation:	/Game/Widgets/W_DelDiag/W_DelAnim.W_DelAnim_C:ExecuteUbergraph_W_DelAnim [Script Bytecode]
 #: /Game/Widgets/W_DelDiag/W_DelAnim.W_DelAnim_C:ExecuteUbergraph_W_DelAnim [Script Bytecode]
 msgctxt ",BA4288674B9F3922E8F2FDAE9D3F2E12"
-msgid "Resetting reminders..."
+msgid "Reverting settings to default..."
+msgstr ""
+
+#. Key:	BAA183744E4C0D1CDAF4EA8AA9755352
+#. SourceLocation:	/Game/Widgets/W_AudioSettings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_1.Text
+#: /Game/Widgets/W_AudioSettings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_1.Text
+msgctxt ",BAA183744E4C0D1CDAF4EA8AA9755352"
+msgid "Work in progress; Some stuff may be broken, some stuff may work."
 msgstr ""
 
 #. Key:	BC2EB9834EB7C5AB2DF289B480A73A2D
@@ -1595,88 +636,32 @@ msgctxt ",BCEA7DCC4F92FF08105115B93B36C548"
 msgid "Audio\r\nSettings"
 msgstr ""
 
-#. Key:	BD2EE5214C90F96A537C17844C251221
-#. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn_LV0.W_Respawn_LV0_C:WidgetTree.dead.Text
-#: /Game/Widgets/W_Respawn/W_Respawn_LV0.W_Respawn_LV0_C:WidgetTree.dead.Text
-msgctxt ",BD2EE5214C90F96A537C17844C251221"
-msgid "You died"
-msgstr ""
-
-#. Key:	BDEF6E8244D40A3448F43987F9ECC065
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_21.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_21.Text
-msgctxt ",BDEF6E8244D40A3448F43987F9ECC065"
-msgid "Anti-Aliasing"
-msgstr ""
-
-#. Key:	BE6BEA3848EB4CA157A77D893711A541
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_26.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_26.Text
-msgctxt ",BE6BEA3848EB4CA157A77D893711A541"
-msgid "Low"
-msgstr ""
-
-#. Key:	BEAF28134D9D1D6E7F5DD2934228F4D6
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_19.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_19.Text
-msgctxt ",BEAF28134D9D1D6E7F5DD2934228F4D6"
-msgid "Epic"
-msgstr ""
-
-#. Key:	BF69D65743CE7FF7D0C1B08FDAF564BB
-#. SourceLocation:	/Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock_3.Text
-#: /Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock_3.Text
-msgctxt ",BF69D65743CE7FF7D0C1B08FDAF564BB"
-msgid "Yes sir!"
-msgstr ""
-
 #. Key:	BF6A87AC4EB2C857DFA02FB4B74B9AA4
 #. SourceLocation:	/Game/Widgets/W_Credits/W_Credits_Memerooms.W_Credits_Memerooms_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/W_Credits/W_Credits_Memerooms.W_Credits_Memerooms_C:WidgetTree.TextBlock.Text
 msgctxt ",BF6A87AC4EB2C857DFA02FB4B74B9AA4"
-msgid "[Please note that not all the songs could be here; All the song's credit goes to their original Artist and not me]\r\n\r\nSCP 3008 - Monday\r\nSCP 3008 - Tuesday\r\nSCP 3008 - Wednesday\r\nSCP 3008 - Thursday\r\nSCP 3008 - Friday\r\nSCP 3008 - Saturday\r\nSCP 3008 - Sunday\r\n\r\nBreaking Bad Main Title Theme [Extended]\r\n\r\nFortnite Classic Lobby Music\r\n\r\nKahoot! - Main Theme\r\nKahoot! - The 20 Second Answer Medley\r\nKahoot! 20 Second Countdown #3 Music [Couldn't find the original name sorry :( ]\r\n\r\nPortal 1 - Still Alive [Radio]\r\nPortal 1 - Still Alive [Radio, but compressed]\r\n\r\nohio music [Spongebob Squarepants Production Music - Comic Walk]"
-msgstr ""
-
-#. Key:	BFCA6BC0469AECD16986ED855D15B79F
-#. SourceLocation:	/Game/Widgets/W_AudioSettings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_1.Text
-#: /Game/Widgets/W_AudioSettings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_1.Text
-msgctxt ",BFCA6BC0469AECD16986ED855D15B79F"
-msgid "// it's still broken alright? i can't figure it out yet \\\\"
+msgid "[Please note that some credits may be missing; All the song's credit goes to their original Artist and not me]\r\n[SOME SONGS ARE DISABLED OR MUTED TO PREVENT COPYRIGHT PROBLEMS, WILL FIX!!!]\r\n\r\nSCP 3008 - Monday [Uglyburger0]\r\nSCP 3008 - Tuesday [Uglyburger0]\r\nSCP 3008 - Wednesday [Uglyburger0]\r\nSCP 3008 - Thursday [Uglyburger0]\r\nSCP 3008 - Friday [Uglyburger0]\r\nSCP 3008 - Saturday [Uglyburger0]\r\nSCP 3008 - Sunday [Uglyburger0]\r\nohio music [Spongebob Squarepants Production Music - Comic Walk]\r\nDifferent Heaven - Nekozilla [NCS RELEASE]\r\nLensko - Circles [NCS RELEASE]\r\nLensko - Let's Go [NCS RELEASE]\r\nLensko - Cetus [NCS RELEASE]\r\n\r\nDisabled soundtracks due to legal issues :(\r\nBreaking Bad Main Title Theme [Extended]\r\n\r\nFortnite Classic Lobby Music\r\n\r\nKahoot! - Main Theme\r\nKahoot! - The 20 Second Answer Medley\r\nKahoot! 20 Second Countdown #3 Music [Couldn't find the original name sorry :( ]\r\n\r\nPortal 1 - Still Alive [Radio]\r\nPortal 1 - Still Alive [Radio, but compressed]\r\n\r\n\r\nBad Style - Time Back"
 msgstr ""
 
 #. Key:	C0137CB74F75BA0C00B82A9743127E43
-#. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_ResSlider.W_TT_ResSlider_C:WidgetTree.TextBlock_0.Text
-#: /Game/Widgets/W_Tooltips/W_TT_ResSlider.W_TT_ResSlider_C:WidgetTree.TextBlock_0.Text
+#. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_ResSlider.W_TT_ResSlider_C:WidgetTree.text.Text
+#: /Game/Widgets/W_Tooltips/W_TT_ResSlider.W_TT_ResSlider_C:WidgetTree.text.Text
 msgctxt ",C0137CB74F75BA0C00B82A9743127E43"
-msgid "The Resolution Scaling slider was removed starting 0.0.11, to experiment with the new tech by AMD. The game IS NOT sponsored by them because it would have Multiplayer and a Steam page by now."
+msgid "The Resolution Scaling slider was removed starting 0.0.12, to experiment with the new tech by AMD."
 msgstr ""
 
-#. Key:	C032988B4159487CF0E5F8A075B843FA
-#. SourceLocation:	/Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.TextBlock.Text
-#: /Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.TextBlock.Text
-msgctxt ",C032988B4159487CF0E5F8A075B843FA"
-msgid "Restart"
+#. Key:	C2B1069C47F19885F23E9C944819E6AF
+#. SourceLocation:	/Game/Widgets/W_Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_5.Text
+#: /Game/Widgets/W_Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_5.Text
+msgctxt ",C2B1069C47F19885F23E9C944819E6AF"
+msgid "OH NO"
 msgstr ""
 
 #. Key:	C44E428641D462DAC88057BB03F7CB08
-#. SourceLocation:	/Game/Widgets/W_Tooltips/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
-#: /Game/Widgets/W_Tooltips/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
+#. SourceLocation:	/Game/Widgets/W_Warn/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
+#: /Game/Widgets/W_Warn/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
 msgctxt ",C44E428641D462DAC88057BB03F7CB08"
 msgid "This doesn't look so safe, perhaps I should head the other way."
-msgstr ""
-
-#. Key:	C4B689744013C1274C2C0E987AFCACE1
-#. SourceLocation:	/Game/Widgets/W_Achievement/W_AchTotal.W_AchTotal_C:WidgetTree.ProgressText.Text
-#: /Game/Widgets/W_Achievement/W_AchTotal.W_AchTotal_C:WidgetTree.ProgressText.Text
-msgctxt ",C4B689744013C1274C2C0E987AFCACE1"
-msgid "10/100 (10%)"
-msgstr ""
-
-#. Key:	C50592CD4BBA831AB073B49A630F9561
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_16.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_16.Text
-msgctxt ",C50592CD4BBA831AB073B49A630F9561"
-msgid "Low"
 msgstr ""
 
 #. Key:	C52482A143AE40C9447C308BFBD62743
@@ -1686,13 +671,6 @@ msgctxt ",C52482A143AE40C9447C308BFBD62743"
 msgid "Hold C to zoom."
 msgstr ""
 
-#. Key:	C64865914BC6514F1F378FA2AE92180E
-#. SourceLocation:	/Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock.Text
-#: /Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock.Text
-msgctxt ",C64865914BC6514F1F378FA2AE92180E"
-msgid "\"Hi there, would you like to sign my petition?\""
-msgstr ""
-
 #. Key:	C6C72E264AD60998C559F4BB047B5A4F
 #. SourceLocation:	/Game/Widgets/W_DelDiag/W_DelAnim.W_DelAnim_C:ExecuteUbergraph_W_DelAnim [Script Bytecode]
 #: /Game/Widgets/W_DelDiag/W_DelAnim.W_DelAnim_C:ExecuteUbergraph_W_DelAnim [Script Bytecode]
@@ -1700,60 +678,18 @@ msgctxt ",C6C72E264AD60998C559F4BB047B5A4F"
 msgid "OK!"
 msgstr ""
 
-#. Key:	C6D278B54A3477E6BA8067BFD76B5345
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_17.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_17.Text
-msgctxt ",C6D278B54A3477E6BA8067BFD76B5345"
-msgid "Medium"
+#. Key:	C730DC634CD927406FCFCC9E65380406
+#. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn.W_Respawn_C:WidgetTree.Tip.Text
+#: /Game/Widgets/W_Respawn/W_Respawn.W_Respawn_C:WidgetTree.Tip.Text
+msgctxt ",C730DC634CD927406FCFCC9E65380406"
+msgid "Tip: Smilers hate light"
 msgstr ""
 
-#. Key:	C8FAEBD347A732533F3E5F8841A257A6
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_32.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_32.Text
-msgctxt ",C8FAEBD347A732533F3E5F8841A257A6"
-msgid "Medium"
-msgstr ""
-
-#. Key:	C90C1EA846E4B9093B5AAFBC234A9CCA
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_11.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_11.Text
-msgctxt ",C90C1EA846E4B9093B5AAFBC234A9CCA"
-msgid "Motion Blur"
-msgstr ""
-
-#. Key:	CCF2BEEF4AE32A340FC908A744FD2CAE
-#. SourceLocation:	/Game/Widgets/W_LVRunEscape/W_LVRunEscape.W_LVRunEscape_C:WidgetTree.tip3.Text
-#: /Game/Widgets/W_LVRunEscape/W_LVRunEscape.W_LVRunEscape_C:WidgetTree.tip3.Text
-msgctxt ",CCF2BEEF4AE32A340FC908A744FD2CAE"
-msgid "Tip 3: Run, do not look back... only if you have time."
-msgstr ""
-
-#. Key:	CD4B64FD4B504663AB8E6A9195D4C156
-#. SourceLocation:	/Game/Widgets/W_LVRunEscape/W_LVRunEscape.W_LVRunEscape_C:WidgetTree.desc.Text
-#: /Game/Widgets/W_LVRunEscape/W_LVRunEscape.W_LVRunEscape_C:WidgetTree.desc.Text
-msgctxt ",CD4B64FD4B504663AB8E6A9195D4C156"
-msgid "(\"WHY DID I DIE how was i supposed to know?\")"
-msgstr ""
-
-#. Key:	CF5F90264D1D69D85C17428D3CAE36BE
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_25.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_25.Text
-msgctxt ",CF5F90264D1D69D85C17428D3CAE36BE"
-msgid "Epic"
-msgstr ""
-
-#. Key:	CFDDE3244C597F18B40801BF5099906E
-#. SourceLocation:	/Game/Widgets/W_AudioSettings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_3.Text
-#: /Game/Widgets/W_AudioSettings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_3.Text
-msgctxt ",CFDDE3244C597F18B40801BF5099906E"
-msgid "to do >>"
-msgstr ""
-
-#. Key:	D02790D3455C59CF228013A881859793
-#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_3.Text
-#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_3.Text
-msgctxt ",D02790D3455C59CF228013A881859793"
-msgid "The Memerooms"
+#. Key:	C8D736EA4C22F2F05FE266B279162222
+#. SourceLocation:	/Game/Widgets/Sprint.Sprint_C:WidgetTree.TextBlock_0.Text
+#: /Game/Widgets/Sprint.Sprint_C:WidgetTree.TextBlock_0.Text
+msgctxt ",C8D736EA4C22F2F05FE266B279162222"
+msgid "Stamina regenerates once you stop walking."
 msgstr ""
 
 #. Key:	D15B597D4058002533DF31ADCF412E1E
@@ -1777,46 +713,11 @@ msgctxt ",D1D674104F4C21689620668BCFE3B644"
 msgid "After resetting, \r\nyou're going to be sent back\r\nin Level 0"
 msgstr ""
 
-#. Key:	D2104B664E3A0F87D47294A1DBE46A3E
-#. SourceLocation:	/Game/Widgets/W_PauseMenu/ControlsWidget.ControlsWidget_C:WidgetTree.TextBlock.Text
-#: /Game/Widgets/W_PauseMenu/ControlsWidget.ControlsWidget_C:WidgetTree.TextBlock.Text
-msgctxt ",D2104B664E3A0F87D47294A1DBE46A3E"
-msgid "Development"
-msgstr ""
-
-#. Key:	D2A242C24E70745E4E393992FBD7505C
-#. SourceLocation:	/Game/Widgets/W_Achievement/W_AchUnlock.W_AchUnlock_C:WidgetTree.Description.Text
-#: /Game/Widgets/W_Achievement/W_AchUnlock.W_AchUnlock_C:WidgetTree.Description.Text
-msgctxt ",D2A242C24E70745E4E393992FBD7505C"
-msgid "Description"
-msgstr ""
-
-#. Key:	D4049D7149BA177010FA768D126FB625
-#. SourceLocation:	/Game/Widgets/W_DebV2.W_DebV2_C:WidgetTree.gpu_name.Text
-#: /Game/Widgets/W_DebV2.W_DebV2_C:WidgetTree.gpu_name.Text
-msgctxt ",D4049D7149BA177010FA768D126FB625"
-msgid "GPU Name"
-msgstr ""
-
 #. Key:	D951832E46845B92530ACCAF201E97AF
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_2.Text
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_2.Text
 msgctxt ",D951832E46845B92530ACCAF201E97AF"
 msgid "Motion Blur"
-msgstr ""
-
-#. Key:	DA65B42D4D7D1FA19EDA20AA74947FC7
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_21.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_21.Text
-msgctxt ",DA65B42D4D7D1FA19EDA20AA74947FC7"
-msgid "Anti-Aliasing"
-msgstr ""
-
-#. Key:	DB6C5CA94ECE78383BBBB4A538323C90
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_18.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_18.Text
-msgctxt ",DB6C5CA94ECE78383BBBB4A538323C90"
-msgid "High"
 msgstr ""
 
 #. Key:	DC2B18ED476238EB89F86FB158599B0D
@@ -1826,11 +727,11 @@ msgctxt ",DC2B18ED476238EB89F86FB158599B0D"
 msgid "What's the newest stuff?"
 msgstr ""
 
-#. Key:	DD2A46034E6AF8B81A7433B895296D1B
-#. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn_LV0.W_Respawn_LV0_C:WidgetTree.TextBlock.Text
-#: /Game/Widgets/W_Respawn/W_Respawn_LV0.W_Respawn_LV0_C:WidgetTree.TextBlock.Text
-msgctxt ",DD2A46034E6AF8B81A7433B895296D1B"
-msgid "Respawn"
+#. Key:	DD76F759490FD98E5ABD1A8228B64E4C
+#. SourceLocation:	/Game/Widgets/W_Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_1.Text
+#: /Game/Widgets/W_Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_1.Text
+msgctxt ",DD76F759490FD98E5ABD1A8228B64E4C"
+msgid "RUN!"
 msgstr ""
 
 #. Key:	DE8A51A84BF234B25D1D5A956ECC96B0
@@ -1840,46 +741,11 @@ msgctxt ",DE8A51A84BF234B25D1D5A956ECC96B0"
 msgid "Main Menu Music"
 msgstr ""
 
-#. Key:	DF1D5F264212AB52114335B1D47B5C6B
-#. SourceLocation:	/Game/Widgets/W_Prohibited/W_PhbitedSubLevels.W_PhbitedSubLevels_C:WidgetTree.TextBlock_0.Text
-#: /Game/Widgets/W_Prohibited/W_PhbitedSubLevels.W_PhbitedSubLevels_C:WidgetTree.TextBlock_0.Text
-msgctxt ",DF1D5F264212AB52114335B1D47B5C6B"
-msgid "Not today"
-msgstr ""
-
-#. Key:	DFF62B204FAE2CF4EBF8B8B840578EB5
-#. SourceLocation:	/Game/Widgets/W_DebV2.W_DebV2_C:ExecuteUbergraph_W_DebV2 [Script Bytecode]
-#: /Game/Widgets/W_DebV2.W_DebV2_C:ExecuteUbergraph_W_DebV2 [Script Bytecode]
-msgctxt ",DFF62B204FAE2CF4EBF8B8B840578EB5"
-msgid "Usage: {0}%"
-msgstr ""
-
 #. Key:	DFFB4F734FA4835D102B11803100B178
 #. SourceLocation:	/Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:ExecuteUbergraph_PauseMenuWidget [Script Bytecode]
 #: /Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:ExecuteUbergraph_PauseMenuWidget [Script Bytecode]
 msgctxt ",DFFB4F734FA4835D102B11803100B178"
 msgid "Debug Mode"
-msgstr ""
-
-#. Key:	E1B2DAEC4F5EAA9F63BF699A09F3591A
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_11.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_11.Text
-msgctxt ",E1B2DAEC4F5EAA9F63BF699A09F3591A"
-msgid "Motion Blur"
-msgstr ""
-
-#. Key:	E3A550744E0B4F56AE8F81B22089A3A1
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_8.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_8.Text
-msgctxt ",E3A550744E0B4F56AE8F81B22089A3A1"
-msgid "VSync"
-msgstr ""
-
-#. Key:	E4235CD84A4FB65D2DD3D59F11D10500
-#. SourceLocation:	/Game/Widgets/W_Achievement/W_AchUnlock.W_AchUnlock_C:WidgetTree.Title.Text
-#: /Game/Widgets/W_Achievement/W_AchUnlock.W_AchUnlock_C:WidgetTree.Title.Text
-msgctxt ",E4235CD84A4FB65D2DD3D59F11D10500"
-msgid "Name"
 msgstr ""
 
 #. Key:	E4570EE54228B31D26A0CAB55B987852
@@ -1889,32 +755,18 @@ msgctxt ",E4570EE54228B31D26A0CAB55B987852"
 msgid "AMD FidelityFX Super Resolution 1.0"
 msgstr ""
 
-#. Key:	E4F2238E4CCA07822C5BD688EF80583E
-#. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_Screensaver.W_TT_Screensaver_C:WidgetTree.TextBlock_1.Text
-#: /Game/Widgets/W_Tooltips/W_TT_Screensaver.W_TT_Screensaver_C:WidgetTree.TextBlock_1.Text
-msgctxt ",E4F2238E4CCA07822C5BD688EF80583E"
-msgid "Screensaver Mode"
+#. Key:	E98CC95C4741BD618971C5ACD6D3E040
+#. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn.W_Respawn_C:WidgetTree.TextBlock_0.Text
+#: /Game/Widgets/W_Respawn/W_Respawn.W_Respawn_C:WidgetTree.TextBlock_0.Text
+msgctxt ",E98CC95C4741BD618971C5ACD6D3E040"
+msgid "Go to main menu"
 msgstr ""
 
-#. Key:	E61D6169435E6EC37904929410D5FE3F
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.BRUv.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.BRUv.Text
-msgctxt ",E61D6169435E6EC37904929410D5FE3F"
-msgid "FPS Stats Toggle"
-msgstr ""
-
-#. Key:	E8BB9D144036A4A312E82E9A1657DAC3
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_30.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_30.Text
-msgctxt ",E8BB9D144036A4A312E82E9A1657DAC3"
-msgid "Post-Processing"
-msgstr ""
-
-#. Key:	ECD93DA74D860B3D90EBD78415596CEE
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_27.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_27.Text
-msgctxt ",ECD93DA74D860B3D90EBD78415596CEE"
-msgid "Medium"
+#. Key:	EC1EEF89400FD7017791B9A576C40873
+#. SourceLocation:	/Game/Widgets/W_Warn/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock_7.Text
+#: /Game/Widgets/W_Warn/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock_7.Text
+msgctxt ",EC1EEF89400FD7017791B9A576C40873"
+msgid "Slow Performance"
 msgstr ""
 
 #. Key:	ED4912F443969BC63B8E05A1BB01BBEE
@@ -1931,46 +783,18 @@ msgctxt ",EE5F29BF4EBC230821B511A0D7089D30"
 msgid "After resetting,\r\nthe game will reload."
 msgstr ""
 
-#. Key:	EE8A2C6F48CDEAE1D24093B471743B52
-#. SourceLocation:	/Game/Widgets/W_DelDiag/W_DelDiag.W_DelDiag_C:ExecuteUbergraph_W_DelDiag [Script Bytecode]
-#: /Game/Widgets/W_DelDiag/W_DelDiag.W_DelDiag_C:ExecuteUbergraph_W_DelDiag [Script Bytecode]
-msgctxt ",EE8A2C6F48CDEAE1D24093B471743B52"
-msgid "Yes"
-msgstr ""
-
-#. Key:	EF146197499746D54EE4B8A4F62F7C5D
-#. SourceLocation:	/Game/Widgets/FadeOut.FadeOut_C:WidgetTree.TextBlock_0.Text
-#: /Game/Widgets/FadeOut.FadeOut_C:WidgetTree.TextBlock_0.Text
-msgctxt ",EF146197499746D54EE4B8A4F62F7C5D"
-msgid "Loading..."
-msgstr ""
-
 #. Key:	EF3FC092451EFD4AAD440B9F56E9355C
 #. SourceLocation:	/Game/Widgets/W_VersionHighlights/W_VersionHighlights.W_VersionHighlights_C:WidgetTree.TextBlock_69.Text
 #: /Game/Widgets/W_VersionHighlights/W_VersionHighlights.W_VersionHighlights_C:WidgetTree.TextBlock_69.Text
 msgctxt ",EF3FC092451EFD4AAD440B9F56E9355C"
-msgid "v0.0.11 Alpha - //DATE"
-msgstr ""
-
-#. Key:	F079509D4F08C2E0DC325AA4134636D0
-#. SourceLocation:	/Game/Widgets/W_EasterEgg1/EasterEgg1.EasterEgg1_C:WidgetTree.TextBlock_0.Text
-#: /Game/Widgets/W_EasterEgg1/EasterEgg1.EasterEgg1_C:WidgetTree.TextBlock_0.Text
-msgctxt ",F079509D4F08C2E0DC325AA4134636D0"
-msgid "Continue"
+msgid "v0.0.12 Alpha - 13th of October 2023"
 msgstr ""
 
 #. Key:	F137827D4342A4959483FCBCC350B9DE
-#. SourceLocation:	/Game/Widgets/W_Tooltips/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
-#: /Game/Widgets/W_Tooltips/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
+#. SourceLocation:	/Game/Widgets/W_Warn/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
+#: /Game/Widgets/W_Warn/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
 msgctxt ",F137827D4342A4959483FCBCC350B9DE"
 msgid "Yeah, this doesn't look so safe..."
-msgstr ""
-
-#. Key:	F1B1B7954839DCA1DF39709CC8CA2AE7
-#. SourceLocation:	/Game/Widgets/W_FakeLo/W_FakeLoading.W_FakeLoading_C:WidgetTree.TextBlock_0.Text
-#: /Game/Widgets/W_FakeLo/W_FakeLoading.W_FakeLoading_C:WidgetTree.TextBlock_0.Text
-msgctxt ",F1B1B7954839DCA1DF39709CC8CA2AE7"
-msgid "Yeah uhh, this is taking more than expected. Give me a sec..."
 msgstr ""
 
 #. Key:	F1F021994A137C5A23E7B1BEF926B6FD
@@ -1980,25 +804,18 @@ msgctxt ",F1F021994A137C5A23E7B1BEF926B6FD"
 msgid "Locked, finish Classic GM once to unlock."
 msgstr ""
 
-#. Key:	F2E0FE4B45100DD2A61C3B9E5B029A6F
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_33.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.TextBlock_33.Text
-msgctxt ",F2E0FE4B45100DD2A61C3B9E5B029A6F"
-msgid "High"
-msgstr ""
-
-#. Key:	F42DFD4B41122E77F73808AF9431E217
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_25.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_25.Text
-msgctxt ",F42DFD4B41122E77F73808AF9431E217"
-msgid "Epic"
-msgstr ""
-
 #. Key:	F454C5E04355473BCC8D48AECB8C9028
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_30.Text
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_30.Text
 msgctxt ",F454C5E04355473BCC8D48AECB8C9028"
 msgid "Post-Processing"
+msgstr ""
+
+#. Key:	F59CB47648D9C48ACB674BA8CE27352F
+#. SourceLocation:	/Game/Widgets/W_VersionHighlights/W_VersionHighlights.W_VersionHighlights_C:WidgetTree.TextBlock.Text
+#: /Game/Widgets/W_VersionHighlights/W_VersionHighlights.W_VersionHighlights_C:WidgetTree.TextBlock.Text
+msgctxt ",F59CB47648D9C48ACB674BA8CE27352F"
+msgid "> 2 New Entities\r\n> 3 New Levels\r\n> The Memerooms\r\n> Refined UI\r\n\r\n(this is a shortened version of the changelog, please check Steam or GitHub for a more in-depth changelog)"
 msgstr ""
 
 #. Key:	F64B0AE84B3F7AE51702F4BD80D1622B
@@ -2008,34 +825,6 @@ msgctxt ",F64B0AE84B3F7AE51702F4BD80D1622B"
 msgid "I just caught you in 4K trying to bypass The Memerooms, I don't want to be mean to you but you have to play how it was intended.\r\n\r\nLooks like your save says you didn't finish the Classic Gamemode yet. Please come back when you finish the game at least once! (Classic Gamemode)"
 msgstr ""
 
-#. Key:	F70C793A4F5A142B441FBF9181874C5C
-#. SourceLocation:	/Game/Widgets/W_DebV2.W_DebV2_C:WidgetTree.cpuusage.Text
-#: /Game/Widgets/W_DebV2.W_DebV2_C:WidgetTree.cpuusage.Text
-msgctxt ",F70C793A4F5A142B441FBF9181874C5C"
-msgid "CPU Usage"
-msgstr ""
-
-#. Key:	F73B67A643C095A52BDCCCBE8482E393
-#. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_2.Text
-#: /Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_2.Text
-msgctxt ",F73B67A643C095A52BDCCCBE8482E393"
-msgid "// VERSION GOES HERE //"
-msgstr ""
-
-#. Key:	F7A7147F494D65FCD9A7DCA5279011AA
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_32.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_bak.W_GraphicMenu_bak_C:WidgetTree.TextBlock_32.Text
-msgctxt ",F7A7147F494D65FCD9A7DCA5279011AA"
-msgid "Medium"
-msgstr ""
-
-#. Key:	F849148A4D8FF71ACBD549A760A67188
-#. SourceLocation:	/Game/Widgets/W_DebV2.W_DebV2_C:WidgetTree.gpu_driver.Text
-#: /Game/Widgets/W_DebV2.W_DebV2_C:WidgetTree.gpu_driver.Text
-msgctxt ",F849148A4D8FF71ACBD549A760A67188"
-msgid "GPU Driver"
-msgstr ""
-
 #. Key:	F912874C4BF4F8E305532C8245A2F95D
 #. SourceLocation:	/Game/Widgets/W_Screeensaver/W_SS_InitDIal.W_SS_InitDIal_C:WidgetTree.TextBlock_2.Text
 #: /Game/Widgets/W_Screeensaver/W_SS_InitDIal.W_SS_InitDIal_C:WidgetTree.TextBlock_2.Text
@@ -2043,32 +832,11 @@ msgctxt ",F912874C4BF4F8E305532C8245A2F95D"
 msgid "Cancel"
 msgstr ""
 
-#. Key:	FBF54C0F43437453EFE95EABB3C467EF
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_11.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_cons.W_GraphicMenu_cons_C:WidgetTree.TextBlock_11.Text
-msgctxt ",FBF54C0F43437453EFE95EABB3C467EF"
-msgid "Motion Blur"
-msgstr ""
-
 #. Key:	FC12A09345F8A4AAF7DD0E861BC169BB
-#. SourceLocation:	/Game/Widgets/W_Tooltips/W_PowerWarn.W_PowerWarn_C:WidgetTree.Text.Text
-#: /Game/Widgets/W_Tooltips/W_PowerWarn.W_PowerWarn_C:WidgetTree.Text.Text
+#. SourceLocation:	/Game/Widgets/W_Warn/W_PowerWarn.W_PowerWarn_C:WidgetTree.Text.Text
+#: /Game/Widgets/W_Warn/W_PowerWarn.W_PowerWarn_C:WidgetTree.Text.Text
 msgctxt ",FC12A09345F8A4AAF7DD0E861BC169BB"
 msgid "I should restore the power first."
-msgstr ""
-
-#. Key:	FD7934E94822A1175DD498970260EE18
-#. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.BRUv.Text
-#: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu_PauseOLD.W_GraphicMenu_PauseOLD_C:WidgetTree.BRUv.Text
-msgctxt ",FD7934E94822A1175DD498970260EE18"
-msgid "Toggle FPS Counter"
-msgstr ""
-
-#. Key:	FE1B6E874FA303D513285488670CD5A2
-#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_7.Text
-#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_7.Text
-msgctxt ",FE1B6E874FA303D513285488670CD5A2"
-msgid "Unused Levels"
 msgstr ""
 
 #. Key:	FF3BB15F42529D8EBBEB79B0A77DFAEA
@@ -2090,5 +858,320 @@ msgstr ""
 #: /Game/Widgets/W_DelDiag/W_DelAnim.W_DelAnim_C:WidgetTree.TextBlock_0.Text
 msgctxt ",FF8568A14666BA939243EBBE23CBE269"
 msgid "Give me a sec..."
+msgstr ""
+
+#. Key:	02ED8B414F72956E478E5F837A952E5C
+#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_0.Text
+#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_0.Text
+msgctxt "Game,02ED8B414F72956E478E5F837A952E5C"
+msgid "Gamemodes"
+msgstr ""
+
+#. Key:	03EDA3DD4B9F6D070C0A4B9FD328A778
+#. SourceLocation:	/Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock_0.Text
+#: /Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock_0.Text
+msgctxt "Game,03EDA3DD4B9F6D070C0A4B9FD328A778"
+msgid "Screw you,\r\nnext page please!"
+msgstr ""
+
+#. Key:	0654F931446D23D278D621B308E0B793
+#. SourceLocation:	/Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.TextBlock_85.Text
+#: /Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.TextBlock_85.Text
+msgctxt "Game,0654F931446D23D278D621B308E0B793"
+msgid "You are now in Debug Mode"
+msgstr ""
+
+#. Key:	0B43218A46B8D314BD98588656340D03
+#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_12.Text
+#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_12.Text
+msgctxt "Game,0B43218A46B8D314BD98588656340D03"
+msgid "Mute Music"
+msgstr ""
+
+#. Key:	11ACA0D04530BCA72C3768B9C083A316
+#. SourceLocation:	/Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.TextBlock_2.Text
+#: /Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.TextBlock_2.Text
+msgctxt "Game,11ACA0D04530BCA72C3768B9C083A316"
+msgid "Resume"
+msgstr ""
+
+#. Key:	13BBB4A94D31711682888093EBD5364D
+#. SourceLocation:	/Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.TextBlock_1.Text
+#: /Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.TextBlock_1.Text
+msgctxt "Game,13BBB4A94D31711682888093EBD5364D"
+msgid "Quit to main menu"
+msgstr ""
+
+#. Key:	14AE0EA74173F150B1FB849A5C6F2D1A
+#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_10.Text
+#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_10.Text
+msgctxt "Game,14AE0EA74173F150B1FB849A5C6F2D1A"
+msgid "M_Intro"
+msgstr ""
+
+#. Key:	155F7E6C488B71EF11190F9715134915
+#. SourceLocation:	/Game/Widgets/FadeOut.FadeOut_C:WidgetTree.TextBlock_0.Text
+#: /Game/Widgets/FadeOut.FadeOut_C:WidgetTree.TextBlock_0.Text
+msgctxt "Game,155F7E6C488B71EF11190F9715134915"
+msgid "Loading..."
+msgstr ""
+
+#. Key:	256064344289478637DF8AA0DA120257
+#. SourceLocation:	/Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_1.Text
+#: /Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_1.Text
+msgctxt "Game,256064344289478637DF8AA0DA120257"
+msgid "Well.. I guess that's it for now.\r\nYou've reached the end of this version, feel free to explore more, quit, or do whatever you want.\r\n\r\nThank you for playing the game, and perhaps fill out that survey form because apparently, your opinion matters."
+msgstr ""
+
+#. Key:	2A1B5DED49C6C258E7F3AC81A0B422F1
+#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock.Text
+#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock.Text
+msgctxt "Game,2A1B5DED49C6C258E7F3AC81A0B422F1"
+msgid "Classic"
+msgstr ""
+
+#. Key:	2A92293E4560C3EE6AD404AB625FAA4E
+#. SourceLocation:	/Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_3.Text
+#: /Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_3.Text
+msgctxt "Game,2A92293E4560C3EE6AD404AB625FAA4E"
+msgid "Restart\r\nlevel"
+msgstr ""
+
+#. Key:	3E949C5E491BA028AAC881ADBA81C6FF
+#. SourceLocation:	/Game/Widgets/FadeOut.FadeOut_C:WidgetTree.TextBlock_2.Text
+#: /Game/Widgets/FadeOut.FadeOut_C:WidgetTree.TextBlock_2.Text
+msgctxt "Game,3E949C5E491BA028AAC881ADBA81C6FF"
+msgid "Press F to turn on\r\nyour flashlight"
+msgstr ""
+
+#. Key:	46EAC7E347E087B36E30A8B2E18E5F74
+#. SourceLocation:	/Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock_1.Text
+#: /Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock_1.Text
+msgctxt "Game,46EAC7E347E087B36E30A8B2E18E5F74"
+msgid "Looks like you're done here. Would you like to contribute to the game & answer to a 5-minute survey? Come on, it's not gonna hurt, be honest as possible if you want :)"
+msgstr ""
+
+#. Key:	4921502945E5079A0867B59BBCB1C063
+#. SourceLocation:	/Game/Widgets/W_Achievement/W_AchPage.W_AchPage_C:WidgetTree.TextBlock_50.Text
+#: /Game/Widgets/W_Achievement/W_AchPage.W_AchPage_C:WidgetTree.TextBlock_50.Text
+msgctxt "Game,4921502945E5079A0867B59BBCB1C063"
+msgid "<< Back to Main Menu"
+msgstr ""
+
+#. Key:	4A7E3B4543B1E90E0F55B7B8C9EF6864
+#. SourceLocation:	/Game/Widgets/FadeOut.FadeOut_C:WidgetTree.TextBlock_1.Text
+#: /Game/Widgets/FadeOut.FadeOut_C:WidgetTree.TextBlock_1.Text
+msgctxt "Game,4A7E3B4543B1E90E0F55B7B8C9EF6864"
+msgid "Hold V to look behind you."
+msgstr ""
+
+#. Key:	4C8AA8F349D731711BF25ABAB9A3F1AB
+#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_8.Text
+#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_8.Text
+msgctxt "Game,4C8AA8F349D731711BF25ABAB9A3F1AB"
+msgid "'Unused Levels' are a part of this game's big ass size. Here you find a list of playable, unused levels, that didn't made it into the Classic Gamemode or any gamemode at all.\r\n\r\nList may change :)\r\n\r\nNote: Discord RPC *may* not be visible because I'm too lazy or I didn't want to add it into the level"
+msgstr ""
+
+#. Key:	53AAD8B342A5E68B7751B6AEEDE9FE65
+#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_145.Text
+#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_145.Text
+msgctxt "Game,53AAD8B342A5E68B7751B6AEEDE9FE65"
+msgid "M_Poolrooms"
+msgstr ""
+
+#. Key:	54EB8E24458BB63DB97315A74E25F00A
+#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_11.Text
+#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_11.Text
+msgctxt "Game,54EB8E24458BB63DB97315A74E25F00A"
+msgid "Even though I had no place to put Gamemode in title, this is The Memerooms™. A goofy ahh refined experience of Budget Backrooms.\r\n\r\nI've inserted 21st century humor (probably unfunny) into the game, finally, after one year in development I've finally wanted to release *ONE* gamemode. \r\n\r\nModifiers:\r\n- Howlers? Out, replaced with NextBots chasing you like they're after a rare NFT.\r\n- Stamina endless like the queue for toilet paper in the early days of the pandemic.\r\n- Player Speed faster than my dad going for milk.\r\n\r\n[UNFUNNY WARNING, PROCEED WITH CAUTION! SOME CONTENT MAY BE UNFINISHED]"
+msgstr ""
+
+#. Key:	559AA7AF406F7FF3D67C5497BE1AEC61
+#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_193.Text
+#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_193.Text
+msgctxt "Game,559AA7AF406F7FF3D67C5497BE1AEC61"
+msgid "Play Gamemode"
+msgstr ""
+
+#. Key:	5B01E0A64686673A6F12F6A6F25814B9
+#. SourceLocation:	/Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_4.Text
+#: /Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_4.Text
+msgctxt "Game,5B01E0A64686673A6F12F6A6F25814B9"
+msgid "That's all folks!"
+msgstr ""
+
+#. Key:	606805C340EDA7C57DF31796C1F0897F
+#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_1.Text
+#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_1.Text
+msgctxt "Game,606805C340EDA7C57DF31796C1F0897F"
+msgid "Hardcore"
+msgstr ""
+
+#. Key:	6366616F42DD42ACE70F62B1AA6F7905
+#. SourceLocation:	/Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.title.Text
+#: /Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.title.Text
+msgctxt "Game,6366616F42DD42ACE70F62B1AA6F7905"
+msgid "Paused"
+msgstr ""
+
+#. Key:	6491EE9E410A07B1F04868BEE7E68849
+#. SourceLocation:	/Game/Widgets/W_GeneralSettings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock.Text
+#: /Game/Widgets/W_GeneralSettings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock.Text
+msgctxt "Game,6491EE9E410A07B1F04868BEE7E68849"
+msgid "Camera Sensitivity"
+msgstr ""
+
+#. Key:	6DBAF3F647996966C7B8E5BDBDDC097C
+#. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn_LV0.W_Respawn_LV0_C:WidgetTree.TextBlock.Text
+#: /Game/Widgets/W_Respawn/W_Respawn_LV0.W_Respawn_LV0_C:WidgetTree.TextBlock.Text
+msgctxt "Game,6DBAF3F647996966C7B8E5BDBDDC097C"
+msgid "Respawn"
+msgstr ""
+
+#. Key:	70777739430B6F2B780BA4BD11FE2205
+#. SourceLocation:	/Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.title_1.Text
+#: /Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.title_1.Text
+msgctxt "Game,70777739430B6F2B780BA4BD11FE2205"
+msgid "Playing..."
+msgstr ""
+
+#. Key:	7A69258444E514D225C222A10B62A023
+#. SourceLocation:	/Game/Widgets/FadeOut.FadeOut_C:WidgetTree.TextBlock.Text
+#: /Game/Widgets/FadeOut.FadeOut_C:WidgetTree.TextBlock.Text
+msgctxt "Game,7A69258444E514D225C222A10B62A023"
+msgid "Hold C to zoom."
+msgstr ""
+
+#. Key:	8A9C5A2B416C98E00E045F8C64BDFCA1
+#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_5.Text
+#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_5.Text
+msgctxt "Game,8A9C5A2B416C98E00E045F8C64BDFCA1"
+msgid "Classic Gamemode"
+msgstr ""
+
+#. Key:	929408BC45B96F3CC78507BD87C307DF
+#. SourceLocation:	/Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_2.Text
+#: /Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_2.Text
+msgctxt "Game,929408BC45B96F3CC78507BD87C307DF"
+msgid "Back to \r\nsurvey page"
+msgstr ""
+
+#. Key:	940CA13E452B66BA51291D884AE0A4AF
+#. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_Screensaver.W_TT_Screensaver_C:WidgetTree.TextBlock_1.Text
+#: /Game/Widgets/W_Tooltips/W_TT_Screensaver.W_TT_Screensaver_C:WidgetTree.TextBlock_1.Text
+msgctxt "Game,940CA13E452B66BA51291D884AE0A4AF"
+msgid "Screensaver Mode"
+msgstr ""
+
+#. Key:	95B266604DD6E813949537AC5B0EC1FC
+#. SourceLocation:	/Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock.Text
+#: /Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock.Text
+msgctxt "Game,95B266604DD6E813949537AC5B0EC1FC"
+msgid "Exit to \r\nmain menu"
+msgstr ""
+
+#. Key:	9F37AAB9470E6328A8C6478546C51F74
+#. SourceLocation:	/Game/Widgets/W_GeneralSettings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_1.Text
+#: /Game/Widgets/W_GeneralSettings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_1.Text
+msgctxt "Game,9F37AAB9470E6328A8C6478546C51F74"
+msgid "Work in progress; Some stuff may be broken, some stuff may work."
+msgstr ""
+
+#. Key:	A22F78484DDEF116D05FBCB66BB008C6
+#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_6.Text
+#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_6.Text
+msgctxt "Game,A22F78484DDEF116D05FBCB66BB008C6"
+msgid "Experience the Backrooms in its most authentic form with the Classic gamemode. Traverse through various levels and find the exit while encountering strange phenomena and otherworldly entities. The first level is guided by arrows on the walls, but beware of noclippable walls that lead to sub-levels. You're not alone in the Backrooms, so stay alert and keep moving."
+msgstr ""
+
+#. Key:	A97DE58E4F1FA713A36D5195C77F7283
+#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_4.Text
+#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_4.Text
+msgctxt "Game,A97DE58E4F1FA713A36D5195C77F7283"
+msgid "The Memerooms™"
+msgstr ""
+
+#. Key:	AD7DBA0043B70D71BC2B6083CD00F0DE
+#. SourceLocation:	/Game/Widgets/W_GeneralSettings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_192.Text
+#: /Game/Widgets/W_GeneralSettings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_192.Text
+msgctxt "Game,AD7DBA0043B70D71BC2B6083CD00F0DE"
+msgid "Delete Saved Data"
+msgstr ""
+
+#. Key:	AE37393348921D5E2025D7A42D566D9F
+#. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn_LV2.W_Respawn_LV2_C:WidgetTree.dead.Text
+#: /Game/Widgets/W_Respawn/W_Respawn_LV2.W_Respawn_LV2_C:WidgetTree.dead.Text
+msgctxt "Game,AE37393348921D5E2025D7A42D566D9F"
+msgid "You died"
+msgstr ""
+
+#. Key:	B1DD77C547FB9435B0A9D6BEDD089D2E
+#. SourceLocation:	/Game/Widgets/W_GeneralSettings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_0.Text
+#: /Game/Widgets/W_GeneralSettings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_0.Text
+msgctxt "Game,B1DD77C547FB9435B0A9D6BEDD089D2E"
+msgid "Miscellaneous Settings"
+msgstr ""
+
+#. Key:	BD2EE5214C90F96A537C17844C251221
+#. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn_LV0.W_Respawn_LV0_C:WidgetTree.dead.Text
+#: /Game/Widgets/W_Respawn/W_Respawn_LV0.W_Respawn_LV0_C:WidgetTree.dead.Text
+msgctxt "Game,BD2EE5214C90F96A537C17844C251221"
+msgid "You died"
+msgstr ""
+
+#. Key:	BF69D65743CE7FF7D0C1B08FDAF564BB
+#. SourceLocation:	/Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock_3.Text
+#: /Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock_3.Text
+msgctxt "Game,BF69D65743CE7FF7D0C1B08FDAF564BB"
+msgid "Yes sir!"
+msgstr ""
+
+#. Key:	C032988B4159487CF0E5F8A075B843FA
+#. SourceLocation:	/Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.TextBlock.Text
+#: /Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.TextBlock.Text
+msgctxt "Game,C032988B4159487CF0E5F8A075B843FA"
+msgid "Restart"
+msgstr ""
+
+#. Key:	C64865914BC6514F1F378FA2AE92180E
+#. SourceLocation:	/Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock.Text
+#: /Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock.Text
+msgctxt "Game,C64865914BC6514F1F378FA2AE92180E"
+msgid "\"Hi there, would you like to sign my petition?\""
+msgstr ""
+
+#. Key:	CA1128E14A8CB73FE79EE5BE09906B79
+#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_9.Text
+#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_9.Text
+msgctxt "Game,CA1128E14A8CB73FE79EE5BE09906B79"
+msgid "Lighting_Test"
+msgstr ""
+
+#. Key:	D02790D3455C59CF228013A881859793
+#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_3.Text
+#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_3.Text
+msgctxt "Game,D02790D3455C59CF228013A881859793"
+msgid "The Memerooms"
+msgstr ""
+
+#. Key:	DBAF3F647996966C7B8E5BDBDDC097C
+#. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn_LV2.W_Respawn_LV2_C:WidgetTree.TextBlock.Text
+#: /Game/Widgets/W_Respawn/W_Respawn_LV2.W_Respawn_LV2_C:WidgetTree.TextBlock.Text
+msgctxt "Game,DBAF3F647996966C7B8E5BDBDDC097C"
+msgid "Respawn"
+msgstr ""
+
+#. Key:	E98CC95C4741BD618971C5ACD6D3E040
+#. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn_LV0.W_Respawn_LV0_C:WidgetTree.TextBlock_0.Text
+#: /Game/Widgets/W_Respawn/W_Respawn_LV0.W_Respawn_LV0_C:WidgetTree.TextBlock_0.Text
+msgctxt "Game,E98CC95C4741BD618971C5ACD6D3E040"
+msgid "Go to main menu"
+msgstr ""
+
+#. Key:	FE1B6E874FA303D513285488670CD5A2
+#. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_2.Text
+#: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_2.Text
+msgctxt "Game,FE1B6E874FA303D513285488670CD5A2"
+msgid "Unused Levels"
 msgstr ""
 
