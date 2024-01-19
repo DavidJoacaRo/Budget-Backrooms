@@ -43,10 +43,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "StaticMeshEditorExtension",
-			"Enabled": true
-		},
-		{
 			"Name": "ActorPalette",
 			"Enabled": true
 		},
@@ -61,11 +57,6 @@
 		{
 			"Name": "BlueprintFileUtils",
 			"Enabled": true
-		},
-		{
-			"Name": "TypewriterPlugin",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/5796d04c2eba4cffa4bd7df597220967"
 		},
 		{
 			"Name": "AchievementSystem",
@@ -86,78 +77,12 @@
 			]
 		},
 		{
-			"Name": "AvfMedia",
-			"Enabled": false
-		},
-		{
 			"Name": "PanoramicCapture",
 			"Enabled": true
 		},
 		{
-			"Name": "AppleMoviePlayer",
-			"Enabled": false
-		},
-		{
-			"Name": "GoogleCloudMessaging",
-			"Enabled": false
-		},
-		{
 			"Name": "Reflex",
 			"Enabled": true
-		},
-		{
-			"Name": "PerformanceMonitor",
-			"Enabled": true
-		},
-		{
-			"Name": "PerforceSourceControl",
-			"Enabled": false
-		},
-		{
-			"Name": "PlasticSourceControl",
-			"Enabled": false
-		},
-		{
-			"Name": "OculusVR",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win32",
-				"Win64",
-				"Android"
-			]
-		},
-		{
-			"Name": "OpenXREyeTracker",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win32",
-				"Win64",
-				"Linux",
-				"HoloLens",
-				"Android"
-			]
-		},
-		{
-			"Name": "OpenXRHandTracking",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win32",
-				"Win64",
-				"Linux",
-				"HoloLens",
-				"Android"
-			]
-		},
-		{
-			"Name": "OpenXR",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win32",
-				"Win64",
-				"Linux",
-				"Android",
-				"HoloLens"
-			]
 		},
 		{
 			"Name": "SubversionSourceControl",
@@ -166,60 +91,6 @@
 		{
 			"Name": "Volumetrics",
 			"Enabled": true
-		},
-		{
-			"Name": "PixWinPlugin",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win64"
-			]
-		},
-		{
-			"Name": "CodeLiteSourceCodeAccess",
-			"Enabled": false
-		},
-		{
-			"Name": "ChaosClothEditor",
-			"Enabled": false
-		},
-		{
-			"Name": "ChaosCloth",
-			"Enabled": false
-		},
-		{
-			"Name": "PhysXVehicles",
-			"Enabled": false
-		},
-		{
-			"Name": "ChunkDownloader",
-			"Enabled": false
-		},
-		{
-			"Name": "MagicLeapMedia",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Lumin"
-			]
-		},
-		{
-			"Name": "LuminPlatformFeatures",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Lumin"
-			]
-		},
-		{
-			"Name": "MagicLeap",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Lumin",
-				"Mac",
-				"Win64"
-			]
-		},
-		{
-			"Name": "MLSDK",
-			"Enabled": false
 		},
 		{
 			"Name": "NetworkPredictionInsights",
@@ -275,10 +146,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Paper2D",
-			"Enabled": false
-		},
-		{
 			"Name": "WebMMoviePlayer",
 			"Enabled": false
 		},
@@ -287,44 +154,12 @@
 			"Enabled": true
 		},
 		{
-			"Name": "AudioCapture",
-			"Enabled": false
-		},
-		{
-			"Name": "MotoSynth",
-			"Enabled": false
-		},
-		{
-			"Name": "Synthesis",
-			"Enabled": false
-		},
-		{
 			"Name": "SoundVisualizations",
 			"Enabled": true
 		},
 		{
-			"Name": "CryptoKeys",
-			"Enabled": false
-		},
-		{
-			"Name": "KDevelopSourceCodeAccess",
-			"Enabled": false
-		},
-		{
-			"Name": "LauncherChunkInstaller",
-			"Enabled": false
-		},
-		{
-			"Name": "MacGraphicsSwitching",
-			"Enabled": false
-		},
-		{
 			"Name": "MultiUserClient",
 			"Enabled": true
-		},
-		{
-			"Name": "OnlineSubsystemNull",
-			"Enabled": false
 		},
 		{
 			"Name": "SlateInsights",
@@ -351,34 +186,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "SteamVR",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win32",
-				"Win64",
-				"Linux"
-			]
-		},
-		{
-			"Name": "AndroidMoviePlayer",
-			"Enabled": false
-		},
-		{
-			"Name": "AndroidDeviceProfileSelector",
-			"Enabled": false
-		},
-		{
-			"Name": "AndroidMedia",
-			"Enabled": false
-		},
-		{
-			"Name": "OnlineSubsystemGooglePlay",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Android"
-			]
-		},
-		{
 			"Name": "MovieRenderPipeline",
 			"Enabled": true
 		},
@@ -389,17 +196,6 @@
 		{
 			"Name": "WindowsMoviePlayer",
 			"Enabled": false
-		},
-		{
-			"Name": "WmfMedia",
-			"Enabled": false
-		},
-		{
-			"Name": "XCodeSourceCodeAccess",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Mac"
-			]
 		},
 		{
 			"Name": "Ansel",
@@ -413,11 +209,6 @@
 			"Name": "ConsoleEnhanced",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/86123c85a4474d609c5cef8a7fc5786b"
-		},
-		{
-			"Name": "UltimateWindowPolice",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/46a05b6e073c4bc2ac65d62e9ae1d1d6"
 		},
 		{
 			"Name": "FSR",
@@ -436,14 +227,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Firebase",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Android",
-				"IOS"
-			]
-		},
-		{
 			"Name": "LensDistortion",
 			"Enabled": true
 		},
@@ -452,36 +235,8 @@
 			"Enabled": true
 		},
 		{
-			"Name": "WinDualShock",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64"
-			]
-		},
-		{
-			"Name": "Xsolla",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e32fb866a54a4a36a2359fb7a5251b59"
-		},
-		{
-			"Name": "ArchVisCharacter",
-			"Enabled": false
-		},
-		{
 			"Name": "AssetSearch",
 			"Enabled": true
-		},
-		{
-			"Name": "OnlineFramework",
-			"Enabled": true
-		},
-		{
-			"Name": "OnlineSubsystemIOS",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"IOS",
-				"TVOS"
-			]
 		},
 		{
 			"Name": "CommonUI",
@@ -501,10 +256,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "SteamSockets",
-			"Enabled": true
-		},
-		{
 			"Name": "SteamShared",
 			"Enabled": true
 		},
@@ -515,15 +266,6 @@
 		{
 			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
-		},
-		{
-			"Name": "WebSocketNetworking",
-			"Enabled": true
-		},
-		{
-			"Name": "SteamCore",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5300c1dc33f74524bcad23bdeb9b2196"
 		},
 		{
 			"Name": "AdvancedSessions",
@@ -538,8 +280,12 @@
 			"Enabled": true
 		},
 		{
-			"Name": "WindowsDialogBox",
-			"Enabled": false
+			"Name": "OnlineFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "WebSocketNetworking",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [

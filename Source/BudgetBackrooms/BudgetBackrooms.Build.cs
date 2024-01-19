@@ -1,5 +1,3 @@
-
-
 using UnrealBuildTool;
 
 public class BudgetBackrooms : ModuleRules
@@ -14,7 +12,7 @@ public class BudgetBackrooms : ModuleRules
 		PrivateDependencyModuleNames.AddRange(new string[] { "Slate", "SlateCore", "RHI" });
 		
 		// Uncomment if you are using online features
-		// PrivateDependencyModuleNames.Add("OnlineSubsystem");
+		PrivateDependencyModuleNames.Add("OnlineSubsystem");
 
 		// To include OnlineSubsystemSteam, add it to the plugins section in your uproject file with the Enabled attribute set to true
 	}
