@@ -101,10 +101,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "NetworkPrediction",
-			"Enabled": true
-		},
-		{
 			"Name": "NiagaraExtras",
 			"Enabled": true
 		},
