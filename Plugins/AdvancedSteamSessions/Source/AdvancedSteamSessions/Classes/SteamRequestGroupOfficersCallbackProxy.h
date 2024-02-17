@@ -15,9 +15,9 @@
 #pragma warning(disable:4265) // SteamAPI CCallback< specifically, this warning is off by default but 4.17 turned it on....
 #endif
 
-#if PLATFORM_WINDOWS || PLATFORM_MAC || PLATFORM_LINUX
+#if STEAM_SDK_INSTALLED && (PLATFORM_WINDOWS || PLATFORM_MAC || PLATFORM_LINUX)
 
-#include "OnlineSubsystemSteam.h"
+//#include "OnlineSubsystemSteam.h"
 
 #pragma push_macro("ARRAY_COUNT")
 #undef ARRAY_COUNT
@@ -55,7 +55,7 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Online|SteamAPI|SteamGroups")
 		FBPUniqueNetId OfficerUniqueNetID; // Uint64 representation
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Online|SteamAPI|SteamGroups")
-	bool bIsOwner;
+		bool bIsOwner = false;
 
 };
 
@@ -87,7 +87,7 @@ class USteamRequestGroupOfficersCallbackProxy : public UOnlineBlueprintCallProxy
 
 private:
 
-#if PLATFORM_WINDOWS || PLATFORM_MAC || PLATFORM_LINUX
+#if STEAM_SDK_INSTALLED && (PLATFORM_WINDOWS || PLATFORM_MAC || PLATFORM_LINUX)
 	void OnRequestGroupOfficerDetails( ClanOfficerListResponse_t *pResult, bool bIOFailure);
 	CCallResult<USteamRequestGroupOfficersCallbackProxy, ClanOfficerListResponse_t> m_callResultGroupOfficerRequestDetails;
 

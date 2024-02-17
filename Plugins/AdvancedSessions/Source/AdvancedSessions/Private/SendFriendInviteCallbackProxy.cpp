@@ -1,6 +1,7 @@
 // Copyright 1998-2015 Epic Games, Inc. All Rights Reserved.
 #include "SendFriendInviteCallbackProxy.h"
 
+#include "Online.h"
 
 //////////////////////////////////////////////////////////////////////////
 // UGetRecentPlayersCallbackProxy
@@ -39,7 +40,15 @@ void USendFriendInviteCallbackProxy::Activate()
 		return;
 	}
 
-	IOnlineFriendsPtr Friends = Online::GetFriendsInterface();
+	FOnlineSubsystemBPCallHelperAdvanced Helper(TEXT("SendFriendInvite"), GEngine->GetWorldFromContextObject(WorldContextObject.Get(), EGetWorldErrorMode::LogAndReturnNull));
+
+	if (!Helper.OnlineSub)
+	{
+		OnFailure.Broadcast();
+		return;
+	}
+
+	auto Friends = Helper.OnlineSub->GetFriendsInterface();
 	if (Friends.IsValid())
 	{	
 		ULocalPlayer* Player = Cast<ULocalPlayer>(PlayerControllerWeakPtr->Player);

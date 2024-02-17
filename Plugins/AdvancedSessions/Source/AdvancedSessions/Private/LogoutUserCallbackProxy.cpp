@@ -2,6 +2,7 @@
 
 #include "LogoutUserCallbackProxy.h"
 
+#include "Online.h"
 
 //////////////////////////////////////////////////////////////////////////
 // ULogoutUserCallbackProxy
@@ -29,7 +30,6 @@ void ULogoutUserCallbackProxy::Activate()
 		return;
 	}
 
-
 	ULocalPlayer* Player = Cast<ULocalPlayer>(PlayerControllerWeakPtr->Player);
 
 	if (!Player)
@@ -38,7 +38,14 @@ void ULogoutUserCallbackProxy::Activate()
 		return;
 	}
 
-	auto Identity = Online::GetIdentityInterface();
+	FOnlineSubsystemBPCallHelperAdvanced Helper(TEXT("LogoutUser"), GEngine->GetWorldFromContextObject(WorldContextObject.Get(), EGetWorldErrorMode::LogAndReturnNull));
+
+	if (!Helper.OnlineSub)
+	{
+		OnFailure.Broadcast();
+		return;
+	}
+	auto Identity = Helper.OnlineSub->GetIdentityInterface();
 
 	if (Identity.IsValid())
 	{
@@ -60,7 +67,14 @@ void ULogoutUserCallbackProxy::OnCompleted(int LocalUserNum, bool bWasSuccessful
 
 		if (Player)
 		{
-			auto Identity = Online::GetIdentityInterface();
+			FOnlineSubsystemBPCallHelperAdvanced Helper(TEXT("LogoutUser"), GEngine->GetWorldFromContextObject(WorldContextObject.Get(), EGetWorldErrorMode::LogAndReturnNull));
+
+			if (!Helper.OnlineSub)
+			{
+				OnFailure.Broadcast();
+				return;
+			}
+			auto Identity = Helper.OnlineSub->GetIdentityInterface();
 
 			if (Identity.IsValid())
 			{

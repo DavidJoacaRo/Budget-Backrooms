@@ -2,7 +2,7 @@
 
 #include "SteamWSRequestUGCDetailsCallbackProxy.h"
 #include "OnlineSubSystemHeader.h"
-#if PLATFORM_WINDOWS || PLATFORM_MAC || PLATFORM_LINUX
+#if STEAM_SDK_INSTALLED && (PLATFORM_WINDOWS || PLATFORM_MAC || PLATFORM_LINUX)
 #include "steam/isteamugc.h"
 #endif
 
@@ -25,7 +25,7 @@ USteamWSRequestUGCDetailsCallbackProxy* USteamWSRequestUGCDetailsCallbackProxy::
 
 void USteamWSRequestUGCDetailsCallbackProxy::Activate()
 {
-#if PLATFORM_WINDOWS || PLATFORM_MAC || PLATFORM_LINUX
+#if STEAM_SDK_INSTALLED && (PLATFORM_WINDOWS || PLATFORM_MAC || PLATFORM_LINUX)
 	if (SteamAPI_Init())
 	{
 		// #TODO: Support arrays instead in the future?
@@ -49,19 +49,19 @@ void USteamWSRequestUGCDetailsCallbackProxy::Activate()
 	OnFailure.Broadcast(FBPSteamWorkshopItemDetails());
 }
 
-#if PLATFORM_WINDOWS || PLATFORM_MAC || PLATFORM_LINUX
+#if STEAM_SDK_INSTALLED && (PLATFORM_WINDOWS || PLATFORM_MAC || PLATFORM_LINUX)
 void USteamWSRequestUGCDetailsCallbackProxy::OnUGCRequestUGCDetails(SteamUGCQueryCompleted_t *pResult, bool bIOFailure)
 {	
-	FOnlineSubsystemSteam* SteamSubsystem = (FOnlineSubsystemSteam*)(IOnlineSubsystem::Get(STEAM_SUBSYSTEM));
+	//FOnlineSubsystemSteam* SteamSubsystem = (FOnlineSubsystemSteam*)(IOnlineSubsystem::Get(STEAM_SUBSYSTEM));
 
 	if (bIOFailure || !pResult || pResult->m_unNumResultsReturned <= 0)
 	{
-		if (SteamSubsystem != nullptr)
+		//if (SteamSubsystem != nullptr)
 		{
-			SteamSubsystem->ExecuteNextTick([this]()
-			{
+		//	SteamSubsystem->ExecuteNextTick([this]()
+			//{
 				OnFailure.Broadcast(FBPSteamWorkshopItemDetails());
-			});
+			//});
 		}
 		//OnFailure.Broadcast(FBPSteamWorkshopItemDetails());
 		return;
@@ -71,12 +71,12 @@ void USteamWSRequestUGCDetailsCallbackProxy::OnUGCRequestUGCDetails(SteamUGCQuer
 		SteamUGCDetails_t Details;
 		if (SteamUGC()->GetQueryUGCResult(pResult->m_handle, 0, &Details))
 		{
-			if (SteamSubsystem != nullptr)
+			//if (SteamSubsystem != nullptr)
 			{
-				SteamSubsystem->ExecuteNextTick([Details, this]()
-				{
+				//SteamSubsystem->ExecuteNextTick([Details, this]()
+				//{
 					OnSuccess.Broadcast(FBPSteamWorkshopItemDetails(Details));
-				});
+				//});
 			}
 
 			//OnSuccess.Broadcast(FBPSteamWorkshopItemDetails(Details));
@@ -85,12 +85,12 @@ void USteamWSRequestUGCDetailsCallbackProxy::OnUGCRequestUGCDetails(SteamUGCQuer
 	}
 	else
 	{
-		if (SteamSubsystem != nullptr)
+		//if (SteamSubsystem != nullptr)
 		{
-			SteamSubsystem->ExecuteNextTick([this]()
-			{
+			//SteamSubsystem->ExecuteNextTick([this]()
+			//{
 				OnFailure.Broadcast(FBPSteamWorkshopItemDetails());
-			});
+			//});
 		}
 	}
 

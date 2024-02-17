@@ -25,7 +25,7 @@
 #pragma warning(disable:4265) // SteamAPI CCallback< specifically, this warning is off by default but 4.17 turned it on....
 #endif
 
-#if PLATFORM_WINDOWS || PLATFORM_MAC || PLATFORM_LINUX
+#if STEAM_SDK_INSTALLED && (PLATFORM_WINDOWS || PLATFORM_MAC || PLATFORM_LINUX)
 
 #pragma push_macro("ARRAY_COUNT")
 #undef ARRAY_COUNT
@@ -194,11 +194,10 @@ public:
 		}
 	}
 
-	/** Needed for TMap::GetTypeHash() */
-	friend uint32 GetTypeHash(const FUniqueNetIdSteam2& A)
+
+	virtual uint32 GetTypeHash() const override
 	{
-		return GetTypeHash(A.UniqueNetId);
-		//return (uint32)(A.UniqueNetId) + ((uint32)((A.UniqueNetId) >> 32) * 23);
+		return ::GetTypeHash(UniqueNetId);
 	}
 
 	/** Convenience cast to CSteamID */
@@ -268,12 +267,15 @@ enum class ESteamUserOverlayType : uint8
 	/*Opens the overlay in minimal mode prompting the user to accept an incoming friend invite.*/
 	friendrequestaccept,
 	/*Opens the overlay in minimal mode prompting the user to ignore an incoming friend invite.*/
-	friendrequestignore
+	friendrequestignore,
+	/*Opens the invite overlay, invitations sent from this dialog will be for the provided lobby*/
+	invitetolobby
 };
 
 static FString EnumToString(const FString& enumName, uint8 value)
 {
-	const UEnum* EnumPtr = FindObject<UEnum>(ANY_PACKAGE, *enumName, true);
+	
+	const UEnum* EnumPtr = FindFirstObject<UEnum>(*enumName, EFindFirstObjectOptions::None, ELogVerbosity::Warning, TEXT("EumtoString"));
 
 	if (!EnumPtr)
 		return FString();
@@ -297,11 +299,11 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Online|SteamAPI|SteamGroups")
 		FString GroupTag;
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Online|SteamAPI|SteamGroups")
-		int32 numOnline;
+		int32 numOnline = 0;
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Online|SteamAPI|SteamGroups")
-		int32 numInGame;
+		int32 numInGame = 0;
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "Online|SteamAPI|SteamGroups")
-		int32 numChatting;
+		int32 numChatting = 0;
 
 };
 
