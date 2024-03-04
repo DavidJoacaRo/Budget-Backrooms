@@ -5,16 +5,9 @@
 //General Log
 DEFINE_LOG_CATEGORY(AdvancedVoiceLog);
 
-void UAdvancedVoiceLibrary::IsHeadsetPresent(UObject* WorldContextObject, bool & bHasHeadset, uint8 LocalPlayerNum)
+void UAdvancedVoiceLibrary::IsHeadsetPresent(bool & bHasHeadset, uint8 LocalPlayerNum)
 {
-
-	UWorld* const World = GEngine->GetWorldFromContextObject(WorldContextObject, EGetWorldErrorMode::LogAndReturnNull);
-	if (!IsValid(World))
-	{
-		return;
-	}
-
-	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface(World);
+	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface();
 
 	if (!VoiceInterface.IsValid())
 	{
@@ -26,16 +19,9 @@ void UAdvancedVoiceLibrary::IsHeadsetPresent(UObject* WorldContextObject, bool &
 	bHasHeadset = VoiceInterface->IsHeadsetPresent(LocalPlayerNum);
 }
 
-void UAdvancedVoiceLibrary::StartNetworkedVoice(UObject* WorldContextObject, uint8 LocalPlayerNum)
+void UAdvancedVoiceLibrary::StartNetworkedVoice(uint8 LocalPlayerNum)
 {
-
-	UWorld* const World = GEngine->GetWorldFromContextObject(WorldContextObject, EGetWorldErrorMode::LogAndReturnNull);
-	if (!IsValid(World))
-	{
-		return;
-	}
-
-	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface(World);
+	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface();
 
 	if (!VoiceInterface.IsValid())
 	{
@@ -46,16 +32,9 @@ void UAdvancedVoiceLibrary::StartNetworkedVoice(UObject* WorldContextObject, uin
 	VoiceInterface->StartNetworkedVoice(LocalPlayerNum);
 }
 
-void UAdvancedVoiceLibrary::StopNetworkedVoice(UObject* WorldContextObject, uint8 LocalPlayerNum)
+void UAdvancedVoiceLibrary::StopNetworkedVoice(uint8 LocalPlayerNum)
 {
-
-	UWorld* const World = GEngine->GetWorldFromContextObject(WorldContextObject, EGetWorldErrorMode::LogAndReturnNull);
-	if (!IsValid(World))
-	{
-		return;
-	}
-
-	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface(World);
+	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface();
 
 	if (!VoiceInterface.IsValid())
 	{
@@ -66,15 +45,9 @@ void UAdvancedVoiceLibrary::StopNetworkedVoice(UObject* WorldContextObject, uint
 	VoiceInterface->StopNetworkedVoice(LocalPlayerNum);
 }
 
-bool UAdvancedVoiceLibrary::RegisterLocalTalker(UObject* WorldContextObject, uint8 LocalPlayerNum)
+bool UAdvancedVoiceLibrary::RegisterLocalTalker(uint8 LocalPlayerNum)
 {
-	UWorld* const World = GEngine->GetWorldFromContextObject(WorldContextObject, EGetWorldErrorMode::LogAndReturnNull);
-	if (!IsValid(World))
-	{
-		return false;
-	}
-
-	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface(World);
+	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface();
 
 	if (!VoiceInterface.IsValid())
 	{
@@ -85,16 +58,9 @@ bool UAdvancedVoiceLibrary::RegisterLocalTalker(UObject* WorldContextObject, uin
 	return VoiceInterface->RegisterLocalTalker(LocalPlayerNum);
 }
 
-void UAdvancedVoiceLibrary::RegisterAllLocalTalkers(UObject* WorldContextObject)
+void UAdvancedVoiceLibrary::RegisterAllLocalTalkers()
 {
-
-	UWorld* const World = GEngine->GetWorldFromContextObject(WorldContextObject, EGetWorldErrorMode::LogAndReturnNull);
-	if (!IsValid(World))
-	{
-		return;
-	}
-
-	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface(World);
+	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface();
 
 	if (!VoiceInterface.IsValid())
 	{
@@ -106,16 +72,9 @@ void UAdvancedVoiceLibrary::RegisterAllLocalTalkers(UObject* WorldContextObject)
 }
 
 
-void UAdvancedVoiceLibrary::UnRegisterLocalTalker(UObject* WorldContextObject, uint8 LocalPlayerNum)
+void UAdvancedVoiceLibrary::UnRegisterLocalTalker(uint8 LocalPlayerNum)
 {
-
-	UWorld* const World = GEngine->GetWorldFromContextObject(WorldContextObject, EGetWorldErrorMode::LogAndReturnNull);
-	if (!IsValid(World))
-	{
-		return;
-	}
-
-	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface(World);
+	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface();
 
 	if (!VoiceInterface.IsValid())
 	{
@@ -126,16 +85,9 @@ void UAdvancedVoiceLibrary::UnRegisterLocalTalker(UObject* WorldContextObject, u
 	VoiceInterface->UnregisterLocalTalker(LocalPlayerNum);
 }
 
-void UAdvancedVoiceLibrary::UnRegisterAllLocalTalkers(UObject* WorldContextObject)
+void UAdvancedVoiceLibrary::UnRegisterAllLocalTalkers()
 {
-
-	UWorld* const World = GEngine->GetWorldFromContextObject(WorldContextObject, EGetWorldErrorMode::LogAndReturnNull);
-	if (!IsValid(World))
-	{
-		return;
-	}
-
-	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface(World);
+	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface();
 
 	if (!VoiceInterface.IsValid())
 	{
@@ -146,7 +98,7 @@ void UAdvancedVoiceLibrary::UnRegisterAllLocalTalkers(UObject* WorldContextObjec
 	VoiceInterface->UnregisterLocalTalkers();
 }
 
-bool UAdvancedVoiceLibrary::RegisterRemoteTalker(UObject* WorldContextObject, const FBPUniqueNetId& UniqueNetId)
+bool UAdvancedVoiceLibrary::RegisterRemoteTalker(const FBPUniqueNetId& UniqueNetId)
 {
 	if (!UniqueNetId.IsValid())
 	{
@@ -154,13 +106,7 @@ bool UAdvancedVoiceLibrary::RegisterRemoteTalker(UObject* WorldContextObject, co
 		return false;
 	}
 
-	UWorld* const World = GEngine->GetWorldFromContextObject(WorldContextObject, EGetWorldErrorMode::LogAndReturnNull);
-	if (!IsValid(World))
-	{
-		return false;
-	}
-
-	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface(World);
+	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface();
 
 	if (!VoiceInterface.IsValid())
 	{
@@ -171,7 +117,7 @@ bool UAdvancedVoiceLibrary::RegisterRemoteTalker(UObject* WorldContextObject, co
 	return VoiceInterface->RegisterRemoteTalker(*UniqueNetId.GetUniqueNetId());
 }
 
-bool UAdvancedVoiceLibrary::UnRegisterRemoteTalker(UObject* WorldContextObject, const FBPUniqueNetId& UniqueNetId)
+bool UAdvancedVoiceLibrary::UnRegisterRemoteTalker(const FBPUniqueNetId& UniqueNetId)
 {
 	if (!UniqueNetId.IsValid())
 	{
@@ -179,13 +125,7 @@ bool UAdvancedVoiceLibrary::UnRegisterRemoteTalker(UObject* WorldContextObject, 
 		return false;
 	}
 
-	UWorld* const World = GEngine->GetWorldFromContextObject(WorldContextObject, EGetWorldErrorMode::LogAndReturnNull);
-	if (!IsValid(World))
-	{
-		return false;
-	}
-
-	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface(World);
+	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface();
 
 	if (!VoiceInterface.IsValid())
 	{
@@ -196,16 +136,9 @@ bool UAdvancedVoiceLibrary::UnRegisterRemoteTalker(UObject* WorldContextObject, 
 	return VoiceInterface->UnregisterRemoteTalker(*UniqueNetId.GetUniqueNetId());
 }
 
-void UAdvancedVoiceLibrary::RemoveAllRemoteTalkers(UObject* WorldContextObject)
+void UAdvancedVoiceLibrary::RemoveAllRemoteTalkers()
 {
-
-	UWorld* const World = GEngine->GetWorldFromContextObject(WorldContextObject, EGetWorldErrorMode::LogAndReturnNull);
-	if (!IsValid(World))
-	{
-		return;
-	}
-
-	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface(World);
+	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface();
 
 	if (!VoiceInterface.IsValid())
 	{
@@ -216,16 +149,9 @@ void UAdvancedVoiceLibrary::RemoveAllRemoteTalkers(UObject* WorldContextObject)
 	VoiceInterface->RemoveAllRemoteTalkers();
 }
 
-bool UAdvancedVoiceLibrary::IsLocalPlayerTalking(UObject* WorldContextObject, uint8 LocalPlayerNum)
+bool UAdvancedVoiceLibrary::IsLocalPlayerTalking(uint8 LocalPlayerNum)
 {
-
-	UWorld* const World = GEngine->GetWorldFromContextObject(WorldContextObject, EGetWorldErrorMode::LogAndReturnNull);
-	if (!IsValid(World))
-	{
-		return false;
-	}
-
-	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface(World);
+	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface();
 
 	if (!VoiceInterface.IsValid())
 	{
@@ -236,7 +162,7 @@ bool UAdvancedVoiceLibrary::IsLocalPlayerTalking(UObject* WorldContextObject, ui
 	return VoiceInterface->IsLocalPlayerTalking(LocalPlayerNum);
 }
 
-bool UAdvancedVoiceLibrary::IsRemotePlayerTalking(UObject* WorldContextObject, const FBPUniqueNetId& UniqueNetId)
+bool UAdvancedVoiceLibrary::IsRemotePlayerTalking(const FBPUniqueNetId& UniqueNetId)
 {
 	if (!UniqueNetId.IsValid())
 	{
@@ -244,13 +170,7 @@ bool UAdvancedVoiceLibrary::IsRemotePlayerTalking(UObject* WorldContextObject, c
 		return false;
 	}
 
-	UWorld* const World = GEngine->GetWorldFromContextObject(WorldContextObject, EGetWorldErrorMode::LogAndReturnNull);
-	if (!IsValid(World))
-	{
-		return false;
-	}
-
-	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface(World);
+	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface();
 
 	if (!VoiceInterface.IsValid())
 	{
@@ -261,7 +181,7 @@ bool UAdvancedVoiceLibrary::IsRemotePlayerTalking(UObject* WorldContextObject, c
 	return VoiceInterface->IsRemotePlayerTalking(*UniqueNetId.GetUniqueNetId());
 }
 
-bool UAdvancedVoiceLibrary::IsPlayerMuted(UObject* WorldContextObject, uint8 LocalUserNumChecking, const FBPUniqueNetId& UniqueNetId)
+bool UAdvancedVoiceLibrary::IsPlayerMuted(uint8 LocalUserNumChecking, const FBPUniqueNetId& UniqueNetId)
 {
 	if (!UniqueNetId.IsValid())
 	{
@@ -269,13 +189,7 @@ bool UAdvancedVoiceLibrary::IsPlayerMuted(UObject* WorldContextObject, uint8 Loc
 		return false;
 	}
 
-	UWorld* const World = GEngine->GetWorldFromContextObject(WorldContextObject, EGetWorldErrorMode::LogAndReturnNull);
-	if (!IsValid(World))
-	{
-		return false;
-	}
-
-	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface(World);
+	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface();
 
 	if (!VoiceInterface.IsValid())
 	{
@@ -286,7 +200,7 @@ bool UAdvancedVoiceLibrary::IsPlayerMuted(UObject* WorldContextObject, uint8 Loc
 	return VoiceInterface->IsMuted(LocalUserNumChecking, *UniqueNetId.GetUniqueNetId());
 }
 
-bool UAdvancedVoiceLibrary::MuteRemoteTalker(UObject* WorldContextObject, uint8 LocalUserNum, const FBPUniqueNetId& UniqueNetId, bool bIsSystemWide)
+bool UAdvancedVoiceLibrary::MuteRemoteTalker(uint8 LocalUserNum, const FBPUniqueNetId& UniqueNetId, bool bIsSystemWide)
 {
 	if (!UniqueNetId.IsValid())
 	{
@@ -294,13 +208,7 @@ bool UAdvancedVoiceLibrary::MuteRemoteTalker(UObject* WorldContextObject, uint8 
 		return false;
 	}
 
-	UWorld* const World = GEngine->GetWorldFromContextObject(WorldContextObject, EGetWorldErrorMode::LogAndReturnNull);
-	if (!IsValid(World))
-	{
-		return false;
-	}
-
-	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface(World);
+	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface();
 
 	if (!VoiceInterface.IsValid())
 	{
@@ -311,7 +219,7 @@ bool UAdvancedVoiceLibrary::MuteRemoteTalker(UObject* WorldContextObject, uint8 
 	return VoiceInterface->MuteRemoteTalker(LocalUserNum, *UniqueNetId.GetUniqueNetId(), bIsSystemWide);
 }
 
-bool UAdvancedVoiceLibrary::UnMuteRemoteTalker(UObject* WorldContextObject, uint8 LocalUserNum, const FBPUniqueNetId& UniqueNetId, bool bIsSystemWide)
+bool UAdvancedVoiceLibrary::UnMuteRemoteTalker(uint8 LocalUserNum, const FBPUniqueNetId& UniqueNetId, bool bIsSystemWide)
 {
 	if (!UniqueNetId.IsValid())
 	{
@@ -319,13 +227,7 @@ bool UAdvancedVoiceLibrary::UnMuteRemoteTalker(UObject* WorldContextObject, uint
 		return false;
 	}
 
-	UWorld* const World = GEngine->GetWorldFromContextObject(WorldContextObject, EGetWorldErrorMode::LogAndReturnNull);
-	if (!IsValid(World))
-	{
-		return false;
-	}
-
-	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface(World);
+	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface();
 
 	if (!VoiceInterface.IsValid())
 	{
@@ -337,16 +239,9 @@ bool UAdvancedVoiceLibrary::UnMuteRemoteTalker(UObject* WorldContextObject, uint
 }
 
 
-void UAdvancedVoiceLibrary::GetNumLocalTalkers(UObject* WorldContextObject, int32 & NumLocalTalkers)
+void UAdvancedVoiceLibrary::GetNumLocalTalkers(int32 & NumLocalTalkers)
 {
-
-	UWorld* const World = GEngine->GetWorldFromContextObject(WorldContextObject, EGetWorldErrorMode::LogAndReturnNull);
-	if (!IsValid(World))
-	{
-		return;
-	}
-
-	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface(World);
+	IOnlineVoicePtr VoiceInterface = Online::GetVoiceInterface();
 
 	if (!VoiceInterface.IsValid())
 	{

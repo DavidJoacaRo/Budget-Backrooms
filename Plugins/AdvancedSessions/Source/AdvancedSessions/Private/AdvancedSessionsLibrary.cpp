@@ -477,11 +477,6 @@ bool UAdvancedSessionsLibrary::EqualEqual_UNetIDUnetID(const FBPUniqueNetId &A, 
 	return ((A.IsValid() && B.IsValid()) && (*A.GetUniqueNetId() == *B.GetUniqueNetId()));
 }
 
-FUniqueNetIdRepl UAdvancedSessionsLibrary::Conv_BPUniqueIDToUniqueNetIDRepl(const FBPUniqueNetId& InUniqueID)
-{
-	return FUniqueNetIdRepl(InUniqueID.GetUniqueNetId()->AsShared());
-}
-
 void UAdvancedSessionsLibrary::SetPlayerName(APlayerController *PlayerController, FString PlayerName)
 {
 	if (!PlayerController)
@@ -536,17 +531,11 @@ void UAdvancedSessionsLibrary::GetNumberOfNetworkPlayers(UObject* WorldContextOb
 
 bool UAdvancedSessionsLibrary::ServerTravel(UObject* WorldContextObject, const FString& FURL, bool bAbsolute, bool bShouldSkipGameNotify)
 {
-	if (!WorldContextObject)
-	{
-		return false;
-	}
+	if (!WorldContextObject) return false;
 
 	//using a context object to get the world
 	UWorld* const World = GEngine->GetWorldFromContextObject(WorldContextObject, EGetWorldErrorMode::ReturnNull);
-	if (World)
-	{
-		return World->ServerTravel(FURL, bAbsolute, bShouldSkipGameNotify);
-	}
-
-	return false;
+	if (!World) return false;
+	World->ServerTravel(FURL,bAbsolute,bShouldSkipGameNotify);
+	return true;
 }

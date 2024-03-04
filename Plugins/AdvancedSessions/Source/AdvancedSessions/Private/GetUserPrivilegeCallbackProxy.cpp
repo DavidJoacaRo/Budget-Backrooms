@@ -2,7 +2,6 @@
 
 #include "GetUserPrivilegeCallbackProxy.h"
 
-#include "Online.h"
 
 //////////////////////////////////////////////////////////////////////////
 // UGetUserPrivilegeCallbackProxy
@@ -23,14 +22,7 @@ UGetUserPrivilegeCallbackProxy* UGetUserPrivilegeCallbackProxy::GetUserPrivilege
 
 void UGetUserPrivilegeCallbackProxy::Activate()
 {
-	FOnlineSubsystemBPCallHelperAdvanced Helper(TEXT("GetUserPrivilege"), GEngine->GetWorldFromContextObject(WorldContextObject.Get(), EGetWorldErrorMode::LogAndReturnNull));
-
-	if (!Helper.OnlineSub)
-	{
-		OnFailure.Broadcast();
-		return;
-	}
-	auto Identity = Helper.OnlineSub->GetIdentityInterface();
+	auto Identity = Online::GetIdentityInterface();
 
 	if (Identity.IsValid())
 	{

@@ -25,7 +25,7 @@ class UStartSessionCallbackProxyAdvanced : public UOnlineBlueprintCallProxyBase
 		, meta=(BlueprintInternalUseOnly = "true", WorldContext="WorldContextObject")
 		, Category = "Online|AdvancedSessions"
 	)
-	static UStartSessionCallbackProxyAdvanced* StartAdvancedSession(UObject* WorldContextObject);
+	static UStartSessionCallbackProxyAdvanced* StartAdvancedSession(const UObject* WorldContextObject);
 
 	// UOnlineBlueprintCallProxyBase interface
 	virtual void Activate() override;
@@ -42,5 +42,5 @@ private:
 	FDelegateHandle StartCompleteDelegateHandle;
 
 	// The world context object in which this call is taking place
-	TWeakObjectPtr<UObject> WorldContextObject;
+	const UObject* WorldContextObject;
 };

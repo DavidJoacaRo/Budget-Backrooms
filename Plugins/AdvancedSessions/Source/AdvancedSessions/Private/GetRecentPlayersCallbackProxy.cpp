@@ -1,7 +1,6 @@
 // Copyright 1998-2015 Epic Games, Inc. All Rights Reserved.
 #include "GetRecentPlayersCallbackProxy.h"
 
-#include "Online.h"
 
 //////////////////////////////////////////////////////////////////////////
 // UGetRecentPlayersCallbackProxy
@@ -32,16 +31,7 @@ void UGetRecentPlayersCallbackProxy::Activate()
 		return;
 	}
 
-	FOnlineSubsystemBPCallHelperAdvanced Helper(TEXT("GetRecentPlayers"), GEngine->GetWorldFromContextObject(WorldContextObject.Get(), EGetWorldErrorMode::LogAndReturnNull));
-
-	if (!Helper.OnlineSub)
-	{
-		TArray<FBPOnlineRecentPlayer> EmptyArray;
-		OnFailure.Broadcast(EmptyArray);
-		return;
-	}
-
-	IOnlineFriendsPtr Friends = Helper.OnlineSub->GetFriendsInterface();
+	IOnlineFriendsPtr Friends = Online::GetFriendsInterface();
 	if (Friends.IsValid())
 	{	
 		DelegateHandle = Friends->AddOnQueryRecentPlayersCompleteDelegate_Handle(QueryRecentPlayersCompleteDelegate);
@@ -58,16 +48,7 @@ void UGetRecentPlayersCallbackProxy::Activate()
 void UGetRecentPlayersCallbackProxy::OnQueryRecentPlayersCompleted(const FUniqueNetId &UserID, const FString &Namespace, bool bWasSuccessful, const FString& ErrorString)
 {
 	
-	FOnlineSubsystemBPCallHelperAdvanced Helper(TEXT("GetRecentPlayers"), GEngine->GetWorldFromContextObject(WorldContextObject.Get(), EGetWorldErrorMode::LogAndReturnNull));
-
-	if (!Helper.OnlineSub)
-	{
-		TArray<FBPOnlineRecentPlayer> EmptyArray;
-		OnFailure.Broadcast(EmptyArray);
-		return;
-	}
-
-	IOnlineFriendsPtr Friends = Helper.OnlineSub->GetFriendsInterface();
+	IOnlineFriendsPtr Friends = Online::GetFriendsInterface();
 	if (Friends.IsValid())
 		Friends->ClearOnQueryRecentPlayersCompleteDelegate_Handle(DelegateHandle);
 

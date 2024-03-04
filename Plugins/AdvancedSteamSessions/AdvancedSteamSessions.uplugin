@@ -2,8 +2,8 @@
     "FileVersion" : 3,
  
     "FriendlyName" : "Advanced Steam Sessions",
-    "Version" : 5.1,
-    "VersionName": "5.1",
+    "Version" : 4.27,
+    "VersionName": "4.27",
     "Description" : "Adds new blueprint functions to handle more advanced session operations in Steam. REQUIRES ADVANCED SESSIONS",
     "Category" : "Advanced Sessions Plugin",
     "CreatedBy" : "Joshua Statzer",
@@ -11,11 +11,11 @@
  
     "Modules" :
     [
-			{
-				"Name": "AdvancedSteamSessions",
-				"Type": "RunTime",
-				"LoadingPhase": "Default"
-			} 
+        {
+            "Name" : "AdvancedSteamSessions",
+            "Type" : "RunTime",
+			"LoadingPhase" : "PreDefault"
+        } 
     ],
 	"Plugins": [
 		{
@@ -28,6 +28,10 @@
 		},
 		{
 			"Name": "OnlineSubsystemUtils",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
 		},
 		{

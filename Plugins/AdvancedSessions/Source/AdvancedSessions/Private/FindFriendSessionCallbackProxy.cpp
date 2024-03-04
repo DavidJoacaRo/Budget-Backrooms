@@ -41,18 +41,7 @@ void UFindFriendSessionCallbackProxy::Activate()
 		return;
 	}
 
-	FOnlineSubsystemBPCallHelperAdvanced Helper(TEXT("EndSessionCallback"), GEngine->GetWorldFromContextObject(WorldContextObject.Get(), EGetWorldErrorMode::LogAndReturnNull));
-	Helper.QueryIDFromPlayerController(PlayerControllerWeakPtr.Get());
-
-	if (!Helper.IsValid())
-	{
-		// Fail immediately
-		TArray<FBlueprintSessionResult> EmptyResult;
-		OnFailure.Broadcast(EmptyResult);
-		return;
-	}
-
-	IOnlineSessionPtr Sessions = Helper.OnlineSub->GetSessionInterface();
+	IOnlineSessionPtr Sessions = Online::GetSessionInterface(GetWorld());
 
 	if (Sessions.IsValid())
 	{	
@@ -82,43 +71,31 @@ void UFindFriendSessionCallbackProxy::Activate()
 
 void UFindFriendSessionCallbackProxy::OnFindFriendSessionCompleted(int32 LocalPlayer, bool bWasSuccessful, const TArray<FOnlineSessionSearchResult>& SessionInfo)
 {
-	FOnlineSubsystemBPCallHelperAdvanced Helper(TEXT("EndSessionCallback"), GEngine->GetWorldFromContextObject(WorldContextObject.Get(), EGetWorldErrorMode::LogAndReturnNull));
-	Helper.QueryIDFromPlayerController(PlayerControllerWeakPtr.Get());
+	IOnlineSessionPtr Sessions = Online::GetSessionInterface(GetWorld());
 
-	if (Helper.IsValid())
-	{
-		IOnlineSessionPtr Sessions = Helper.OnlineSub->GetSessionInterface();
+	if (Sessions.IsValid())
+		Sessions->ClearOnFindFriendSessionCompleteDelegate_Handle(LocalPlayer, FindFriendSessionCompleteDelegateHandle);
 
-		if (Sessions.IsValid())
-			Sessions->ClearOnFindFriendSessionCompleteDelegate_Handle(LocalPlayer, FindFriendSessionCompleteDelegateHandle);
+	if ( bWasSuccessful )
+	{ 
+		TArray<FBlueprintSessionResult> Result;
 
-		if (bWasSuccessful)
+		for (auto& Sesh : SessionInfo)
 		{
-			TArray<FBlueprintSessionResult> Result;
-
-			for (auto& Sesh : SessionInfo)
+			if (Sesh.IsValid())
 			{
-				if (Sesh.IsValid())
-				{
-					FBlueprintSessionResult BSesh;
-					BSesh.OnlineResult = Sesh;
-					Result.Add(BSesh);
-				}
-			}
-
-			if (Result.Num() > 0)
-				OnSuccess.Broadcast(Result);
-			else
-			{
-				UE_LOG(AdvancedFindFriendSessionLog, Warning, TEXT("FindFriendSession Failed, returned an invalid session."));
-				OnFailure.Broadcast(Result);
+				FBlueprintSessionResult BSesh;
+				BSesh.OnlineResult = Sesh;
+				Result.Add(BSesh);
 			}
 		}
+
+		if(Result.Num() > 0)
+			OnSuccess.Broadcast(Result);
 		else
 		{
-			UE_LOG(AdvancedFindFriendSessionLog, Warning, TEXT("FindFriendSession Failed"));
-			TArray<FBlueprintSessionResult> EmptyResult;
-			OnFailure.Broadcast(EmptyResult);
+			UE_LOG(AdvancedFindFriendSessionLog, Warning, TEXT("FindFriendSession Failed, returned an invalid session."));
+			OnFailure.Broadcast(Result);
 		}
 	}
 	else
