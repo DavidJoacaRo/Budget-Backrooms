@@ -263,14 +263,7 @@
 			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
 		},
-		{
-			"Name": "AdvancedSessions",
-			"Enabled": true
-		},
-		{
-			"Name": "AdvancedSteamSessions",
-			"Enabled": true
-		},
+
 		{
 			"Name": "EnhancedInput",
 			"Enabled": true
@@ -281,6 +274,10 @@
 		},
 		{
 			"Name": "WebSocketNetworking",
+			"Enabled": true
+		},
+		{
+			"Name": "SteamSockets",
 			"Enabled": true
 		}
 	],
