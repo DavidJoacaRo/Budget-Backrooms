@@ -186,10 +186,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "WebAuth",
-			"Enabled": true
-		},
-		{
 			"Name": "WindowsMoviePlayer",
 			"Enabled": false
 		},
@@ -252,19 +248,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "SteamShared",
-			"Enabled": true
-		},
-		{
-			"Name": "SteamController",
-			"Enabled": true
-		},
-		{
-			"Name": "OnlineSubsystemSteam",
-			"Enabled": true
-		},
-
-		{
 			"Name": "EnhancedInput",
 			"Enabled": true
 		},
@@ -273,11 +256,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "WebSocketNetworking",
+			"Name": "NetworkPredictionExtras",
 			"Enabled": true
 		},
 		{
-			"Name": "SteamSockets",
+			"Name": "NetworkPrediction",
 			"Enabled": true
 		}
 	],
