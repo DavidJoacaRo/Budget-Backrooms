@@ -272,11 +272,16 @@
 			"Enabled": false
 		},
 		{
-			"Name": "SteamAudio",
+			"Name": "AdvancedSteamSessions",
+			"Enabled": false
+		},
+		{
+			"Name": "ResonanceAudio",
 			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
-		"WindowsNoEditor"
+		"WindowsNoEditor",
+		"Android"
 	]
 }
