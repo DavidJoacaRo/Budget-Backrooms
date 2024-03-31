@@ -248,23 +248,6 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/670be04026664663875aadd4dea45b9d"
 		},
 		{
-			"Name": "SteamAudio",
-			"Enabled": true
-		},
-		{
-			"Name": "SteamShared",
-			"Enabled": true
-		},
-		{
-			"Name": "SteamController",
-			"Enabled": true
-		},
-		{
-			"Name": "OnlineSubsystemSteam",
-			"Enabled": true
-		},
-
-		{
 			"Name": "EnhancedInput",
 			"Enabled": true
 		},
@@ -277,7 +260,19 @@
 			"Enabled": true
 		},
 		{
-			"Name": "SteamSockets",
+			"Name": "OnlineSubsystemIOS",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"IOS",
+				"TVOS"
+			]
+		},
+		{
+			"Name": "OnlineSubsystemNull",
+			"Enabled": false
+		},
+		{
+			"Name": "SteamAudio",
 			"Enabled": true
 		}
 	],
