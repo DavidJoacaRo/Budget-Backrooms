@@ -93,10 +93,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "NetworkPredictionInsights",
-			"Enabled": true
-		},
-		{
 			"Name": "GameFeatures",
 			"Enabled": true
 		},
@@ -253,14 +249,6 @@
 		},
 		{
 			"Name": "OnlineFramework",
-			"Enabled": true
-		},
-		{
-			"Name": "NetworkPredictionExtras",
-			"Enabled": true
-		},
-		{
-			"Name": "NetworkPrediction",
 			"Enabled": true
 		}
 	],
