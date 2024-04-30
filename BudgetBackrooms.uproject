@@ -208,7 +208,7 @@
 		},
 		{
 			"Name": "FSR",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
 			"Name": "GameplayInsights",
@@ -278,6 +278,10 @@
 		{
 			"Name": "ResonanceAudio",
 			"Enabled": true
+		},
+		{
+			"Name": "AdvancedSessions",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
