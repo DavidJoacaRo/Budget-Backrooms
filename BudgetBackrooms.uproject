@@ -276,12 +276,12 @@
 			"Enabled": false
 		},
 		{
-			"Name": "ResonanceAudio",
-			"Enabled": true
-		},
-		{
 			"Name": "AdvancedSessions",
 			"Enabled": false
+		},
+		{
+			"Name": "SteamAudio",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
