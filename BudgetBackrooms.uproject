@@ -15,28 +15,8 @@
 	],
 	"Plugins": [
 		{
-			"Name": "Substance",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
-		},
-		{
-			"Name": "DungeonGeneratorPlugin",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3ef6cc9c5400434784446008160cb5c7"
-		},
-		{
 			"Name": "Water",
 			"Enabled": true
-		},
-		{
-			"Name": "FlatNodes",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/b719437f3fb54c259b34227363df8cab"
-		},
-		{
-			"Name": "TimeClock",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6f6a4afb66af43deb946a48b78d8c80a"
 		},
 		{
 			"Name": "DisasterRecoveryClient",
@@ -60,21 +40,8 @@
 		},
 		{
 			"Name": "AchievementSystem",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d9f6e0a8c92f47db9e2fde6080bed630"
-		},
-		{
-			"Name": "LDAssistant",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/51c5a9a0d5f84beba23aab69bed8d28c"
-		},
-		{
-			"Name": "VisualStudioTools",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/362651520df94e4fa65492dbcba44ae2",
-			"SupportedTargetPlatforms": [
-				"Win64"
-			]
 		},
 		{
 			"Name": "PanoramicCapture",
@@ -93,15 +60,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "NetworkPredictionInsights",
-			"Enabled": true
-		},
-		{
 			"Name": "GameFeatures",
-			"Enabled": true
-		},
-		{
-			"Name": "NiagaraExtras",
 			"Enabled": true
 		},
 		{
@@ -150,23 +109,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "SoundVisualizations",
-			"Enabled": true
-		},
-		{
 			"Name": "MultiUserClient",
 			"Enabled": true
 		},
 		{
 			"Name": "SlateInsights",
-			"Enabled": true
-		},
-		{
-			"Name": "TextureShare",
-			"Enabled": true
-		},
-		{
-			"Name": "TimeSynth",
 			"Enabled": true
 		},
 		{
@@ -186,28 +133,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "WebAuth",
-			"Enabled": true
-		},
-		{
 			"Name": "WindowsMoviePlayer",
-			"Enabled": false
-		},
-		{
-			"Name": "Ansel",
-			"Enabled": true
-		},
-		{
-			"Name": "GLTFImporter",
-			"Enabled": true
-		},
-		{
-			"Name": "ConsoleEnhanced",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/86123c85a4474d609c5cef8a7fc5786b"
-		},
-		{
-			"Name": "FSR",
 			"Enabled": false
 		},
 		{
@@ -243,45 +169,15 @@
 			"Enabled": true
 		},
 		{
-			"Name": "ImageResizUEr",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/670be04026664663875aadd4dea45b9d"
-		},
-		{
 			"Name": "EnhancedInput",
 			"Enabled": true
 		},
 		{
-			"Name": "OnlineFramework",
-			"Enabled": true
-		},
-		{
-			"Name": "WebSocketNetworking",
-			"Enabled": true
-		},
-		{
-			"Name": "OnlineSubsystemIOS",
-			"Enabled": false,
+			"Name": "WinDualShock",
+			"Enabled": true,
 			"SupportedTargetPlatforms": [
-				"IOS",
-				"TVOS"
+				"Win64"
 			]
-		},
-		{
-			"Name": "OnlineSubsystemNull",
-			"Enabled": false
-		},
-		{
-			"Name": "AdvancedSteamSessions",
-			"Enabled": false
-		},
-		{
-			"Name": "AdvancedSessions",
-			"Enabled": false
-		},
-		{
-			"Name": "SteamAudio",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
