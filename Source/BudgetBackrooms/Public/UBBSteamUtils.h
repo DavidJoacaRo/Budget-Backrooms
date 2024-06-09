@@ -1,12 +1,10 @@
-
-
 #pragma once
 
 #include "OnlineSubsystemSteam.h"
 #include "Kismet/BlueprintFunctionLibrary.h"
 #include "CoreMinimal.h"
-//#include "UBBSteamUtils.generated.h"
-/**
+#include "ThirdParty/Steamworks/Steamv151/sdk/public/steam/steam_api.h"
+#include "UBBSteamUtils.generated.h"
 
 
 
@@ -22,11 +20,11 @@ enum class ESteamNotificationPosition : uint8
 UCLASS()
 class BUDGETBACKROOMS_API UBBSteamUtils : public UBlueprintFunctionLibrary
 {
-    GENERATED_UCLASS_BODY() 
+    GENERATED_BODY()
 
 public:
-    UBBSteamUtils(const FPostConstructInitializeProperties& PCIP);
+    UBBSteamUtils();  // Constructor declaration
+
     UFUNCTION(BlueprintCallable, Category = "Steam")
     static void SetSteamOverlayNotificationPosition(ESteamNotificationPosition Position);
 };
- */

@@ -2,16 +2,17 @@
 
 #include "UBBSteamUtils.h"
 #include "CoreMinimal.h"
+#include "ThirdParty/Steamworks/Steamv151/sdk/public/steam/steam_api.h"
 
-/* 
-UBBSteamUtils::UBBSteamUtils(const class FPostConstructInitializeProperties& PCIP) 
-    : Super(PCIP)
+// Define the constructor
+UBBSteamUtils::UBBSteamUtils()
 {
-    
-} 
+    // Constructor implementation (if needed)
+}
 
 void UBBSteamUtils::SetSteamOverlayNotificationPosition(ESteamNotificationPosition Position)
 {
+    // Function implementation
     ENotificationPosition steamPosition = k_EPositionBottomRight;
 
     switch (Position)
@@ -34,5 +35,3 @@ void UBBSteamUtils::SetSteamOverlayNotificationPosition(ESteamNotificationPositi
 
     SteamUtils()->SetOverlayNotificationPosition(steamPosition);
 }
-
-*/
