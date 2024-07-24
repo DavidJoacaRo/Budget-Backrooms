@@ -12,6 +12,19 @@ UBBSteamUtils::UBBSteamUtils()
     // what
 }
 
+void UBBSteamUtils::SetSteamRichPresence(const FString& Key, const FString& Value)
+{
+    if (SteamAPI_Init())
+    {
+
+        SteamFriends()->SetRichPresence(TCHAR_TO_UTF8(*Key), TCHAR_TO_UTF8(*Value));
+        UE_LOG(LogTemp, Log, TEXT("Steam Rich Presence set: %s = %s"), *Key, *Value);
+    }
+    //GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, TEXT("Steam API calls are disabled in the Editor."));
+    UE_LOG(LogTemp, Warning, TEXT("Steam API calls are disabled in the Editor."));
+}
+
+
 
 
 // Notification Position stuff because yeah

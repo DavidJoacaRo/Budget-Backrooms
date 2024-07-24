@@ -23,7 +23,10 @@ class BUDGETBACKROOMS_API UBBSteamUtils : public UBlueprintFunctionLibrary
     GENERATED_BODY()
 
 public:
-    UBBSteamUtils();  // Constructor declaration
+    UBBSteamUtils();
+
+    UFUNCTION(BlueprintCallable, Category = "Steam", meta = (Keywords = "Set Steam Rich Presence", ToolTip = "Sets Steam Rich Presence with the desired args. It can be seen from the Friends List or other menus in the Steam Community."))
+    static void SetSteamRichPresence(const FString& Key, const FString& Value);
 
     UFUNCTION(BlueprintCallable, Category = "Steam", meta = (Keywords = "Steam Overlay Position", ToolTip = "Changes in which corner to show Steam Overlay notifications"))
     static void SetSteamOverlayNotificationPosition(ESteamNotificationPosition Position);
@@ -33,7 +36,7 @@ public:
     static void ToggleSteamOverlay();
 
 
-    UFUNCTION(BlueprintCallable, Category = "Steam", meta = (Keywords = "Steam Connection", ToolTip = "Checks whether the player has Steam open, and if the game can do a handshake with the Steam API (aka Initialization)"))
-    static void CheckSteamConnection(bool& bIsConnected);  // Updated function with out parameter
+    UFUNCTION(BlueprintCallable, Category = "Steam", meta = (Keywords = "Steam Connection", ToolTip = "Checks whether the player has Steam active, and if the game can do a handshake with the Steam API (aka Initialization)"))
+    static void CheckSteamConnection(bool& bIsConnected);
 
 };
