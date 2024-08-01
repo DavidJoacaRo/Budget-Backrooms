@@ -15,8 +15,9 @@ class BUDGETBACKROOMS_API UHardwareData : public UBlueprintFunctionLibrary
 {
 	GENERATED_BODY()
 	
+	/* Thank you Nadwey for this reliable implementation, but for now we're copy pasting it to UBBControllerUtils for no reason.
 	UFUNCTION(BlueprintPure, Category = "HardwareData")
-		static void IsGamepadConnected(bool& IsGamepadConnected);
+		static void IsGamepadConnected(bool& IsGamepadConnected); */
 
 	UFUNCTION(BlueprintPure, Category = "HardwareData")
 		static void GetCpuInformation(FHardwareData_CpuInfo& CpuInformation);

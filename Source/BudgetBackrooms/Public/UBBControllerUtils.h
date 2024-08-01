@@ -11,7 +11,7 @@ class BUDGETBACKROOMS_API UBBControllerUtils : public UBlueprintFunctionLibrary
 
 public:
     // Function to check if a controller is connected
-    UFUNCTION(BlueprintCallable, Category = "BB Controller Utils", meta = (Keywords = "Check Gamepad Connection", ToolTip = "Check if any Gamepad is connected & detected by the OS driver. :nerd:"))
+    UFUNCTION(BlueprintPure, Category = "BB Controller Utils", meta = (Keywords = "Check Gamepad Connection", ToolTip = "Check if any Gamepad is connected & detected by the OS driver. :nerd:"))
         static void IsGamepadConnected(bool& IsGamepadAttached);
     
 };
