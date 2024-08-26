@@ -11,5 +11,6 @@ public class BudgetBackroomsTarget : TargetRules
 		DefaultBuildSettings = BuildSettingsVersion.V2;
 
 		ExtraModuleNames.AddRange( new string[] { "BudgetBackrooms" } );
-	}
+        bUsesSteam = true;
+    }
 }

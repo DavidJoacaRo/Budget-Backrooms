@@ -20,11 +20,6 @@
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
 		},
 		{
-			"Name": "DungeonGeneratorPlugin",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3ef6cc9c5400434784446008160cb5c7"
-		},
-		{
 			"Name": "Water",
 			"Enabled": true
 		},
@@ -85,15 +80,7 @@
 			"Enabled": true
 		},
 		{
-			"Name": "SubversionSourceControl",
-			"Enabled": false
-		},
-		{
 			"Name": "Volumetrics",
-			"Enabled": true
-		},
-		{
-			"Name": "NetworkPredictionInsights",
 			"Enabled": true
 		},
 		{
@@ -101,41 +88,12 @@
 			"Enabled": true
 		},
 		{
-			"Name": "NetworkPrediction",
-			"Enabled": true
-		},
-		{
 			"Name": "NiagaraExtras",
 			"Enabled": true
 		},
 		{
-			"Name": "AppleImageUtils",
-			"Enabled": false
-		},
-		{
-			"Name": "UObjectPlugin",
-			"Enabled": false
-		},
-		{
-			"Name": "IOSDeviceProfileSelector",
-			"Enabled": false
-		},
-		{
 			"Name": "WindowsDeviceProfileSelector",
 			"Enabled": true
-		},
-		{
-			"Name": "ExampleDeviceProfileSelector",
-			"Enabled": false
-		},
-		{
-			"Name": "MagicLeapPassableWorld",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Lumin",
-				"Mac",
-				"Win64"
-			]
 		},
 		{
 			"Name": "SoundUtilities",
@@ -144,10 +102,6 @@
 		{
 			"Name": "Spatialization",
 			"Enabled": true
-		},
-		{
-			"Name": "WebMMoviePlayer",
-			"Enabled": false
 		},
 		{
 			"Name": "AnalyticsBlueprintLibrary",
@@ -188,14 +142,6 @@
 		{
 			"Name": "MovieRenderPipeline",
 			"Enabled": true
-		},
-		{
-			"Name": "WebAuth",
-			"Enabled": true
-		},
-		{
-			"Name": "WindowsMoviePlayer",
-			"Enabled": false
 		},
 		{
 			"Name": "Ansel",
@@ -256,26 +202,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "SteamShared",
-			"Enabled": true
-		},
-		{
-			"Name": "SteamController",
-			"Enabled": true
-		},
-		{
-			"Name": "OnlineSubsystemSteam",
-			"Enabled": true
-		},
-		{
-			"Name": "AdvancedSessions",
-			"Enabled": true
-		},
-		{
-			"Name": "AdvancedSteamSessions",
-			"Enabled": true
-		},
-		{
 			"Name": "EnhancedInput",
 			"Enabled": true
 		},
@@ -284,8 +210,20 @@
 			"Enabled": true
 		},
 		{
-			"Name": "WebSocketNetworking",
-			"Enabled": true
+			"Name": "WinDualShock",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "SteamVR",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Linux"
+			]
 		}
 	],
 	"TargetPlatforms": [

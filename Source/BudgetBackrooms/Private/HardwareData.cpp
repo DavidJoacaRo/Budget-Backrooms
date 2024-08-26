@@ -1,5 +1,6 @@
 #include "HardwareData.h"
 
+/*
 void UHardwareData::IsGamepadConnected(bool& IsGamepadConnected)
 {
 
@@ -7,7 +8,7 @@ void UHardwareData::IsGamepadConnected(bool& IsGamepadConnected)
     
     IsGamepadConnected = genericApplication.Get() != nullptr && genericApplication->IsGamepadAttached();
 }
-
+*/
 
 void UHardwareData::GetCpuInformation(FHardwareData_CpuInfo& CpuInformation)
 {
