@@ -12,10 +12,18 @@ UBBSteamUtils::UBBSteamUtils()
     // what
 }
 
+
+void UBBSteamUtils::MarkContentCorrupt(bool& bMissingFilesOnly) {
+    if (SteamAPI_Init()) {
+        bool bSuccess = SteamApps()->MarkContentCorrupt(bMissingFilesOnly);
+
+    }
+}
+
 void UBBSteamUtils::SetSteamRichPresence(const FString& Key, const FString& Value)
 {
-    if (SteamAPI_Init())
-    {
+    if (SteamAPI_Init()) {
+
 
         SteamFriends()->SetRichPresence(TCHAR_TO_UTF8(*Key), TCHAR_TO_UTF8(*Value));
         UE_LOG(LogTemp, Log, TEXT("Steam Rich Presence set: %s = %s"), *Key, *Value);
@@ -25,16 +33,30 @@ void UBBSteamUtils::SetSteamRichPresence(const FString& Key, const FString& Valu
 }
 
 
+void UBBSteamUtils::OpenSteamOverlayWithURL(const FString& URL)
+{
+    if (SteamFriends() != nullptr) {  
 
+
+        const char* SteamURL = TCHAR_TO_ANSI(*URL);
+
+
+        SteamFriends()->ActivateGameOverlayToWebPage(SteamURL);
+    }
+    else
+    {
+        UE_LOG(LogTemp, Warning, TEXT("Steam API calls are disabled in the Editor."));
+    }
+}
 
 // Notification Position stuff because yeah
 void UBBSteamUtils::SetSteamOverlayNotificationPosition(ESteamNotificationPosition Position)
 {
-    if (SteamAPI_Init())
-    {
+    if (SteamAPI_Init()) {
+
         ENotificationPosition steamPosition;
-        switch (Position)
-        {
+        switch (Position) {
+
         case ESteamNotificationPosition::TopLeft:
             steamPosition = k_EPositionTopLeft;
             break;
@@ -71,8 +93,8 @@ void UBBSteamUtils::SetSteamOverlayNotificationPosition(ESteamNotificationPositi
 //Toggles the player's Steam Overlay, nothing fancy.
 void UBBSteamUtils::ToggleSteamOverlay()
 {
-    if (SteamAPI_Init())
-    {
+    if (SteamAPI_Init()) {
+
         SteamFriends()->ActivateGameOverlay("");
     }
     else
@@ -87,8 +109,8 @@ void UBBSteamUtils::ToggleSteamOverlay()
 //Checks if the player has steam open
 void UBBSteamUtils::CheckSteamConnection(bool& bIsConnected)
 {
-    if (SteamAPI_Init())
-    {
+    if (SteamAPI_Init()) {
+
         bIsConnected = SteamAPI_IsSteamRunning() && SteamUser()->BLoggedOn();
     }
     else {
