@@ -1,6 +1,10 @@
 #include "UBBWindowsUtils.h"
 #include "Windows/WindowsHWrapper.h"
 #include "Misc/MessageDialog.h"
+#include "Kismet/GameplayStatics.h"
+#include "GameFramework/PlayerController.h"
+#include "Windows/WindowsPlatformMisc.h"
+
 
 int32 UBBWindowsUtils::ShowWindowsMessageBox(FString Message, FString Title, EWindowsMessageBoxButtons ButtonType)
 {

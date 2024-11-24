@@ -1,5 +1,6 @@
 #pragma once
-
+#include "Windows/WindowsPlatformMisc.h"
+#include "Windows/WindowsHWrapper.h"
 #include "Kismet/BlueprintFunctionLibrary.h"
 #include "UBBWindowsUtils.generated.h"
 
@@ -26,4 +27,14 @@ class BUDGETBACKROOMS_API UBBWindowsUtils : public UBlueprintFunctionLibrary
 public:
     UFUNCTION(BlueprintCallable, Category = "Budget Windows Utils")
     static int32 ShowWindowsMessageBox(FString Message, FString Title, EWindowsMessageBoxButtons ButtonType);
+
+    UFUNCTION(BlueprintCallable, Category = "Budget Windows Utils")
+    static void LockPC()
+    {
+        #if PLATFORM_WINDOWS
+            ::LockWorkStation();
+        #else
+
+        #endif
+    }
 };
