@@ -4,6 +4,21 @@
 #include "Kismet/GameplayStatics.h"
 #include "GameFramework/PlayerController.h"
 #include "Windows/WindowsPlatformMisc.h"
+#include "UBBWindowsUtils.h"
+#include "Windows/WindowsHWrapper.h"
+#include "Misc/MessageDialog.h"
+#include "Kismet/GameplayStatics.h"
+#include "GameFramework/PlayerController.h"
+#include "Windows/WindowsPlatformMisc.h"
+
+void UBBWindowsUtils::LockPC()
+{
+    #if PLATFORM_WINDOWS
+    ::LockWorkStation();
+    #else
+
+    #endif
+};
 
 
 int32 UBBWindowsUtils::ShowWindowsMessageBox(FString Message, FString Title, EWindowsMessageBoxButtons ButtonType)
@@ -44,11 +59,11 @@ int32 UBBWindowsUtils::ShowWindowsMessageBox(FString Message, FString Title, EWi
     );
 
     return Result; // Return the result directly, so you can handle different cases in Blueprint
-#else
+    #else
     // Fallback for non-Windows platforms
     FText Msg = FText::FromString(Message);
     FText TitleText = FText::FromString(Title);
     FMessageDialog::Open(EAppMsgType::Ok, Msg, &TitleText);
     return 0; // Default fallback value
-#endif
+    #endif
 }

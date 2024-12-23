@@ -18,7 +18,6 @@ enum class EWindowsMessageBoxButtons : uint8
     AbortRetryIgnore UMETA(DisplayName = "Abort Retry Ignore")
 };
 
-
 UCLASS()
 class BUDGETBACKROOMS_API UBBWindowsUtils : public UBlueprintFunctionLibrary
 {
@@ -28,13 +27,8 @@ public:
     UFUNCTION(BlueprintCallable, Category = "Budget Windows Utils")
     static int32 ShowWindowsMessageBox(FString Message, FString Title, EWindowsMessageBoxButtons ButtonType);
 
-    UFUNCTION(BlueprintCallable, Category = "Budget Windows Utils")
-    static void LockPC()
-    {
-        #if PLATFORM_WINDOWS
-            ::LockWorkStation();
-        #else
+    UFUNCTION(BlueprintCallable, Category = "Budget Windows Utils", )
+    static void LockPC();
 
-        #endif
-    }
+
 };

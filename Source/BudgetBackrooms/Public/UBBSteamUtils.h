@@ -31,10 +31,8 @@ public:
     UFUNCTION(BlueprintCallable, Category = "Steam", meta = (Keywords = "Steam Overlay Position", ToolTip = "Changes in which corner to show Steam Overlay notifications"))
     static void SetSteamOverlayNotificationPosition(ESteamNotificationPosition Position);
 
-
     UFUNCTION(BlueprintCallable, Category = "Steam", meta = (ToolTip = "Self-explanatory, toggles the Steam Overlay as if the user pressed SHIFT + TAB"))
     static void ToggleSteamOverlay();
-
 
     UFUNCTION(BlueprintCallable, Category = "Steam", meta = (Keywords = "Steam Connection", ToolTip = "Checks whether the player has Steam active, and if the game can do a handshake with the Steam API (aka Initialization)"))
     static void CheckSteamConnection(bool& bIsConnected);
@@ -45,5 +43,6 @@ public:
     UFUNCTION(BlueprintCallable, Category= "Steam", meta = (Keywords = "Verify Integrity", ToolTip = "Sends the Steam Client a request to verify the game's integrity, and if there's anything corrupt detected the bool will be set to true. Works only if the game's installed under Steam, Steam is open and the SteamSDK is integrated properly."))
     static void MarkContentCorrupt(bool& bMissingFilesOnly);
 
+    
 
 };
