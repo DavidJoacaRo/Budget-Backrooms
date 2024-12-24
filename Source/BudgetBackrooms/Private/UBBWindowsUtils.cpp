@@ -20,6 +20,37 @@ void UBBWindowsUtils::LockPC()
     #endif
 };
 
+void UBBWindowsUtils::ForceEnableHDR(bool bEnabled)
+{
+#if PLATFORM_WINDOWS
+    // Use Windows API to toggle HDR
+    HDC hdc = GetDC(NULL);
+    if (hdc)
+    {
+        DEVMODE devMode = {};
+        devMode.dmSize = sizeof(DEVMODE);
+        devMode.dmFields = DM_DISPLAYFIXEDOUTPUT;
+
+        if (EnumDisplaySettings(NULL, ENUM_CURRENT_SETTINGS, &devMode))
+        {
+            if (bEnabled)
+            {
+                devMode.dmDisplayFixedOutput = DMDFO_DEFAULT;
+            }
+            else
+            {
+                devMode.dmDisplayFixedOutput = DMDFO_CENTER;
+            }
+
+            ChangeDisplaySettings(&devMode, CDS_UPDATEREGISTRY);
+        }
+        ReleaseDC(NULL, hdc);
+    }
+#else
+
+#endif
+};
+
 
 int32 UBBWindowsUtils::ShowWindowsMessageBox(FString Message, FString Title, EWindowsMessageBoxButtons ButtonType)
 {

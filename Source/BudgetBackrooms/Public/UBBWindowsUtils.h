@@ -30,5 +30,7 @@ public:
     UFUNCTION(BlueprintCallable, Category = "Budget Windows Utils")
     static void LockPC();
 
+	UFUNCTION(BlueprintCallable, Category = "Budget Windows Utils")
+	static void ForceEnableHDR(bool bEnabled);
 
 };
