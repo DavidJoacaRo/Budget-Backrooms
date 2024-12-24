@@ -27,7 +27,7 @@ public:
     UFUNCTION(BlueprintCallable, Category = "Budget Windows Utils")
     static int32 ShowWindowsMessageBox(FString Message, FString Title, EWindowsMessageBoxButtons ButtonType);
 
-    UFUNCTION(BlueprintCallable, Category = "Budget Windows Utils", )
+    UFUNCTION(BlueprintCallable, Category = "Budget Windows Utils")
     static void LockPC();
 
 
