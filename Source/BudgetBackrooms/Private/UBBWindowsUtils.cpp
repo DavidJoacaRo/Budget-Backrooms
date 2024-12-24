@@ -1,6 +1,56 @@
 #include "UBBWindowsUtils.h"
 #include "Windows/WindowsHWrapper.h"
 #include "Misc/MessageDialog.h"
+#include "Kismet/GameplayStatics.h"
+#include "GameFramework/PlayerController.h"
+#include "Windows/WindowsPlatformMisc.h"
+#include "UBBWindowsUtils.h"
+#include "Windows/WindowsHWrapper.h"
+#include "Misc/MessageDialog.h"
+#include "Kismet/GameplayStatics.h"
+#include "GameFramework/PlayerController.h"
+#include "Windows/WindowsPlatformMisc.h"
+
+void UBBWindowsUtils::LockPC()
+{
+    #if PLATFORM_WINDOWS
+    ::LockWorkStation();
+    #else
+
+    #endif
+};
+
+void UBBWindowsUtils::ForceEnableHDR(bool bEnabled)
+{
+#if PLATFORM_WINDOWS
+    // Use Windows API to toggle HDR
+    HDC hdc = GetDC(NULL);
+    if (hdc)
+    {
+        DEVMODE devMode = {};
+        devMode.dmSize = sizeof(DEVMODE);
+        devMode.dmFields = DM_DISPLAYFIXEDOUTPUT;
+
+        if (EnumDisplaySettings(NULL, ENUM_CURRENT_SETTINGS, &devMode))
+        {
+            if (bEnabled)
+            {
+                devMode.dmDisplayFixedOutput = DMDFO_DEFAULT;
+            }
+            else
+            {
+                devMode.dmDisplayFixedOutput = DMDFO_CENTER;
+            }
+
+            ChangeDisplaySettings(&devMode, CDS_UPDATEREGISTRY);
+        }
+        ReleaseDC(NULL, hdc);
+    }
+#else
+
+#endif
+};
+
 
 int32 UBBWindowsUtils::ShowWindowsMessageBox(FString Message, FString Title, EWindowsMessageBoxButtons ButtonType)
 {
@@ -40,11 +90,11 @@ int32 UBBWindowsUtils::ShowWindowsMessageBox(FString Message, FString Title, EWi
     );
 
     return Result; // Return the result directly, so you can handle different cases in Blueprint
-#else
+    #else
     // Fallback for non-Windows platforms
     FText Msg = FText::FromString(Message);
     FText TitleText = FText::FromString(Title);
     FMessageDialog::Open(EAppMsgType::Ok, Msg, &TitleText);
     return 0; // Default fallback value
-#endif
+    #endif
 }

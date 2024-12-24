@@ -1,5 +1,6 @@
 #pragma once
-
+#include "Windows/WindowsPlatformMisc.h"
+#include "Windows/WindowsHWrapper.h"
 #include "Kismet/BlueprintFunctionLibrary.h"
 #include "UBBWindowsUtils.generated.h"
 
@@ -17,7 +18,6 @@ enum class EWindowsMessageBoxButtons : uint8
     AbortRetryIgnore UMETA(DisplayName = "Abort Retry Ignore")
 };
 
-
 UCLASS()
 class BUDGETBACKROOMS_API UBBWindowsUtils : public UBlueprintFunctionLibrary
 {
@@ -26,4 +26,11 @@ class BUDGETBACKROOMS_API UBBWindowsUtils : public UBlueprintFunctionLibrary
 public:
     UFUNCTION(BlueprintCallable, Category = "Budget Windows Utils")
     static int32 ShowWindowsMessageBox(FString Message, FString Title, EWindowsMessageBoxButtons ButtonType);
+
+    UFUNCTION(BlueprintCallable, Category = "Budget Windows Utils")
+    static void LockPC();
+
+	UFUNCTION(BlueprintCallable, Category = "Budget Windows Utils")
+	static void ForceEnableHDR(bool bEnabled);
+
 };
