@@ -43,6 +43,8 @@ public:
     UFUNCTION(BlueprintCallable, Category= "Steam", meta = (Keywords = "Verify Integrity", ToolTip = "Sends the Steam Client a request to verify the game's integrity, and if there's anything corrupt detected the bool will be set to true. Works only if the game's installed under Steam, Steam is open and the SteamSDK is integrated properly."))
     static void MarkContentCorrupt(bool& bMissingFilesOnly);
 
+	UFUNCTION(BlueprintCallable, Category = "Steam")
+	static void ClearSteamRichPresence();
     
 
 };

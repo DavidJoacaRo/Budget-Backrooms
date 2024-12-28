@@ -16,36 +16,38 @@ UBBSteamUtils::UBBSteamUtils()
 void UBBSteamUtils::MarkContentCorrupt(bool& bMissingFilesOnly) {
     if (SteamAPI_Init()) {
         bool bSuccess = SteamApps()->MarkContentCorrupt(bMissingFilesOnly);
+	}
+	else
+	{
 
-    }
+	}
 }
 
 void UBBSteamUtils::SetSteamRichPresence(const FString& Key, const FString& Value)
 {
-    if (SteamAPI_Init()) {
+	if (SteamAPI_Init()) {
+		SteamFriends()->SetRichPresence(TCHAR_TO_UTF8(*Key), TCHAR_TO_UTF8(*Value));
+	}
+	else
+	{
+		
+	}
+}
 
-
-        SteamFriends()->SetRichPresence(TCHAR_TO_UTF8(*Key), TCHAR_TO_UTF8(*Value));
-        UE_LOG(LogTemp, Log, TEXT("Steam Rich Presence set: %s = %s"), *Key, *Value);
-    }
-    //GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, TEXT("Steam API calls are disabled in the Editor."));
-    UE_LOG(LogTemp, Warning, TEXT("Steam API calls are disabled in the Editor."));
+void UBBSteamUtils::ClearSteamRichPresence() {
+		SteamFriends()->ClearRichPresence();
 }
 
 
 void UBBSteamUtils::OpenSteamOverlayWithURL(const FString& URL)
 {
     if (SteamFriends() != nullptr) {  
-
-
-        const char* SteamURL = TCHAR_TO_ANSI(*URL);
-
-
+        const char* SteamURL = TCHAR_TO_UTF8(*URL);
         SteamFriends()->ActivateGameOverlayToWebPage(SteamURL);
     }
     else
     {
-        UE_LOG(LogTemp, Warning, TEXT("Steam API calls are disabled in the Editor."));
+        UE_LOG(LogTemp, Warning, TEXT("[BUDGET STEAM NETWORKING] Steam calls r disabled, why??"));
     }
 }
 
@@ -79,10 +81,10 @@ void UBBSteamUtils::SetSteamOverlayNotificationPosition(ESteamNotificationPositi
     else
     {
         //GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, TEXT("Steam API Initialization failed."));
-        UE_LOG(LogTemp, Warning, TEXT("Steam API Initialization failed."));
+        UE_LOG(LogTemp, Warning, TEXT("[BUDGET STEAM NETWORKING] Steam API failed, why??"));
 }
     //GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Yellow, TEXT("Steam API calls are disabled in the Editor."));
-    UE_LOG(LogTemp, Warning, TEXT("Steam API calls are disabled in the Editor."));
+    UE_LOG(LogTemp, Warning, TEXT("[BUDGET STEAM NETWORKING] Steam calls r disabled, why??"));
     
 }
 
@@ -99,14 +101,14 @@ void UBBSteamUtils::ToggleSteamOverlay()
     }
     else
     {
-        UE_LOG(LogTemp, Warning, TEXT("Steam API Initialization failed."));
+        UE_LOG(LogTemp, Warning, TEXT("[BUDGET STEAM NETWORKING] Steam API failed, why??"));
     }
-    UE_LOG(LogTemp, Warning, TEXT("Steam API calls are disabled in the Editor."));
+    UE_LOG(LogTemp, Warning, TEXT("[BUDGET STEAM NETWORKING] Steam calls r disabled, why??"));
 }
 
 
 
-//Checks if the player has steam open
+//Checks if the player has Steam open
 void UBBSteamUtils::CheckSteamConnection(bool& bIsConnected)
 {
     if (SteamAPI_Init()) {
@@ -114,6 +116,7 @@ void UBBSteamUtils::CheckSteamConnection(bool& bIsConnected)
         bIsConnected = SteamAPI_IsSteamRunning() && SteamUser()->BLoggedOn();
     }
     else {
-        bIsConnected = false;
+
     }
+
 }
