@@ -9,8 +9,7 @@
 
 
 UENUM(BlueprintType)
-enum class ESteamNotificationPosition : uint8
-{
+enum class ESteamNotificationPosition : uint8 { 
     TopLeft UMETA(DisplayName = "Top Left"),
     TopRight UMETA(DisplayName = "Top Right"),
     BottomLeft UMETA(DisplayName = "Bottom Left"),
@@ -25,7 +24,7 @@ class BUDGETBACKROOMS_API UBBSteamUtils : public UBlueprintFunctionLibrary
 public:
     UBBSteamUtils();
 
-    UFUNCTION(BlueprintCallable, Category = "Steam", meta = (Keywords = "Set Steam Rich Presence", ToolTip = "Sets Steam Rich Presence with the desired args. It can be seen from the Friends List or other menus in the Steam Community."))
+    UFUNCTION(BlueprintCallable, Category = "Steam", meta = (Keywords = "Set Steam Rich Presence", ToolTip = "Sets Steam Rich Presence with the desired args. It can be seen from the Friends List or other menus in the Steam Community.")) 
     static void SetSteamRichPresence(const FString& Key, const FString& Value);
 
     UFUNCTION(BlueprintCallable, Category = "Steam", meta = (Keywords = "Steam Overlay Position", ToolTip = "Changes in which corner to show Steam Overlay notifications"))

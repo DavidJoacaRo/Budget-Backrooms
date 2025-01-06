@@ -22,15 +22,14 @@ void UBBSteamUtils::MarkContentCorrupt(bool& bMissingFilesOnly) {
 
 	}
 }
-
 void UBBSteamUtils::SetSteamRichPresence(const FString& Key, const FString& Value)
 {
 	if (SteamAPI_Init()) {
-		SteamFriends()->SetRichPresence(TCHAR_TO_UTF8(*Key), TCHAR_TO_UTF8(*Value));
+        SteamFriends()->SetRichPresence(TCHAR_TO_UTF8(*Key), TCHAR_TO_UTF8(*Value));
 	}
 	else
 	{
-		
+		UE_LOG(LogTemp, Warning, TEXT("[BUDGET STEAM NETWORKING] Steam API failed, why??"));
 	}
 }
 
