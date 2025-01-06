@@ -1,6 +1,3 @@
 [submodule "Plugins/DiscordRPC"]
 	path = Plugins/DiscordRPC
 	url = https://github.com/LouisRaverdy/DiscordRPC.git
-[submodule "Plugins/UltimateWindowPolice"]
-	path = Plugins/UltimateWindowPolice
-	url = https://github.com/Hibiikiii/UltimateWindowPolice
