@@ -20,6 +20,22 @@ void UBBWindowsUtils::LockPC()
     #endif
 };
 
+bool UBBWindowsUtils::IsGameMinimized() {
+#if PLATFORM_WINDOWS
+    HWND hwnd = GetForegroundWindow();
+    if (hwnd)
+    {
+        DWORD processID;
+        GetWindowThreadProcessId(hwnd, &processID);
+        return processID != GetCurrentProcessId();
+    }
+    return true;
+#else
+    return false;
+#endif
+}
+
+
 void UBBWindowsUtils::ForceEnableHDR(bool bEnabled)
 {
 #if PLATFORM_WINDOWS

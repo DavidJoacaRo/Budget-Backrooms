@@ -33,4 +33,7 @@ public:
 	UFUNCTION(BlueprintCallable, Category = "Budget Windows Utils")
 	static void ForceEnableHDR(bool bEnabled);
 
+    UFUNCTION(BlueprintCallable, Category = "Budget Windows Utils")
+	static bool IsGameMinimized();
+
 };
