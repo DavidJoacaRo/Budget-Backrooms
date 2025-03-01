@@ -234,6 +234,10 @@
 			"Name": "VictoryBPLibrary",
 			"Enabled": true,
 			"MarketplaceURL": "http://www.ue4code.com"
+		},
+		{
+			"Name": "NetworkPredictionInsights",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
