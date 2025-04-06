@@ -9,19 +9,24 @@
 
 UBBSteamUtils::UBBSteamUtils()
 {
-    // what
+	// yeah, what about it?
 }
 
 
+/* 
+* 
+* I don't think I need this for now.
+* 
 void UBBSteamUtils::MarkContentCorrupt(bool& bMissingFilesOnly) {
     if (SteamAPI_Init()) {
-        bool bSuccess = SteamApps()->MarkContentCorrupt(bMissingFilesOnly);
-	}
+        bool bSuccess = SteamApps()->MarkContentCorrupt(bMissingFilesOnly)
 	else
 	{
 
 	}
-}
+} */
+
+
 void UBBSteamUtils::SetSteamRichPresence(const FString& Key, const FString& Value)
 {
 	if (SteamAPI_Init()) {
@@ -50,7 +55,7 @@ void UBBSteamUtils::OpenSteamOverlayWithURL(const FString& URL)
     }
 }
 
-// Notification Position stuff because yeah
+// Notification Position stuff because yeah || Thanks to r0neko!! SpectralRift soon?
 void UBBSteamUtils::SetSteamOverlayNotificationPosition(ESteamNotificationPosition Position)
 {
     if (SteamAPI_Init()) {
@@ -91,7 +96,7 @@ void UBBSteamUtils::SetSteamOverlayNotificationPosition(ESteamNotificationPositi
 
 
 
-//Toggles the player's Steam Overlay, nothing fancy.
+//Toggles the player's Steam Overlay as if he pressed SHIFT + TAB.
 void UBBSteamUtils::ToggleSteamOverlay()
 {
     if (SteamAPI_Init()) {
@@ -115,7 +120,6 @@ void UBBSteamUtils::CheckSteamConnection(bool& bIsConnected)
         bIsConnected = SteamAPI_IsSteamRunning() && SteamUser()->BLoggedOn();
     }
     else {
-
+        UE_LOG(LogTemp, Warning, TEXT("[BUDGET STEAM NETWORKING] Steam API failed, why??"));
     }
-
 }
