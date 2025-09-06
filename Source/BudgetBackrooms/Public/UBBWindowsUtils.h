@@ -36,6 +36,4 @@ public:
     UFUNCTION(BlueprintCallable, Category = "Budget Windows Utils")
 	static bool IsGameMinimized();
 
-	UFUNCTION(BlueprintCallable, Category = "Budget Windows Utils")
-    static void BSOD();
 };
