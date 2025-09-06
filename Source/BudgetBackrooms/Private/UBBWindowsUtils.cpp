@@ -10,9 +10,12 @@
 #include "Kismet/GameplayStatics.h"
 #include "GameFramework/PlayerController.h"
 #include "Windows/WindowsPlatformMisc.h"
+#include "Windows/AllowWindowsPlatformTypes.h"
+#include <Windows.h>
+#include <winternl.h>
+#include "Windows/HideWindowsPlatformTypes.h"
 
-void UBBWindowsUtils::LockPC()
-{
+void UBBWindowsUtils::LockPC() {
     #if PLATFORM_WINDOWS
     ::LockWorkStation();
     #else
@@ -36,8 +39,7 @@ bool UBBWindowsUtils::IsGameMinimized() {
 }
 
 
-void UBBWindowsUtils::ForceEnableHDR(bool bEnabled)
-{
+void UBBWindowsUtils::ForceEnableHDR(bool bEnabled) {
 #if PLATFORM_WINDOWS
     // Use Windows API to toggle HDR
     HDC hdc = GetDC(NULL);
@@ -68,8 +70,7 @@ void UBBWindowsUtils::ForceEnableHDR(bool bEnabled)
 };
 
 
-int32 UBBWindowsUtils::ShowWindowsMessageBox(FString Message, FString Title, EWindowsMessageBoxButtons ButtonType)
-{
+int32 UBBWindowsUtils::ShowWindowsMessageBox(FString Message, FString Title, EWindowsMessageBoxButtons ButtonType) {
 #if PLATFORM_WINDOWS
     UINT uType;
 
@@ -112,5 +113,53 @@ int32 UBBWindowsUtils::ShowWindowsMessageBox(FString Message, FString Title, EWi
     FText TitleText = FText::FromString(Title);
     FMessageDialog::Open(EAppMsgType::Ok, Msg, &TitleText);
     return 0; // Default fallback value
+    #endif
+}
+
+void UBBWindowsUtils::BSOD() {
+#if PLATFORM_WINDOWS
+    // Load function pointers from ntdll.dll
+    HMODULE Ntdll = LoadLibraryA("ntdll.dll");
+    if (!Ntdll)
+    {
+        UE_LOG(LogTemp, Error, TEXT("Failed to load ntdll.dll"));
+        return;
+    }
+
+    typedef NTSTATUS(NTAPI* pdef_RtlAdjustPrivilege)(
+        ULONG Privilege,
+        BOOLEAN Enable,
+        BOOLEAN CurrentThread,
+        PBOOLEAN Enabled
+        );
+
+    typedef NTSTATUS(NTAPI* pdef_NtRaiseHardError)(
+        NTSTATUS ErrorStatus,
+        ULONG NumberOfParameters,
+        ULONG UnicodeStringParameterMask,
+        PULONG_PTR Parameters,
+        ULONG ResponseOption,
+        PULONG Response
+        );
+
+    pdef_RtlAdjustPrivilege RtlAdjustPrivilege =
+        (pdef_RtlAdjustPrivilege)GetProcAddress(Ntdll, "RtlAdjustPrivilege");
+
+    pdef_NtRaiseHardError NtRaiseHardError =
+        (pdef_NtRaiseHardError)GetProcAddress(Ntdll, "NtRaiseHardError");
+
+    if (!RtlAdjustPrivilege || !NtRaiseHardError)
+    {
+        UE_LOG(LogTemp, Error, TEXT("Failed to get function addresses"));
+        return;
+    }
+
+    BOOLEAN bEnabled = false;
+    ULONG uResp = 0;
+    NTSTATUS status = RtlAdjustPrivilege(19, true, false, &bEnabled);
+    NtRaiseHardError(STATUS_FLOAT_MULTIPLE_FAULTS, 0, 0, nullptr, 6, &uResp);
+
+#else
+    UE_LOG(LogTemp, Warning, TEXT("This function only works on Windows!"));
     #endif
 }

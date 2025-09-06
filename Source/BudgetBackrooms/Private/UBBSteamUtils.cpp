@@ -5,6 +5,34 @@
 #include "ThirdParty/Steamworks/Steamv151/sdk/public/steam/steam_api.h"
 
 
+/*
+///// WELCOME // PLEASE FUCKING READ ///////////////////////////////////////////////////////
+#
+# This version of the game is pretentious and I've manually updated the Steam SDK to
+# whatever the fucking latest is, just so I can benefit the peakest documentation
+# Steam has to offer.
+#
+# As for updating on your end, go to your Unreal Engine installation folder, then:
+# 1. Navigate to Engine/Source/ThirdParty/Steamworks/
+# 2. Make a new folder with the version you want to update to, for example "Steamv162"
+# 3. Download the Steamworks SDK from https://partner.steamgames.com/downloads/steamworks_sdk.zip
+# 4. Extract the SDK and copy the "sdk" folder into your newly created Steamworks version folder
+# (make sure to filter out linux maybe ihihihihi)
+# 5. Edit Steamworks.build.cs || Edit 'double SteamVersionNumber = 1.41;' to whatever version you updated to.
+# 6. Enjoy.
+#
+#
+#
+# 11:06PM 06.09.2025 - NEVER FUCKING MIND WE DO NOT UPDATE ANYMORE THE GAME DOES NOT START.
+#
+#
+////////////////////////////////////////////////////////////////////////////////////////////
+*/
+
+
+
+
+
 
 
 UBBSteamUtils::UBBSteamUtils()
@@ -112,7 +140,7 @@ void UBBSteamUtils::ToggleSteamOverlay()
 
 
 
-//Checks if the player has Steam open
+
 void UBBSteamUtils::CheckSteamConnection(bool& bIsConnected)
 {
     if (SteamAPI_Init()) {
@@ -123,3 +151,16 @@ void UBBSteamUtils::CheckSteamConnection(bool& bIsConnected)
         UE_LOG(LogTemp, Warning, TEXT("[BUDGET STEAM NETWORKING] Steam API failed, why??"));
     }
 }
+
+/*
+bool UBBSteamUtils::IsRunningOnSteamDeck()
+{
+    if (SteamAPI_Init()) {
+        return SteamUtils()->IsSteamRunningOnSteamDeck();
+    }
+    else {
+        UE_LOG(LogTemp, Warning, TEXT("[BUDGET STEAM NETWORKING] Steam API failed, why??"));
+        return false;
+    }
+}
+*/

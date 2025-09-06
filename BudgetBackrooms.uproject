@@ -7,10 +7,7 @@
 		{
 			"Name": "BudgetBackrooms",
 			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
+			"LoadingPhase": "Default"
 		}
 	],
 	"Plugins": [
@@ -227,8 +224,7 @@
 		},
 		{
 			"Name": "ProjectCleaner",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4d7f5dc837fc4b009bb91e678adf9fd0"
+			"Enabled": false
 		},
 		{
 			"Name": "VictoryBPLibrary",
@@ -291,8 +287,7 @@
 		},
 		{
 			"Name": "UltimateWindowPolice",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/46a05b6e073c4bc2ac65d62e9ae1d1d6"
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
