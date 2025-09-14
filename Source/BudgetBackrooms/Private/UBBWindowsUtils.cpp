@@ -53,7 +53,7 @@ void UBBWindowsUtils::ForceEnableHDR(bool Enabled) {
 
         if (EnumDisplaySettings(NULL, ENUM_CURRENT_SETTINGS, &devMode))
         {
-            if (bEnabled)
+            if (Enabled)
             {
                 devMode.dmDisplayFixedOutput = DMDFO_DEFAULT;
             }
