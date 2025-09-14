@@ -60,18 +60,13 @@ public:
     static void ToggleSteamOverlay();
 
     UFUNCTION(BlueprintCallable, Category = "Steam (Budget Backrooms // Custom BP Expose)", meta = (Keywords = "Steam Connection", ToolTip = "Checks whether the player has Steam active, and if the game can do a handshake with the Steam API (aka Initialization)"))
-    static void CheckSteamConnection(bool& bIsConnected);
+    static void CheckSteamConnection(bool& IsConnected);
 
     UFUNCTION(BlueprintCallable, Category = "Steam (Budget Backrooms // Custom BP Expose)", meta = (Keywords = "Steam Overlay", ToolTip = "Self-explanatory; Opens the user's Steam Overlay with a defined target link."))
     static void OpenSteamOverlayWithURL(const FString& URL);
 
-    /* UFUNCTION(BlueprintCallable, Category = "Steam", meta = (Keywords = "Verify Integrity", ToolTip = "Sends the Steam Client a request to verify the game's integrity, and if there's anything corrupt detected the bool will be set to true. Works only if the game's installed under Steam, Steam is open and the SteamSDK is integrated properly."))
-    static void MarkContentCorrupt(bool& bMissingFilesOnly); */
-
 	UFUNCTION(BlueprintCallable, Category = "Steam (Budget Backrooms // Custom BP Expose)")
 	static void ClearSteamRichPresence();
     
-    //UFUNCTION(BlueprintPure, Category = "Steam (Budget Backrooms // Custom BP Expose)", meta = (Keywords = "Steam Deck", ToolTip = "Check if User is running the game off Steam Deck."))
-	//static bool IsRunningOnSteamDeck();
    
 };

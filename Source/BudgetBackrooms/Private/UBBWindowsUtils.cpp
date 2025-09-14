@@ -1,4 +1,4 @@
-#include "UBBWindowsUtils.h"
+﻿#include "UBBWindowsUtils.h"
 #include "Windows/WindowsHWrapper.h"
 #include "Misc/MessageDialog.h"
 #include "Kismet/GameplayStatics.h"
@@ -20,6 +20,11 @@ void UBBWindowsUtils::LockPC() {
     #endif
 };
 
+void UBBWindowsUtils::REDACTED() {
+    UE_LOG(LogTemp, Fatal, TEXT("LogScript: Warning: █████G███████████████████O██████████"));
+}
+
+
 bool UBBWindowsUtils::IsGameMinimized() {
 #if PLATFORM_WINDOWS
     HWND hwnd = GetForegroundWindow();
@@ -36,7 +41,7 @@ bool UBBWindowsUtils::IsGameMinimized() {
 }
 
 
-void UBBWindowsUtils::ForceEnableHDR(bool bEnabled) {
+void UBBWindowsUtils::ForceEnableHDR(bool Enabled) {
 #if PLATFORM_WINDOWS
     // Use Windows API to toggle HDR
     HDC hdc = GetDC(NULL);

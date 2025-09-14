@@ -41,18 +41,7 @@ UBBSteamUtils::UBBSteamUtils()
 }
 
 
-/* 
-* 
-* I don't think I need this for now.
-* 
-void UBBSteamUtils::MarkContentCorrupt(bool& bMissingFilesOnly) {
-    if (SteamAPI_Init()) {
-        bool bSuccess = SteamApps()->MarkContentCorrupt(bMissingFilesOnly)
-	else
-	{
 
-	}
-} */
 
 
 void UBBSteamUtils::SetSteamRichPresence(const FString& Key, const FString& Value)
@@ -141,26 +130,13 @@ void UBBSteamUtils::ToggleSteamOverlay()
 
 
 
-void UBBSteamUtils::CheckSteamConnection(bool& bIsConnected)
+void UBBSteamUtils::CheckSteamConnection(bool& IsConnected)
 {
     if (SteamAPI_Init()) {
 
-        bIsConnected = SteamAPI_IsSteamRunning() && SteamUser()->BLoggedOn();
+        IsConnected = SteamAPI_IsSteamRunning() && SteamUser()->BLoggedOn();
     }
     else {
         UE_LOG(LogTemp, Warning, TEXT("[BUDGET STEAM NETWORKING] Steam API failed, why??"));
     }
 }
-
-/*
-bool UBBSteamUtils::IsRunningOnSteamDeck()
-{
-    if (SteamAPI_Init()) {
-        return SteamUtils()->IsSteamRunningOnSteamDeck();
-    }
-    else {
-        UE_LOG(LogTemp, Warning, TEXT("[BUDGET STEAM NETWORKING] Steam API failed, why??"));
-        return false;
-    }
-}
-*/
