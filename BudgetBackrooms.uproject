@@ -219,10 +219,6 @@
 			]
 		},
 		{
-			"Name": "ProjectCleaner",
-			"Enabled": false
-		},
-		{
 			"Name": "VictoryBPLibrary",
 			"Enabled": true,
 			"MarketplaceURL": "http://www.ue4code.com"
@@ -237,17 +233,6 @@
 			"SupportedTargetPlatforms": [
 				"Win32",
 				"Win64",
-				"Android"
-			]
-		},
-		{
-			"Name": "OpenXREyeTracker",
-			"Enabled": false,
-			"SupportedTargetPlatforms": [
-				"Win32",
-				"Win64",
-				"Linux",
-				"HoloLens",
 				"Android"
 			]
 		},
@@ -276,14 +261,6 @@
 		{
 			"Name": "HDRIBackdrop",
 			"Enabled": true
-		},
-		{
-			"Name": "OpenImageDenoise",
-			"Enabled": false
-		},
-		{
-			"Name": "UltimateWindowPolice",
-			"Enabled": false
 		},
 		{
 			"Name": "WebMMoviePlayer",
