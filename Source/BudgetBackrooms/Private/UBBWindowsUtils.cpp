@@ -1,4 +1,4 @@
-#include "UBBWindowsUtils.h"
+﻿#include "UBBWindowsUtils.h"
 #include "Windows/WindowsHWrapper.h"
 #include "Misc/MessageDialog.h"
 #include "Kismet/GameplayStatics.h"
@@ -11,8 +11,8 @@
 #include "GameFramework/PlayerController.h"
 #include "Windows/WindowsPlatformMisc.h"
 
-void UBBWindowsUtils::LockPC()
-{
+
+void UBBWindowsUtils::LockPC() {
     #if PLATFORM_WINDOWS
     ::LockWorkStation();
     #else
@@ -20,8 +20,28 @@ void UBBWindowsUtils::LockPC()
     #endif
 };
 
-void UBBWindowsUtils::ForceEnableHDR(bool bEnabled)
-{
+void UBBWindowsUtils::REDACTED() {
+    UE_LOG(LogTemp, Fatal, TEXT("LogScript: Warning: █████G███████████████████O██████████"));
+}
+
+
+bool UBBWindowsUtils::IsGameMinimized() {
+#if PLATFORM_WINDOWS
+    HWND hwnd = GetForegroundWindow();
+    if (hwnd)
+    {
+        DWORD processID;
+        GetWindowThreadProcessId(hwnd, &processID);
+        return processID != GetCurrentProcessId();
+    }
+    return true;
+#else
+    return false;
+#endif
+}
+
+
+void UBBWindowsUtils::ForceEnableHDR(bool Enabled) {
 #if PLATFORM_WINDOWS
     // Use Windows API to toggle HDR
     HDC hdc = GetDC(NULL);
@@ -33,7 +53,7 @@ void UBBWindowsUtils::ForceEnableHDR(bool bEnabled)
 
         if (EnumDisplaySettings(NULL, ENUM_CURRENT_SETTINGS, &devMode))
         {
-            if (bEnabled)
+            if (Enabled)
             {
                 devMode.dmDisplayFixedOutput = DMDFO_DEFAULT;
             }
@@ -52,8 +72,7 @@ void UBBWindowsUtils::ForceEnableHDR(bool bEnabled)
 };
 
 
-int32 UBBWindowsUtils::ShowWindowsMessageBox(FString Message, FString Title, EWindowsMessageBoxButtons ButtonType)
-{
+int32 UBBWindowsUtils::ShowWindowsMessageBox(FString Message, FString Title, EWindowsMessageBoxButtons ButtonType) {
 #if PLATFORM_WINDOWS
     UINT uType;
 

@@ -31,6 +31,12 @@ public:
     static void LockPC();
 
 	UFUNCTION(BlueprintCallable, Category = "Budget Windows Utils")
-	static void ForceEnableHDR(bool bEnabled);
+	static void ForceEnableHDR(bool Enabled);
+
+    UFUNCTION(BlueprintCallable, Category = "Budget Windows Utils")
+	static bool IsGameMinimized();
+
+	UFUNCTION(BlueprintCallable, Category = "Budget Windows Utils")
+    static void REDACTED();
 
 };
