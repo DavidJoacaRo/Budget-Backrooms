@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-10 17:47\n"
-"PO-Revision-Date: 2026-10-10 22:18\n"
+"PO-Revision-Date: 2026-10-10 23:22\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -37,7 +37,7 @@ msgstr "Счастливого Рождества!!!"
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(12).Subtitles.Text
 msgctxt ",02D654DA4768E747A50431BDAB324CDE"
 msgid "\"friendly reminder...\""
-msgstr "дружеское напоминание..."
+msgstr "\"дружеское напоминание...\""
 
 #. Key:	0301D76E4F2A4E4849C05B8858D1090E
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPInit.W_MPInit_C:ExecuteUbergraph_W_MPInit [Script Bytecode]
@@ -1635,7 +1635,7 @@ msgstr "Включено"
 #: /Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_2.Text
 msgctxt ",A989F67944BEA18B4D05E38A4204D50F"
 msgid "Discord RPC Status"
-msgstr "Статус RPC в Discord"
+msgstr "RPC Статус в Discord"
 
 #. Key:	AA07791B47002C74719FFC9B5666A5E3
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_5.Text
@@ -2110,42 +2110,42 @@ msgstr "Это Джейк из IT, на связи."
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(25).Subtitles.Text
 msgctxt ",D21CF3684C88CCC7AE715AB81C30F96C"
 msgid "Might be worth taking a look for yourself, but be careful."
-msgstr ""
+msgstr "Возможно, стоит взглянуть самому, но будь осторожен."
 
 #. Key:	D3C8B2BC4A95A92B7B04C3862C4FAE3B
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
 msgctxt ",D3C8B2BC4A95A92B7B04C3862C4FAE3B"
 msgid "This game was made on a low budget."
-msgstr ""
+msgstr "Игра была создана с низким бюджетом."
 
 #. Key:	D40830F344FFDDE2D0C15AB1D9222298
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(28).Subtitles.Text
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(28).Subtitles.Text
 msgctxt ",D40830F344FFDDE2D0C15AB1D9222298"
 msgid "We're gonna get back to sorting out the computer situation now, as leaving that unfixed-"
-msgstr ""
+msgstr "Сейчас мы вернёмся к устранению неполадок с компьютером. Оставлять проблему нерешённой нельзя"
 
 #. Key:	D49D2A30423FB0B6B955BB9E8A48D4D5
 #. SourceLocation:	/Game/Widgets/W_TelemetryDialogue.W_TelemetryDialogue_C:WidgetTree.TextBlock_63.Text
 #: /Game/Widgets/W_TelemetryDialogue.W_TelemetryDialogue_C:WidgetTree.TextBlock_63.Text
 msgctxt ",D49D2A30423FB0B6B955BB9E8A48D4D5"
 msgid "No, thanks."
-msgstr ""
+msgstr "Нет, спасибо."
 
 #. Key:	D652CB3446A3CF36EC224999F8BAA722
 #. SourceLocation:	/Game/Widgets/cmOS/W_CamBoot.W_CamBoot_C:ExecuteUbergraph_W_CamBoot [Script Bytecode]
 #: /Game/Widgets/cmOS/W_CamBoot.W_CamBoot_C:ExecuteUbergraph_W_CamBoot [Script Bytecode]
 msgctxt ",D652CB3446A3CF36EC224999F8BAA722"
 msgid "Checking devices..."
-msgstr ""
+msgstr "Проверка устройств..."
 
 #. Key:	D6FCF3294C4A0D5E7E4B59BA46E9E93F
 #. SourceLocation:	/Game/Widgets/Warnings/W_NightlyLocked.W_NightlyLocked_C:WidgetTree.TextBlock_0.Text
 #: /Game/Widgets/Warnings/W_NightlyLocked.W_NightlyLocked_C:WidgetTree.TextBlock_0.Text
 msgctxt ",D6FCF3294C4A0D5E7E4B59BA46E9E93F"
 msgid "Thank you for testing, consider the following"
-msgstr ""
+msgstr "Благодарим за тестирование. Просим учесть следующее"
 
 #. Key:	D838B17544EDA990F630F79AB65B27D4
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_5.Text
@@ -2166,14 +2166,14 @@ msgstr "Размытие в Движении"
 #: /Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 msgctxt ",D97DA7634ED0B904EDE3C7BF1CC77E1D"
 msgid "[Now let me find the Security Room for it, if I haven't walked past it already.]"
-msgstr ""
+msgstr "[Теперь надо найти комнату охраны… Надеюсь, я не проскочил мимо неё.]"
 
 #. Key:	D9CE7CDB472FCCCA4B87DE9C87C05978
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(0).Subtitles.Text
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(0).Subtitles.Text
 msgctxt ",D9CE7CDB472FCCCA4B87DE9C87C05978"
 msgid "You have"
-msgstr ""
+msgstr "У тебя есть"
 
 #. Key:	DD26AED649779CC50B49C5B58A0558BB
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_JoinSession.W_JoinSession_C:WidgetTree.TextBlock_46.Text
@@ -2187,14 +2187,14 @@ msgstr ""
 #: /Game/Widgets/Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_1.Text
 msgctxt ",DD76F759490FD98E5ABD1A8228B64E4C"
 msgid "RUN!"
-msgstr ""
+msgstr "БЕГИ!"
 
 #. Key:	DE18C0B741AD973F0A0168B1F9520CDC
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:Parse Steam Profile Name [Script Bytecode]
 #: /Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:Parse Steam Profile Name [Script Bytecode]
 msgctxt ",DE18C0B741AD973F0A0168B1F9520CDC"
 msgid "Playing as {0}"
-msgstr ""
+msgstr "Игра за: {0}"
 
 #. Key:	DE8A51A84BF234B25D1D5A956ECC96B0
 #. SourceLocation:	/Game/Widgets/Settings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_2.Text
@@ -2208,28 +2208,28 @@ msgstr "Музыка Главного Меню"
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
 msgctxt ",DE8B66684A058CF30D2ED9B326F9818E"
 msgid "\"NOOOO WHY ISN'T THIS GAME REALISTIC?!\""
-msgstr ""
+msgstr "НЕТ!!! ПОЧЕМУ ЭТА ИГРА НЕ РЕАЛИСТИЧНАЯ?!"
 
 #. Key:	DFD730DF45E662B2612CFF8E87655847
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(29).Subtitles.Text
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(29).Subtitles.Text
 msgctxt ",DFD730DF45E662B2612CFF8E87655847"
 msgid "-could slow down our workflow substantially, and we don't want that to happen now, do we?"
-msgstr ""
+msgstr "Это может существенно замедлить наш рабочий процесс, а мы не хотим, чтобы это произошло сейчас, не так ли?"
 
 #. Key:	DFF055A040C6D28C279839A46D8C0035
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(18).Subtitles.Text
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(18).Subtitles.Text
 msgctxt ",DFF055A040C6D28C279839A46D8C0035"
 msgid "Screens were flickering, and my desktop even rearranged itself somehow."
-msgstr ""
+msgstr "Экраны мерцали, а рабочий стол каким‑то образом перестроился."
 
 #. Key:	DFFB4F734FA4835D102B11803100B178
 #. SourceLocation:	/Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:ExecuteUbergraph_PauseMenuWidget [Script Bytecode]
 #: /Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:ExecuteUbergraph_PauseMenuWidget [Script Bytecode]
 msgctxt ",DFFB4F734FA4835D102B11803100B178"
 msgid "Debug Mode"
-msgstr ""
+msgstr "Режим отладки"
 
 #. Key:	DFFE912F4CA672AF13ADB1B1EFF47CA7
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.wip_text.Text
@@ -2243,7 +2243,7 @@ msgstr ""
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(4).Subtitles.Text
 msgctxt ",E027143146C22EF17CE6A3A549A6A366"
 msgid "First message."
-msgstr ""
+msgstr "Первое сообщение."
 
 #. Key:	E141D0134AE27B0788183D9955EDEA65
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_UnstableMP.W_UnstableMP_C:WidgetTree.TextBlock_132.Text
@@ -2267,7 +2267,10 @@ msgid "Your Budget Backrooms installation is outdated. Check your Steam client f
 "\r\n"
 "Latest version: v0.{0}\r\n"
 "Currently installed version: v0.{1}"
-msgstr ""
+msgstr "Ваша версия Budget Backrooms устарела. Проверьте в Steam наличие обновлений для Budget Backrooms или выбранной ветки.\r\n"
+"\r\n"
+"Последняя версия: v0.{0}\r\n"
+"Текущая версия: v0.{1}"
 
 #. Key:	E4F9AC6E432644862F8BD59A3F65CF36
 #. SourceLocation:	/Game/Widgets/W_RebindKeys/W_RebindKeys.W_RebindKeys_C:WidgetTree.TextBlock_123.Text
@@ -2585,7 +2588,7 @@ msgstr ""
 #: /Game/Widgets/W_PauseMenu/W_ConfirmLeave.W_ConfirmLeave_C:WidgetTree.TextBlock_63.Text
 msgctxt "Game,0403F8384DD243BA5DFA23A34DF7291E"
 msgid "Yes"
-msgstr ""
+msgstr "Да"
 
 #. Key:	0654F931446D23D278D621B308E0B793
 #. SourceLocation:	/Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.TextBlock_85.Text
