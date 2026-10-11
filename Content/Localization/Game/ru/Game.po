@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-10 17:47\n"
-"PO-Revision-Date: 2026-10-11 13:07\n"
+"PO-Revision-Date: 2026-10-11 14:47\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -153,7 +153,7 @@ msgstr "Перевод выполнен с помощью "
 #: /Game/Widgets/Animations/W_Safezone.W_Safezone_C:WidgetTree.TextBlock_1.Text
 msgctxt ",0CC0EA584CE4691B97BD4B81C5A6EEE8"
 msgid "Now entering..."
-msgstr "Теперь входим..."
+msgstr "Входим в…"
 
 #. Key:	0E5DE39F4FCB453AC020AAA0E32D0A9E
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPInit.W_MPInit_C:ExecuteUbergraph_W_MPInit [Script Bytecode]
@@ -244,7 +244,7 @@ msgstr "Прости, что перебиваю, Элизабет, но у те�
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(17).Subtitles.Text
 msgctxt ",19C6EBEC4435FED9C7CAC3AB54DDCDF1"
 msgid "\"No need to--\""
-msgstr "\"Не стоит--\""
+msgstr "\"Нет необходимости --\""
 
 #. Key:	19F8EA6E47751DD0CC07AFB15F038B7B
 #. SourceLocation:	/Game/Widgets/W_PauseMenu/W_ConfirmLeave.W_ConfirmLeave_C:WidgetTree.TextBlock.Text
@@ -262,7 +262,7 @@ msgstr "Вы уверены, что хотите выйти в Главное м
 #: /Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_0.Text
 msgctxt ",1A8C72D646BF429E378787BD0809460E"
 msgid "Play"
-msgstr "Начать"
+msgstr "Играть"
 
 #. Key:	1AB6487D4FF3967CB4BE0E9CB37177E9
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(31).Subtitles.Text
@@ -357,7 +357,7 @@ msgstr "\"И я слышал, как кто-то из вас говорил о �
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(30).Subtitles.Text
 msgctxt ",21F376E343A32785528CC19B4551F526"
 msgid "\"send-- send a team over to uh.. check it out.\""
-msgstr "\"отправь-- отправь команду туда, ээ.. проверь, что там.\""
+msgstr "«Отправьте…, отправьте группу, чтобы… э‑э… проверить это»"
 
 #. Key:	22421B744A7B577C3C6BC0856297430A
 #. SourceLocation:	/Game/Widgets/Settings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_4.Text
@@ -378,7 +378,7 @@ msgstr "Хотите внести свой вклад?"
 #: /Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_3.Text
 msgctxt ",24783675495A29482773CA8614B460EA"
 msgid "View Bobbing Intensity"
-msgstr "Интенсивность Покачивания Головы"
+msgstr "Интенсивность Покачивания"
 
 #. Key:	25FD63FB480627D2A7454C826FC83F4E
 #. SourceLocation:	/Game/Widgets/Warnings/W_NightlyWarn.W_NightlyWarn_C:WidgetTree.desc.Text
@@ -448,7 +448,7 @@ msgstr "Список изменений"
 #: /Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_3.Text
 msgctxt ",2BC16CBE4BF434AD53A4D09B75D02873"
 msgid "Selects the output display format, choosing between standard dynamic range (LDR) and various high dynamic range (HDR) configurations."
-msgstr "Выбирает формат отображения на выходе, предлагая на выбор стандартный динамический диапазон (LDR) и различные конфигурации с высоким динамическим диапазоном (HDR)."
+msgstr "Выбор формата вывода: стандартный (LDR) или расширенный (HDR) динамический диапазон."
 
 #. Key:	2C04AEBC4A5F7BDDB59288AA2C4D4441
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(8).Subtitles.Text
@@ -562,7 +562,7 @@ msgstr "одно"
 #: /Game/Widgets/W_Errors/W_ConnDrivErr.W_ConnDrivErr_C:WidgetTree.TextBlock_63.Text
 msgctxt ",364430A246D29C64E1C04396E88C340C"
 msgid "you gotta be kidding me"
-msgstr "ты, должно быть, шутишь надо мной"
+msgstr "Ты, должно быть, шутишь надо мной"
 
 #. Key:	38AF16154C99E7B73DE3F3BDB93AE8AF
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(24).Subtitles.Text
@@ -576,14 +576,14 @@ msgstr "Хорошо?"
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(23).Subtitles.Text
 msgctxt ",39935905454494977EC65AB83FC09BDF"
 msgid "\"I get it, you're all on your toes for the...\""
-msgstr "\"Понимаю, вы все на взводе из-за...\""
+msgstr "«Я понял: вы все начеку из-за …»"
 
 #. Key:	3B2AF7BF40FC584CBE7DC1ABD3E8E542
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(10).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(10).Subtitles.Text
 msgctxt ",3B2AF7BF40FC584CBE7DC1ABD3E8E542"
 msgid "\"Also...\""
-msgstr "\"К тому же…\""
+msgstr "«К тому же…»"
 
 #. Key:	3B5A90074A15DE71471B8993DF217DBC
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
@@ -636,7 +636,7 @@ msgstr "Прочие\r\n"
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_1.Text
 msgctxt ",4088789F4F09A439F7AAE489952E8E1D"
 msgid "Loud noises, if the audio is too loud for you, please adjust the volume in the Audio Settings section in the Main Menu, or check the volume in your OS."
-msgstr "Внимание: в игре есть громкие звуки. Если звук слишком громкий, отрегулируйте громкость в разделе “Настройки звука” в главном меню или проверьте громкость в операционной системе."
+msgstr "ВНИМАНИЕ: в игре есть громкие звуки. Если звук слишком громкий, отрегулируйте громкость в разделе “Настройки звука” в главном меню или проверьте громкость в операционной системе."
 
 #. Key:	408C1C9045910921D13A31B001F6FAD3
 #. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_Reload.W_TT_Reload_C:WidgetTree.restart_text.Text
@@ -799,7 +799,7 @@ msgstr "Для применения изменений требуется пер
 #: /Game/Widgets/Warnings/W_ExperLevel.W_ExperLevel_C:WidgetTree.TextBlock.Text
 msgctxt ",4F0E48A34DED746BFC9BD18B5225C948"
 msgid "The game is officially ending here, but for this version there's also a work-in-progress level after this one. You can either end your gameplay here, or continue further on, and get an early look. (Speedrunners, the timer should stop here)"
-msgstr "Игра официально заканчивается здесь, но в этой версии после неё также есть уровень в разработке. Вы можете либо завершить прохождение здесь, либо продолжить дальше и взглянуть на него раньше времени. (Спидраннерам: таймер должен остановиться здесь)"
+msgstr "Игра официально заканчивается здесь, но в этой версии после неё также есть уровень в разработке. Вы можете либо завершить прохождение здесь, либо продолжить дальше и взглянуть на него раньше времени. (Любителям скоростных прохождений: таймер должен остановиться здесь)"
 
 #. Key:	504FFE4F4E9148C7B85235829E2CBA1C
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
@@ -827,7 +827,7 @@ msgstr "БЫСТРЕЕ"
 #: /Game/Widgets/Settings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_85.Text
 msgctxt ",52E157914CE8B0F1AFA61E95E1CB0970"
 msgid "Apply & exit"
-msgstr "Принять"
+msgstr "Принять и выйти"
 
 #. Key:	5447BA0F492F744FE7E235A02123CD2A
 #. SourceLocation:	/Game/Widgets/Warnings/W_NightlyWarn.W_NightlyWarn_C:ExecuteUbergraph_W_NightlyWarn [Script Bytecode]
@@ -862,7 +862,7 @@ msgstr "Подождите ({1})"
 #: /Game/Widgets/W_Credits/W_Credits_Memerooms.W_Credits_Memerooms_C:WidgetTree.TextBlock_3.Text
 msgctxt ",56CC942F4E5CC98507254BA16A7C7979"
 msgid "Lory Games - Integrating Memerooms in Lory's Modpack [github.com/lorenzohappy19] before me"
-msgstr "Lory Games - Интеграция Memerooms в модпак Lory [github.com/lorenzohappy19] до меня"
+msgstr "Lory Games - Интеграция Memerooms в Lory Modpack [github.com/lorenzohappy19] до меня"
 
 #. Key:	574F69D44E9FC786CD40A29F92F48422
 #. SourceLocation:	/Game/Widgets/W_Restarting.W_Restarting_C:WidgetTree.TextBlock_0.Text
@@ -876,14 +876,14 @@ msgstr "Перезапуск исполняемого файла..."
 #: /Game/Widgets/W_RebindKeys/W_RebindEntry.W_RebindEntry_C:WidgetTree.kbmbutton.KeySelectionText
 msgctxt ",58D677054E565B5130AC62B63822753E"
 msgid "Press any key?"
-msgstr "Нажмите любую клавишу"
+msgstr "Нажать любую клавишу?"
 
 #. Key:	59789EC64D703F1AD2F041B85FE193B4
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(16).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(16).Subtitles.Text
 msgctxt ",59789EC64D703F1AD2F041B85FE193B4"
 msgid "\"people having their lunch mysteriously disappearing out of nowhere.\""
-msgstr "\"у людей загадочным образом пропадают обеды на ровном месте.\""
+msgstr "\"У людей загадочным образом на ровном месте пропадают обеды.\""
 
 #. Key:	5ABAE032431D6FAEEA8477B61905E51A
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(19).Subtitles.Text
@@ -897,7 +897,7 @@ msgstr "Спасибо."
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(9).Subtitles.Text
 msgctxt ",5AF6FE0244DBDA8C4254F49E06FCC48C"
 msgid "\"Do NOT panic, it's just the machines getting their beauty sleep.\""
-msgstr "\"НЕ паникуй, это просто машины ушли в свой сон красоты.\""
+msgstr "\"НЕ паникуй, это просто машины ушли подремать.\""
 
 #. Key:	5B0CFB614AAE57D557E54B9AF90AE2FC
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(25).Subtitles.Text
@@ -949,7 +949,7 @@ msgstr "Формат изображения"
 msgctxt ",5FF47DD84FFB12FE1CD2C991B3A7BF62"
 msgid "{sec}s Grace time\r\n"
 "Run with Shift"
-msgstr "{sec} сек. форы\r\n"
+msgstr "{sec} Сек. Форы\r\n"
 "Бег - Shift"
 
 #. Key:	6092D65B44718B2AF96A1A8C295D5C5E
@@ -978,21 +978,21 @@ msgstr "Играл в мультиплеер в раннем доступе, п�
 #: /Game/Audio/dave_2.dave_2.Subtitles(7).Subtitles.Text
 msgctxt ",63233EF042AA0A196BF745B5CA6DFC10"
 msgid "I've left my keycard in one of those rooms..."
-msgstr "Я оставил свою ключ-карту в одной из тех комнат..."
+msgstr "Я оставил свою ключ - карту в одной из тех комнат..."
 
 #. Key:	63295C394479C9CC0CD2C8A12C76B1E3
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_5.Text
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_5.Text
 msgctxt ",63295C394479C9CC0CD2C8A12C76B1E3"
 msgid "This game is NOT a 1:1 representation of the Backrooms Wiki, like any other Backrooms game, this game has it's own downsides and upsides. It's up to you to enjoy it."
-msgstr "Эта игра - НЕ точная копия Вики Закулисья. Как и любая другая игра по Закулисью, она имеет свои минусы и плюсы. Решать вам, понравится она вам или нет."
+msgstr "Эта игра - НЕ 1:1 точная копия Backrooms Wiki. Как и любая другая игра по Закулисью, она имеет свои минусы и плюсы. Решать вам, нравится она вам или нет."
 
 #. Key:	649E7FCC4144988064D51CA1DD380674
 #. SourceLocation:	/Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:ExecuteUbergraph_W_OptionalSurvey [Script Bytecode]
 #: /Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:ExecuteUbergraph_W_OptionalSurvey [Script Bytecode]
 msgctxt ",649E7FCC4144988064D51CA1DD380674"
 msgid "Nah, another time"
-msgstr "Неа, в другой раз"
+msgstr "Нет уж, в другой раз"
 
 #. Key:	66CA23354EB16F549F90CCA7B5468772
 #. SourceLocation:	/Game/Widgets/W_Banner.W_Banner_C:ExecuteUbergraph_W_Banner [Script Bytecode]
@@ -1006,7 +1006,7 @@ msgstr "Требуется перезапуск для применения из
 #: /Game/Widgets/Warnings/W_NightlyWarn.W_NightlyWarn_C:ExecuteUbergraph_W_NightlyWarn [Script Bytecode]
 msgctxt ",687BDE734B3294204F6EB994F858501B"
 msgid "Wait ({1})"
-msgstr "Подожди ({1})"
+msgstr "Жди ({1})"
 
 #. Key:	6A268743483FA7777E8CA4891CC33C12
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_Badges.W_Badges_C:WidgetTree.lor.ToolTipText
@@ -1027,7 +1027,7 @@ msgstr "БЫСТРЕЕ"
 #: /Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 msgctxt ",6C3D2BAE460E633E4FE260AE026D0418"
 msgid "This looks risky.."
-msgstr "Выглядит небезопасно.."
+msgstr "Выглядит рискованно…"
 
 #. Key:	6C417B4941E6236E62177093B3805EB3
 #. SourceLocation:	/Game/Widgets/W_HUD.W_HUD_C:WidgetTree.sanity_title.Text
@@ -1062,7 +1062,7 @@ msgstr "Эта игра бесплатная."
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.BRUv.Text
 msgctxt ",704A61E54D8CA487018B9F92D6762B7A"
 msgid "Toggle FPS Counter"
-msgstr "Переключить Счетчик FPS"
+msgstr "Счетчик FPS"
 
 #. Key:	71CB218F45FAEC754EDB78AD8F9E7F01
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
@@ -1095,7 +1095,7 @@ msgid "You are about to reset your game. This includes unlocked levels, settings
 "\r\n"
 "\r\n"
 "Are you sure?"
-msgstr "Вы собираетесь сбросить настройки игры. Это коснётся разблокированных уровней, настроек и некоторых состояний в игре. Достижения Steam не будут заблокированы заново.\r\n"
+msgstr "Вы собираетесь сбросить игровой прогресс. Это коснётся разблокированных уровней, настроек и некоторых состояний в игре. Достижения в Steam при этом не будут сброшены.\r\n"
 "\r\n"
 "\r\n"
 "Вы уверены?"
@@ -1105,7 +1105,7 @@ msgstr "Вы собираетесь сбросить настройки игры
 #: /Game/Audio/dave_2.dave_2.Subtitles(1).Subtitles.Text
 msgctxt ",7684BEE242A019D532DECEB57328FC3F"
 msgid "one"
-msgstr "один"
+msgstr "одно"
 
 #. Key:	776CCCB9468E9C4AD3026A9C40A7C341
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.download_text.Text
@@ -1128,7 +1128,7 @@ msgstr "Статистика сети недоступна.\r\n"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(1).Subtitles.Text
 msgctxt ",7807521646256AFEFF78D098D8CB4091"
 msgid "one"
-msgstr "один"
+msgstr "одно"
 
 #. Key:	784F3A824638F585EA4A74AFFD1373A1
 #. SourceLocation:	/Game/Widgets/W_RebindKeys/W_RebindEntry.W_RebindEntry_C:WidgetTree.clear.ToolTipText
@@ -1158,7 +1158,7 @@ msgstr "Нажмите F, чтобы\r\n"
 #: /Game/Widgets/W_RebindKeys/W_RebindKeys.W_RebindKeys_C:WidgetTree.W_RebindEntry.ActionLabel
 msgctxt ",79B9E61145CA1C5337F8199089CB2728"
 msgid "Interact"
-msgstr "Взаимодействие"
+msgstr "Взаимодействовать"
 
 #. Key:	79CC8E664296C5DF88766BA5C7CF48C0
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.res_text.Text
@@ -1235,7 +1235,7 @@ msgstr "Отключить фон главного меню, зависящий 
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(26).Subtitles.Text
 msgctxt ",7F82BC2843D806C1CC2135BEAC3100CD"
 msgid "You never know what could be in there.."
-msgstr "Ты не знаешь, что там может быть.."
+msgstr "Никогда не знаешь, что там может быть…"
 
 #. Key:	7FF0231A4FE90F8848A67F88B77740F2
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
@@ -1256,7 +1256,7 @@ msgstr "Бег"
 #: /Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 msgctxt ",815EAC784AB5B266046AED8E4F8933E6"
 msgid "Whose idea was it to cut off the power?"
-msgstr "Кому пришло в голову отключить электричество?"
+msgstr "Кто вообще додумался вырубить питание?"
 
 #. Key:	81A2334B45FA460FDF54339C876318D9
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(20).Subtitles.Text
@@ -1284,7 +1284,7 @@ msgstr "Участник разработки исходного кода игр
 #: /Game/Widgets/W_LoadingScreen/W_Memerooms_Loading.W_Memerooms_Loading_C:WidgetTree.title.Text
 msgctxt ",84DBC7384AA7AAC2F2C1D0B48ECBEDAF"
 msgid "The Memerooms™"
-msgstr "Мемное Закулисье™"
+msgstr "The Memerooms™"
 
 #. Key:	84F1C7BA41333CF011D0BF8455332F2D
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.select.Text
@@ -1312,7 +1312,7 @@ msgstr "Добро пожаловать в Nightly"
 #: /Game/Widgets/W_Interaction/W_InteractionHint.W_InteractionHint_C:WidgetTree.TextBlock_1.Text
 msgctxt ",86BCAF0245EDE47AD823FB83CF7A9BCF"
 msgid "Ok"
-msgstr "ОК"
+msgstr "Ок"
 
 #. Key:	8769A0F840B1EF7D538F76AE89C9297D
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.b_host.ToolTipText
@@ -1353,14 +1353,14 @@ msgstr "\"Сегодня вечером выкатываем системные 
 #: /Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.pause_icon.ToolTipText
 msgctxt ",892CF167411347302BB99F8D36BD93A1"
 msgid "kind of pause icon"
-msgstr "тип иконки паузы"
+msgstr "Иконка наподобие паузы"
 
 #. Key:	8937878845D1C792DABAD7B72A06313B
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_114.Text
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_114.Text
 msgctxt ",8937878845D1C792DABAD7B72A06313B"
 msgid "Resume from...?"
-msgstr "Продолжить с...?"
+msgstr "Продолжить с…?"
 
 #. Key:	89A2D34A49B50F5E165B949278F378FD
 #. SourceLocation:	/Game/Widgets/Multiplayer/WB_Badge.WB_Badge_C:WidgetTree.lor.ToolTipText
@@ -1423,7 +1423,7 @@ msgstr "Увидимся."
 #: /Game/Widgets/W_Screeensaver/W_Screensaver_InitDIal.W_Screensaver_InitDIal_C:WidgetTree.TextBlock_3.Text
 msgctxt ",90D2E00443A2DCA4DDB88082A4F8A4E6"
 msgid "You can press Left Click to exit Screensaver Mode after this screen."
-msgstr "Нажмите ЛКМ, чтобы выйти из режима заставки после данного экрана."
+msgstr "Нажмите левую кнопку мыши, чтобы выйти из режима заставки после этого экрана."
 
 #. Key:	92E9BF4846193CB072D4CC86C6522B14
 #. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_VideoSett.W_TT_VideoSett_C:WidgetTree.TextBlock_0.Text
@@ -1448,7 +1448,7 @@ msgstr "Наконец‑то! Новое обновление!!"
 #: /Game/Widgets/W_Credits/W_Credits_Memerooms.W_Credits_Memerooms_C:WidgetTree.TextBlock_0.Text
 msgctxt ",93D998194175AAF9C989EA904ED51F1C"
 msgid "Credits for The Memerooms™"
-msgstr "Титры Мемного Закулисья™"
+msgstr "Авторы The Memerooms™"
 
 #. Key:	940CA13E452B66BA51291D884AE0A4AF
 #. SourceLocation:	/Game/Widgets/W_Screeensaver/W_Screensaver_InitDIal.W_Screensaver_InitDIal_C:WidgetTree.TextBlock_0.Text
@@ -1490,14 +1490,14 @@ msgstr "Просто звоню, чтобы быстренько рассказ�
 #: /Game/Audio/dave_2.dave_2.Subtitles(20).Subtitles.Text
 msgctxt ",96FDF24242737C5C9777F1AD9E6C021D"
 msgid "Look-- it's not gonna take much time."
-msgstr "Смотри-- это не займёт много времени."
+msgstr "Слушай, это не займёт много времени."
 
 #. Key:	97494E14468916A014D0CAA273B40A35
 #. SourceLocation:	/Game/Widgets/Warnings/W_ControllerWarn.W_ControllerWarn_C:WidgetTree.TextBlock_132.Text
 #: /Game/Widgets/Warnings/W_ControllerWarn.W_ControllerWarn_C:WidgetTree.TextBlock_132.Text
 msgctxt ",97494E14468916A014D0CAA273B40A35"
 msgid "Nuh-uh"
-msgstr "Не-а"
+msgstr "Не‑а"
 
 #. Key:	9828611049827FEB20CB07812F6DD7A2
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_Badges.W_Badges_C:ExecuteUbergraph_W_Badges [Script Bytecode]
@@ -1511,14 +1511,14 @@ msgstr "The True Lory Games"
 #: /Game/Widgets/W_RebindKeys/W_RebindKeys.W_RebindKeys_C:WidgetTree.TextBlock_0.Text
 msgctxt ",9B531D5147655B1A0FDA8D8C3C6220FC"
 msgid "developer's note: i know they might look ugly, controller icons are to be replaced soon, i wanted to get the functionality done asap"
-msgstr "от разработчика: я знаю, что иконки контроллера выглядят плохо, но скоро я их заменю; мне хотелось закончить с функционалом как можно скорее"
+msgstr "Заметка от разработчика: понимаю, что иконки контроллера сейчас выглядят не очень — их скоро заменят. Сначала хотелось как можно быстрее сделать функционал"
 
 #. Key:	9C10BFE74F385110FD3AA5ADD0BFFF1E
 #. SourceLocation:	/Game/Widgets/W_Errors/W_ConnLost.W_ConnLost_C:WidgetTree.TextBlock_132.Text
 #: /Game/Widgets/W_Errors/W_ConnLost.W_ConnLost_C:WidgetTree.TextBlock_132.Text
 msgctxt ",9C10BFE74F385110FD3AA5ADD0BFFF1E"
 msgid "Connection terminated"
-msgstr "Связь разорвана"
+msgstr "Соединение прервано"
 
 #. Key:	9C7F59594CCC4A46ED3CE8B6DE1123FA
 #. SourceLocation:	/Game/Widgets/W_Saves/W_SaveWipe.W_SaveWipe_C:WidgetTree.TextBlock_1.Text
@@ -1539,7 +1539,7 @@ msgstr "Подуровень «Ты сжульничал»"
 #: /Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_4.Text
 msgctxt ",9CB931314DB294873FBCB089BA943056"
 msgid "Defines the color gamut for the output display, allowing selection between standard and wide color ranges for different display standards."
-msgstr "Определяет цветовую гамму для изображения, позволяя выбирать между стандартными и широкими цветовыми диапазонами для различных стандартов отображения."
+msgstr "Определяет цветовую гамму вывода: стандартный или широкий диапазон для разных дисплеев."
 
 #. Key:	9CDD7A4449A833FFCEC97CB46EFC6FDF
 #. SourceLocation:	/Game/Widgets/W_Saves/W_SaveWipe.W_SaveWipe_C:WidgetTree.TextBlock_132.Text
@@ -1553,7 +1553,7 @@ msgstr "Сбросить"
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_6.Text
 msgctxt ",9D88668D46BEC5D8D58B5CA0356176D4"
 msgid "Don't show this screen again"
-msgstr "Не показать этот экран снова"
+msgstr "Не показывать этот экран снова"
 
 #. Key:	9E805D004404A112C476C091ACCCC240
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_1.Text
@@ -1574,7 +1574,7 @@ msgstr "«Но если ты всё‑таки услышишь что‑то, �
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(32).Subtitles.Text
 msgctxt ",9EFC7C534ED28A2E5DB63F9A5DCF9948"
 msgid "End of messages"
-msgstr "Конец сообщений"
+msgstr "Сообщений больше нет"
 
 #. Key:	A0DEE0E8465F1F74CCF62FB855F582D6
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(29).Subtitles.Text
@@ -1630,7 +1630,7 @@ msgstr "Первое сообщение."
 #: /Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock.Text
 msgctxt ",A8DF3B32415DB3B4CB2342B271C89551"
 msgid "Enabled"
-msgstr "Включено"
+msgstr "Вкл."
 
 #. Key:	A989F67944BEA18B4D05E38A4204D50F
 #. SourceLocation:	/Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_2.Text
@@ -1688,7 +1688,7 @@ msgstr "Подними фонарик\r\n"
 #: /Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.lan_text.Text
 msgctxt ",AFDDD1E64D3A7F5B5AFF47B18BAC5CFE"
 msgid "Running in Offline Mode, you can only play and host local sessions on the same (local) network as yours. A proper Steam connection could not be made, and you've been switched to this mode as a fallback."
-msgstr "Находясь в офлайн-режиме, вы можете играть и создавать сессии только в своей локальной сети. Данный режим был включён автоматически, так как не удалось наладить соединение с Steam."
+msgstr "Находясь в офлайн - режиме, вы можете играть и создавать сессии только в своей локальной сети. Данный режим был включён автоматически, так как не удалось наладить соединение с Steam."
 
 #. Key:	B1D300AB40019134BF7E4DBA937A9F59
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
@@ -1716,7 +1716,7 @@ msgstr "хорошо"
 #: /Game/Widgets/W_Respawn/W_Respawn.W_Respawn_C:ExecuteUbergraph_W_Respawn [Script Bytecode]
 msgctxt ",B4FBA8D94D28B0306D449EA6C5B8AE88"
 msgid "Skill Issue"
-msgstr "Анскилл"
+msgstr "Неумёха"
 
 #. Key:	B4FBD559491E45565B8590A8A74387D4
 #. SourceLocation:	/Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_1.Text
@@ -1772,14 +1772,14 @@ msgstr "Присоединиться к сессии"
 #: /Game/Widgets/W_Respawn/W_Respawn_LV0.W_Respawn_LV0_C:ExecuteUbergraph_W_Respawn_LV0 [Script Bytecode]
 msgctxt ",BC2EB9834EB7C5AB2DF289B480A73A2D"
 msgid "skill issue"
-msgstr "анскилл"
+msgstr "неумёха"
 
 #. Key:	BC66E6484FE66168C591E49F858ABD5C
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
 msgctxt ",BC66E6484FE66168C591E49F858ABD5C"
 msgid "\"yet another walking simulator\""
-msgstr "\"очередной симулятор ходьбы\""
+msgstr "«Очередной симулятор ходьбы»"
 
 #. Key:	BC8CF86A4BBD4FF75489D29BA94A8F5E
 #. SourceLocation:	/Game/Widgets/Warnings/W_ExperLevel.W_ExperLevel_C:WidgetTree.TextBlock_132.Text
@@ -1800,7 +1800,7 @@ msgstr "Присоединиться к сессии"
 #: /Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_6.Text
 msgctxt ",BCCA07FA4AFECB20673F7380025B5AED"
 msgid "Skip Disclaimer screen"
-msgstr "Пропускать предупреждение"
+msgstr "Пропустить предупреждение"
 
 #. Key:	BCEA7DCC4F92FF08105115B93B36C548
 #. SourceLocation:	/Game/Widgets/Settings/W_Settings_Selection.W_Settings_Selection_C:WidgetTree.TextBlock_0.Text
@@ -1948,7 +1948,7 @@ msgstr "О НЕТ"
 #: /Game/Audio/dave_2.dave_2.Subtitles(17).Subtitles.Text
 msgctxt ",C2F8C9874EF16151BAE43DB6043D90C1"
 msgid "Alright?"
-msgstr "Всё в порядке?"
+msgstr "Хорошо?"
 
 #. Key:	C3E31F8A477DC630D3DACF8B38E6F78F
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(25).Subtitles.Text
@@ -1976,7 +1976,7 @@ msgstr "Зажмите C, чтобы приблизить."
 #: /Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_6.Text
 msgctxt ",C702A9464256B677C365949F9B704BEA"
 msgid "If HDR appears washed out, ensure it’s manually enabled in your operating system, or adjust the calibration settings below to match your monitor's colors accurately."
-msgstr "Если разрешение HDR выглядит размытым, убедитесь, что оно включено вручную в вашей операционной системе, или измените приведенные ниже параметры калибровки, чтобы точно соответствовать цветам вашего монитора."
+msgstr "Если HDR бледный, включите его вручную в ОС или настройте калибровку ниже под монитор."
 
 #. Key:	C730DC634CD927406FCFCC9E65380406
 #. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn.W_Respawn_C:WidgetTree.Tip.Text
@@ -2004,7 +2004,7 @@ msgstr "Благодаря усовершенствованной сетевой
 #: /Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_9.Text
 msgctxt ",C8FDFB4E47929EB174675D8F9623C62E"
 msgid "Heatmap Telemetry Opt-in"
-msgstr "Согласие на сбор данных тепловой карты"
+msgstr "Согласие на сбор данных телеметрии"
 
 #. Key:	CA1F132B41B4C69B739112B6E56BEF96
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_0.Text
@@ -2184,7 +2184,7 @@ msgstr "У тебя есть"
 #: /Game/Widgets/Multiplayer/W_JoinSession.W_JoinSession_C:WidgetTree.TextBlock_46.Text
 msgctxt ",DD26AED649779CC50B49C5B58A0558BB"
 msgid "create LAN"
-msgstr "создать локальную сеть"
+msgstr "Создать локальную сеть (LAN)"
 
 #. Key:	DD76F759490FD98E5ABD1A8228B64E4C
 #. SourceLocation:	/Game/Widgets/Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_1.Text
@@ -2205,7 +2205,7 @@ msgstr "Игра за: {0}"
 #: /Game/Widgets/Settings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_2.Text
 msgctxt ",DE8A51A84BF234B25D1D5A956ECC96B0"
 msgid "Main Menu Music"
-msgstr "Музыка Главного Меню"
+msgstr "Музыка Меню"
 
 #. Key:	DE8B66684A058CF30D2ED9B326F9818E
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
@@ -2254,14 +2254,14 @@ msgstr "Первое сообщение."
 #: /Game/Widgets/Multiplayer/W_UnstableMP.W_UnstableMP_C:WidgetTree.TextBlock_132.Text
 msgctxt ",E141D0134AE27B0788183D9955EDEA65"
 msgid "Yeah, about that..."
-msgstr "Насчёт этого..."
+msgstr "Да, насчёт этого…"
 
 #. Key:	E16A0B814454E3D6B0014DA5BC6C73A8
 #. SourceLocation:	/Game/Widgets/W_PauseMenu/W_ConfirmLeave.W_ConfirmLeave_C:ExecuteUbergraph_W_ConfirmLeave [Script Bytecode]
 #: /Game/Widgets/W_PauseMenu/W_ConfirmLeave.W_ConfirmLeave_C:ExecuteUbergraph_W_ConfirmLeave [Script Bytecode]
 msgctxt ",E16A0B814454E3D6B0014DA5BC6C73A8"
 msgid "FUCK YOU FUCK YOU FUCK YOU FUCK YOU FUCK YOU FUCK YOU FUCK YOU FUCK YOU FUCK YOU FUCK YOU "
-msgstr "К ЧЁРТУ К ЧЁРТУ К ЧЁРТУ К ЧЁРТУ К ЧЁРТУ К ЧЁРТУ К ЧЁРТУ К ЧЁРТУ К ЧЁРТУ К ЧЁРТУ К ЧЁРТУ К ЧЁРТУ "
+msgstr "ПОШЁЛ ТЫ, ПОШЁЛ ТЫ, ПОШЁЛ ТЫ, ПОШЁЛ ТЫ, ПОШЁЛ ТЫ, ПОШЁЛ ТЫ, ПОШЁЛ ТЫ, ПОШЁЛ ТЫ, ПОШЁЛ ТЫ, ПОШЁЛ ТЫ"
 
 #. Key:	E18F82134B6517874DE03CA632AFBC9C
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:ExecuteUbergraph_W_MPMenu [Script Bytecode]
@@ -2281,21 +2281,21 @@ msgstr "Ваша версия Budget Backrooms устарела. Проверь�
 #: /Game/Widgets/W_RebindKeys/W_RebindKeys.W_RebindKeys_C:WidgetTree.TextBlock_123.Text
 msgctxt ",E4F9AC6E432644862F8BD59A3F65CF36"
 msgid "Movement"
-msgstr "Движение"
+msgstr "Передвижение"
 
 #. Key:	E5A2E135440927DD63E86A901C23C014
 #. SourceLocation:	/Game/Widgets/W_RebindKeys/W_RebindKeys.W_RebindKeys_C:WidgetTree.W_RebindEntry_3.ActionLabel
 #: /Game/Widgets/W_RebindKeys/W_RebindKeys.W_RebindKeys_C:WidgetTree.W_RebindEntry_3.ActionLabel
 msgctxt ",E5A2E135440927DD63E86A901C23C014"
 msgid "Zoom"
-msgstr "Приближение"
+msgstr "Зум"
 
 #. Key:	E6601E154D8C507FD08F22B0ED7E3BD1
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPInit.W_MPInit_C:WidgetTree.status.Text
 #: /Game/Widgets/Multiplayer/W_MPInit.W_MPInit_C:WidgetTree.status.Text
 msgctxt ",E6601E154D8C507FD08F22B0ED7E3BD1"
 msgid "Establishing connection with Steam..."
-msgstr "Установка соединения с Steam..."
+msgstr "Устанавливается соединение со Steam…"
 
 #. Key:	E98CC95C4741BD618971C5ACD6D3E040
 #. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn.W_Respawn_C:WidgetTree.TextBlock_0.Text
@@ -2323,7 +2323,7 @@ msgstr "ПОЧИНИ СВОЮ ГРЁБАННУЮ СЕТЬ!!!"
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(2).Subtitles.Text
 msgctxt ",EAF0B06E4CEE369FD569A4BA3D7585AE"
 msgid "new message."
-msgstr "новое сообщение."
+msgstr "Новое сообщение."
 
 #. Key:	EB636D834604BAFA840D98ACACFDD861
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_Badges.W_Badges_C:ExecuteUbergraph_W_Badges [Script Bytecode]
@@ -2337,7 +2337,7 @@ msgstr "Разработчик"
 #: /Game/Widgets/W_Errors/W_ConnTravErr.W_ConnTravErr_C:WidgetTree.TextBlock_63.Text
 msgctxt ",EBA2280649DE145149C473A155CB5DCA"
 msgid "fucking hell"
-msgstr "чёртов ад"
+msgstr "Чёрт возьми"
 
 #. Key:	EC1EEF89400FD7017791B9A576C40873
 #. SourceLocation:	/Game/Widgets/Warnings/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock_7.Text
@@ -2376,14 +2376,14 @@ msgstr "После сброса\r\n"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(2).Subtitles.Text
 msgctxt ",EF4C37954E647F6D6485A995B9000AAF"
 msgid "new message"
-msgstr "новое сообщение"
+msgstr "Новое сообщение"
 
 #. Key:	EFA5511C4EEFEC0E17217381EFEBF25F
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(2).Subtitles.Text
 #: /Game/Audio/dave_2.dave_2.Subtitles(2).Subtitles.Text
 msgctxt ",EFA5511C4EEFEC0E17217381EFEBF25F"
 msgid "new message."
-msgstr "новое сообщение."
+msgstr "Новое сообщение."
 
 #. Key:	F068C21641BE5946E6CD23824FF744F1
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(4).Subtitles.Text
@@ -2474,7 +2474,7 @@ msgstr "Ko-Fi Спонсор"
 #: /Game/Widgets/W_TelemetryDialogue.W_TelemetryDialogue_C:WidgetTree.TextBlock_3.Text
 msgctxt ",F758D4064FBFF4E24AE5BA90DF82DCEB"
 msgid "You can opt-out / opt-in at any time in the Settings."
-msgstr "Вы можете в любой момент подписаться / отписаться в любое время в настройках."
+msgstr "Вы можете в любой момент подписаться / отписаться в Настройках."
 
 #. Key:	F7AA6C614B57DB81F1DDA39BE40687A9
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPInit.W_MPInit_C:ExecuteUbergraph_W_MPInit [Script Bytecode]
@@ -2715,7 +2715,7 @@ msgstr "Нет"
 #: /Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.TextBlock_5.Text
 msgctxt "Game,2DBEBE9742B8C6B7219AC998615667F3"
 msgid "FAQ"
-msgstr "ЧаВо"
+msgstr "FAQ"
 
 #. Key:	3143F271489310E79B1B6FB73A685A98
 #. SourceLocation:	/Game/Widgets/Animations/FadeIn_Edited.FadeIn_Edited_C:WidgetTree.TextBlock_2.Text
@@ -2738,7 +2738,7 @@ msgstr "Нажми F, чтобы включить фонарик"
 #: /Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock_1.Text
 msgctxt "Game,46EAC7E347E087B36E30A8B2E18E5F74"
 msgid "Looks like you're done here. Would you like to contribute to the game & answer to a 5-minute survey? Come on, it's not gonna hurt, be honest as possible if you want :)"
-msgstr "Похоже, ты всё здесь прошёл. Не хотел бы ты немного помочь игре и пройти 5-минутный опрос? Давай, это не больно. Отвечай максимально честно:)"
+msgstr "Похоже, ты всё здесь прошёл. Не хотел бы ты немного помочь игре и пройти 5-минутный опрос? Давай, это не больно. Отвечай максимально честно. :)"
 
 #. Key:	4A7E3B4543B1E90E0F55B7B8C9EF6864
 #. SourceLocation:	/Game/Widgets/Animations/FadeIn.FadeIn_C:WidgetTree.TextBlock_1.Text
@@ -2838,7 +2838,7 @@ msgstr "Удерживай V, чтобы смотреть назад."
 #: /Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock.Text
 msgctxt "Game,6491EE9E410A07B1F04868BEE7E68849"
 msgid "Camera Sensitivity"
-msgstr "Чувствительность камеры"
+msgstr "Чувствительность"
 
 #. Key:	6DBAF3F647996966C7B8E5BDBDDC097C
 #. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn_LV0.W_Respawn_LV0_C:WidgetTree.TextBlock.Text
@@ -2917,7 +2917,7 @@ msgstr "Вернуться\r\n"
 #: /Game/Widgets/W_Tooltips/W_TT_Screensaver.W_TT_Screensaver_C:WidgetTree.TextBlock_1.Text
 msgctxt "Game,940CA13E452B66BA51291D884AE0A4AF"
 msgid "Screensaver Mode"
-msgstr "Режим скринсейвера"
+msgstr "Режим заставки"
 
 #. Key:	9E0BA20A4B54936AD8539EB5F550A92B
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_19.Text
@@ -2938,7 +2938,7 @@ msgstr "Классический режим позволяет окунутьс�
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_4.Text
 msgctxt "Game,A97DE58E4F1FA713A36D5195C77F7283"
 msgid "The Memerooms™"
-msgstr "Мемное Закулисье™"
+msgstr "The Memerooms™"
 
 #. Key:	AD7DBA0043B70D71BC2B6083CD00F0DE
 #. SourceLocation:	/Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_192.Text
@@ -3008,7 +3008,7 @@ msgstr "Силы восстанавливаются, когда ты стоиш�
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_3.Text
 msgctxt "Game,D02790D3455C59CF228013A881859793"
 msgid "The Memerooms"
-msgstr "Мемное Закулисье"
+msgstr "The Memerooms"
 
 #. Key:	D535479940C75A7CDD9589A29B3DDC1F
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.TextBlock_1.Text
@@ -3016,7 +3016,7 @@ msgstr "Мемное Закулисье"
 msgctxt "Game,D535479940C75A7CDD9589A29B3DDC1F"
 msgid "Budget\r\n"
 "Multiplayer"
-msgstr "Budget\\r\r\n"
+msgstr "Budget\r\n"
 "Мультиплеер"
 
 #. Key:	DBAF3F647996966C7B8E5BDBDDC097C
