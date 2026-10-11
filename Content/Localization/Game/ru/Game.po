@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-10 17:47\n"
-"PO-Revision-Date: 2026-10-11 16:59\n"
+"PO-Revision-Date: 2026-10-11 17:59\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -79,7 +79,7 @@ msgstr "Просматривай камеры... разблокируй. Вот 
 #: /Game/Widgets/Warnings/W_ControllerWarn.W_ControllerWarn_C:WidgetTree.TextBlock_63.Text
 msgctxt ",066AAD0F432400DE433D138705B00951"
 msgid "fffffffffffuck you david"
-msgstr "дааааааааааааа Пошёл Ты, Дэвид"
+msgstr "да пошёл ты, дэвид"
 
 #. Key:	06A2645449908CDC0CB6AEB7CF835FF5
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(22).Subtitles.Text
@@ -729,14 +729,14 @@ msgstr "Кринж"
 #: /Game/Widgets/W_Tooltips/W_TT_Streamer.W_TT_Streamer_C:WidgetTree.te.Text
 msgctxt ",48C844644A16D45A8BBD65995C133D37"
 msgid "By enabling this option, it will mute Level 0 background music, and/or will replace some sounds with copyright-free ones. (Previously called Streamer Mode)"
-msgstr "При включении опции фоновая музыка на Уровне 0 будет отключена, а некоторые звуки заменятся на свободные от авторских прав (Ранее назывался «Режим для Стримеров»)"
+msgstr "При включении этой опции отключится фоновая музыка Уровня 0 и/или некоторые звуки заменятся на аналоги без авторских прав. (Ранее называлось «Режим Стримера»)"
 
 #. Key:	495DA9A6441447032659A89A05AC7C75
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(24).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(24).Subtitles.Text
 msgctxt ",495DA9A6441447032659A89A05AC7C75"
 msgid "\"stress and stuff like that but--\""
-msgstr "\"Стресс и всё такое, но --\""
+msgstr "«Стресс и всё такое, но--»"
 
 #. Key:	4A06DF4B4A5908148D980CBF87A65822
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(13).Subtitles.Text
@@ -799,7 +799,7 @@ msgstr "Для применения изменений требуется пер
 #: /Game/Widgets/Warnings/W_ExperLevel.W_ExperLevel_C:WidgetTree.TextBlock.Text
 msgctxt ",4F0E48A34DED746BFC9BD18B5225C948"
 msgid "The game is officially ending here, but for this version there's also a work-in-progress level after this one. You can either end your gameplay here, or continue further on, and get an early look. (Speedrunners, the timer should stop here)"
-msgstr "Игра официально заканчивается здесь, но в этой версии после неё также есть уровень в разработке. Вы можете либо завершить прохождение здесь, либо продолжить дальше и взглянуть на него раньше времени. (Любителям скоростных прохождений: таймер должен остановиться здесь)"
+msgstr "Игра официально заканчивается здесь, но в этой версии после неё также есть уровень в разработке. Вы можете либо завершить прохождение здесь, либо продолжить дальше и взглянуть на него раньше времени. (Спидраннерам: таймер должен остановиться здесь)"
 
 #. Key:	504FFE4F4E9148C7B85235829E2CBA1C
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
@@ -848,7 +848,7 @@ msgstr "Участник разработки исходного кода"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(6).Subtitles.Text
 msgctxt ",5614A195423FB26CFF43CA8A753EFDB1"
 msgid "Good afternoon, boss."
-msgstr "Добрый день, босс."
+msgstr "Добрый день, Шэф."
 
 #. Key:	5617C3D840B7E7A4339C68A31470BDAB
 #. SourceLocation:	/Game/Widgets/Warnings/W_NightlyLocked.W_NightlyLocked_C:ExecuteUbergraph_W_NightlyLocked [Script Bytecode]
@@ -862,7 +862,7 @@ msgstr "Подождите ({1})"
 #: /Game/Widgets/W_Credits/W_Credits_Memerooms.W_Credits_Memerooms_C:WidgetTree.TextBlock_3.Text
 msgctxt ",56CC942F4E5CC98507254BA16A7C7979"
 msgid "Lory Games - Integrating Memerooms in Lory's Modpack [github.com/lorenzohappy19] before me"
-msgstr "Lory Games - Интеграция Memerooms в Lory Modpack [github.com/lorenzohappy19] до меня"
+msgstr "Lory Games - Интеграция Memerooms в модпак Lory [github.com/lorenzohappy19] до меня"
 
 #. Key:	574F69D44E9FC786CD40A29F92F48422
 #. SourceLocation:	/Game/Widgets/W_Restarting.W_Restarting_C:WidgetTree.TextBlock_0.Text
@@ -876,14 +876,14 @@ msgstr "Перезапуск исполняемого файла..."
 #: /Game/Widgets/W_RebindKeys/W_RebindEntry.W_RebindEntry_C:WidgetTree.kbmbutton.KeySelectionText
 msgctxt ",58D677054E565B5130AC62B63822753E"
 msgid "Press any key?"
-msgstr "Нажать любую клавишу?"
+msgstr "Нажмите любую клавишу"
 
 #. Key:	59789EC64D703F1AD2F041B85FE193B4
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(16).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(16).Subtitles.Text
 msgctxt ",59789EC64D703F1AD2F041B85FE193B4"
 msgid "\"people having their lunch mysteriously disappearing out of nowhere.\""
-msgstr "\"У людей загадочным образом на ровном месте пропадают обеды.\""
+msgstr "«у людей загадочным образом пропадают обеды на ровном месте.»"
 
 #. Key:	5ABAE032431D6FAEEA8477B61905E51A
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(19).Subtitles.Text
