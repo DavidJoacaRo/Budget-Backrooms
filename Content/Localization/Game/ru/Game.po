@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-10 17:47\n"
-"PO-Revision-Date: 2026-10-11 10:15\n"
+"PO-Revision-Date: 2026-10-11 11:14\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -2674,7 +2674,10 @@ msgid "Well.. I guess that's it for now.\r\n"
 "You've reached the end of this version, feel free to explore more, quit, or do whatever you want.\r\n"
 "\r\n"
 "Thank you for playing the game, and perhaps fill out that survey form because apparently, your opinion matters."
-msgstr ""
+msgstr "Что ж... Вот и всё на этом.\r\n"
+"Ты достиг конца этой версии, так что остаётся лишь продолжать исследовать, выйти или делать всё, что душе угодно.\r\n"
+"\r\n"
+"Спасибо за игру, а пока можешь пройти опрос, ибо твоё мнение, по-видимому, имеет значение."
 
 #. Key:	2A1B5DED49C6C258E7F3AC81A0B422F1
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_9.Text
@@ -2734,7 +2737,7 @@ msgstr "Нажми F, чтобы включить фонарик"
 #: /Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock_1.Text
 msgctxt "Game,46EAC7E347E087B36E30A8B2E18E5F74"
 msgid "Looks like you're done here. Would you like to contribute to the game & answer to a 5-minute survey? Come on, it's not gonna hurt, be honest as possible if you want :)"
-msgstr ""
+msgstr "Похоже, что ты всё здесь прошёл. Не хотел бы ты немного помочь игре и пройти 5-минутный опрос? Давай, это не больно. И отвечай честно :)"
 
 #. Key:	4A7E3B4543B1E90E0F55B7B8C9EF6864
 #. SourceLocation:	/Game/Widgets/Animations/FadeIn.FadeIn_C:WidgetTree.TextBlock_1.Text
@@ -2791,7 +2794,7 @@ msgstr "Выбрать режим"
 #: /Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_4.Text
 msgctxt "Game,5B01E0A64686673A6F12F6A6F25814B9"
 msgid "That's all folks!"
-msgstr ""
+msgstr "Вот и всё, ребята!"
 
 #. Key:	606805C340EDA7C57DF31796C1F0897F
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock.Text
