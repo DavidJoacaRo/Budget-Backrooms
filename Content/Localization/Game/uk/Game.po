@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-10 17:47\n"
-"PO-Revision-Date: 2026-10-11 14:47\n"
+"PO-Revision-Date: 2026-10-11 15:58\n"
 "Language-Team: Ukrainian\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -122,7 +122,7 @@ msgstr ""
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_95.Text
 msgctxt ",084E856044F06AEFDE634E8E06EB4D51"
 msgid "Click here to continue"
-msgstr ""
+msgstr "Натисніть тут, щоб продовжити"
 
 #. Key:	0B631C5A441FFE36A7E5CC804041F31B
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(27).Subtitles.Text
@@ -137,8 +137,8 @@ msgstr ""
 msgctxt ",0B63AE0B4768A30314B307AB9675F418"
 msgid "Budget\r\n"
 "Backrooms"
-msgstr "Бюджетні\r\n"
-"Залаштунки"
+msgstr "Budget\r\n"
+"Backrooms"
 
 #. Key:	0BD5C3AA400CA31F93B89480456EA200
 #. SourceLocation:	/Game/Widgets/W_TextTip.Default__W_TextTip_C.PerLangContributedTextThing
@@ -229,7 +229,7 @@ msgstr ""
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_15.Text
 msgctxt ",18091DCB4D286220E2E78894815EBE8E"
 msgid "Texture Quality"
-msgstr ""
+msgstr "Якість Текстур"
 
 #. Key:	1999226F4332CB8FD39BAB8045D793E0
 #. SourceLocation:	/Game/Widgets/W_Errors/W_ConnLost.W_ConnLost_C:WidgetTree.TextBlock.Text
@@ -302,7 +302,7 @@ msgstr ""
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock.Text
 msgctxt ",1D7C9D3144D722EB7C783BB328182A4F"
 msgid "Depth of Field"
-msgstr ""
+msgstr "Глибина Різкості"
 
 #. Key:	1E12D60843E4348D764190A279294233
 #. SourceLocation:	/Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_5.Text
@@ -359,7 +359,7 @@ msgstr ""
 #: /Game/Widgets/Settings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_4.Text
 msgctxt ",22421B744A7B577C3C6BC0856297430A"
 msgid "Audio Settings"
-msgstr "Налаштування звуку"
+msgstr "Налаштування Звуку"
 
 #. Key:	2264D1C64B491B76F5C815AA5B6CBA21
 #. SourceLocation:	/Game/Widgets/W_TelemetryDialogue.W_TelemetryDialogue_C:WidgetTree.TextBlock_132.Text
@@ -387,7 +387,7 @@ msgstr "Оскільки ви вже грали в базову гру, зара
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_13.Text
 msgctxt ",26996A5E4A32E19E39F6D68E2DDADBC2"
 msgid "Shadow Quality"
-msgstr ""
+msgstr "Якість Тіней"
 
 #. Key:	2784FC72442FA17E4E75328B10D55010
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(0).Subtitles.Text
@@ -408,7 +408,7 @@ msgstr ""
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_3.Text
 msgctxt ",280062164C6F59E411D6CAA313B3EDAA"
 msgid "Everything you see in this game is still in development and it might not be final. Game could be popular, discontinued, or still in development in the future."
-msgstr ""
+msgstr "Усе, що ви бачите в цій грі, ще в розробці й може бути неостаточним. У майбутньому гра може стати популярною, закритися або все ще перебувати в розробці."
 
 #. Key:	28D27CD447CAD830C098EEB458CAD332
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(12).Subtitles.Text
@@ -472,7 +472,7 @@ msgstr ""
 #: /Game/Widgets/Settings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_0.Text
 msgctxt ",2CDA71264A1C4CF068AEE58874AB441C"
 msgid "Master Volume"
-msgstr "Загальна гучність"
+msgstr "Загальна Гучність"
 
 #. Key:	2DB0BA86444A796C5EDDFE802EDBEE5A
 #. SourceLocation:	/Game/Widgets/Multiplayer/WB_ServerList.WB_ServerList_C:WidgetTree.TextBlock_196.Text
@@ -628,7 +628,7 @@ msgstr ""
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_1.Text
 msgctxt ",4088789F4F09A439F7AAE489952E8E1D"
 msgid "Loud noises, if the audio is too loud for you, please adjust the volume in the Audio Settings section in the Main Menu, or check the volume in your OS."
-msgstr ""
+msgstr "Гучні звуки: якщо звук для вас занадто гучний, відрегулюйте гучність у розділі «Налаштування Звуку» в головному меню або перевірте гучність у вашій ОС."
 
 #. Key:	408C1C9045910921D13A31B001F6FAD3
 #. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_Reload.W_TT_Reload_C:WidgetTree.restart_text.Text
@@ -811,7 +811,7 @@ msgstr ""
 #: /Game/Widgets/Settings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_85.Text
 msgctxt ",52E157914CE8B0F1AFA61E95E1CB0970"
 msgid "Apply & exit"
-msgstr "Застосувати та вийти"
+msgstr "Застосувати та Вийти"
 
 #. Key:	5447BA0F492F744FE7E235A02123CD2A
 #. SourceLocation:	/Game/Widgets/Warnings/W_NightlyWarn.W_NightlyWarn_C:ExecuteUbergraph_W_NightlyWarn [Script Bytecode]
@@ -967,7 +967,7 @@ msgstr ""
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_5.Text
 msgctxt ",63295C394479C9CC0CD2C8A12C76B1E3"
 msgid "This game is NOT a 1:1 representation of the Backrooms Wiki, like any other Backrooms game, this game has it's own downsides and upsides. It's up to you to enjoy it."
-msgstr ""
+msgstr "Ця гра - НЕ точна копія Вікі Залаштунків. Як і будь-яка інша гра про Залаштунки, вона має свої мінуси та плюси. Вирішувати вам, чи сподобається вона вам."
 
 #. Key:	649E7FCC4144988064D51CA1DD380674
 #. SourceLocation:	/Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:ExecuteUbergraph_W_OptionalSurvey [Script Bytecode]
@@ -1144,7 +1144,7 @@ msgstr ""
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.res_text.Text
 msgctxt ",79CC8E664296C5DF88766BA5C7CF48C0"
 msgid "Resolution Settings"
-msgstr ""
+msgstr "Налаштування Роздільної Здатності"
 
 #. Key:	79DAA88B43EA8332ACE4839DB43324BA
 #. SourceLocation:	/Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_10.Text
@@ -1443,7 +1443,7 @@ msgstr ""
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_4.Text
 msgctxt ",94E56E2B454F34F2F4E8D3BB3DA60834"
 msgid "This game uses binaural audio, it's recommended to play with headphones or speakers that support stereo audio channels."
-msgstr ""
+msgstr "У цій грі використовується бінауральний звук. Рекомендуємо грати в навушниках або через колонки, що підтримують стереоканали."
 
 #. Key:	95CD8F5948B895FFFFD3AEAD41A45930
 #. SourceLocation:	/Game/Widgets/Warnings/W_GraphicsConflict.W_GraphicsConflict_C:WidgetTree.TextBlock_132.Text
@@ -1527,7 +1527,7 @@ msgstr "Скинути"
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_6.Text
 msgctxt ",9D88668D46BEC5D8D58B5CA0356176D4"
 msgid "Don't show this screen again"
-msgstr ""
+msgstr "Більше не показувати цей екран"
 
 #. Key:	9E805D004404A112C476C091ACCCC240
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_1.Text
@@ -1583,7 +1583,7 @@ msgstr ""
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock.Text
 msgctxt ",A6E9DA1E486C2280566E418C69FA9157"
 msgid "This game contains the following:"
-msgstr ""
+msgstr "Ця гра містить таке:"
 
 #. Key:	A824E12A4A5D2812A0D4139D6D74DD7B
 #. SourceLocation:	/Game/Widgets/Warnings/W_GraphicsConflict.W_GraphicsConflict_C:WidgetTree.TextBlock_63.Text
@@ -1703,7 +1703,7 @@ msgstr ""
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_2.Text
 msgctxt ",B54B0E9D4B007A5579F6E2A47F5381E4"
 msgid "This game contains flashing lights, glitch effecs and such, if you have photosensitive epilepsy, it is not recommended to play this game."
-msgstr ""
+msgstr "Ця гра містить спалахи світла, глитч-ефект тощо. Якщо у вас фоточутлива епілепсія, грати в неї не рекомендується."
 
 #. Key:	B86A83AC4E4C28AB09ED7A91454C4705
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(15).Subtitles.Text
@@ -1993,7 +1993,7 @@ msgstr ""
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_0.Text
 msgctxt ",CE1C6C3D46989FC7360AE2A1265F0755"
 msgid "Warning!"
-msgstr ""
+msgstr "Увага!"
 
 #. Key:	CF5990CF4F7D73D699AA5FB9CEF6F794
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(11).Subtitles.Text
@@ -2091,14 +2091,14 @@ msgstr ""
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_5.Text
 msgctxt ",D838B17544EDA990F630F79AB65B27D4"
 msgid "FPS Limit"
-msgstr ""
+msgstr "Обмеження FPS"
 
 #. Key:	D951832E46845B92530ACCAF201E97AF
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_2.Text
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_2.Text
 msgctxt ",D951832E46845B92530ACCAF201E97AF"
 msgid "Motion Blur"
-msgstr ""
+msgstr "Розмиття руху"
 
 #. Key:	D97DA7634ED0B904EDE3C7BF1CC77E1D
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
@@ -2140,7 +2140,7 @@ msgstr ""
 #: /Game/Widgets/Settings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_2.Text
 msgctxt ",DE8A51A84BF234B25D1D5A956ECC96B0"
 msgid "Main Menu Music"
-msgstr "Музика головного меню"
+msgstr "Музика Головного Меню"
 
 #. Key:	DE8B66684A058CF30D2ED9B326F9818E
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
@@ -2383,7 +2383,7 @@ msgstr ""
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_30.Text
 msgctxt ",F454C5E04355473BCC8D48AECB8C9028"
 msgid "Post-Processing"
-msgstr ""
+msgstr "Постобробка"
 
 #. Key:	F52E9A794E0F87FC2AD9539282507B9B
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(28).Subtitles.Text
