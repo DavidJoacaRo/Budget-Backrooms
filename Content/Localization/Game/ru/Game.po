@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-10 17:47\n"
-"PO-Revision-Date: 2026-10-11 09:18\n"
+"PO-Revision-Date: 2026-10-11 10:15\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -1688,7 +1688,7 @@ msgstr "Подними фонарик\r\n"
 #: /Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.lan_text.Text
 msgctxt ",AFDDD1E64D3A7F5B5AFF47B18BAC5CFE"
 msgid "Running in Offline Mode, you can only play and host local sessions on the same (local) network as yours. A proper Steam connection could not be made, and you've been switched to this mode as a fallback."
-msgstr ""
+msgstr "Находясь в офлайн-режиме, вы можете играть и создавать сессии только в своей локальной сети. Данный режим был включён автоматически, так как не удалось наладить соединение с Steam."
 
 #. Key:	B1D300AB40019134BF7E4DBA937A9F59
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
@@ -1702,7 +1702,7 @@ msgstr "Что‑то не так…"
 #: /Game/Widgets/W_Credits/W_Credits_Memerooms.W_Credits_Memerooms_C:WidgetTree.TextBlock_1.Text
 msgctxt ",B2CBA6D141EF64E6397E959470FEEEF1"
 msgid "This Gamemode uses the following songs as the background music:"
-msgstr ""
+msgstr "Данный режим игры использует следующие песни в качестве фоновой музыки:"
 
 #. Key:	B312B384418746374E6DC8A2FC9204B3
 #. SourceLocation:	/Game/Widgets/W_Errors/W_ClientBadver.W_ClientBadVer_C:WidgetTree.TextBlock_63.Text
@@ -1730,7 +1730,7 @@ msgstr ""
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_2.Text
 msgctxt ",B54B0E9D4B007A5579F6E2A47F5381E4"
 msgid "This game contains flashing lights, glitch effecs and such, if you have photosensitive epilepsy, it is not recommended to play this game."
-msgstr ""
+msgstr "Данная игра содержит мигающий свет, эффекты глюков и прочее. Если вы страдаете от фотосенситивной эпилепсии, рекомендуется закрыть эту игру."
 
 #. Key:	B86A83AC4E4C28AB09ED7A91454C4705
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(15).Subtitles.Text
@@ -2086,7 +2086,7 @@ msgstr "И во‑вторых…"
 #: /Game/Widgets/Multiplayer/W_Badges.W_Badges_C:ExecuteUbergraph_W_Badges [Script Bytecode]
 msgctxt ",D12610E44B9281594DAB4AA3A56BD18B"
 msgid "Had Early Access to Multiplayer while it was in the works"
-msgstr ""
+msgstr "Играл в мультиплеер в раннем доступе, пока он был в разработке"
 
 #. Key:	D198A3D24DB814EC86FA02ABEFD81F0B
 #. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_DelSavedMap.W_TT_DelSavedMap_C:WidgetTree.TextBlock_0.Text
@@ -2368,7 +2368,8 @@ msgstr ""
 msgctxt ",EE5F29BF4EBC230821B511A0D7089D30"
 msgid "After resetting,\r\n"
 "the game will reload."
-msgstr ""
+msgstr "После сброса\r\n"
+"игра перезапустится."
 
 #. Key:	EF4C37954E647F6D6485A995B9000AAF
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(2).Subtitles.Text
@@ -2403,7 +2404,7 @@ msgstr "С Новым годом!!!"
 #: /Game/Widgets/Warnings/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
 msgctxt ",F137827D4342A4959483FCBCC350B9DE"
 msgid "Yeah, this doesn't look so safe..."
-msgstr ""
+msgstr "Да уж, тут как‑то небезопасно…"
 
 #. Key:	F176A1D54448B2EBBBC718BD3C942C3C
 #. SourceLocation:	/Game/Widgets/W_RebindKeys/W_RebindKeys.W_RebindKeys_C:WidgetTree.TextBlock_82.Text
@@ -2431,7 +2432,7 @@ msgstr ""
 #: /Game/Widgets/Warnings/W_ExperLevel.W_ExperLevel_C:WidgetTree.TextBlock_63.Text
 msgctxt ",F3B36254424B8D6715CF0BBCC3F237DB"
 msgid "I'd rather wait"
-msgstr ""
+msgstr "Лучше подождать"
 
 #. Key:	F3BF734D4A5C25E80BE9589F30998527
 #. SourceLocation:	/Game/Widgets/W_RebindKeys/W_RebindKeys.W_RebindKeys_C:WidgetTree.TextBlock.Text
@@ -2600,7 +2601,7 @@ msgstr "Да"
 #: /Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.TextBlock_85.Text
 msgctxt "Game,0654F931446D23D278D621B308E0B793"
 msgid "Current level is marked as developer asset, meaning that what you see is NOT meant for consumer use."
-msgstr ""
+msgstr "Текущий уровень помечен как ассет разработки и не предназначен для потребительского использования."
 
 #. Key:	0939CC9A41B05D74ECDAF89A20A5D805
 #. SourceLocation:	/Game/Widgets/W_Banner.W_Banner_C:WidgetTree.TextBlock_1.Text
@@ -2867,7 +2868,7 @@ msgstr "Классический режим"
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_18.Text
 msgctxt "Game,8D9233084B8FE552469A8C819491A4D3"
 msgid "Enter Level 4 at least once to unlock this."
-msgstr ""
+msgstr "Чтобы разблокировать, посетите уровень 4."
 
 #. Key:	8EF3511743B8A34842C79EBD1E11349F
 #. SourceLocation:	/Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_7.Text
@@ -2911,7 +2912,7 @@ msgstr "Сбросить рассудок"
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_6.Text
 msgctxt "Game,A22F78484DDEF116D05FBCB66BB008C6"
 msgid "Experience the Backrooms in its most authentic form with the Classic gamemode. Explore through various levels and find the exit while encountering strange entities and levels. The first level is guided by arrows on the walls, but beware of noclippable walls that lead to sub-levels. You're not alone in the Backrooms, so stay alert and keep moving, and watch your sanity!"
-msgstr ""
+msgstr "Классический режим позволяет окунуться в Закулисье в его самом аутентичном виде. Исследуйте разнообразные уровни в поисках выхода, встречая при этом странноватых сущностей. На стенах первого уровня можно найти вспомогательные стрелочки, однако некоторые из стен позволяют провалиться на подуровни. Помните, что вы не одни в Закулисье, так что продолжайте идти и следите за рассудком!"
 
 #. Key:	A97DE58E4F1FA713A36D5195C77F7283
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_4.Text
@@ -2996,7 +2997,8 @@ msgstr "Мемное Закулисье"
 msgctxt "Game,D535479940C75A7CDD9589A29B3DDC1F"
 msgid "Budget\r\n"
 "Multiplayer"
-msgstr ""
+msgstr "Бюджетный\r\n"
+"мультиплеер"
 
 #. Key:	DBAF3F647996966C7B8E5BDBDDC097C
 #. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn_LV2.W_Respawn_LV2_C:WidgetTree.TextBlock.Text
