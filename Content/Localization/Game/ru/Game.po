@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-10 17:47\n"
-"PO-Revision-Date: 2026-10-11 11:14\n"
+"PO-Revision-Date: 2026-10-11 12:20\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -244,7 +244,7 @@ msgstr "Прости, что перебиваю, Элизабет, но у те�
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(17).Subtitles.Text
 msgctxt ",19C6EBEC4435FED9C7CAC3AB54DDCDF1"
 msgid "\"No need to--\""
-msgstr "«Не стоит --»"
+msgstr "\"Не стоит --\""
 
 #. Key:	19F8EA6E47751DD0CC07AFB15F038B7B
 #. SourceLocation:	/Game/Widgets/W_PauseMenu/W_ConfirmLeave.W_ConfirmLeave_C:WidgetTree.TextBlock.Text
@@ -350,7 +350,7 @@ msgstr "Режим игры пока недоступен.\r\n"
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(21).Subtitles.Text
 msgctxt ",20FC75D54C68A45BC09B1BA0ABF2B0A7"
 msgid "\"And I heard some of you talking about strange noises in the break room last night.\""
-msgstr "«И я слышал, как кто-то из вас говорил о странных звуках в комнате отдыха прошлой ночью.»"
+msgstr "\"И я слышал, как кто-то из вас говорил о странных звуках в комнате отдыха прошлой ночью.\""
 
 #. Key:	21F376E343A32785528CC19B4551F526
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(30).Subtitles.Text
@@ -583,7 +583,7 @@ msgstr "\"Понимаю, вы все на взводе из-за...\""
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(10).Subtitles.Text
 msgctxt ",3B2AF7BF40FC584CBE7DC1ABD3E8E542"
 msgid "\"Also...\""
-msgstr "К тому же…"
+msgstr "\"К тому же…\""
 
 #. Key:	3B5A90074A15DE71471B8993DF217DBC
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
@@ -1330,7 +1330,7 @@ msgstr "ДЛЯ ТЕСТЕРОВ\r\n"
 #: /Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:OutdatedBuild [Script Bytecode]
 msgctxt ",87A4B6F74F63C260834A2A8AC3EF1058"
 msgid "running on commit [{0}]"
-msgstr ""
+msgstr "Запуск при фиксации [{0}]"
 
 #. Key:	88484C8D444A7F816590F6AB2E582FA8
 #. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_External.W_TT_External_C:WidgetTree.TextBlock_1.Text
@@ -1567,7 +1567,7 @@ msgstr "Настройки HDR"
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(27).Subtitles.Text
 msgctxt ",9EC6B8564C3F8E280D2D64A4DDCA743F"
 msgid "\"Though if you DO hear something that sounds more than settling..\""
-msgstr ""
+msgstr "«Но если ты всё‑таки услышишь что‑то, что звучит не просто как оседание…»"
 
 #. Key:	9EFC7C534ED28A2E5DB63F9A5DCF9948
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(32).Subtitles.Text
@@ -1602,7 +1602,7 @@ msgstr "И… затем, может быть, отпереть ту дверь,
 #: /Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock.Text
 msgctxt ",A3AEDF9D4CE4CA889ED08795364C2D47"
 msgid "Level 1 Annex 2"
-msgstr ""
+msgstr "Уровень 1 Сектор 2"
 
 #. Key:	A6E9DA1E486C2280566E418C69FA9157
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock.Text
@@ -1672,7 +1672,7 @@ msgstr "Ты умер"
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(18).Subtitles.Text
 msgctxt ",AE4122AA494FDE6D09FB2DBAB05E4573"
 msgid "\"start a detective agency over just..\""
-msgstr ""
+msgstr "«Просто заново открыть детективное агентство...»"
 
 #. Key:	AE5CCB4242DCF6F2767D4FB1AF8BA62E
 #. SourceLocation:	/Game/Widgets/W_Interaction/W_InteractionHint.W_InteractionHint_C:WidgetTree.TextBlock_0.Text
@@ -1723,21 +1723,21 @@ msgstr "Анскилл"
 #: /Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_1.Text
 msgctxt ",B4FBD559491E45565B8590A8A74387D4"
 msgid "Sub-Level \"Before This Game Existed\""
-msgstr ""
+msgstr "Подуровень: «До появления этой игры»"
 
 #. Key:	B54B0E9D4B007A5579F6E2A47F5381E4
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_2.Text
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_2.Text
 msgctxt ",B54B0E9D4B007A5579F6E2A47F5381E4"
 msgid "This game contains flashing lights, glitch effecs and such, if you have photosensitive epilepsy, it is not recommended to play this game."
-msgstr "Данная игра содержит мигающий свет, эффекты глюков и прочее. Если вы страдаете от фотосенситивной эпилепсии, рекомендуется закрыть эту игру."
+msgstr "В этой игре есть мерцающий свет, глитч‑эффекты и другие подобные визуальные элементы. Если у вас светочувствительная эпилепсия, играть в эту игру не рекомендуется."
 
 #. Key:	B86A83AC4E4C28AB09ED7A91454C4705
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(15).Subtitles.Text
 #: /Game/Audio/dave_2.dave_2.Subtitles(15).Subtitles.Text
 msgctxt ",B86A83AC4E4C28AB09ED7A91454C4705"
 msgid "Browse through the camera feed, see if there is anything peculiar."
-msgstr ""
+msgstr "Проверь камеры, посмотри, не творится ли там что‑то странное."
 
 #. Key:	B8DBA6F942BE216F4D3214893BEABABA
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
@@ -1786,7 +1786,7 @@ msgstr "\"очередной симулятор ходьбы\""
 #: /Game/Widgets/Warnings/W_ExperLevel.W_ExperLevel_C:WidgetTree.TextBlock_132.Text
 msgctxt ",BC8CF86A4BBD4FF75489D29BA94A8F5E"
 msgid "Hold on!"
-msgstr ""
+msgstr "Держись!"
 
 #. Key:	BCC9987F4922A6131BACB5BF678327C3
 #. SourceLocation:	/Game/Widgets/Multiplayer/WB_ServerListEntry.WB_ServerListEntry_C:WidgetTree.TextBlock_93.Text
@@ -1823,7 +1823,7 @@ msgstr "С возвращением, {1}"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(21).Subtitles.Text
 msgctxt ",BD0F5851439767F0F067CA855E88F863"
 msgid "I'll keep investigating and see if there's any logical reasoning behind all this, but honestly..."
-msgstr ""
+msgstr "Буду копать дальше — может, тут есть какое‑то логическое объяснение… Но, если честно…"
 
 #. Key:	BDC83823493637856C2A7EB9ACEC72FE
 #. SourceLocation:	/Game/Widgets/W_Errors/W_ConnTravErr.W_ConnTravErr_C:WidgetTree.TextBlock.Text
@@ -1844,14 +1844,14 @@ msgstr "Игра ещё в разработке и может быть закр
 #: /Game/Widgets/W_Errors/W_ConnDrivErr.W_ConnDrivErr_C:WidgetTree.TextBlock.Text
 msgctxt ",BE09F5204D20A928785C63AC0947E6D3"
 msgid "There was an error binding the Net Driver, this usually happens due to SteamSockets (on the code side), please take a screenshot of this, and send it to the dev, along with a log file (usually located inside the game folder at (...\\BudgetBackrooms\\Saved\\Logs)"
-msgstr ""
+msgstr "«Произошла ошибка привязки сетевого драйвера. Обычно это связано с SteamSockets (на стороне кода). Пожалуйста, сделайте скриншот ошибки и отправьте его разработчикам вместе с файлом лога (он обычно находится в папке игры: ...\\BudgetBackrooms\\Saved\\Logs)"
 
 #. Key:	BE45127944D0DAD31E6A1F93A17213BE
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(8).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(8).Subtitles.Text
 msgctxt ",BE45127944D0DAD31E6A1F93A17213BE"
 msgid "\"wonky tomorrow morning, or quirky or anyway--\""
-msgstr ""
+msgstr "«Завтра утром будет как‑то… шатко, или чудно, или просто не так.»"
 
 #. Key:	BF6A87AC4EB2C857DFA02FB4B74B9AA4
 #. SourceLocation:	/Game/Widgets/W_Credits/W_Credits_Memerooms.W_Credits_Memerooms_C:WidgetTree.TextBlock.Text
@@ -2086,7 +2086,7 @@ msgstr "И во‑вторых…"
 #: /Game/Widgets/Multiplayer/W_Badges.W_Badges_C:ExecuteUbergraph_W_Badges [Script Bytecode]
 msgctxt ",D12610E44B9281594DAB4AA3A56BD18B"
 msgid "Had Early Access to Multiplayer while it was in the works"
-msgstr "Играл в мультиплеер в раннем доступе, пока он был в разработке"
+msgstr "Имел ранний доступ к мультиплееру на этапе разработки"
 
 #. Key:	D198A3D24DB814EC86FA02ABEFD81F0B
 #. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_DelSavedMap.W_TT_DelSavedMap_C:WidgetTree.TextBlock_0.Text
@@ -2360,7 +2360,7 @@ msgstr "Здесь отключён\r\n"
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(15).Subtitles.Text
 msgctxt ",EDB08C4A48EB7724169598971ACC5681"
 msgid "\"We've had a couple of reports recently about\""
-msgstr ""
+msgstr "В последнее время поступило несколько сообщений о"
 
 #. Key:	EE5F29BF4EBC230821B511A0D7089D30
 #. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_DelConfirm.W_TT_DelConfirm_C:ExecuteUbergraph_W_TT_DelConfirm [Script Bytecode]
@@ -2404,7 +2404,7 @@ msgstr "С Новым годом!!!"
 #: /Game/Widgets/Warnings/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
 msgctxt ",F137827D4342A4959483FCBCC350B9DE"
 msgid "Yeah, this doesn't look so safe..."
-msgstr "Да уж, тут как‑то небезопасно…"
+msgstr "Да, это не выглядит так уж безопасно..."
 
 #. Key:	F176A1D54448B2EBBBC718BD3C942C3C
 #. SourceLocation:	/Game/Widgets/W_RebindKeys/W_RebindKeys.W_RebindKeys_C:WidgetTree.TextBlock_82.Text
@@ -2425,14 +2425,14 @@ msgstr "Закрыто"
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
 msgctxt ",F295717741467DA02764AB867E6B814B"
 msgid "This game is open-source, and you can contribute right away!"
-msgstr ""
+msgstr "Эта игра с открытым исходным кодом — вы можете сразу внести свой вклад!"
 
 #. Key:	F3B36254424B8D6715CF0BBCC3F237DB
 #. SourceLocation:	/Game/Widgets/Warnings/W_ExperLevel.W_ExperLevel_C:WidgetTree.TextBlock_63.Text
 #: /Game/Widgets/Warnings/W_ExperLevel.W_ExperLevel_C:WidgetTree.TextBlock_63.Text
 msgctxt ",F3B36254424B8D6715CF0BBCC3F237DB"
 msgid "I'd rather wait"
-msgstr "Лучше подождать"
+msgstr "Я лучше подожду"
 
 #. Key:	F3BF734D4A5C25E80BE9589F30998527
 #. SourceLocation:	/Game/Widgets/W_RebindKeys/W_RebindKeys.W_RebindKeys_C:WidgetTree.TextBlock.Text
@@ -2446,7 +2446,7 @@ msgstr "Взаимодействия"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(11).Subtitles.Text
 msgctxt ",F4267D64462BBD64FC6F4EAD3784F0A7"
 msgid "We keep hearing these really weird noises coming from in there, like someone's redecorating."
-msgstr ""
+msgstr "Мы всё время слышим оттуда эти странные звуки, будто кто-то делает ремонт."
 
 #. Key:	F454C5E04355473BCC8D48AECB8C9028
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_30.Text
@@ -2467,14 +2467,14 @@ msgstr "Конец сообщений."
 #: /Game/Widgets/Multiplayer/W_Badges.W_Badges_C:WidgetTree.kofi.ToolTipText
 msgctxt ",F5B9B92441455482E5C3F0BF57A40FFA"
 msgid "Ko-Fi Donator"
-msgstr ""
+msgstr "Поддерживающий на Ko-Fi"
 
 #. Key:	F758D4064FBFF4E24AE5BA90DF82DCEB
 #. SourceLocation:	/Game/Widgets/W_TelemetryDialogue.W_TelemetryDialogue_C:WidgetTree.TextBlock_3.Text
 #: /Game/Widgets/W_TelemetryDialogue.W_TelemetryDialogue_C:WidgetTree.TextBlock_3.Text
 msgctxt ",F758D4064FBFF4E24AE5BA90DF82DCEB"
 msgid "You can opt-out / opt-in at any time in the Settings."
-msgstr ""
+msgstr "Вы можете отказаться / согласиться в любое время в настройках."
 
 #. Key:	F7AA6C614B57DB81F1DDA39BE40687A9
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPInit.W_MPInit_C:ExecuteUbergraph_W_MPInit [Script Bytecode]
@@ -2502,7 +2502,7 @@ msgstr "Нет, спасибо"
 #: /Game/Audio/dave_2.dave_2.Subtitles(22).Subtitles.Text
 msgctxt ",F850B59D49C11521BEB658983BB4971C"
 msgid "Take keycard, get in the room..."
-msgstr ""
+msgstr "Взять ключ-карту, войти в комнату..."
 
 #. Key:	F912874C4BF4F8E305532C8245A2F95D
 #. SourceLocation:	/Game/Widgets/W_Screeensaver/W_Screensaver_InitDIal.W_Screensaver_InitDIal_C:WidgetTree.TextBlock_2.Text
@@ -2516,7 +2516,7 @@ msgstr "Отмена"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(14).Subtitles.Text
 msgctxt ",FAE1BEF94F6C34B6AAB4C38805088177"
 msgid "And every time I go in there, I'm half expecting a ghost to pop out at any minute."
-msgstr ""
+msgstr "И каждый раз, когда я туда захожу, я почти жду, что в любую секунду выскочит призрак."
 
 #. Key:	FB8502B34F66BE631A96BEAE92260AB3
 #. SourceLocation:	/Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_8.Text
