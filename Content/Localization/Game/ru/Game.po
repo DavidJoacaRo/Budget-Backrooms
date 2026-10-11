@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-10 17:47\n"
-"PO-Revision-Date: 2026-10-11 17:59\n"
+"PO-Revision-Date: 2026-10-11 19:20\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -79,7 +79,7 @@ msgstr "Просматривай камеры... разблокируй. Вот 
 #: /Game/Widgets/Warnings/W_ControllerWarn.W_ControllerWarn_C:WidgetTree.TextBlock_63.Text
 msgctxt ",066AAD0F432400DE433D138705B00951"
 msgid "fffffffffffuck you david"
-msgstr "да пошёл ты, дэвид"
+msgstr "пшшшшёл нахуй, дэвид"
 
 #. Key:	06A2645449908CDC0CB6AEB7CF835FF5
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(22).Subtitles.Text
@@ -262,7 +262,7 @@ msgstr "Вы уверены, что хотите выйти в Главное М
 #: /Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_0.Text
 msgctxt ",1A8C72D646BF429E378787BD0809460E"
 msgid "Play"
-msgstr "Играть"
+msgstr "Начать"
 
 #. Key:	1AB6487D4FF3967CB4BE0E9CB37177E9
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(31).Subtitles.Text
@@ -420,7 +420,7 @@ msgstr "Всё, что вы видите в этой игре, всё ещё н�
 #: /Game/Audio/dave_2.dave_2.Subtitles(12).Subtitles.Text
 msgctxt ",28D27CD447CAD830C098EEB458CAD332"
 msgid "we'd have to try it out potato potatoe-- Listen."
-msgstr "мы должны были попробовать эту... картошку картофе... то есть… Ладно, слушай."
+msgstr "придётся опробовать это масло масляное-- Слушай."
 
 #. Key:	2B1098E743BFBEC7B25A9D8E7F6F1ED5
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(23).Subtitles.Text
@@ -513,7 +513,7 @@ msgstr "Итак, во‑первых, похоже, что комната от�
 #: /Game/Widgets/Warnings/W_NightlyLocked.W_NightlyLocked_C:WidgetTree.TextBlock.Text
 msgctxt ",32C6E59041060B90678371888594BB50"
 msgid "Nightly builds have been technically disabled, new update coming soon, please switch to normal branch and wait patiently :)"
-msgstr "Ночные сборки технически отключены. Скоро выйдет новое обновление — пожалуйста, переключитесь на обычную ветку и подождите немного. :)"
+msgstr "Ночные сборки технически отключены. Скоро выйдет новое обновление — пожалуйста, переключитесь на обычную ветку и подождите немного :)"
 
 #. Key:	347E1C8F4664E08C76956695B4D0D7E2
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.TextBlock_0.Text
@@ -541,7 +541,7 @@ msgstr "Совет: не используйте фонарик рядом с У�
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.fsr_warn.Text
 msgctxt ",353340D64CB689BB3301CCA38FFFE543"
 msgid "Option disabled, please set \"Anti-Aliasing\" to Low or better."
-msgstr "Опция отключена. Пожалуйста, установите сглаживание \"Anti‑Aliasing\" на уровень “Низко” или выше»."
+msgstr "Опция отключена. Пожалуйста, установите сглаживание на низко или выше."
 
 #. Key:	35D2913A43EC7C20C9AB329DD1532965
 #. SourceLocation:	/Game/Widgets/Warnings/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
@@ -708,7 +708,7 @@ msgstr "Создать сессию"
 #: /Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.b_mp_text.Text
 msgctxt ",471A60DE41367DBE6A3E0CB811AE38F1"
 msgid "Multiplayer"
-msgstr "Онлайн"
+msgstr "Сетевая Игра"
 
 #. Key:	4893565141F7BA406D963D864F812BBF
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
@@ -949,7 +949,7 @@ msgstr "Формат изображения"
 msgctxt ",5FF47DD84FFB12FE1CD2C991B3A7BF62"
 msgid "{sec}s Grace time\r\n"
 "Run with Shift"
-msgstr "{sec} Сек. Форы\r\n"
+msgstr "{sec} сек. форы\r\n"
 "Бег - Shift"
 
 #. Key:	6092D65B44718B2AF96A1A8C295D5C5E
@@ -978,7 +978,7 @@ msgstr "Играл в мультиплеер в раннем доступе, п�
 #: /Game/Audio/dave_2.dave_2.Subtitles(7).Subtitles.Text
 msgctxt ",63233EF042AA0A196BF745B5CA6DFC10"
 msgid "I've left my keycard in one of those rooms..."
-msgstr "Я оставил свою ключ - карту в одной из тех комнат..."
+msgstr "Я оставил свою ключ-карту в одной из тех комнат..."
 
 #. Key:	63295C394479C9CC0CD2C8A12C76B1E3
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_5.Text
@@ -992,7 +992,7 @@ msgstr "Эта игра - НЕ точная копия Вики Закулись
 #: /Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:ExecuteUbergraph_W_OptionalSurvey [Script Bytecode]
 msgctxt ",649E7FCC4144988064D51CA1DD380674"
 msgid "Nah, another time"
-msgstr "Нет уж, в другой раз"
+msgstr "Неа, в другой раз"
 
 #. Key:	66CA23354EB16F549F90CCA7B5468772
 #. SourceLocation:	/Game/Widgets/W_Banner.W_Banner_C:ExecuteUbergraph_W_Banner [Script Bytecode]
@@ -1006,7 +1006,7 @@ msgstr "Требуется перезапуск для применения из
 #: /Game/Widgets/Warnings/W_NightlyWarn.W_NightlyWarn_C:ExecuteUbergraph_W_NightlyWarn [Script Bytecode]
 msgctxt ",687BDE734B3294204F6EB994F858501B"
 msgid "Wait ({1})"
-msgstr "Жди ({1})"
+msgstr "Подождите ({1})"
 
 #. Key:	6A268743483FA7777E8CA4891CC33C12
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_Badges.W_Badges_C:WidgetTree.lor.ToolTipText
@@ -1105,7 +1105,7 @@ msgstr "Вы собираетесь сбросить игровой прогре
 #: /Game/Audio/dave_2.dave_2.Subtitles(1).Subtitles.Text
 msgctxt ",7684BEE242A019D532DECEB57328FC3F"
 msgid "one"
-msgstr "одно"
+msgstr "один"
 
 #. Key:	776CCCB9468E9C4AD3026A9C40A7C341
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.download_text.Text
@@ -1128,14 +1128,14 @@ msgstr "Статистика сети недоступна.\r\n"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(1).Subtitles.Text
 msgctxt ",7807521646256AFEFF78D098D8CB4091"
 msgid "one"
-msgstr "одно"
+msgstr "один"
 
 #. Key:	784F3A824638F585EA4A74AFFD1373A1
 #. SourceLocation:	/Game/Widgets/W_RebindKeys/W_RebindEntry.W_RebindEntry_C:WidgetTree.clear.ToolTipText
 #: /Game/Widgets/W_RebindKeys/W_RebindEntry.W_RebindEntry_C:WidgetTree.clear.ToolTipText
 msgctxt ",784F3A824638F585EA4A74AFFD1373A1"
 msgid "Restore to default for this bind"
-msgstr "Восстановить настройки по умолчанию для этой привязки"
+msgstr "Восстановить для этой клавиши настройки по умолчанию"
 
 #. Key:	78A0E87942FE9F1514EB1E8434F5F3C5
 #. SourceLocation:	/Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_5.Text
@@ -1179,7 +1179,7 @@ msgstr "Уровень 5"
 #: /Game/Widgets/W_HUD.W_HUD_C:Ver [Script Bytecode]
 msgctxt ",7B63012E4FDAC92B101D7CA7E76DC20E"
 msgid "(nightly build, based on future {0})"
-msgstr "(nightly-сборка, основана на будущей версии {0})"
+msgstr "(ночная сборка, основана на будущей версии {0})"
 
 #. Key:	7C91C4F045818540F1F5A2B8069F353A
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(15).Subtitles.Text
@@ -1221,7 +1221,7 @@ msgstr "Безопасная Зона"
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(19).Subtitles.Text
 msgctxt ",7EF251E34081146D10C144B5881E8192"
 msgid "\"Mark whatever it's yours.\""
-msgstr "\"Помечайте всё, что считаете своим.\""
+msgstr "«Помечайте всё, что считаете своим»."
 
 #. Key:	7F809B8545A418DD1740D88828585408
 #. SourceLocation:	/Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_10.Text
@@ -1305,7 +1305,7 @@ msgstr "Мы пытались выяснить источник проблемы
 #: /Game/Widgets/Warnings/W_NightlyWarn.W_NightlyWarn_C:WidgetTree.title.Text
 msgctxt ",85FE9D2F40485A2BC3F503A305F7DFEA"
 msgid "Welcome to Nightly"
-msgstr "Добро пожаловать в Nightly"
+msgstr "Добро пожаловать в Ночную сборку"
 
 #. Key:	86BCAF0245EDE47AD823FB83CF7A9BCF
 #. SourceLocation:	/Game/Widgets/W_Interaction/W_InteractionHint.W_InteractionHint_C:WidgetTree.TextBlock_1.Text
