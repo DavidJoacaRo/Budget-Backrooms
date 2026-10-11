@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-10 17:47\n"
-"PO-Revision-Date: 2026-10-10 17:51\n"
+"PO-Revision-Date: 2026-10-11 13:07\n"
 "Language-Team: Ukrainian\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -379,7 +379,7 @@ msgstr ""
 #: /Game/Widgets/Warnings/W_NightlyWarn.W_NightlyWarn_C:WidgetTree.desc.Text
 msgctxt ",25FD63FB480627D2A7454C826FC83F4E"
 msgid "Considering you've played the base game, you are now running a development branch of the game, meaning that you're going to see unfinished content, and spoilers of the upcoming features. Optionally report any critical bugs on the Discord Server. Enjoy :D"
-msgstr ""
+msgstr "Оскільки ви вже грали в базову гру, зараз ви запускаєте гілку розробки, тож побачите незавершений контент і спойлери до майбутніх фіч. За бажанням можете повідомляти про критичні баги на Discord-сервері. Приємної гри :D"
 
 #. Key:	26996A5E4A32E19E39F6D68E2DDADBC2
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_13.Text
@@ -817,7 +817,7 @@ msgstr ""
 #: /Game/Widgets/Warnings/W_NightlyWarn.W_NightlyWarn_C:ExecuteUbergraph_W_NightlyWarn [Script Bytecode]
 msgctxt ",5447BA0F492F744FE7E235A02123CD2A"
 msgid "Got it"
-msgstr ""
+msgstr "Зрозуміло"
 
 #. Key:	55AEF1CA46A68982A2C68CB5A66E8E4B
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_Badges.W_Badges_C:ExecuteUbergraph_W_Badges [Script Bytecode]
@@ -1280,7 +1280,7 @@ msgstr ""
 #: /Game/Widgets/Warnings/W_NightlyWarn.W_NightlyWarn_C:WidgetTree.title.Text
 msgctxt ",85FE9D2F40485A2BC3F503A305F7DFEA"
 msgid "Welcome to Nightly"
-msgstr ""
+msgstr "Ласкаво просимо до Nightly"
 
 #. Key:	86BCAF0245EDE47AD823FB83CF7A9BCF
 #. SourceLocation:	/Game/Widgets/W_Interaction/W_InteractionHint.W_InteractionHint_C:WidgetTree.TextBlock_1.Text
