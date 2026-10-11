@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-10 17:47\n"
-"PO-Revision-Date: 2026-10-11 22:58\n"
+"PO-Revision-Date: 2026-10-11 23:57\n"
 "Language-Team: Ukrainian\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -1013,7 +1013,7 @@ msgstr "Зачекай ({1})"
 #: /Game/Widgets/Multiplayer/W_Badges.W_Badges_C:WidgetTree.lor.ToolTipText
 msgctxt ",6A268743483FA7777E8CA4891CC33C12"
 msgid "The True Lory Games"
-msgstr ""
+msgstr "The True Lory Games"
 
 #. Key:	6A5895C94975E4273745409B88CE53D8
 #. SourceLocation:	/Game/Widgets/Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_4.Text
@@ -1305,7 +1305,7 @@ msgstr "Ми намагалися з'ясувати джерело пробле�
 #: /Game/Widgets/Warnings/W_NightlyWarn.W_NightlyWarn_C:WidgetTree.title.Text
 msgctxt ",85FE9D2F40485A2BC3F503A305F7DFEA"
 msgid "Welcome to Nightly"
-msgstr "Ласкаво просимо до Nightly"
+msgstr "Ласкаво просимо до Нічної Збірки"
 
 #. Key:	86BCAF0245EDE47AD823FB83CF7A9BCF
 #. SourceLocation:	/Game/Widgets/W_Interaction/W_InteractionHint.W_InteractionHint_C:WidgetTree.TextBlock_1.Text
@@ -1367,7 +1367,7 @@ msgstr "Продовжити з...?"
 #: /Game/Widgets/Multiplayer/WB_Badge.WB_Badge_C:WidgetTree.lor.ToolTipText
 msgctxt ",89A2D34A49B50F5E165B949278F378FD"
 msgid "The True Lory Games"
-msgstr ""
+msgstr "The True Lory Games"
 
 #. Key:	89A65EA74C6D7EBBEA7D5AAEF97A71C0
 #. SourceLocation:	/Game/Widgets/W_Errors/W_ConnTravErr.W_ConnTravErr_C:WidgetTree.TextBlock_132.Text
@@ -1504,7 +1504,7 @@ msgstr "Ні-і"
 #: /Game/Widgets/Multiplayer/W_Badges.W_Badges_C:ExecuteUbergraph_W_Badges [Script Bytecode]
 msgctxt ",9828611049827FEB20CB07812F6DD7A2"
 msgid "The True Lory Games"
-msgstr ""
+msgstr "The True Lory Games"
 
 #. Key:	9B531D5147655B1A0FDA8D8C3C6220FC
 #. SourceLocation:	/Game/Widgets/W_RebindKeys/W_RebindKeys.W_RebindKeys_C:WidgetTree.TextBlock_0.Text
@@ -2676,9 +2676,9 @@ msgid "Well.. I guess that's it for now.\r\n"
 "\r\n"
 "Thank you for playing the game, and perhaps fill out that survey form because apparently, your opinion matters."
 msgstr "Ну що ж... Мабуть, на цьому поки що все.\r\n"
-"Це кінець цієї версії — можеш і далі досліджувати світ, вийти з гри чи робити що душа забажає.\r\n"
+"Це кінець цієї версії — можете й далі досліджувати світ, вийти з гри чи робити що душа забажає.\r\n"
 "\r\n"
-"Дякуємо за гру! І, може, заповни форму опитування — адже, виявляється, твоя думка важлива."
+"Дякуємо, що пройшли! І, може, заповніть форму опитування — адже, виявляється, ваша думка важлива."
 
 #. Key:	2A1B5DED49C6C258E7F3AC81A0B422F1
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_9.Text
@@ -2715,7 +2715,7 @@ msgstr "Ні"
 #: /Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.TextBlock_5.Text
 msgctxt "Game,2DBEBE9742B8C6B7219AC998615667F3"
 msgid "FAQ"
-msgstr "FAQ"
+msgstr "ЧаПи"
 
 #. Key:	3143F271489310E79B1B6FB73A685A98
 #. SourceLocation:	/Game/Widgets/Animations/FadeIn_Edited.FadeIn_Edited_C:WidgetTree.TextBlock_2.Text
@@ -2931,14 +2931,14 @@ msgstr "Скинути розсудок"
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_6.Text
 msgctxt "Game,A22F78484DDEF116D05FBCB66BB008C6"
 msgid "Experience the Backrooms in its most authentic form with the Classic gamemode. Explore through various levels and find the exit while encountering strange entities and levels. The first level is guided by arrows on the walls, but beware of noclippable walls that lead to sub-levels. You're not alone in the Backrooms, so stay alert and keep moving, and watch your sanity!"
-msgstr "Відчуй Закулісся в його найавтентичнішому вигляді в класичному режимі. Досліджуй різні рівні й шукай вихід, зустрічаючи дивних сутностей. Перший рівень підказують стрілки на стінах, але стережися стін, крізь які можна пройти (ноуклип) — вони ведуть на підрівні. У Закулісся ти не сам, тому будь насторожі, не зупиняйся й стеж за розсудком!"
+msgstr "Відчуйте Залаштунки в його найавтентичнішому вигляді в класичному режимі. Досліджуйте різні рівні й шукайте вихід, зустрічаючи дивних сутностей. Перший рівень підказують стрілки на стінах, але стережіться стін, крізь які можна пройти (ноуклип) — вони ведуть на підрівні. У Залаштунки ви не самі, тому будьте насторожі, не зупиняйтеся й стежте за розсудком!"
 
 #. Key:	A97DE58E4F1FA713A36D5195C77F7283
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_4.Text
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_4.Text
 msgctxt "Game,A97DE58E4F1FA713A36D5195C77F7283"
 msgid "The Memerooms™"
-msgstr "Мемне Закулісся™"
+msgstr "The Memerooms™"
 
 #. Key:	AD7DBA0043B70D71BC2B6083CD00F0DE
 #. SourceLocation:	/Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_192.Text
@@ -2952,7 +2952,7 @@ msgstr "Видалити збереження"
 #: /Game/Widgets/W_Respawn/W_Respawn_LV2.W_Respawn_LV2_C:WidgetTree.dead.Text
 msgctxt "Game,AE37393348921D5E2025D7A42D566D9F"
 msgid "You died"
-msgstr "Тебе вбито"
+msgstr "Ви загинули"
 
 #. Key:	B1DD77C547FB9435B0A9D6BEDD089D2E
 #. SourceLocation:	/Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_0.Text
@@ -2973,7 +2973,7 @@ msgstr "Точно?"
 #: /Game/Widgets/W_Respawn/W_Respawn_LV0.W_Respawn_LV0_C:WidgetTree.dead.Text
 msgctxt "Game,BD2EE5214C90F96A537C17844C251221"
 msgid "You died"
-msgstr "Тебе вбито"
+msgstr "Ви загинули"
 
 #. Key:	BF69D65743CE7FF7D0C1B08FDAF564BB
 #. SourceLocation:	/Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock_3.Text
@@ -2994,7 +2994,7 @@ msgstr "Перезапустити"
 #: /Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock.Text
 msgctxt "Game,C64865914BC6514F1F378FA2AE92180E"
 msgid "\"Hi there, would you like to sign my petition?\""
-msgstr "«Привіт, не хочете підписати мою петицію?»"
+msgstr "«Привіт, ви не могли б підписати мою петицію?»"
 
 #. Key:	C8D736EA4C22F2F05FE266B279162222
 #. SourceLocation:	/Game/Widgets/W_HUD.W_HUD_C:WidgetTree.TextBlock_0.Text
@@ -3008,7 +3008,7 @@ msgstr "Витривалість відновлюється, коли ти зу�
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_3.Text
 msgctxt "Game,D02790D3455C59CF228013A881859793"
 msgid "The Memerooms"
-msgstr "Мемне Закулісся"
+msgstr "The Memerooms"
 
 #. Key:	D535479940C75A7CDD9589A29B3DDC1F
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.TextBlock_1.Text
@@ -3054,9 +3054,9 @@ msgctxt "Game,F64B0AE84B3F7AE51702F4BD80D1622B"
 msgid "I just caught you in 4K trying to bypass The Memerooms, I don't want to be mean to you but you have to play how it was intended.\r\n"
 "\r\n"
 "Looks like your save says you didn't finish the Classic Gamemode yet. Please come back when you finish the game at least once! (Classic Gamemode)"
-msgstr "Я щойно впіймав тебе в 4K на спробі обійти The Memerooms. Не хочу бути грубим, але грати треба так, як задумано.\r\n"
+msgstr "Я щойно впіймав вас у 4K на спробі обійти The Memerooms. Шукайте себе в шльондрах інтернету. Не хочу бути грубим, але ви повинні грати так, як було задумано.\r\n"
 "\r\n"
-"Судячи зі збереження, ти ще не пройшов класичний режим. Повертайся, коли пройдеш гру бодай раз! (Класичний режим)"
+"Судячи з вашого збереження, ви ще не пройшли класичний режим. Повертайтеся, коли пройдете гру бодай раз! (Класичний режим)"
 
 #. Key:	FE1B6E874FA303D513285488670CD5A2
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_7.Text
