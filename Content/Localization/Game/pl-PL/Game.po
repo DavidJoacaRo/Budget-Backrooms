@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-10 17:47\n"
-"PO-Revision-Date: 2026-10-11 15:58\n"
+"PO-Revision-Date: 2026-10-11 17:59\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -86,7 +86,7 @@ msgstr "pierdol się david"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(22).Subtitles.Text
 msgctxt ",06A2645449908CDC0CB6AEB7CF835FF5"
 msgid "I'd suggest just getting the folks from IT to check it out."
-msgstr "Proponowałbym wysłać kogoś z IT, żeby się tym zajął."
+msgstr "Proponowałbym wysłać kogoś z IT, żeby obadał sprawę."
 
 #. Key:	06FA728F4F2B8EE3F171C99EB7B5A3F7
 #. SourceLocation:	/Game/Widgets/Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_22.Text
