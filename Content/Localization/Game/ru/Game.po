@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-10 17:47\n"
-"PO-Revision-Date: 2026-10-11 20:32\n"
+"PO-Revision-Date: 2026-10-11 21:45\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -109,7 +109,7 @@ msgstr "Проверка устройств... OK!\r\n"
 #: /Game/Widgets/W_PauseMenu/W_ConfirmLeave.W_ConfirmLeave_C:ExecuteUbergraph_W_ConfirmLeave [Script Bytecode]
 msgctxt ",0780830B417DAC423AD1668B75BCE576"
 msgid "Are you sure you want to miss this opportunity?"
-msgstr "Ты уверен, что хочешь упустить такую возможность?"
+msgstr "Вы уверены, что хотите упустить такую возможность?"
 
 #. Key:	07C3046C461A5B844E53B587C0506398
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_ControllerIndicator.W_ControllerIndicator_C:WidgetTree.TextBlock_0.Text
@@ -420,7 +420,7 @@ msgstr "Всё, что вы видите в этой игре, всё ещё н�
 #: /Game/Audio/dave_2.dave_2.Subtitles(12).Subtitles.Text
 msgctxt ",28D27CD447CAD830C098EEB458CAD332"
 msgid "we'd have to try it out potato potatoe-- Listen."
-msgstr "придётся опробовать это масло масляное-- Слушай."
+msgstr "стоит опробовать это масло масляное-- Слушай."
 
 #. Key:	2B1098E743BFBEC7B25A9D8E7F6F1ED5
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(23).Subtitles.Text
@@ -971,7 +971,7 @@ msgstr "Вы можете выйти из игры, нажав ALT+F4."
 #: /Game/Widgets/Multiplayer/W_Badges.W_Badges_C:WidgetTree.tester.ToolTipText
 msgctxt ",6311957F48691744B246F28A00DC570A"
 msgid "Had Early Access to Multiplayer while it was in the works"
-msgstr "Играл в мультиплеер в раннем доступе, пока он был в разработке"
+msgstr "Имел ранний доступ к сетевой игре на этапе разработки"
 
 #. Key:	63233EF042AA0A196BF745B5CA6DFC10
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(7).Subtitles.Text
@@ -2047,9 +2047,9 @@ msgid "This version of Multiplayer is temporarily not meant for consumer use, in
 "You are able to invite friends but what you're getting is just the barebones of Multiplayer without any sugar-coating. Many bugs to be expected.\r\n"
 "\r\n"
 "I am not responsible for any hacking, doxxing, IP Leaks and so on, I am trying my best."
-msgstr "Данная версия мультиплеера временно не предназначена для массового использования. Проще говоря, она не завершена — как и сама игра.\r\n"
+msgstr "Данная версия сетевой игры временно не предназначена для массового использования. Проще говоря, она не завершена — как и сама игра.\r\n"
 "\r\n"
-"Вы можете приглашать друзей, но сейчас это базовый функционал мультиплеера без дополнительных улучшений. Возможны многочисленные ошибки.\r\n"
+"Вы можете приглашать друзей, но сейчас это базовый функционал сетевой игры без дополнительных улучшений. Возможны многочисленные ошибки.\r\n"
 "\r\n"
 "Разработчик не несёт ответственности за случаи взлома, доксинга, утечек IP‑адресов и т. п. Делается всё возможное для улучшения ситуации."
 
@@ -2715,7 +2715,7 @@ msgstr "Нет"
 #: /Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.TextBlock_5.Text
 msgctxt "Game,2DBEBE9742B8C6B7219AC998615667F3"
 msgid "FAQ"
-msgstr "FAQ"
+msgstr "ЧаВо"
 
 #. Key:	3143F271489310E79B1B6FB73A685A98
 #. SourceLocation:	/Game/Widgets/Animations/FadeIn_Edited.FadeIn_Edited_C:WidgetTree.TextBlock_2.Text
@@ -3017,7 +3017,7 @@ msgctxt "Game,D535479940C75A7CDD9589A29B3DDC1F"
 msgid "Budget\r\n"
 "Multiplayer"
 msgstr "Budget\r\n"
-"Мультиплеер"
+"Multiplayer"
 
 #. Key:	DBAF3F647996966C7B8E5BDBDDC097C
 #. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn_LV2.W_Respawn_LV2_C:WidgetTree.TextBlock.Text
