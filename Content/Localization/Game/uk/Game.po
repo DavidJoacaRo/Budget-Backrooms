@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-10 17:47\n"
-"PO-Revision-Date: 2026-10-11 15:58\n"
+"PO-Revision-Date: 2026-10-11 16:59\n"
 "Language-Team: Ukrainian\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -479,7 +479,7 @@ msgstr "Загальна Гучність"
 #: /Game/Widgets/Multiplayer/WB_ServerList.WB_ServerList_C:WidgetTree.TextBlock_196.Text
 msgctxt ",2DB0BA86444A796C5EDDFE802EDBEE5A"
 msgid "Sessions List"
-msgstr ""
+msgstr "Список сесій"
 
 #. Key:	2F1C9FEB4EB96B6D38E6C8B3077A4C29
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(12).Subtitles.Text
@@ -514,7 +514,7 @@ msgstr ""
 #: /Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.TextBlock_0.Text
 msgctxt ",347E1C8F4664E08C76956695B4D0D7E2"
 msgid "Join session"
-msgstr ""
+msgstr "Приєднатися до сесії"
 
 #. Key:	34CF8B3946D39E4BF4D31283A09C40FC
 #. SourceLocation:	/Game/Widgets/Warnings/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
@@ -2133,7 +2133,7 @@ msgstr ""
 #: /Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:Parse Steam Profile Name [Script Bytecode]
 msgctxt ",DE18C0B741AD973F0A0168B1F9520CDC"
 msgid "Playing as {0}"
-msgstr ""
+msgstr "Граєте як {0}"
 
 #. Key:	DE8A51A84BF234B25D1D5A956ECC96B0
 #. SourceLocation:	/Game/Widgets/Settings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_2.Text
@@ -2545,7 +2545,7 @@ msgstr ""
 #: /Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.TextBlock_8.Text
 msgctxt "Game,0AD67C534C035798769D67BB032E04AF"
 msgid "Singleplayer"
-msgstr ""
+msgstr "Одиночна гра"
 
 #. Key:	0B43218A46B8D314BD98588656340D03
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_12.Text
@@ -2640,7 +2640,7 @@ msgstr ""
 #: /Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.TextBlock_5.Text
 msgctxt "Game,2DBEBE9742B8C6B7219AC998615667F3"
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 #. Key:	3143F271489310E79B1B6FB73A685A98
 #. SourceLocation:	/Game/Widgets/Animations/FadeIn_Edited.FadeIn_Edited_C:WidgetTree.TextBlock_2.Text
@@ -2924,7 +2924,8 @@ msgstr ""
 msgctxt "Game,D535479940C75A7CDD9589A29B3DDC1F"
 msgid "Budget\r\n"
 "Multiplayer"
-msgstr ""
+msgstr "Budget\r\n"
+"Multiplayer"
 
 #. Key:	DBAF3F647996966C7B8E5BDBDDC097C
 #. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn_LV2.W_Respawn_LV2_C:WidgetTree.TextBlock.Text
