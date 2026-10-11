@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-10 17:47\n"
-"PO-Revision-Date: 2026-10-11 15:58\n"
+"PO-Revision-Date: 2026-10-11 16:59\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,7 @@ msgstr ""
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(22).Subtitles.Text
 msgctxt ",015116CF4E1DD8C07D5E21856B5ABD48"
 msgid "\"Look\""
-msgstr "Смотри"
+msgstr "«Смотри»"
 
 #. Key:	01B8AF6545F702B056BCB78B8DC51999
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:Set MOTD [Script Bytecode]
@@ -37,7 +37,7 @@ msgstr "Счастливого Рождества!!!"
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(12).Subtitles.Text
 msgctxt ",02D654DA4768E747A50431BDAB324CDE"
 msgid "\"friendly reminder...\""
-msgstr "Дружеское напоминание..."
+msgstr "«Дружеское напоминание...»"
 
 #. Key:	0301D76E4F2A4E4849C05B8858D1090E
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPInit.W_MPInit_C:ExecuteUbergraph_W_MPInit [Script Bytecode]
@@ -237,14 +237,14 @@ msgstr "Качество Текстур"
 #: /Game/Widgets/W_Errors/W_ConnLost.W_ConnLost_C:WidgetTree.TextBlock.Text
 msgctxt ",1999226F4332CB8FD39BAB8045D793E0"
 msgid "I'm sorry to interrupt you Elizabeth, but you have lost connection to the host or the host could've lost connection, maybe something else but this error message would look different."
-msgstr "Прости, что перебиваю, Элизабет, но у тебя потеряно соединение с хостом — или, возможно, хост потерял соединение. Может, дело в чём‑то другом, но тогда сообщение об ошибке выглядело бы иначе."
+msgstr "Прости, что перебиваю, Элизабет, но у тебя потеряно соединение с хостом или, возможно, хост потерял соединение. Может, дело в чём‑то другом, но тогда сообщение об ошибке выглядело бы иначе."
 
 #. Key:	19C6EBEC4435FED9C7CAC3AB54DDCDF1
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(17).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(17).Subtitles.Text
 msgctxt ",19C6EBEC4435FED9C7CAC3AB54DDCDF1"
 msgid "\"No need to--\""
-msgstr "\"Нет необходимости --\""
+msgstr "«Нет необходимости--»"
 
 #. Key:	19F8EA6E47751DD0CC07AFB15F038B7B
 #. SourceLocation:	/Game/Widgets/W_PauseMenu/W_ConfirmLeave.W_ConfirmLeave_C:WidgetTree.TextBlock.Text
@@ -253,9 +253,9 @@ msgctxt ",19F8EA6E47751DD0CC07AFB15F038B7B"
 msgid "Are you sure you want to go back to the Main Menu?\r\n"
 "\r\n"
 "You will be able to start from this level at any time using the Level Selector in the Main Menu."
-msgstr "Вы уверены, что хотите выйти в Главное меню?\r\n"
+msgstr "Вы уверены, что хотите выйти в Главное Меню?\r\n"
 "\r\n"
-"Вы сможете начать с этого уровня в любое время — для этого используйте Выбор уровня в Главном меню."
+"Вы сможете начать с этого уровня в любое время — для этого используйте Выбор Уровня в Главном Меню."
 
 #. Key:	1A8C72D646BF429E378787BD0809460E
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_0.Text
@@ -357,7 +357,7 @@ msgstr "\"И я слышал, как кто-то из вас говорил о �
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(30).Subtitles.Text
 msgctxt ",21F376E343A32785528CC19B4551F526"
 msgid "\"send-- send a team over to uh.. check it out.\""
-msgstr "«Отправьте…, отправьте группу, чтобы… э‑э… проверить это»"
+msgstr "«отправь-- отправь команду туда, ээ.. проверь, что там.»"
 
 #. Key:	22421B744A7B577C3C6BC0856297430A
 #. SourceLocation:	/Game/Widgets/Settings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_4.Text
@@ -548,35 +548,35 @@ msgstr "Опция отключена. Пожалуйста, установит�
 #: /Game/Widgets/Warnings/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
 msgctxt ",35D2913A43EC7C20C9AB329DD1532965"
 msgid "This looks risky.."
-msgstr "Выглядит рискованно…"
+msgstr "Выглядит рискованно.."
 
 #. Key:	36335B3C4AFCC0CB276416831F247574
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(1).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(1).Subtitles.Text
 msgctxt ",36335B3C4AFCC0CB276416831F247574"
 msgid "one"
-msgstr "одно"
+msgstr "один"
 
 #. Key:	364430A246D29C64E1C04396E88C340C
 #. SourceLocation:	/Game/Widgets/W_Errors/W_ConnDrivErr.W_ConnDrivErr_C:WidgetTree.TextBlock_63.Text
 #: /Game/Widgets/W_Errors/W_ConnDrivErr.W_ConnDrivErr_C:WidgetTree.TextBlock_63.Text
 msgctxt ",364430A246D29C64E1C04396E88C340C"
 msgid "you gotta be kidding me"
-msgstr "Ты, должно быть, шутишь надо мной"
+msgstr "ты, должно быть, шутишь надо мной"
 
 #. Key:	38AF16154C99E7B73DE3F3BDB93AE8AF
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(24).Subtitles.Text
 #: /Game/Audio/dave_2.dave_2.Subtitles(24).Subtitles.Text
 msgctxt ",38AF16154C99E7B73DE3F3BDB93AE8AF"
 msgid "Alright?"
-msgstr "Хорошо?"
+msgstr "Всё в порядке?"
 
 #. Key:	39935905454494977EC65AB83FC09BDF
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(23).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(23).Subtitles.Text
 msgctxt ",39935905454494977EC65AB83FC09BDF"
 msgid "\"I get it, you're all on your toes for the...\""
-msgstr "«Я понял: вы все начеку из-за …»"
+msgstr "«Понимаю, вы все на взводе из-за...»"
 
 #. Key:	3B2AF7BF40FC584CBE7DC1ABD3E8E542
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(10).Subtitles.Text
@@ -680,7 +680,7 @@ msgstr "Budget Backrooms теперь может собирать анонимн
 #: /Game/Audio/dave_2.dave_2.Subtitles(9).Subtitles.Text
 msgctxt ",4162F7AF43EB38C10CDA7F95FF187490"
 msgid "basically the whole hotel."
-msgstr "По сути, весь отель."
+msgstr "по сути, весь отель."
 
 #. Key:	4458A33747AD473356797A8DDB61AE95
 #. SourceLocation:	/Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_7.Text
@@ -708,7 +708,7 @@ msgstr "Создать сессию"
 #: /Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.b_mp_text.Text
 msgctxt ",471A60DE41367DBE6A3E0CB811AE38F1"
 msgid "Multiplayer"
-msgstr "Мультиплеер"
+msgstr "Онлайн"
 
 #. Key:	4893565141F7BA406D963D864F812BBF
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
@@ -722,7 +722,7 @@ msgstr "Переключитесь на “nightly‑dev” для доступ�
 #: /Game/Widgets/Warnings/W_NightlyLocked.W_NightlyLocked_C:ExecuteUbergraph_W_NightlyLocked [Script Bytecode]
 msgctxt ",4899D7684FEBC4D531D376B5C0F554F4"
 msgid "Cringe"
-msgstr "Испанский стыд"
+msgstr "Кринж"
 
 #. Key:	48C844644A16D45A8BBD65995C133D37
 #. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_Streamer.W_TT_Streamer_C:WidgetTree.te.Text
