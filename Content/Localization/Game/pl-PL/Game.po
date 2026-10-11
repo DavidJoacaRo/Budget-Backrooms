@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-10 17:47\n"
-"PO-Revision-Date: 2026-10-10 18:58\n"
+"PO-Revision-Date: 2026-10-11 14:47\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -266,7 +266,7 @@ msgstr "Graj"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(31).Subtitles.Text
 msgctxt ",1AB6487D4FF3967CB4BE0E9CB37177E9"
 msgid "End of messages."
-msgstr ""
+msgstr "Brak kolejnych wiadomości."
 
 #. Key:	1B06C0A4487BC5E56FEDA5AC4C1F499B
 #. SourceLocation:	/Game/Widgets/Settings/W_Settings_Selection.W_Settings_Selection_C:WidgetTree.TextBlock_1.Text
@@ -1108,7 +1108,7 @@ msgstr ""
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(1).Subtitles.Text
 msgctxt ",7807521646256AFEFF78D098D8CB4091"
 msgid "one"
-msgstr ""
+msgstr "jedną"
 
 #. Key:	784F3A824638F585EA4A74AFFD1373A1
 #. SourceLocation:	/Game/Widgets/W_RebindKeys/W_RebindEntry.W_RebindEntry_C:WidgetTree.clear.ToolTipText
@@ -2112,7 +2112,7 @@ msgstr ""
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(0).Subtitles.Text
 msgctxt ",D9CE7CDB472FCCCA4B87DE9C87C05978"
 msgid "You have"
-msgstr ""
+msgstr "Masz"
 
 #. Key:	DD26AED649779CC50B49C5B58A0558BB
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_JoinSession.W_JoinSession_C:WidgetTree.TextBlock_46.Text
@@ -2182,7 +2182,7 @@ msgstr ""
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(4).Subtitles.Text
 msgctxt ",E027143146C22EF17CE6A3A549A6A366"
 msgid "First message."
-msgstr ""
+msgstr "Wiadomość pierwsza."
 
 #. Key:	E141D0134AE27B0788183D9955EDEA65
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_UnstableMP.W_UnstableMP_C:WidgetTree.TextBlock_132.Text
@@ -2306,7 +2306,7 @@ msgstr ""
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(2).Subtitles.Text
 msgctxt ",EF4C37954E647F6D6485A995B9000AAF"
 msgid "new message"
-msgstr ""
+msgstr "nową wiadomość"
 
 #. Key:	EFA5511C4EEFEC0E17217381EFEBF25F
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(2).Subtitles.Text
