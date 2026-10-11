@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-10 17:47\n"
-"PO-Revision-Date: 2026-10-10 18:58\n"
+"PO-Revision-Date: 2026-10-11 17:59\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -86,7 +86,7 @@ msgstr "pierdol się david"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(22).Subtitles.Text
 msgctxt ",06A2645449908CDC0CB6AEB7CF835FF5"
 msgid "I'd suggest just getting the folks from IT to check it out."
-msgstr ""
+msgstr "Proponowałbym wysłać kogoś z IT, żeby obadał sprawę."
 
 #. Key:	06FA728F4F2B8EE3F171C99EB7B5A3F7
 #. SourceLocation:	/Game/Widgets/Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_22.Text
@@ -208,7 +208,7 @@ msgstr "UCIEKAJ!"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(24).Subtitles.Text
 msgctxt ",158359F84BDEA3C79C699383383AD603"
 msgid "It's either paranormal activity, or we're all losing our minds due to stress and stuff like that."
-msgstr ""
+msgstr "Albo rzeczywiście dzieje się tam coś paranormalnego, albo ze stresu i tego całego zamieszania zaczyna nam już odbijać."
 
 #. Key:	1661FE164B80B233E848B987B6E34D1D
 #. SourceLocation:	/Game/Widgets/Warnings/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
@@ -266,7 +266,7 @@ msgstr "Graj"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(31).Subtitles.Text
 msgctxt ",1AB6487D4FF3967CB4BE0E9CB37177E9"
 msgid "End of messages."
-msgstr ""
+msgstr "Brak kolejnych wiadomości."
 
 #. Key:	1B06C0A4487BC5E56FEDA5AC4C1F499B
 #. SourceLocation:	/Game/Widgets/Settings/W_Settings_Selection.W_Settings_Selection_C:WidgetTree.TextBlock_1.Text
@@ -422,7 +422,7 @@ msgstr "że trzeba to przetestować, bla bla bla-- Słuchaj."
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(23).Subtitles.Text
 msgctxt ",2B1098E743BFBEC7B25A9D8E7F6F1ED5"
 msgid "Oh, and about the break room again..."
-msgstr ""
+msgstr "A jeszcze wracając do pokoju socjalnego..."
 
 #. Key:	2B6CB5D84F3109C152E8B89B74F94054
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
@@ -450,7 +450,7 @@ msgstr ""
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(8).Subtitles.Text
 msgctxt ",2C04AEBC4A5F7BDDB59288AA2C4D4441"
 msgid "Hope this message finds you well."
-msgstr ""
+msgstr "Mam nadzieję, że wszystko gra."
 
 #. Key:	2C27E3A34EF1DFC8FAB3F7A66D4619FE
 #. SourceLocation:	/Game/Widgets/W_Screeensaver/W_Screensaver_InitDIal.W_Screensaver_InitDIal_C:WidgetTree.TextBlock.Text
@@ -486,7 +486,7 @@ msgstr ""
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(12).Subtitles.Text
 msgctxt ",2F1C9FEB4EB96B6D38E6C8B3077A4C29"
 msgid "But when we go check, it's empty."
-msgstr ""
+msgstr "Ale, jak zaglądamy, nikogo tam nie ma."
 
 #. Key:	30A038684B89AA503759DEBF0EE3E3B3
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_JoinSession.W_JoinSession_C:WidgetTree.TextBlock_156.Text
@@ -500,7 +500,7 @@ msgstr ""
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(10).Subtitles.Text
 msgctxt ",31690A9F4525B8EE7D1D2E892B80758A"
 msgid "So, first of all, it appears the break room has come to life somehow."
-msgstr ""
+msgstr "A więc, po pierwsze to mamy wrażenie, że pokój socjalny ożył."
 
 #. Key:	32C6E59041060B90678371888594BB50
 #. SourceLocation:	/Game/Widgets/Warnings/W_NightlyLocked.W_NightlyLocked_C:WidgetTree.TextBlock.Text
@@ -832,7 +832,7 @@ msgstr ""
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(6).Subtitles.Text
 msgctxt ",5614A195423FB26CFF43CA8A753EFDB1"
 msgid "Good afternoon, boss."
-msgstr ""
+msgstr "Dzień dobry, szefie."
 
 #. Key:	5617C3D840B7E7A4339C68A31470BDAB
 #. SourceLocation:	/Game/Widgets/Warnings/W_NightlyLocked.W_NightlyLocked_C:ExecuteUbergraph_W_NightlyLocked [Script Bytecode]
@@ -1108,7 +1108,7 @@ msgstr ""
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(1).Subtitles.Text
 msgctxt ",7807521646256AFEFF78D098D8CB4091"
 msgid "one"
-msgstr ""
+msgstr "jedną"
 
 #. Key:	784F3A824638F585EA4A74AFFD1373A1
 #. SourceLocation:	/Game/Widgets/W_RebindKeys/W_RebindEntry.W_RebindEntry_C:WidgetTree.clear.ToolTipText
@@ -1165,14 +1165,14 @@ msgstr ""
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(15).Subtitles.Text
 msgctxt ",7C91C4F045818540F1F5A2B8069F353A"
 msgid "Hell, I don't even believe in ghosts, if I gotta be honest with you."
-msgstr ""
+msgstr "A ja nawet nie wierzę w takie rzeczy."
 
 #. Key:	7CD4572D401816154425E98DAE74A457
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(13).Subtitles.Text
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(13).Subtitles.Text
 msgctxt ",7CD4572D401816154425E98DAE74A457"
 msgid "It's really, really strange."
-msgstr ""
+msgstr "Naprawdę dziwna sprawa."
 
 #. Key:	7D75C59344F0F1D83D4C7E9D22F217BA
 #. SourceLocation:	/Game/Widgets/Multiplayer/WB_ServerList.WB_ServerList_C:WidgetTree.TextBlock_282.Text
@@ -1242,7 +1242,7 @@ msgstr ""
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(20).Subtitles.Text
 msgctxt ",81A2334B45FA460FDF54339C876318D9"
 msgid "It's like our tech has developed a mind of its own somehow."
-msgstr ""
+msgstr "Mam wrażenie, że nasze komputery nagle zyskały świadomość."
 
 #. Key:	8474C42A48D65BED8892FEBD6571C3A6
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(30).Subtitles.Text
@@ -1277,7 +1277,7 @@ msgstr ""
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(19).Subtitles.Text
 msgctxt ",85793A364574E72787D01ABE159F2C21"
 msgid "We've been investigating to find out the source of the problem, but we really can't."
-msgstr ""
+msgstr "Próbowaliśmy znaleźć przyczynę problemu, ale nic z tego."
 
 #. Key:	85FE9D2F40485A2BC3F503A305F7DFEA
 #. SourceLocation:	/Game/Widgets/Warnings/W_NightlyWarn.W_NightlyWarn_C:WidgetTree.title.Text
@@ -1457,7 +1457,7 @@ msgstr ""
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(9).Subtitles.Text
 msgctxt ",96518F664A587DD7A41E928A8E5583C7"
 msgid "Just calling to give you a quick rundown on all the weird stuff that we can report about lately."
-msgstr ""
+msgstr "Chciałem tylko powiedzieć Panu o tych wszystkich dziwnych akcjach, które są nam ostatnio zgłaszane."
 
 #. Key:	96FDF24242737C5C9777F1AD9E6C021D
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(20).Subtitles.Text
@@ -1795,7 +1795,7 @@ msgstr ""
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(21).Subtitles.Text
 msgctxt ",BD0F5851439767F0F067CA855E88F863"
 msgid "I'll keep investigating and see if there's any logical reasoning behind all this, but honestly..."
-msgstr ""
+msgstr "Mam nadzieję, że znajdę jakieś sensowne wytłumaczenie, ale szczerze to nie wiem..."
 
 #. Key:	BDC83823493637856C2A7EB9ACEC72FE
 #. SourceLocation:	/Game/Widgets/W_Errors/W_ConnTravErr.W_ConnTravErr_C:WidgetTree.TextBlock.Text
@@ -2014,7 +2014,7 @@ msgstr ""
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(16).Subtitles.Text
 msgctxt ",D00DE7424D301973552149B1709DB038"
 msgid "And secondly..."
-msgstr ""
+msgstr "A po drugie..."
 
 #. Key:	D12610E44B9281594DAB4AA3A56BD18B
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_Badges.W_Badges_C:ExecuteUbergraph_W_Badges [Script Bytecode]
@@ -2042,14 +2042,14 @@ msgstr ""
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(7).Subtitles.Text
 msgctxt ",D216B35C4BAA256FE075BD89D53D82DE"
 msgid "It's Jake from IT speaking."
-msgstr ""
+msgstr "Mówi Jake z działu IT."
 
 #. Key:	D21CF3684C88CCC7AE715AB81C30F96C
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(25).Subtitles.Text
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(25).Subtitles.Text
 msgctxt ",D21CF3684C88CCC7AE715AB81C30F96C"
 msgid "Might be worth taking a look for yourself, but be careful."
-msgstr ""
+msgstr "Może lepiej by było, żebyś samemu to sprawdził, ale uważaj."
 
 #. Key:	D3C8B2BC4A95A92B7B04C3862C4FAE3B
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
@@ -2112,7 +2112,7 @@ msgstr ""
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(0).Subtitles.Text
 msgctxt ",D9CE7CDB472FCCCA4B87DE9C87C05978"
 msgid "You have"
-msgstr ""
+msgstr "Masz"
 
 #. Key:	DD26AED649779CC50B49C5B58A0558BB
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_JoinSession.W_JoinSession_C:WidgetTree.TextBlock_46.Text
@@ -2161,7 +2161,7 @@ msgstr ""
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(18).Subtitles.Text
 msgctxt ",DFF055A040C6D28C279839A46D8C0035"
 msgid "Screens were flickering, and my desktop even rearranged itself somehow."
-msgstr ""
+msgstr "Ekrany migają, a na moim komputerze jakimś cudem poprzestawiał się pulpit."
 
 #. Key:	DFFB4F734FA4835D102B11803100B178
 #. SourceLocation:	/Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:ExecuteUbergraph_PauseMenuWidget [Script Bytecode]
@@ -2182,7 +2182,7 @@ msgstr ""
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(4).Subtitles.Text
 msgctxt ",E027143146C22EF17CE6A3A549A6A366"
 msgid "First message."
-msgstr ""
+msgstr "Wiadomość pierwsza."
 
 #. Key:	E141D0134AE27B0788183D9955EDEA65
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_UnstableMP.W_UnstableMP_C:WidgetTree.TextBlock_132.Text
@@ -2306,7 +2306,7 @@ msgstr ""
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(2).Subtitles.Text
 msgctxt ",EF4C37954E647F6D6485A995B9000AAF"
 msgid "new message"
-msgstr ""
+msgstr "nową wiadomość"
 
 #. Key:	EFA5511C4EEFEC0E17217381EFEBF25F
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(2).Subtitles.Text
@@ -2376,7 +2376,7 @@ msgstr ""
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(11).Subtitles.Text
 msgctxt ",F4267D64462BBD64FC6F4EAD3784F0A7"
 msgid "We keep hearing these really weird noises coming from in there, like someone's redecorating."
-msgstr ""
+msgstr "Ciągle słyszymy stamtąd jakieś dziwne dźwięki, jakby ktoś robił przemeblowanie."
 
 #. Key:	F454C5E04355473BCC8D48AECB8C9028
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_30.Text
@@ -2446,7 +2446,7 @@ msgstr "Anuluj"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(14).Subtitles.Text
 msgctxt ",FAE1BEF94F6C34B6AAB4C38805088177"
 msgid "And every time I go in there, I'm half expecting a ghost to pop out at any minute."
-msgstr ""
+msgstr "Za każdym razem jak tam idę, to spodziewam się, że na twarz wyskoczy mi jakiś duch."
 
 #. Key:	FB8502B34F66BE631A96BEAE92260AB3
 #. SourceLocation:	/Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_8.Text
@@ -2502,7 +2502,7 @@ msgstr ""
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(17).Subtitles.Text
 msgctxt ",FFFFE92A42D0732790FB13A5A7E752EF"
 msgid "Secondly, we've been getting reports of our PCs acting really, really weirdly since our last update."
-msgstr ""
+msgstr "Po drugie, to od ostatniej aktualizacji dostajemy zgłoszenia, że komputery wariują."
 
 #. Key:	02ED8B414F72956E478E5F837A952E5C
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_0.Text
