@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-10 17:47\n"
-"PO-Revision-Date: 2026-10-11 14:47\n"
+"PO-Revision-Date: 2026-10-11 15:58\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -378,7 +378,7 @@ msgstr "Хотите внести свой вклад?"
 #: /Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_3.Text
 msgctxt ",24783675495A29482773CA8614B460EA"
 msgid "View Bobbing Intensity"
-msgstr "Интенсивность Покачивания"
+msgstr "Интенсивность Покачивания Головы"
 
 #. Key:	25FD63FB480627D2A7454C826FC83F4E
 #. SourceLocation:	/Game/Widgets/Warnings/W_NightlyWarn.W_NightlyWarn_C:WidgetTree.desc.Text
@@ -985,7 +985,7 @@ msgstr "Я оставил свою ключ - карту в одной из те
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_5.Text
 msgctxt ",63295C394479C9CC0CD2C8A12C76B1E3"
 msgid "This game is NOT a 1:1 representation of the Backrooms Wiki, like any other Backrooms game, this game has it's own downsides and upsides. It's up to you to enjoy it."
-msgstr "Эта игра - НЕ 1:1 точная копия Backrooms Wiki. Как и любая другая игра по Закулисью, она имеет свои минусы и плюсы. Решать вам, нравится она вам или нет."
+msgstr "Эта игра - НЕ точная копия Вики Закулисья. Как и любая другая игра по Закулисью, она имеет свои минусы и плюсы. Решать вам, понравится она вам или нет."
 
 #. Key:	649E7FCC4144988064D51CA1DD380674
 #. SourceLocation:	/Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:ExecuteUbergraph_W_OptionalSurvey [Script Bytecode]
@@ -1062,7 +1062,7 @@ msgstr "Эта игра бесплатная."
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.BRUv.Text
 msgctxt ",704A61E54D8CA487018B9F92D6762B7A"
 msgid "Toggle FPS Counter"
-msgstr "Счетчик FPS"
+msgstr "Счётчик FPS"
 
 #. Key:	71CB218F45FAEC754EDB78AD8F9E7F01
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
@@ -1165,7 +1165,7 @@ msgstr "Взаимодействовать"
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.res_text.Text
 msgctxt ",79CC8E664296C5DF88766BA5C7CF48C0"
 msgid "Resolution Settings"
-msgstr "Разрешение"
+msgstr "Настройки Разрешения"
 
 #. Key:	79DAA88B43EA8332ACE4839DB43324BA
 #. SourceLocation:	/Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_10.Text
@@ -1630,7 +1630,7 @@ msgstr "Первое сообщение."
 #: /Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock.Text
 msgctxt ",A8DF3B32415DB3B4CB2342B271C89551"
 msgid "Enabled"
-msgstr "Вкл."
+msgstr "Включено"
 
 #. Key:	A989F67944BEA18B4D05E38A4204D50F
 #. SourceLocation:	/Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_2.Text
@@ -1976,7 +1976,7 @@ msgstr "Зажмите C, чтобы приблизить."
 #: /Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_6.Text
 msgctxt ",C702A9464256B677C365949F9B704BEA"
 msgid "If HDR appears washed out, ensure it’s manually enabled in your operating system, or adjust the calibration settings below to match your monitor's colors accurately."
-msgstr "Если HDR бледный, включите его вручную в ОС или настройте калибровку ниже под монитор."
+msgstr "Если разрешение HDR выглядит размытым, убедитесь, что оно включено вручную в вашей операционной системе, или измените приведенные ниже параметры калибровки, чтобы точно соответствовать цветам вашего монитора."
 
 #. Key:	C730DC634CD927406FCFCC9E65380406
 #. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn.W_Respawn_C:WidgetTree.Tip.Text
@@ -2156,7 +2156,7 @@ msgstr "Благодарим за тестирование. Просим уче�
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_5.Text
 msgctxt ",D838B17544EDA990F630F79AB65B27D4"
 msgid "FPS Limit"
-msgstr "Лимит FPS"
+msgstr "Ограничение FPS"
 
 #. Key:	D951832E46845B92530ACCAF201E97AF
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_2.Text
@@ -2205,7 +2205,7 @@ msgstr "Игра за: {0}"
 #: /Game/Widgets/Settings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_2.Text
 msgctxt ",DE8A51A84BF234B25D1D5A956ECC96B0"
 msgid "Main Menu Music"
-msgstr "Музыка Меню"
+msgstr "Музыка Главного Меню"
 
 #. Key:	DE8B66684A058CF30D2ED9B326F9818E
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
@@ -2838,7 +2838,7 @@ msgstr "Удерживай V, чтобы смотреть назад."
 #: /Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock.Text
 msgctxt "Game,6491EE9E410A07B1F04868BEE7E68849"
 msgid "Camera Sensitivity"
-msgstr "Чувствительность"
+msgstr "Чувствительность камеры"
 
 #. Key:	6DBAF3F647996966C7B8E5BDBDDC097C
 #. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn_LV0.W_Respawn_LV0_C:WidgetTree.TextBlock.Text
