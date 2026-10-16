@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
-"POT-Creation-Date: 2026-10-10 17:47\n"
-"PO-Revision-Date: 2026-10-11 23:57\n"
+"POT-Creation-Date: 2026-10-16 17:00\n"
+"PO-Revision-Date: 2026-10-16 17:07\n"
 "Language-Team: Ukrainian\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -140,13 +140,6 @@ msgid "Budget\r\n"
 "Backrooms"
 msgstr "Budget\r\n"
 "Backrooms"
-
-#. Key:	0BD5C3AA400CA31F93B89480456EA200
-#. SourceLocation:	/Game/Widgets/W_TextTip.Default__W_TextTip_C.PerLangContributedTextThing
-#: /Game/Widgets/W_TextTip.Default__W_TextTip_C.PerLangContributedTextThing
-msgctxt ",0BD5C3AA400CA31F93B89480456EA200"
-msgid "Translated for you by "
-msgstr "Переклад для вас від "
 
 #. Key:	0CC0EA584CE4691B97BD4B81C5A6EEE8
 #. SourceLocation:	/Game/Widgets/Animations/W_Safezone.W_Safezone_C:WidgetTree.TextBlock_1.Text
@@ -1314,17 +1307,6 @@ msgctxt ",86BCAF0245EDE47AD823FB83CF7A9BCF"
 msgid "Ok"
 msgstr "Гаразд"
 
-#. Key:	8769A0F840B1EF7D538F76AE89C9297D
-#. SourceLocation:	/Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.b_host.ToolTipText
-#: /Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.b_host.ToolTipText
-msgctxt ",8769A0F840B1EF7D538F76AE89C9297D"
-msgid "FOR TESTERS\r\n"
-"\r\n"
-"Clicking will host a online session with max to 4 players, for testing the replication."
-msgstr "ДЛЯ ТЕСТЕРІВ\r\n"
-"\r\n"
-"Натискання створить онлайн-сесію максимум на 4 гравці для тестування реплікації."
-
 #. Key:	87A4B6F74F63C260834A2A8AC3EF1058
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:OutdatedBuild [Script Bytecode]
 #: /Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:OutdatedBuild [Script Bytecode]
@@ -1917,17 +1899,6 @@ msgstr "[Зауважте: частину авторів може бути не 
 "\r\n"
 "\r\n"
 "Bad Style - Time Back"
-
-#. Key:	C00DF14941A15EBB05B7149B55068D78
-#. SourceLocation:	/Game/Widgets/Multiplayer/W_JoinSession.W_JoinSession_C:WidgetTree.create_but.ToolTipText
-#: /Game/Widgets/Multiplayer/W_JoinSession.W_JoinSession_C:WidgetTree.create_but.ToolTipText
-msgctxt ",C00DF14941A15EBB05B7149B55068D78"
-msgid "FOR TESTERS:\r\n"
-"\r\n"
-"Clicking will create a LAN session for testing me myself and I, and or multiple instances of the game if I'm alone :("
-msgstr "ДЛЯ ТЕСТЕРІВ:\r\n"
-"\r\n"
-"Натискання створить LAN-сесію, щоб я міг потестувати сам із собою, та/або кілька копій гри, якщо я самотній :("
 
 #. Key:	C08377274F042124625A1B8DFFC029D4
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
