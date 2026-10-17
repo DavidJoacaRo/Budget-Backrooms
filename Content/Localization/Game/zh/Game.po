@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-16 17:00\n"
-"PO-Revision-Date: 2026-10-16 18:34\n"
-"Language-Team: Chinese Traditional\n"
+"PO-Revision-Date: 2026-10-17 10:18\n"
+"Language-Team: Chinese Simplified\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: budget-backrooms\n"
 "X-Crowdin-Project-ID: 936921\n"
-"X-Crowdin-Language: zh-TW\n"
+"X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /dev/Content/Localization/Game/en/Game.po\n"
 "X-Crowdin-File-ID: 23\n"
 
@@ -137,7 +137,8 @@ msgstr ""
 msgctxt ",0B63AE0B4768A30314B307AB9675F418"
 msgid "Budget\r\n"
 "Backrooms"
-msgstr ""
+msgstr "Budget\r\n"
+"Backrooms"
 
 #. Key:	0CC0EA584CE4691B97BD4B81C5A6EEE8
 #. SourceLocation:	/Game/Widgets/Animations/W_Safezone.W_Safezone_C:WidgetTree.TextBlock_1.Text
@@ -251,7 +252,7 @@ msgstr ""
 #: /Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_0.Text
 msgctxt ",1A8C72D646BF429E378787BD0809460E"
 msgid "Play"
-msgstr ""
+msgstr "开始游戏"
 
 #. Key:	1AB6487D4FF3967CB4BE0E9CB37177E9
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(31).Subtitles.Text
@@ -351,7 +352,7 @@ msgstr ""
 #: /Game/Widgets/Settings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_4.Text
 msgctxt ",22421B744A7B577C3C6BC0856297430A"
 msgid "Audio Settings"
-msgstr ""
+msgstr "音频设置"
 
 #. Key:	2264D1C64B491B76F5C815AA5B6CBA21
 #. SourceLocation:	/Game/Widgets/W_TelemetryDialogue.W_TelemetryDialogue_C:WidgetTree.TextBlock_132.Text
@@ -372,7 +373,7 @@ msgstr ""
 #: /Game/Widgets/Warnings/W_NightlyWarn.W_NightlyWarn_C:WidgetTree.desc.Text
 msgctxt ",25FD63FB480627D2A7454C826FC83F4E"
 msgid "Considering you've played the base game, you are now running a development branch of the game, meaning that you're going to see unfinished content, and spoilers of the upcoming features. Optionally report any critical bugs on the Discord Server. Enjoy :D"
-msgstr ""
+msgstr "考虑到您已经玩过原版游戏了，您现在运行的是游戏的开发分支版本。这意味着您将会看到一些还未完成的内容以及未来更新的剧透内容。您可以选择在我们的 Discord 服务器上报告任何恶性 Bug。祝您游戏愉快愉快 :D"
 
 #. Key:	26996A5E4A32E19E39F6D68E2DDADBC2
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_13.Text
@@ -428,14 +429,14 @@ msgstr ""
 #: /Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_5.Text
 msgctxt ",2B9D8614416432891BBEC9A7AC2F68C3"
 msgid "Changelog"
-msgstr ""
+msgstr "更新日志"
 
 #. Key:	2BC16CBE4BF434AD53A4D09B75D02873
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_3.Text
 #: /Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_3.Text
 msgctxt ",2BC16CBE4BF434AD53A4D09B75D02873"
 msgid "Selects the output display format, choosing between standard dynamic range (LDR) and various high dynamic range (HDR) configurations."
-msgstr ""
+msgstr "选择输出显示格式，您可在标准动态范围（LDR）与各种高动态范围（HDR）配置之间进行选择。"
 
 #. Key:	2C04AEBC4A5F7BDDB59288AA2C4D4441
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(8).Subtitles.Text
@@ -464,7 +465,7 @@ msgstr ""
 #: /Game/Widgets/Settings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_0.Text
 msgctxt ",2CDA71264A1C4CF068AEE58874AB441C"
 msgid "Master Volume"
-msgstr ""
+msgstr "主音量"
 
 #. Key:	2DB0BA86444A796C5EDDFE802EDBEE5A
 #. SourceLocation:	/Game/Widgets/Multiplayer/WB_ServerList.WB_ServerList_C:WidgetTree.TextBlock_196.Text
@@ -583,7 +584,7 @@ msgstr ""
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_0.Text
 msgctxt ",3CD57F374BF1D50078E5C8BDA6A31D21"
 msgid "Return"
-msgstr ""
+msgstr "返回"
 
 #. Key:	3D9AF7624CA02E7CD2A5EEADC42E13A9
 #. SourceLocation:	/Game/Widgets/Warnings/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
@@ -684,7 +685,7 @@ msgstr ""
 #: /Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.b_mp_text.Text
 msgctxt ",471A60DE41367DBE6A3E0CB811AE38F1"
 msgid "Multiplayer"
-msgstr ""
+msgstr "多人游戏"
 
 #. Key:	4893565141F7BA406D963D864F812BBF
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
@@ -726,7 +727,7 @@ msgstr ""
 #: /Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock.Text
 msgctxt ",4A685E724120F27E5D75E28584F8E8AD"
 msgid "Achievements"
-msgstr ""
+msgstr "成就"
 
 #. Key:	4A8D30B644AFEA682B9FFEA4C760C3C1
 #. SourceLocation:	/Game/Audio/ammo_pickup.ammo_pickup.Subtitles(0).Subtitles.Text
@@ -803,14 +804,14 @@ msgstr ""
 #: /Game/Widgets/Settings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_85.Text
 msgctxt ",52E157914CE8B0F1AFA61E95E1CB0970"
 msgid "Apply & exit"
-msgstr ""
+msgstr "保存并退出"
 
 #. Key:	5447BA0F492F744FE7E235A02123CD2A
 #. SourceLocation:	/Game/Widgets/Warnings/W_NightlyWarn.W_NightlyWarn_C:ExecuteUbergraph_W_NightlyWarn [Script Bytecode]
 #: /Game/Widgets/Warnings/W_NightlyWarn.W_NightlyWarn_C:ExecuteUbergraph_W_NightlyWarn [Script Bytecode]
 msgctxt ",5447BA0F492F744FE7E235A02123CD2A"
 msgid "Got it"
-msgstr ""
+msgstr "确认"
 
 #. Key:	55AEF1CA46A68982A2C68CB5A66E8E4B
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_Badges.W_Badges_C:ExecuteUbergraph_W_Badges [Script Bytecode]
@@ -916,7 +917,7 @@ msgstr ""
 #: /Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_2.Text
 msgctxt ",5F5289C645CF4F7681762B814A116420"
 msgid "Output Display Format"
-msgstr ""
+msgstr "输出显示格式"
 
 #. Key:	5FF47DD84FFB12FE1CD2C991B3A7BF62
 #. SourceLocation:	/Game/Widgets/W_HUDRun.W_HUDRun_C:GetText_0 [Script Bytecode]
@@ -1036,7 +1037,7 @@ msgstr ""
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.BRUv.Text
 msgctxt ",704A61E54D8CA487018B9F92D6762B7A"
 msgid "Toggle FPS Counter"
-msgstr ""
+msgstr "显示/隐藏帧率"
 
 #. Key:	71CB218F45FAEC754EDB78AD8F9E7F01
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
@@ -1493,7 +1494,7 @@ msgstr ""
 #: /Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_4.Text
 msgctxt ",9CB931314DB294873FBCB089BA943056"
 msgid "Defines the color gamut for the output display, allowing selection between standard and wide color ranges for different display standards."
-msgstr ""
+msgstr "定义输出显示器的色域，允许根据不同的显示标准在标准色域与广色域之间进行选择。"
 
 #. Key:	9CDD7A4449A833FFCEC97CB46EFC6FDF
 #. SourceLocation:	/Game/Widgets/W_Saves/W_SaveWipe.W_SaveWipe_C:WidgetTree.TextBlock_132.Text
@@ -1514,7 +1515,7 @@ msgstr ""
 #: /Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_1.Text
 msgctxt ",9E805D004404A112C476C091ACCCC240"
 msgid "HDR Settings"
-msgstr ""
+msgstr "HDR设置"
 
 #. Key:	9EC6B8564C3F8E280D2D64A4DDCA743F
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(27).Subtitles.Text
@@ -1584,7 +1585,7 @@ msgstr ""
 #: /Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock.Text
 msgctxt ",A8DF3B32415DB3B4CB2342B271C89551"
 msgid "Enabled"
-msgstr ""
+msgstr "启用"
 
 #. Key:	A989F67944BEA18B4D05E38A4204D50F
 #. SourceLocation:	/Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_2.Text
@@ -1598,7 +1599,7 @@ msgstr ""
 #: /Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_5.Text
 msgctxt ",AA07791B47002C74719FFC9B5666A5E3"
 msgid "Output Color Gamut"
-msgstr ""
+msgstr "输出色域"
 
 #. Key:	ACE7A09943384A3ED43C87B14F331C7C
 #. SourceLocation:	/Game/Widgets/W_CornerReminder/W_CornerReminder.W_CornerReminder_C:WidgetTree.TextBlock_1.Text
@@ -1711,7 +1712,7 @@ msgstr ""
 #: /Game/Widgets/Settings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_1.Text
 msgctxt ",BAA183744E4C0D1CDAF4EA8AA9755352"
 msgid "Work in progress; Some stuff may be broken, some stuff may work."
-msgstr ""
+msgstr "该游戏还在开发中，部分设置可能无法正常应用。"
 
 #. Key:	BB8BB19C4EC70484043FEEB29F5673AF
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_JoinSession.W_JoinSession_C:WidgetTree.TextBlock_235.Text
@@ -1888,7 +1889,7 @@ msgstr ""
 #: /Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_6.Text
 msgctxt ",C702A9464256B677C365949F9B704BEA"
 msgid "If HDR appears washed out, ensure it’s manually enabled in your operating system, or adjust the calibration settings below to match your monitor's colors accurately."
-msgstr ""
+msgstr "若 HDR 画面显得泛白，请确认您是否已在系统设置中手动开启了 HDR，或者通过调整下方的参数进行校准，使其与显示器色彩保持一致。"
 
 #. Key:	C730DC634CD927406FCFCC9E65380406
 #. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn.W_Respawn_C:WidgetTree.Tip.Text
@@ -2111,7 +2112,7 @@ msgstr ""
 #: /Game/Widgets/Settings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_2.Text
 msgctxt ",DE8A51A84BF234B25D1D5A956ECC96B0"
 msgid "Main Menu Music"
-msgstr ""
+msgstr "主菜单音乐"
 
 #. Key:	DE8B66684A058CF30D2ED9B326F9818E
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
