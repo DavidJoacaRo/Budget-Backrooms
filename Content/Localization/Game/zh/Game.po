@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-16 17:00\n"
-"PO-Revision-Date: 2026-10-17 10:18\n"
+"PO-Revision-Date: 2026-10-17 11:30\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
@@ -122,7 +122,7 @@ msgstr ""
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_95.Text
 msgctxt ",084E856044F06AEFDE634E8E06EB4D51"
 msgid "Click here to continue"
-msgstr ""
+msgstr "单击此处继续"
 
 #. Key:	0B631C5A441FFE36A7E5CC804041F31B
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(27).Subtitles.Text
@@ -173,7 +173,7 @@ msgstr ""
 #: /Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_1.Text
 msgctxt ",1116724D44253BA23F575586773C02A3"
 msgid "Ignore integrated GPU warning at startup."
-msgstr ""
+msgstr "启动时忽略集成显卡警告"
 
 #. Key:	11725C93458C388566C2158F453178A4
 #. SourceLocation:	/Game/Widgets/W_LoadingScreen/W_Memerooms_Loading.W_Memerooms_Loading_C:WidgetTree.small_text.Text
@@ -187,7 +187,7 @@ msgstr ""
 #: /Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_6.Text
 msgctxt ",11F8752C4EC569899EC8649F20860474"
 msgid "Level 0"
-msgstr ""
+msgstr "Level 0"
 
 #. Key:	1360B1DC44A90F1FE3597A80039A1D62
 #. SourceLocation:	/Game/Widgets/Animations/W_TheFogAnim.W_TheFogAnim_C:WidgetTree.TextBlock_22.Text
@@ -222,7 +222,7 @@ msgstr ""
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_15.Text
 msgctxt ",18091DCB4D286220E2E78894815EBE8E"
 msgid "Texture Quality"
-msgstr ""
+msgstr "纹理质量"
 
 #. Key:	1999226F4332CB8FD39BAB8045D793E0
 #. SourceLocation:	/Game/Widgets/W_Errors/W_ConnLost.W_ConnLost_C:WidgetTree.TextBlock.Text
@@ -295,14 +295,14 @@ msgstr ""
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock.Text
 msgctxt ",1D7C9D3144D722EB7C783BB328182A4F"
 msgid "Depth of Field"
-msgstr ""
+msgstr "景深"
 
 #. Key:	1E12D60843E4348D764190A279294233
 #. SourceLocation:	/Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_5.Text
 #: /Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_5.Text
 msgctxt ",1E12D60843E4348D764190A279294233"
 msgid "Level 1"
-msgstr ""
+msgstr "Level 1"
 
 #. Key:	1FC10EE84C7B7F2CEEF21F8FE74EE42D
 #. SourceLocation:	/Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.title.ToolTipText
@@ -366,7 +366,7 @@ msgstr ""
 #: /Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_3.Text
 msgctxt ",24783675495A29482773CA8614B460EA"
 msgid "View Bobbing Intensity"
-msgstr ""
+msgstr "视角晃动幅度"
 
 #. Key:	25FD63FB480627D2A7454C826FC83F4E
 #. SourceLocation:	/Game/Widgets/Warnings/W_NightlyWarn.W_NightlyWarn_C:WidgetTree.desc.Text
@@ -380,7 +380,7 @@ msgstr "考虑到您已经玩过原版游戏了，您现在运行的是游戏的
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_13.Text
 msgctxt ",26996A5E4A32E19E39F6D68E2DDADBC2"
 msgid "Shadow Quality"
-msgstr ""
+msgstr "阴影质量"
 
 #. Key:	2784FC72442FA17E4E75328B10D55010
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(0).Subtitles.Text
@@ -401,7 +401,7 @@ msgstr ""
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_3.Text
 msgctxt ",280062164C6F59E411D6CAA313B3EDAA"
 msgid "Everything you see in this game is still in development and it might not be final. Game could be popular, discontinued, or still in development in the future."
-msgstr ""
+msgstr "开发中版本：本游戏仍然处于开发阶段，不代表最终品质。本游戏未来可能会大受欢迎、停止更新，或继续处于开发状态。"
 
 #. Key:	28D27CD447CAD830C098EEB458CAD332
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(12).Subtitles.Text
@@ -450,7 +450,7 @@ msgstr ""
 #: /Game/Widgets/W_Screeensaver/W_Screensaver_InitDIal.W_Screensaver_InitDIal_C:WidgetTree.TextBlock.Text
 msgctxt ",2C27E3A34EF1DFC8FAB3F7A66D4619FE"
 msgid "Screensaver Mode will hide the Main Menu and make the Cutscene visible to the whole screen without obstructions."
-msgstr ""
+msgstr "屏幕保护模式将隐藏主菜单，并全屏无遮挡地展示过场动画。"
 
 #. Key:	2C6F04E64FE815956A96A985A97E6874
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:Set MOTD [Script Bytecode]
@@ -472,7 +472,7 @@ msgstr "主音量"
 #: /Game/Widgets/Multiplayer/WB_ServerList.WB_ServerList_C:WidgetTree.TextBlock_196.Text
 msgctxt ",2DB0BA86444A796C5EDDFE802EDBEE5A"
 msgid "Sessions List"
-msgstr ""
+msgstr "主持游戏"
 
 #. Key:	2F1C9FEB4EB96B6D38E6C8B3077A4C29
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(12).Subtitles.Text
@@ -507,7 +507,7 @@ msgstr ""
 #: /Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.TextBlock_0.Text
 msgctxt ",347E1C8F4664E08C76956695B4D0D7E2"
 msgid "Join session"
-msgstr ""
+msgstr "加入游戏"
 
 #. Key:	34CF8B3946D39E4BF4D31283A09C40FC
 #. SourceLocation:	/Game/Widgets/Warnings/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
@@ -621,7 +621,7 @@ msgstr ""
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_1.Text
 msgctxt ",4088789F4F09A439F7AAE489952E8E1D"
 msgid "Loud noises, if the audio is too loud for you, please adjust the volume in the Audio Settings section in the Main Menu, or check the volume in your OS."
-msgstr ""
+msgstr "巨大噪音：如果音量过大导致您不适，请在主菜单的“音频设置”中调节音量，或检查您操作系统的音量设置。"
 
 #. Key:	408C1C9045910921D13A31B001F6FAD3
 #. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_Reload.W_TT_Reload_C:WidgetTree.restart_text.Text
@@ -664,7 +664,7 @@ msgstr ""
 #: /Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_7.Text
 msgctxt ",4458A33747AD473356797A8DDB61AE95"
 msgid "Level 2"
-msgstr ""
+msgstr "Level 2"
 
 #. Key:	462B690F40E9D087995C8A9126D5DBF6
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_Badges.W_Badges_C:ExecuteUbergraph_W_Badges [Script Bytecode]
@@ -888,14 +888,14 @@ msgstr ""
 #: /Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_9.Text
 msgctxt ",5D636B944CFE6074F271A0BF5DD8053E"
 msgid "Level 4"
-msgstr ""
+msgstr "Level 4"
 
 #. Key:	5D7E0E444BBC9C78C75D978AFF6E0F60
 #. SourceLocation:	/Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:Slider Val [Script Bytecode]
 #: /Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:Slider Val [Script Bytecode]
 msgctxt ",5D7E0E444BBC9C78C75D978AFF6E0F60"
 msgid "2,5 (Default)"
-msgstr ""
+msgstr "2,5 (默认)"
 
 #. Key:	5E4CE86947F5CC412156D5A61442541A
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_UnstableMP.W_UnstableMP_C:WidgetTree.TextBlock_1.Text
@@ -960,7 +960,7 @@ msgstr ""
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_5.Text
 msgctxt ",63295C394479C9CC0CD2C8A12C76B1E3"
 msgid "This game is NOT a 1:1 representation of the Backrooms Wiki, like any other Backrooms game, this game has it's own downsides and upsides. It's up to you to enjoy it."
-msgstr ""
+msgstr "非1:1还原“后室”设定：本游戏并非根据后室Wiki进行1:1完全还原。与其他任何后室题材游戏一样，本游戏有自身的优缺点。能否享受其中，取决于您自己。"
 
 #. Key:	649E7FCC4144988064D51CA1DD380674
 #. SourceLocation:	/Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:ExecuteUbergraph_W_OptionalSurvey [Script Bytecode]
@@ -1069,7 +1069,10 @@ msgid "You are about to reset your game. This includes unlocked levels, settings
 "\r\n"
 "\r\n"
 "Are you sure?"
-msgstr ""
+msgstr "您即将重置您的游戏进度，这包括已解锁的关卡，设置和一些游戏内状态。Steam成就不会重新被锁定。\r\n"
+"\r\n"
+"\r\n"
+"您确定吗？"
 
 #. Key:	7684BEE242A019D532DECEB57328FC3F
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(1).Subtitles.Text
@@ -1112,7 +1115,7 @@ msgstr ""
 #: /Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_5.Text
 msgctxt ",78A0E87942FE9F1514EB1E8434F5F3C5"
 msgid "Crosshair Style"
-msgstr ""
+msgstr "准星样式"
 
 #. Key:	7938DC2040A75C61A2A55A845D39B377
 #. SourceLocation:	/Game/Widgets/W_CornerReminder/W_CornerReminder.W_CornerReminder_C:WidgetTree.TextBlock_0.Text
@@ -1134,14 +1137,14 @@ msgstr ""
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.res_text.Text
 msgctxt ",79CC8E664296C5DF88766BA5C7CF48C0"
 msgid "Resolution Settings"
-msgstr ""
+msgstr "分辨率设置"
 
 #. Key:	79DAA88B43EA8332ACE4839DB43324BA
 #. SourceLocation:	/Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_10.Text
 #: /Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_10.Text
 msgctxt ",79DAA88B43EA8332ACE4839DB43324BA"
 msgid "Level 5"
-msgstr ""
+msgstr "Level 5"
 
 #. Key:	7B63012E4FDAC92B101D7CA7E76DC20E
 #. SourceLocation:	/Game/Widgets/W_HUD.W_HUD_C:Ver [Script Bytecode]
@@ -1197,7 +1200,7 @@ msgstr ""
 #: /Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_10.Text
 msgctxt ",7F809B8545A418DD1740D88828585408"
 msgid "Disable level-based Main Menu background"
-msgstr ""
+msgstr "禁用随关卡变化的主菜单背景"
 
 #. Key:	7F82BC2843D806C1CC2135BEAC3100CD
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(26).Subtitles.Text
@@ -1253,7 +1256,7 @@ msgstr ""
 #: /Game/Widgets/W_LoadingScreen/W_Memerooms_Loading.W_Memerooms_Loading_C:WidgetTree.title.Text
 msgctxt ",84DBC7384AA7AAC2F2C1D0B48ECBEDAF"
 msgid "The Memerooms™"
-msgstr ""
+msgstr "梗室™"
 
 #. Key:	84F1C7BA41333CF011D0BF8455332F2D
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.select.Text
@@ -1317,7 +1320,7 @@ msgstr ""
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_114.Text
 msgctxt ",8937878845D1C792DABAD7B72A06313B"
 msgid "Resume from...?"
-msgstr ""
+msgstr "从……层级继续？"
 
 #. Key:	89A2D34A49B50F5E165B949278F378FD
 #. SourceLocation:	/Game/Widgets/Multiplayer/WB_Badge.WB_Badge_C:WidgetTree.lor.ToolTipText
@@ -1380,7 +1383,7 @@ msgstr ""
 #: /Game/Widgets/W_Screeensaver/W_Screensaver_InitDIal.W_Screensaver_InitDIal_C:WidgetTree.TextBlock_3.Text
 msgctxt ",90D2E00443A2DCA4DDB88082A4F8A4E6"
 msgid "You can press Left Click to exit Screensaver Mode after this screen."
-msgstr ""
+msgstr "进入该模式后，您可以按下鼠标左键退出该模式。"
 
 #. Key:	92E9BF4846193CB072D4CC86C6522B14
 #. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_VideoSett.W_TT_VideoSett_C:WidgetTree.TextBlock_0.Text
@@ -1410,7 +1413,7 @@ msgstr ""
 #: /Game/Widgets/W_Screeensaver/W_Screensaver_InitDIal.W_Screensaver_InitDIal_C:WidgetTree.TextBlock_0.Text
 msgctxt ",940CA13E452B66BA51291D884AE0A4AF"
 msgid "Screensaver Mode"
-msgstr ""
+msgstr "屏幕保护模式"
 
 #. Key:	94AA793E42A87A598920CE8DE1E3DAA4
 #. SourceLocation:	/Game/Widgets/W_Credits/W_Credits_Memerooms.W_Credits_Memerooms_C:WidgetTree.TextBlock_2.Text
@@ -1424,7 +1427,7 @@ msgstr ""
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_4.Text
 msgctxt ",94E56E2B454F34F2F4E8D3BB3DA60834"
 msgid "This game uses binaural audio, it's recommended to play with headphones or speakers that support stereo audio channels."
-msgstr ""
+msgstr "双耳音频：本游戏采用双耳音频技术，建议佩戴耳机，或使用支持立体声道的扬声器进行游玩。"
 
 #. Key:	95CD8F5948B895FFFFD3AEAD41A45930
 #. SourceLocation:	/Game/Widgets/Warnings/W_GraphicsConflict.W_GraphicsConflict_C:WidgetTree.TextBlock_132.Text
@@ -1480,7 +1483,7 @@ msgstr ""
 #: /Game/Widgets/W_Saves/W_SaveWipe.W_SaveWipe_C:WidgetTree.TextBlock_1.Text
 msgctxt ",9C7F59594CCC4A46ED3CE8B6DE1123FA"
 msgid "Yes, I want to wipe my savedata"
-msgstr ""
+msgstr "我确定，我想删除我的存档"
 
 #. Key:	9C8084274E887FD1F2556E97CF7511A1
 #. SourceLocation:	/Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_2.Text
@@ -1501,14 +1504,14 @@ msgstr "定义输出显示器的色域，允许根据不同的显示标准在标
 #: /Game/Widgets/W_Saves/W_SaveWipe.W_SaveWipe_C:WidgetTree.TextBlock_132.Text
 msgctxt ",9CDD7A4449A833FFCEC97CB46EFC6FDF"
 msgid "Reset"
-msgstr ""
+msgstr "重置"
 
 #. Key:	9D88668D46BEC5D8D58B5CA0356176D4
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_6.Text
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_6.Text
 msgctxt ",9D88668D46BEC5D8D58B5CA0356176D4"
 msgid "Don't show this screen again"
-msgstr ""
+msgstr "不再显示此界面"
 
 #. Key:	9E805D004404A112C476C091ACCCC240
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_1.Text
@@ -1557,14 +1560,14 @@ msgstr ""
 #: /Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock.Text
 msgctxt ",A3AEDF9D4CE4CA889ED08795364C2D47"
 msgid "Level 1 Annex 2"
-msgstr ""
+msgstr "Level 1 附属区2"
 
 #. Key:	A6E9DA1E486C2280566E418C69FA9157
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock.Text
 msgctxt ",A6E9DA1E486C2280566E418C69FA9157"
 msgid "This game contains the following:"
-msgstr ""
+msgstr "本游戏包含以下内容"
 
 #. Key:	A824E12A4A5D2812A0D4139D6D74DD7B
 #. SourceLocation:	/Game/Widgets/Warnings/W_GraphicsConflict.W_GraphicsConflict_C:WidgetTree.TextBlock_63.Text
@@ -1592,7 +1595,7 @@ msgstr "启用"
 #: /Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_2.Text
 msgctxt ",A989F67944BEA18B4D05E38A4204D50F"
 msgid "Discord RPC Status"
-msgstr ""
+msgstr "Discord RPC状态"
 
 #. Key:	AA07791B47002C74719FFC9B5666A5E3
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_5.Text
@@ -1613,7 +1616,7 @@ msgstr ""
 #: /Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_117.Text
 msgctxt ",AD92A30648A8C21C970AA2BDE61197FD"
 msgid "Switch to Sub-Levels"
-msgstr ""
+msgstr "切换至子层级"
 
 #. Key:	AE37393348921D5E2025D7A42D566D9F
 #. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn.W_Respawn_C:WidgetTree.dead.Text
@@ -1684,7 +1687,7 @@ msgstr ""
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_2.Text
 msgctxt ",B54B0E9D4B007A5579F6E2A47F5381E4"
 msgid "This game contains flashing lights, glitch effecs and such, if you have photosensitive epilepsy, it is not recommended to play this game."
-msgstr ""
+msgstr "闪烁光效、画面故障特效等：如果您患有光敏性癫痫，我们不建议您游玩本游戏。"
 
 #. Key:	B86A83AC4E4C28AB09ED7A91454C4705
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(15).Subtitles.Text
@@ -1705,7 +1708,7 @@ msgstr ""
 #: /Game/Widgets/W_Screeensaver/W_Screensaver_InitDIal.W_Screensaver_InitDIal_C:WidgetTree.TextBlock_1.Text
 msgctxt ",BA255D7F4A9D01961D5BDAB4916E56EF"
 msgid "Begin"
-msgstr ""
+msgstr "启动"
 
 #. Key:	BAA183744E4C0D1CDAF4EA8AA9755352
 #. SourceLocation:	/Game/Widgets/Settings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_1.Text
@@ -1754,7 +1757,7 @@ msgstr ""
 #: /Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_6.Text
 msgctxt ",BCCA07FA4AFECB20673F7380025B5AED"
 msgid "Skip Disclaimer screen"
-msgstr ""
+msgstr "跳过免责声明界面"
 
 #. Key:	BCEA7DCC4F92FF08105115B93B36C548
 #. SourceLocation:	/Game/Widgets/Settings/W_Settings_Selection.W_Settings_Selection_C:WidgetTree.TextBlock_0.Text
@@ -1917,7 +1920,7 @@ msgstr ""
 #: /Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_9.Text
 msgctxt ",C8FDFB4E47929EB174675D8F9623C62E"
 msgid "Heatmap Telemetry Opt-in"
-msgstr ""
+msgstr "允许热力图数据收集"
 
 #. Key:	CA1F132B41B4C69B739112B6E56BEF96
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_0.Text
@@ -1965,7 +1968,7 @@ msgstr ""
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_0.Text
 msgctxt ",CE1C6C3D46989FC7360AE2A1265F0755"
 msgid "Warning!"
-msgstr ""
+msgstr "警告！"
 
 #. Key:	CF5990CF4F7D73D699AA5FB9CEF6F794
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(11).Subtitles.Text
@@ -2000,7 +2003,7 @@ msgstr ""
 #: /Game/Widgets/W_Tooltips/W_TT_DelSavedMap.W_TT_DelSavedMap_C:WidgetTree.TextBlock_0.Text
 msgctxt ",D198A3D24DB814EC86FA02ABEFD81F0B"
 msgid "Delete saved data"
-msgstr ""
+msgstr "删除已保存的数据"
 
 #. Key:	D1D674104F4C21689620668BCFE3B644
 #. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_DelConfirm.W_TT_DelConfirm_C:WidgetTree.TextBlock_0.Text
@@ -2063,14 +2066,14 @@ msgstr ""
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_5.Text
 msgctxt ",D838B17544EDA990F630F79AB65B27D4"
 msgid "FPS Limit"
-msgstr ""
+msgstr "限制帧数"
 
 #. Key:	D951832E46845B92530ACCAF201E97AF
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_2.Text
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_2.Text
 msgctxt ",D951832E46845B92530ACCAF201E97AF"
 msgid "Motion Blur"
-msgstr ""
+msgstr "动态模糊"
 
 #. Key:	D97DA7634ED0B904EDE3C7BF1CC77E1D
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
@@ -2105,7 +2108,7 @@ msgstr ""
 #: /Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:Parse Steam Profile Name [Script Bytecode]
 msgctxt ",DE18C0B741AD973F0A0168B1F9520CDC"
 msgid "Playing as {0}"
-msgstr ""
+msgstr "您的游戏ID{0}"
 
 #. Key:	DE8A51A84BF234B25D1D5A956ECC96B0
 #. SourceLocation:	/Game/Widgets/Settings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_2.Text
@@ -2355,7 +2358,7 @@ msgstr ""
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_30.Text
 msgctxt ",F454C5E04355473BCC8D48AECB8C9028"
 msgid "Post-Processing"
-msgstr ""
+msgstr "后期处理"
 
 #. Key:	F52E9A794E0F87FC2AD9539282507B9B
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(28).Subtitles.Text
@@ -2411,7 +2414,7 @@ msgstr ""
 #: /Game/Widgets/W_Screeensaver/W_Screensaver_InitDIal.W_Screensaver_InitDIal_C:WidgetTree.TextBlock_2.Text
 msgctxt ",F912874C4BF4F8E305532C8245A2F95D"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 #. Key:	FAE1BEF94F6C34B6AAB4C38805088177
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(14).Subtitles.Text
@@ -2425,7 +2428,7 @@ msgstr ""
 #: /Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_8.Text
 msgctxt ",FB8502B34F66BE631A96BEAE92260AB3"
 msgid "Level 3"
-msgstr ""
+msgstr "Level 3"
 
 #. Key:	FC12A09345F8A4AAF7DD0E861BC169BB
 #. SourceLocation:	/Game/Widgets/Warnings/W_PowerWarn.W_PowerWarn_C:WidgetTree.Text.Text
@@ -2481,7 +2484,7 @@ msgstr ""
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_0.Text
 msgctxt "Game,02ED8B414F72956E478E5F837A952E5C"
 msgid "Gamemodes"
-msgstr ""
+msgstr "选择游戏模式"
 
 #. Key:	03EDA3DD4B9F6D070C0A4B9FD328A778
 #. SourceLocation:	/Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock_0.Text
@@ -2517,14 +2520,14 @@ msgstr ""
 #: /Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.TextBlock_8.Text
 msgctxt "Game,0AD67C534C035798769D67BB032E04AF"
 msgid "Singleplayer"
-msgstr ""
+msgstr "单人游戏"
 
 #. Key:	0B43218A46B8D314BD98588656340D03
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_12.Text
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_12.Text
 msgctxt "Game,0B43218A46B8D314BD98588656340D03"
 msgid "Mute Music"
-msgstr ""
+msgstr "禁用音乐"
 
 #. Key:	11ACA0D04530BCA72C3768B9C083A316
 #. SourceLocation:	/Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.TextBlock_2.Text
@@ -2566,7 +2569,7 @@ msgstr ""
 #: /Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_8.Text
 msgctxt "Game,1ECA116643D504C48C56D4903CA1567D"
 msgid "Change language"
-msgstr ""
+msgstr "更改语言"
 
 #. Key:	256064344289478637DF8AA0DA120257
 #. SourceLocation:	/Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_1.Text
@@ -2583,7 +2586,7 @@ msgstr ""
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_9.Text
 msgctxt "Game,2A1B5DED49C6C258E7F3AC81A0B422F1"
 msgid "Classic"
-msgstr ""
+msgstr "经典模式"
 
 #. Key:	2A92293E4560C3EE6AD404AB625FAA4E
 #. SourceLocation:	/Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_3.Text
@@ -2612,7 +2615,7 @@ msgstr ""
 #: /Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.TextBlock_5.Text
 msgctxt "Game,2DBEBE9742B8C6B7219AC998615667F3"
 msgid "FAQ"
-msgstr ""
+msgstr "常见问题（FAQ）"
 
 #. Key:	3143F271489310E79B1B6FB73A685A98
 #. SourceLocation:	/Game/Widgets/Animations/FadeIn_Edited.FadeIn_Edited_C:WidgetTree.TextBlock_2.Text
@@ -2677,14 +2680,23 @@ msgid "Even though I had no place to put Gamemode in title, this is The Memeroom
 "- Player Speed faster than my dad going for milk.\r\n"
 "\r\n"
 "[UNFUNNY WARNING, PROCEED WITH CAUTION! SOME CONTENT IS UNFINISHED]"
-msgstr ""
+msgstr "虽然我没法把“游戏模式”这几个字塞进标题里，但这确实是《梗室™》。一场由Budget Backrooms精心打造的离谱沙雕体验。\r\n"
+"\r\n"
+"我在游戏里塞满了一大堆21世纪的互联网烂梗（呃..虽然可能并不好笑），但还能糟到哪里去呢？\r\n"
+"\r\n"
+"模式特性：\r\n"
+"-嚎叫者？拜拜了您嘞。 我们把他解雇了，现在将是 NextBot 来追着你咬，那架势就像在抢限量版 NFT。\r\n"
+"-无限体力。就像老板画的大饼，永远也吃不完...\r\n"
+"-玩家移速极快。比下课冲食堂的速度还要快。\r\n"
+"\r\n"
+"[不好笑警告，请谨慎选择该模式！部分内容尚未完工]"
 
 #. Key:	559AA7AF406F7FF3D67C5497BE1AEC61
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_193.Text
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_193.Text
 msgctxt "Game,559AA7AF406F7FF3D67C5497BE1AEC61"
 msgid "Play Gamemode"
-msgstr ""
+msgstr "开始游戏"
 
 #. Key:	5B01E0A64686673A6F12F6A6F25814B9
 #. SourceLocation:	/Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_4.Text
@@ -2698,7 +2710,7 @@ msgstr ""
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock.Text
 msgctxt "Game,606805C340EDA7C57DF31796C1F0897F"
 msgid "Hardcore"
-msgstr ""
+msgstr "困难模式"
 
 #. Key:	6366616F42DD42ACE70F62B1AA6F7905
 #. SourceLocation:	/Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.title.Text
@@ -2719,7 +2731,7 @@ msgstr ""
 #: /Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock.Text
 msgctxt "Game,6491EE9E410A07B1F04868BEE7E68849"
 msgid "Camera Sensitivity"
-msgstr ""
+msgstr "视角灵敏度"
 
 #. Key:	6DBAF3F647996966C7B8E5BDBDDC097C
 #. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn_LV0.W_Respawn_LV0_C:WidgetTree.TextBlock.Text
@@ -2761,7 +2773,7 @@ msgstr ""
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_5.Text
 msgctxt "Game,8A9C5A2B416C98E00E045F8C64BDFCA1"
 msgid "Classic Gamemode"
-msgstr ""
+msgstr "经典模式"
 
 #. Key:	8D9233084B8FE552469A8C819491A4D3
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_18.Text
@@ -2804,14 +2816,14 @@ msgstr ""
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_19.Text
 msgctxt "Game,9E0BA20A4B54936AD8539EB5F550A92B"
 msgid "Reset Sanity"
-msgstr ""
+msgstr "重置角色理智值"
 
 #. Key:	A22F78484DDEF116D05FBCB66BB008C6
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_6.Text
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_6.Text
 msgctxt "Game,A22F78484DDEF116D05FBCB66BB008C6"
 msgid "Experience the Backrooms in its most authentic form with the Classic gamemode. Explore through various levels and find the exit while encountering strange entities and levels. The first level is guided by arrows on the walls, but beware of noclippable walls that lead to sub-levels. You're not alone in the Backrooms, so stay alert and keep moving, and watch your sanity!"
-msgstr ""
+msgstr "在经典模式中，您将体验最原汁原味的“后室”。在躲避各种奇怪的实体，经历诡异的场景的同时，探索各个层级，寻找出口。第一层会有墙上的箭头作为指引，但请当心那些可以卡出并通往子层级的墙壁。在后室里，您并不孤单...所以请保持警惕，谨慎前进，并时刻留意您的理智值！"
 
 #. Key:	A97DE58E4F1FA713A36D5195C77F7283
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_4.Text
@@ -2839,7 +2851,7 @@ msgstr ""
 #: /Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_0.Text
 msgctxt "Game,B1DD77C547FB9435B0A9D6BEDD089D2E"
 msgid "Miscellaneous Settings"
-msgstr ""
+msgstr "其他设置"
 
 #. Key:	B3A739A7412BD37C491490ADBC9334F8
 #. SourceLocation:	/Game/Widgets/W_PauseMenu/W_ConfirmLeave.W_ConfirmLeave_C:WidgetTree.TextBlock_132.Text
@@ -2888,7 +2900,7 @@ msgstr ""
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_3.Text
 msgctxt "Game,D02790D3455C59CF228013A881859793"
 msgid "The Memerooms"
-msgstr ""
+msgstr "梗室"
 
 #. Key:	D535479940C75A7CDD9589A29B3DDC1F
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.TextBlock_1.Text
@@ -2896,7 +2908,7 @@ msgstr ""
 msgctxt "Game,D535479940C75A7CDD9589A29B3DDC1F"
 msgid "Budget\r\n"
 "Multiplayer"
-msgstr ""
+msgstr "多人游戏"
 
 #. Key:	DBAF3F647996966C7B8E5BDBDDC097C
 #. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn_LV2.W_Respawn_LV2_C:WidgetTree.TextBlock.Text
@@ -2940,5 +2952,5 @@ msgstr ""
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_7.Text
 msgctxt "Game,FE1B6E874FA303D513285488670CD5A2"
 msgid "Unused Levels"
-msgstr ""
+msgstr "未被使用的层级"
 
