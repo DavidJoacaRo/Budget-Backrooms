@@ -1,17 +1,22 @@
-﻿# Game Ukrainian translation.
+# Game English translation.
 # Copyright Epic Games, Inc. All Rights Reserved.
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: Game\n"
+"Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-16 17:00\n"
-"PO-Revision-Date: 2026-10-16 17:00\n"
-"Language-Team: \n"
+"PO-Revision-Date: 2026-10-16 17:07\n"
+"Language-Team: Ukrainian\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: budget-backrooms\n"
+"X-Crowdin-Project-ID: 936921\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /dev/Content/Localization/Game/en/Game.po\n"
+"X-Crowdin-File-ID: 23\n"
 
 #. Key:	015116CF4E1DD8C07D5E21856B5ABD48
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(22).Subtitles.Text
@@ -94,8 +99,10 @@ msgstr "ТІКАЙ!"
 #. SourceLocation:	/Game/Widgets/cmOS/W_CamBoot.W_CamBoot_C:ExecuteUbergraph_W_CamBoot [Script Bytecode]
 #: /Game/Widgets/cmOS/W_CamBoot.W_CamBoot_C:ExecuteUbergraph_W_CamBoot [Script Bytecode]
 msgctxt ",07128F89424800253FEB0F97123FD7F0"
-msgid "Checking devices... OK!\r\nRestoring session... "
-msgstr "Перевірка пристроїв... OK!\r\nВідновлення сеансу... "
+msgid "Checking devices... OK!\r\n"
+"Restoring session... "
+msgstr "Перевірка пристроїв... OK!\r\n"
+"Відновлення сеансу... "
 
 #. Key:	0780830B417DAC423AD1668B75BCE576
 #. SourceLocation:	/Game/Widgets/W_PauseMenu/W_ConfirmLeave.W_ConfirmLeave_C:ExecuteUbergraph_W_ConfirmLeave [Script Bytecode]
@@ -129,8 +136,10 @@ msgstr "Ось, власне, і все."
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_1.Text
 #: /Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_1.Text
 msgctxt ",0B63AE0B4768A30314B307AB9675F418"
-msgid "Budget\r\nBackrooms"
-msgstr "Budget\r\nBackrooms"
+msgid "Budget\r\n"
+"Backrooms"
+msgstr "Budget\r\n"
+"Backrooms"
 
 #. Key:	0CC0EA584CE4691B97BD4B81C5A6EEE8
 #. SourceLocation:	/Game/Widgets/Animations/W_Safezone.W_Safezone_C:WidgetTree.TextBlock_1.Text
@@ -234,8 +243,12 @@ msgstr "«Не варто--»"
 #. SourceLocation:	/Game/Widgets/W_PauseMenu/W_ConfirmLeave.W_ConfirmLeave_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/W_PauseMenu/W_ConfirmLeave.W_ConfirmLeave_C:WidgetTree.TextBlock.Text
 msgctxt ",19F8EA6E47751DD0CC07AFB15F038B7B"
-msgid "Are you sure you want to go back to the Main Menu?\r\n\r\nYou will be able to start from this level at any time using the Level Selector in the Main Menu."
-msgstr "Точно хочеш вийти до головного меню?\r\n\r\nПочати з цього рівня можна буде будь-коли через вибір рівня в головному меню."
+msgid "Are you sure you want to go back to the Main Menu?\r\n"
+"\r\n"
+"You will be able to start from this level at any time using the Level Selector in the Main Menu."
+msgstr "Точно хочете вийти до Головного Меню?\r\n"
+"\r\n"
+"Почати з цього рівня можна буде будь-коли — для цього використайте Вибір Рівня в Головному Меню."
 
 #. Key:	1A8C72D646BF429E378787BD0809460E
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_0.Text
@@ -255,8 +268,10 @@ msgstr "Кінець повідомлень."
 #. SourceLocation:	/Game/Widgets/Settings/W_Settings_Selection.W_Settings_Selection_C:WidgetTree.TextBlock_1.Text
 #: /Game/Widgets/Settings/W_Settings_Selection.W_Settings_Selection_C:WidgetTree.TextBlock_1.Text
 msgctxt ",1B06C0A4487BC5E56FEDA5AC4C1F499B"
-msgid "Video\r\nSettings"
-msgstr "Налаштування\r\nвідео"
+msgid "Video\r\n"
+"Settings"
+msgstr "Налаштування\r\n"
+"відео"
 
 #. Key:	1BE787BB47590C7B230A0B822C8A32C7
 #. SourceLocation:	/Game/Widgets/W_Errors/W_ConnDrivErr.W_ConnDrivErr_C:WidgetTree.TextBlock_1.Text
@@ -318,8 +333,10 @@ msgstr "Підрівень «!»"
 #. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_UnavGM.W_TT_UnavGM_C:WidgetTree.TextBlock_0.Text
 #: /Game/Widgets/W_Tooltips/W_TT_UnavGM.W_TT_UnavGM_C:WidgetTree.TextBlock_0.Text
 msgctxt ",20F3970145DD796217DD6296535FAC1F"
-msgid "Gamemode unavailable yet.\r\n:("
-msgstr "Режим гри поки що недоступний.\r\n:("
+msgid "Gamemode unavailable yet.\r\n"
+":("
+msgstr "Режим гри поки що недоступний.\r\n"
+":("
 
 #. Key:	20FC75D54C68A45BC09B1BA0ABF2B0A7
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(21).Subtitles.Text
@@ -438,14 +455,16 @@ msgstr "Сподіваюся, у вас усе добре."
 #: /Game/Widgets/W_Screeensaver/W_Screensaver_InitDIal.W_Screensaver_InitDIal_C:WidgetTree.TextBlock.Text
 msgctxt ",2C27E3A34EF1DFC8FAB3F7A66D4619FE"
 msgid "Screensaver Mode will hide the Main Menu and make the Cutscene visible to the whole screen without obstructions."
-msgstr "Режим заставки приховає головне меню й розгорне катсцену на весь екран без перешкод."
+msgstr "Режим заставки приховає головне меню й розгорне кат-сцену на весь екран без перешкод."
 
 #. Key:	2C6F04E64FE815956A96A985A97E6874
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:Set MOTD [Script Bytecode]
 #: /Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:Set MOTD [Script Bytecode]
 msgctxt ",2C6F04E64FE815956A96A985A97E6874"
-msgid "wait the dev has birthday today?\r\nmaybe say happy birthday i guess??????"
-msgstr "стоп, у розробника сьогодні день народження?\r\nможе, привітаємо??????"
+msgid "wait the dev has birthday today?\r\n"
+"maybe say happy birthday i guess??????"
+msgstr "стоп, у розробника сьогодні день народження?\r\n"
+"може, привітаємо??????"
 
 #. Key:	2CDA71264A1C4CF068AEE58874AB441C
 #. SourceLocation:	/Game/Widgets/Settings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_0.Text
@@ -515,7 +534,7 @@ msgstr "Порада: не світи ліхтариком поряд з Усм�
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.fsr_warn.Text
 msgctxt ",353340D64CB689BB3301CCA38FFFE543"
 msgid "Option disabled, please set \"Anti-Aliasing\" to Low or better."
-msgstr "Параметр вимкнено. Встанови для «Anti-Aliasing» значення «Low» або вище."
+msgstr "Параметр вимкнено. Встанови для згладжування значення низьке або вище."
 
 #. Key:	35D2913A43EC7C20C9AB329DD1532965
 #. SourceLocation:	/Game/Widgets/Warnings/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
@@ -529,14 +548,14 @@ msgstr "Виглядає ризиковано.."
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(1).Subtitles.Text
 msgctxt ",36335B3C4AFCC0CB276416831F247574"
 msgid "one"
-msgstr "одне"
+msgstr "один"
 
 #. Key:	364430A246D29C64E1C04396E88C340C
 #. SourceLocation:	/Game/Widgets/W_Errors/W_ConnDrivErr.W_ConnDrivErr_C:WidgetTree.TextBlock_63.Text
 #: /Game/Widgets/W_Errors/W_ConnDrivErr.W_ConnDrivErr_C:WidgetTree.TextBlock_63.Text
 msgctxt ",364430A246D29C64E1C04396E88C340C"
 msgid "you gotta be kidding me"
-msgstr "ти що, знущаєшся наді мною"
+msgstr "ти що, знущаєшся наді мною?"
 
 #. Key:	38AF16154C99E7B73DE3F3BDB93AE8AF
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(24).Subtitles.Text
@@ -584,8 +603,10 @@ msgstr "Спершу треба відновити живлення."
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.tip.Text
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.tip.Text
 msgctxt ",3DBF285142ACF63F17A052A7DEBA2FBD"
-msgid "Did you know?\r\nThis game was made in Unreal Engine 4"
-msgstr "А ти знав?\r\nЦю гру створено на Unreal Engine 4"
+msgid "Did you know?\r\n"
+"This game was made in Unreal Engine 4"
+msgstr "А ти знав?\r\n"
+"Цю гру створено на Unreal Engine 4"
 
 #. Key:	3F43F82C44FEAEC5C700589CBF034E2A
 #. SourceLocation:	/Game/Widgets/Warnings/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
@@ -598,8 +619,10 @@ msgstr "Мені це не подобається. Може, краще піти
 #. SourceLocation:	/Game/Widgets/Settings/W_Settings_Selection.W_Settings_Selection_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/Settings/W_Settings_Selection.W_Settings_Selection_C:WidgetTree.TextBlock.Text
 msgctxt ",3F60C01D4F018D823832059D48173F0B"
-msgid "Miscellaneous\r\nSettings"
-msgstr "Інші\r\nналаштування"
+msgid "Miscellaneous\r\n"
+"Settings"
+msgstr "Інші\r\n"
+"налаштування"
 
 #. Key:	4088789F4F09A439F7AAE489952E8E1D
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_1.Text
@@ -626,8 +649,24 @@ msgstr "ТІКАЙ!"
 #. SourceLocation:	/Game/Widgets/W_TelemetryDialogue.W_TelemetryDialogue_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/W_TelemetryDialogue.W_TelemetryDialogue_C:WidgetTree.TextBlock.Text
 msgctxt ",41596F554AC689A4223BC2A3BC17DDDD"
-msgid "Budget Backrooms is now able to collect anonymized telemetry data of your in-game position on the levels you explore. This data is used to generate a heatmap of the most frequently walked areas or paths of the map.\r\n\r\nWhat the game sends:\r\n- Your SteamID to generate a hashed session token. Your SteamID is NOT stored anywhere. The session token cannot be traced back to you so you cannot be identified from the positions sent.\r\n- In-world position samples are sent every 60s.\r\n\r\nA new session token is generated when this option is enabled and at game startup.\r\n\r\nFor any concerns or questions, contact me at dabardev@dabar.dev or dabardibid@proton.me"
-msgstr "Budget Backrooms тепер може збирати анонімізовані телеметричні дані про твоє положення в грі на рівнях, які ти досліджуєш. Ці дані використовуються для створення теплової карти найвідвідуваніших ділянок або маршрутів на карті.\r\n\r\nЩо надсилає гра:\r\n- Твій SteamID для створення хешованого токена сесії. Твій SteamID ніде НЕ зберігається. Токен сесії неможливо відстежити до тебе, тож визначити твою особу за надісланими позиціями не можна.\r\n- Зразки позицій в ігровому світі надсилаються кожні 60 с.\r\n\r\nНовий токен сесії створюється, коли цей параметр вмикається, а також під час запуску гри.\r\n\r\nЯкщо маєш побоювання чи запитання — пиши мені: dabardev@dabar.dev або dabardibid@proton.me"
+msgid "Budget Backrooms is now able to collect anonymized telemetry data of your in-game position on the levels you explore. This data is used to generate a heatmap of the most frequently walked areas or paths of the map.\r\n"
+"\r\n"
+"What the game sends:\r\n"
+"- Your SteamID to generate a hashed session token. Your SteamID is NOT stored anywhere. The session token cannot be traced back to you so you cannot be identified from the positions sent.\r\n"
+"- In-world position samples are sent every 60s.\r\n"
+"\r\n"
+"A new session token is generated when this option is enabled and at game startup.\r\n"
+"\r\n"
+"For any concerns or questions, contact me at dabardev@dabar.dev or dabardibid@proton.me"
+msgstr "Budget Backrooms тепер може збирати анонімізовані телеметричні дані про твоє положення в грі на рівнях, які ти досліджуєш. Ці дані використовуються для створення теплової карти найвідвідуваніших ділянок або маршрутів на карті.\r\n"
+"\r\n"
+"Що надсилає гра:\r\n"
+"- Твій SteamID для створення хешованого токена сесії. Твій SteamID ніде НЕ зберігається. Токен сесії неможливо відстежити до тебе, тож визначити твою особу за надісланими позиціями не можна.\r\n"
+"- Зразки позицій в ігровому світі надсилаються кожні 60 с.\r\n"
+"\r\n"
+"Новий токен сесії створюється, коли цей параметр вмикається, а також під час запуску гри.\r\n"
+"\r\n"
+"Якщо маєш побоювання чи запитання — пиши мені: dabardev@dabar.dev або dabardibid@proton.me"
 
 #. Key:	4162F7AF43EB38C10CDA7F95FF187490
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(9).Subtitles.Text
@@ -648,7 +687,7 @@ msgstr "Рівень 2"
 #: /Game/Widgets/Multiplayer/W_Badges.W_Badges_C:ExecuteUbergraph_W_Badges [Script Bytecode]
 msgctxt ",462B690F40E9D087995C8A9126D5DBF6"
 msgid "Ko-Fi Donator"
-msgstr "Донатер Ko-Fi"
+msgstr "Спонсор Ko-Fi"
 
 #. Key:	468C326A40800B62B9DD04BCB763B0C3
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.TextBlock.Text
@@ -676,7 +715,7 @@ msgstr "Перемкнися на гілку «nightly-dev», щоб побач�
 #: /Game/Widgets/Warnings/W_NightlyLocked.W_NightlyLocked_C:ExecuteUbergraph_W_NightlyLocked [Script Bytecode]
 msgctxt ",4899D7684FEBC4D531D376B5C0F554F4"
 msgid "Cringe"
-msgstr "Кринж"
+msgstr "Крінж"
 
 #. Key:	48C844644A16D45A8BBD65995C133D37
 #. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_Streamer.W_TT_Streamer_C:WidgetTree.te.Text
@@ -802,7 +841,7 @@ msgstr "Учасник розробки вихідного коду"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(6).Subtitles.Text
 msgctxt ",5614A195423FB26CFF43CA8A753EFDB1"
 msgid "Good afternoon, boss."
-msgstr "Добрий день, босе."
+msgstr "Добрий день, шеф."
 
 #. Key:	5617C3D840B7E7A4339C68A31470BDAB
 #. SourceLocation:	/Game/Widgets/Warnings/W_NightlyLocked.W_NightlyLocked_C:ExecuteUbergraph_W_NightlyLocked [Script Bytecode]
@@ -885,8 +924,10 @@ msgstr "Я в курсі, але все одно хочу зіграти в це
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
 msgctxt ",5F28DDE1471B402C037A10B341E9CFF9"
-msgid "Did you know?\r\n{1}"
-msgstr "А ти знав?\r\n{1}"
+msgid "Did you know?\r\n"
+"{1}"
+msgstr "А ви знали?\r\n"
+"{1}"
 
 #. Key:	5F5289C645CF4F7681762B814A116420
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_2.Text
@@ -899,8 +940,10 @@ msgstr "Формат вихідного зображення"
 #. SourceLocation:	/Game/Widgets/W_HUDRun.W_HUDRun_C:GetText_0 [Script Bytecode]
 #: /Game/Widgets/W_HUDRun.W_HUDRun_C:GetText_0 [Script Bytecode]
 msgctxt ",5FF47DD84FFB12FE1CD2C991B3A7BF62"
-msgid "{sec}s Grace time\r\nRun with Shift"
-msgstr "Фора: {sec} с\r\nБіг: Shift"
+msgid "{sec}s Grace time\r\n"
+"Run with Shift"
+msgstr "Фора: {sec} с\r\n"
+"Біг: Shift"
 
 #. Key:	6092D65B44718B2AF96A1A8C295D5C5E
 #. SourceLocation:	/Game/Audio/jammed.jammed.Subtitles(0).Subtitles.Text
@@ -963,7 +1006,7 @@ msgstr "Зачекай ({1})"
 #: /Game/Widgets/Multiplayer/W_Badges.W_Badges_C:WidgetTree.lor.ToolTipText
 msgctxt ",6A268743483FA7777E8CA4891CC33C12"
 msgid "The True Lory Games"
-msgstr ""
+msgstr "The True Lory Games"
 
 #. Key:	6A5895C94975E4273745409B88CE53D8
 #. SourceLocation:	/Game/Widgets/Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_4.Text
@@ -1025,8 +1068,10 @@ msgstr "[Замкнено]"
 #. SourceLocation:	/Game/Widgets/cmOS/W_CamBoot.W_CamBoot_C:ExecuteUbergraph_W_CamBoot [Script Bytecode]
 #: /Game/Widgets/cmOS/W_CamBoot.W_CamBoot_C:ExecuteUbergraph_W_CamBoot [Script Bytecode]
 msgctxt ",7407BED84FAEBD67F6915E8C537807B5"
-msgid "Checking devices... OK!\r\nRestoring session... INITIALIZING..."
-msgstr "Перевірка пристроїв... OK!\r\nВідновлення сеансу... ІНІЦІАЛІЗАЦІЯ..."
+msgid "Checking devices... OK!\r\n"
+"Restoring session... INITIALIZING..."
+msgstr "Перевірка пристроїв... OK!\r\n"
+"Відновлення сеансу... ІНІЦІАЛІЗАЦІЯ..."
 
 #. Key:	74E49D71451A5748AABAC985FDCC1476
 #. SourceLocation:	/Game/Widgets/W_RebindKeys/W_RebindKeys.W_RebindKeys_C:WidgetTree.W_RebindEntry_2.ActionLabel
@@ -1039,15 +1084,21 @@ msgstr "Ліхтарик"
 #. SourceLocation:	/Game/Widgets/W_Saves/W_SaveWipe.W_SaveWipe_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/W_Saves/W_SaveWipe.W_SaveWipe_C:WidgetTree.TextBlock.Text
 msgctxt ",7538550F4344618750E7468D3E0CCB58"
-msgid "You are about to reset your game. This includes unlocked levels, settings and some in-world states. Steam Achievements won't be re-locked.\r\n\r\n\r\nAre you sure?"
-msgstr "Ви збираєтеся скинути гру. Це включає відкриті рівні, налаштування та деякі внутрішньоігрові стани. Досягнення Steam не буде знову заблоковано.\r\n\r\n\r\nВи впевнені?"
+msgid "You are about to reset your game. This includes unlocked levels, settings and some in-world states. Steam Achievements won't be re-locked.\r\n"
+"\r\n"
+"\r\n"
+"Are you sure?"
+msgstr "Ви збираєтеся скинути гру. Це включає відкриті рівні, налаштування та деякі внутрішньоігрові стани. Досягнення Steam не буде знову заблоковано.\r\n"
+"\r\n"
+"\r\n"
+"Ви впевнені?"
 
 #. Key:	7684BEE242A019D532DECEB57328FC3F
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(1).Subtitles.Text
 #: /Game/Audio/dave_2.dave_2.Subtitles(1).Subtitles.Text
 msgctxt ",7684BEE242A019D532DECEB57328FC3F"
 msgid "one"
-msgstr "одне"
+msgstr "один"
 
 #. Key:	776CCCB9468E9C4AD3026A9C40A7C341
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.download_text.Text
@@ -1060,15 +1111,17 @@ msgstr "Клієнт застарів. Перевір у Steam, чи немає 
 #. SourceLocation:	/Game/Widgets/W_BBNetInfo.W_BBNetInfo_C:WidgetTree.TextBlock_0.Text
 #: /Game/Widgets/W_BBNetInfo.W_BBNetInfo_C:WidgetTree.TextBlock_0.Text
 msgctxt ",77D4F8C940763200D2D66487E2AF044B"
-msgid "Netstats unavailable.\r\nYou're most likely a host."
-msgstr "Статистика мережі недоступна.\r\nІмовірно, ти хост."
+msgid "Netstats unavailable.\r\n"
+"You're most likely a host."
+msgstr "Статистика мережі недоступна.\r\n"
+"Імовірно, ти хост."
 
 #. Key:	7807521646256AFEFF78D098D8CB4091
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(1).Subtitles.Text
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(1).Subtitles.Text
 msgctxt ",7807521646256AFEFF78D098D8CB4091"
 msgid "one"
-msgstr "одне"
+msgstr "один"
 
 #. Key:	784F3A824638F585EA4A74AFFD1373A1
 #. SourceLocation:	/Game/Widgets/W_RebindKeys/W_RebindEntry.W_RebindEntry_C:WidgetTree.clear.ToolTipText
@@ -1088,8 +1141,10 @@ msgstr "Стиль прицілу"
 #. SourceLocation:	/Game/Widgets/W_CornerReminder/W_CornerReminder.W_CornerReminder_C:WidgetTree.TextBlock_0.Text
 #: /Game/Widgets/W_CornerReminder/W_CornerReminder.W_CornerReminder_C:WidgetTree.TextBlock_0.Text
 msgctxt ",7938DC2040A75C61A2A55A845D39B377"
-msgid "Press F to turn on\r\nyour flashlight"
-msgstr "Натисни F, щоб\r\nувімкнути ліхтарик"
+msgid "Press F to turn on\r\n"
+"your flashlight"
+msgstr "Натисни F, щоб\r\n"
+"увімкнути ліхтарик"
 
 #. Key:	79B9E61145CA1C5337F8199089CB2728
 #. SourceLocation:	/Game/Widgets/W_RebindKeys/W_RebindKeys.W_RebindKeys_C:WidgetTree.W_RebindEntry.ActionLabel
@@ -1208,7 +1263,7 @@ msgstr "Таке враження, ніби наша техніка якимос
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(30).Subtitles.Text
 msgctxt ",8474C42A48D65BED8892FEBD6571C3A6"
 msgid "Have a good rest of your day, boss."
-msgstr "Гарного вам дня, босе."
+msgstr "Гарного вам дня, шеф."
 
 #. Key:	847639D14B332C465DEC4CAB8A2FA544
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_Badges.W_Badges_C:WidgetTree.contributor.ToolTipText
@@ -1222,7 +1277,7 @@ msgstr "Учасник розробки вихідного коду гри"
 #: /Game/Widgets/W_LoadingScreen/W_Memerooms_Loading.W_Memerooms_Loading_C:WidgetTree.title.Text
 msgctxt ",84DBC7384AA7AAC2F2C1D0B48ECBEDAF"
 msgid "The Memerooms™"
-msgstr "Мемне Закулісся™"
+msgstr "The Memerooms™"
 
 #. Key:	84F1C7BA41333CF011D0BF8455332F2D
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.select.Text
@@ -1243,14 +1298,14 @@ msgstr "Ми намагалися з'ясувати джерело пробле�
 #: /Game/Widgets/Warnings/W_NightlyWarn.W_NightlyWarn_C:WidgetTree.title.Text
 msgctxt ",85FE9D2F40485A2BC3F503A305F7DFEA"
 msgid "Welcome to Nightly"
-msgstr "Ласкаво просимо до Nightly"
+msgstr "Ласкаво просимо до Нічної Збірки"
 
 #. Key:	86BCAF0245EDE47AD823FB83CF7A9BCF
 #. SourceLocation:	/Game/Widgets/W_Interaction/W_InteractionHint.W_InteractionHint_C:WidgetTree.TextBlock_1.Text
 #: /Game/Widgets/W_Interaction/W_InteractionHint.W_InteractionHint_C:WidgetTree.TextBlock_1.Text
 msgctxt ",86BCAF0245EDE47AD823FB83CF7A9BCF"
 msgid "Ok"
-msgstr "ОК"
+msgstr "Гаразд"
 
 #. Key:	87A4B6F74F63C260834A2A8AC3EF1058
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:OutdatedBuild [Script Bytecode]
@@ -1263,8 +1318,10 @@ msgstr "працює на коміті [{0}]"
 #. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_External.W_TT_External_C:WidgetTree.TextBlock_1.Text
 #: /Game/Widgets/W_Tooltips/W_TT_External.W_TT_External_C:WidgetTree.TextBlock_1.Text
 msgctxt ",88484C8D444A7F816590F6AB2E582FA8"
-msgid "This will open a link\r\nin your default browser."
-msgstr "Посилання відкриється\r\nу браузері за замовчуванням."
+msgid "This will open a link\r\n"
+"in your default browser."
+msgstr "Посилання відкриється\r\n"
+"у браузері за замовчуванням."
 
 #. Key:	88C24F834803C9160210F5A24072D42C
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(7).Subtitles.Text
@@ -1292,7 +1349,7 @@ msgstr "Продовжити з...?"
 #: /Game/Widgets/Multiplayer/WB_Badge.WB_Badge_C:WidgetTree.lor.ToolTipText
 msgctxt ",89A2D34A49B50F5E165B949278F378FD"
 msgid "The True Lory Games"
-msgstr ""
+msgstr "The True Lory Games"
 
 #. Key:	89A65EA74C6D7EBBEA7D5AAEF97A71C0
 #. SourceLocation:	/Game/Widgets/W_Errors/W_ConnTravErr.W_ConnTravErr_C:WidgetTree.TextBlock_132.Text
@@ -1354,8 +1411,12 @@ msgstr "Після цього екрана вийти з режиму заста
 #. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_VideoSett.W_TT_VideoSett_C:WidgetTree.TextBlock_0.Text
 #: /Game/Widgets/W_Tooltips/W_TT_VideoSett.W_TT_VideoSett_C:WidgetTree.TextBlock_0.Text
 msgctxt ",92E9BF4846193CB072D4CC86C6522B14"
-msgid "When leaving this page,\r\nyour changes are saved \r\nautomatically."
-msgstr "Коли ти залишаєш цю\r\nсторінку, зміни\r\nзбережуться автоматично."
+msgid "When leaving this page,\r\n"
+"your changes are saved \r\n"
+"automatically."
+msgstr "Коли ти залишаєш цю\r\n"
+"сторінку, зміни\r\n"
+"збережуться автоматично."
 
 #. Key:	9389636A4B4E62A8D2397797F2DCB850
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_4.Text
@@ -1369,7 +1430,7 @@ msgstr "Нарешті! Нове оновлення!!"
 #: /Game/Widgets/W_Credits/W_Credits_Memerooms.W_Credits_Memerooms_C:WidgetTree.TextBlock_0.Text
 msgctxt ",93D998194175AAF9C989EA904ED51F1C"
 msgid "Credits for The Memerooms™"
-msgstr "Титри «Мемного Закулісся™»"
+msgstr "Автори The Memerooms™"
 
 #. Key:	940CA13E452B66BA51291D884AE0A4AF
 #. SourceLocation:	/Game/Widgets/W_Screeensaver/W_Screensaver_InitDIal.W_Screensaver_InitDIal_C:WidgetTree.TextBlock_0.Text
@@ -1425,7 +1486,7 @@ msgstr "Ні-і"
 #: /Game/Widgets/Multiplayer/W_Badges.W_Badges_C:ExecuteUbergraph_W_Badges [Script Bytecode]
 msgctxt ",9828611049827FEB20CB07812F6DD7A2"
 msgid "The True Lory Games"
-msgstr ""
+msgstr "The True Lory Games"
 
 #. Key:	9B531D5147655B1A0FDA8D8C3C6220FC
 #. SourceLocation:	/Game/Widgets/W_RebindKeys/W_RebindKeys.W_RebindKeys_C:WidgetTree.TextBlock_0.Text
@@ -1599,8 +1660,10 @@ msgstr "«відкривати детективне агентство чере�
 #. SourceLocation:	/Game/Widgets/W_Interaction/W_InteractionHint.W_InteractionHint_C:WidgetTree.TextBlock_0.Text
 #: /Game/Widgets/W_Interaction/W_InteractionHint.W_InteractionHint_C:WidgetTree.TextBlock_0.Text
 msgctxt ",AE5CCB4242DCF6F2767D4FB1AF8BA62E"
-msgid "You can pick up the \r\nflashlight by pressing E"
-msgstr "Підібрати ліхтарик\r\nможна клавішею E"
+msgid "You can pick up the \r\n"
+"flashlight by pressing E"
+msgstr "Підібрати ліхтарик\r\n"
+"можна клавішею E"
 
 #. Key:	AFDDD1E64D3A7F5B5AFF47B18BAC5CFE
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.lan_text.Text
@@ -1725,8 +1788,10 @@ msgstr "Пропустити екран попередження"
 #. SourceLocation:	/Game/Widgets/Settings/W_Settings_Selection.W_Settings_Selection_C:WidgetTree.TextBlock_0.Text
 #: /Game/Widgets/Settings/W_Settings_Selection.W_Settings_Selection_C:WidgetTree.TextBlock_0.Text
 msgctxt ",BCEA7DCC4F92FF08105115B93B36C548"
-msgid "Audio\r\nSettings"
-msgstr "Налаштування\r\nзвуку"
+msgid "Audio\r\n"
+"Settings"
+msgstr "Налаштування\r\n"
+"звуку"
 
 #. Key:	BD09C2214882692122BFD793442C866D
 #. SourceLocation:	/Game/Widgets/Animations/W_FakeAccountSave.W_FakeAccountSave_C:ExecuteUbergraph_W_FakeAccountSave [Script Bytecode]
@@ -1774,8 +1839,66 @@ msgstr "«дивно, чи химерно, чи ще якось--»"
 #. SourceLocation:	/Game/Widgets/W_Credits/W_Credits_Memerooms.W_Credits_Memerooms_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/W_Credits/W_Credits_Memerooms.W_Credits_Memerooms_C:WidgetTree.TextBlock.Text
 msgctxt ",BF6A87AC4EB2C857DFA02FB4B74B9AA4"
-msgid "[Please note that some credits may be missing; All the song's credit goes to their original Artist and not me]\r\n[SOME SONGS ARE DISABLED OR MUTED TO PREVENT COPYRIGHT PROBLEMS, WILL FIX!!!]\r\n\r\nSCP 3008 - Monday [Uglyburger0]\r\nSCP 3008 - Tuesday [Uglyburger0]\r\nSCP 3008 - Wednesday [Uglyburger0]\r\nSCP 3008 - Thursday [Uglyburger0]\r\nSCP 3008 - Friday [Uglyburger0]\r\nSCP 3008 - Saturday [Uglyburger0]\r\nSCP 3008 - Sunday [Uglyburger0]\r\nohio music [Spongebob Squarepants Production Music - Comic Walk]\r\nDifferent Heaven - Nekozilla [NCS RELEASE]\r\nLensko - Circles [NCS RELEASE]\r\nLensko - Let's Go [NCS RELEASE]\r\nLensko - Cetus [NCS RELEASE]\r\n\r\nDisabled soundtracks due to legal issues :(\r\nBreaking Bad Main Title Theme [Extended]\r\n\r\nFortnite Classic Lobby Music\r\n\r\nKahoot! - Main Theme\r\nKahoot! - The 20 Second Answer Medley\r\nKahoot! 20 Second Countdown #3 Music [Couldn't find the original name sorry :( ]\r\n\r\nPortal 1 - Still Alive [Radio]\r\nPortal 1 - Still Alive [Radio, but compressed]\r\n\r\n\r\nBad Style - Time Back"
-msgstr "[Зауважте: частину авторів може бути не вказано; уся заслуга за пісні належить їхнім оригінальним виконавцям, а не мені]\r\n[ДЕЯКІ ПІСНІ ВИМКНЕНО АБО ЗАГЛУШЕНО ЧЕРЕЗ ПРОБЛЕМИ З АВТОРСЬКИМИ ПРАВАМИ, ВИПРАВЛЮ!!!]\r\n\r\nSCP 3008 - Monday [Uglyburger0]\r\nSCP 3008 - Tuesday [Uglyburger0]\r\nSCP 3008 - Wednesday [Uglyburger0]\r\nSCP 3008 - Thursday [Uglyburger0]\r\nSCP 3008 - Friday [Uglyburger0]\r\nSCP 3008 - Saturday [Uglyburger0]\r\nSCP 3008 - Sunday [Uglyburger0]\r\nohio music [Spongebob Squarepants Production Music - Comic Walk]\r\nDifferent Heaven - Nekozilla [NCS RELEASE]\r\nLensko - Circles [NCS RELEASE]\r\nLensko - Let's Go [NCS RELEASE]\r\nLensko - Cetus [NCS RELEASE]\r\n\r\nСаундтреки вимкнено через юридичні проблеми :(\r\nBreaking Bad Main Title Theme [Extended]\r\n\r\nFortnite Classic Lobby Music\r\n\r\nKahoot! - Main Theme\r\nKahoot! - The 20 Second Answer Medley\r\nKahoot! 20 Second Countdown #3 Music [не вдалося знайти оригінальну назву, вибачте :( ]\r\n\r\nPortal 1 - Still Alive [Radio]\r\nPortal 1 - Still Alive [Radio, but compressed]\r\n\r\n\r\nBad Style - Time Back"
+msgid "[Please note that some credits may be missing; All the song's credit goes to their original Artist and not me]\r\n"
+"[SOME SONGS ARE DISABLED OR MUTED TO PREVENT COPYRIGHT PROBLEMS, WILL FIX!!!]\r\n"
+"\r\n"
+"SCP 3008 - Monday [Uglyburger0]\r\n"
+"SCP 3008 - Tuesday [Uglyburger0]\r\n"
+"SCP 3008 - Wednesday [Uglyburger0]\r\n"
+"SCP 3008 - Thursday [Uglyburger0]\r\n"
+"SCP 3008 - Friday [Uglyburger0]\r\n"
+"SCP 3008 - Saturday [Uglyburger0]\r\n"
+"SCP 3008 - Sunday [Uglyburger0]\r\n"
+"ohio music [Spongebob Squarepants Production Music - Comic Walk]\r\n"
+"Different Heaven - Nekozilla [NCS RELEASE]\r\n"
+"Lensko - Circles [NCS RELEASE]\r\n"
+"Lensko - Let's Go [NCS RELEASE]\r\n"
+"Lensko - Cetus [NCS RELEASE]\r\n"
+"\r\n"
+"Disabled soundtracks due to legal issues :(\r\n"
+"Breaking Bad Main Title Theme [Extended]\r\n"
+"\r\n"
+"Fortnite Classic Lobby Music\r\n"
+"\r\n"
+"Kahoot! - Main Theme\r\n"
+"Kahoot! - The 20 Second Answer Medley\r\n"
+"Kahoot! 20 Second Countdown #3 Music [Couldn't find the original name sorry :( ]\r\n"
+"\r\n"
+"Portal 1 - Still Alive [Radio]\r\n"
+"Portal 1 - Still Alive [Radio, but compressed]\r\n"
+"\r\n"
+"\r\n"
+"Bad Style - Time Back"
+msgstr "[Зауважте: частину авторів може бути не вказано; уся заслуга за пісні належить їхнім оригінальним виконавцям, а не мені]\r\n"
+"[ДЕЯКІ ПІСНІ ВИМКНЕНО АБО ЗАГЛУШЕНО ЧЕРЕЗ ПРОБЛЕМИ З АВТОРСЬКИМИ ПРАВАМИ, ВИПРАВЛЮ!!!]\r\n"
+"\r\n"
+"SCP 3008 - Monday [Uglyburger0]\r\n"
+"SCP 3008 - Tuesday [Uglyburger0]\r\n"
+"SCP 3008 - Wednesday [Uglyburger0]\r\n"
+"SCP 3008 - Thursday [Uglyburger0]\r\n"
+"SCP 3008 - Friday [Uglyburger0]\r\n"
+"SCP 3008 - Saturday [Uglyburger0]\r\n"
+"SCP 3008 - Sunday [Uglyburger0]\r\n"
+"ohio music [Spongebob Squarepants Production Music - Comic Walk]\r\n"
+"Different Heaven - Nekozilla [NCS RELEASE]\r\n"
+"Lensko - Circles [NCS RELEASE]\r\n"
+"Lensko - Let's Go [NCS RELEASE]\r\n"
+"Lensko - Cetus [NCS RELEASE]\r\n"
+"\r\n"
+"Саундтреки вимкнено через юридичні проблеми :(\r\n"
+"Breaking Bad Main Title Theme [Extended]\r\n"
+"\r\n"
+"Fortnite Classic Lobby Music\r\n"
+"\r\n"
+"Kahoot! - Main Theme\r\n"
+"Kahoot! - The 20 Second Answer Medley\r\n"
+"Kahoot! 20 Second Countdown #3 Music [не вдалося знайти оригінальну назву, вибачте :( ]\r\n"
+"\r\n"
+"Portal 1 - Still Alive [Radio]\r\n"
+"Portal 1 - Still Alive [Radio, but compressed]\r\n"
+"\r\n"
+"\r\n"
+"Bad Style - Time Back"
 
 #. Key:	C08377274F042124625A1B8DFFC029D4
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
@@ -1879,15 +2002,27 @@ msgstr "Твоя збірка Budget Backrooms старіша за збірку 
 #. SourceLocation:	/Game/Widgets/W_Saves/W_SaveMigrationNew.W_SaveMigrationNew_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/W_Saves/W_SaveMigrationNew.W_SaveMigrationNew_C:WidgetTree.TextBlock.Text
 msgctxt ",CD68D39E4585B1B005DD54A2BF73B23E"
-msgid "Due to internal changes starting 0.0.18 Alpha and later, the older formats used in 0.0.17 and prior are no longer supported to further ease development of the game and compensate for past mistakes made by the developer while making this game.\r\n\r\nYour existing savedata has been automatically migrated to the new format. Not everything might have been moved over due to internal restructuring. Achievements are not migrated. Should you have issues in game, please try proceeding with a save reset under Settings -> General Settings"
-msgstr "Через внутрішні зміни, починаючи з версії 0.0.18 Alpha, старі формати з версії 0.0.17 і раніших більше не підтримуються: так розробку гри буде легше вести далі, а ще це виправляє минулі помилки розробника.\r\n\r\nТвої наявні збереження автоматично перенесено в новий формат. Через внутрішню реструктуризацію перенесено могло бути не все. Досягнення не переносяться. Якщо в грі виникнуть проблеми, спробуй скинути збереження: Налаштування → Інші налаштування"
+msgid "Due to internal changes starting 0.0.18 Alpha and later, the older formats used in 0.0.17 and prior are no longer supported to further ease development of the game and compensate for past mistakes made by the developer while making this game.\r\n"
+"\r\n"
+"Your existing savedata has been automatically migrated to the new format. Not everything might have been moved over due to internal restructuring. Achievements are not migrated. Should you have issues in game, please try proceeding with a save reset under Settings -> General Settings"
+msgstr "Через внутрішні зміни, починаючи з версії 0.0.18 Alpha, старі формати з версії 0.0.17 і раніших більше не підтримуються: так розробку гри буде легше вести далі, а ще це виправляє минулі помилки розробника.\r\n"
+"\r\n"
+"Твої наявні збереження автоматично перенесено в новий формат. Через внутрішню реструктуризацію перенесено могло бути не все. Досягнення не переносяться. Якщо в грі виникнуть проблеми, спробуй скинути збереження: Налаштування -> Інші налаштування"
 
 #. Key:	CDE46AA4452AAD65BCC94785448BD1CA
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_UnstableMP.W_UnstableMP_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/Multiplayer/W_UnstableMP.W_UnstableMP_C:WidgetTree.TextBlock.Text
 msgctxt ",CDE46AA4452AAD65BCC94785448BD1CA"
-msgid "This version of Multiplayer is temporarily not meant for consumer use, in a nutshell, it is not finished, just like this game.\r\n\r\nYou are able to invite friends but what you're getting is just the barebones of Multiplayer without any sugar-coating. Many bugs to be expected.\r\n\r\nI am not responsible for any hacking, doxxing, IP Leaks and so on, I am trying my best."
-msgstr "Ця версія мультиплеєра тимчасово не призначена для звичайних гравців. Якщо коротко, вона не завершена — так само, як і сама гра.\r\n\r\nТи можеш запрошувати друзів, але тут лише голий каркас мультиплеєра без жодних прикрас. Очікуй багато багів.\r\n\r\nЯ не несу відповідальності за будь-які злами, доксинг, витоки IP-адрес тощо, але я стараюся, як можу."
+msgid "This version of Multiplayer is temporarily not meant for consumer use, in a nutshell, it is not finished, just like this game.\r\n"
+"\r\n"
+"You are able to invite friends but what you're getting is just the barebones of Multiplayer without any sugar-coating. Many bugs to be expected.\r\n"
+"\r\n"
+"I am not responsible for any hacking, doxxing, IP Leaks and so on, I am trying my best."
+msgstr "Ця версія мережевої гри тимчасово не призначена для звичайних гравців. Якщо коротко, вона не завершена — так само, як і сама гра.\r\n"
+"\r\n"
+"Ви можете запрошувати друзів, але тут лише голий каркас мережевої гри без жодних прикрас. Очікуй багато багів.\r\n"
+"\r\n"
+"Я не несу відповідальності за будь-які злами, доксинг, витоки IP-адрес тощо, але я стараюся, як можу."
 
 #. Key:	CE1C6C3D46989FC7360AE2A1265F0755
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_0.Text
@@ -1922,7 +2057,7 @@ msgstr "А по-друге..."
 #: /Game/Widgets/Multiplayer/W_Badges.W_Badges_C:ExecuteUbergraph_W_Badges [Script Bytecode]
 msgctxt ",D12610E44B9281594DAB4AA3A56BD18B"
 msgid "Had Early Access to Multiplayer while it was in the works"
-msgstr "Мав ранній доступ до мультиплеєра, коли той ще був у розробці"
+msgstr "Мав ранній доступ до мережевої гри, коли той ще був у розробці"
 
 #. Key:	D198A3D24DB814EC86FA02ABEFD81F0B
 #. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_DelSavedMap.W_TT_DelSavedMap_C:WidgetTree.TextBlock_0.Text
@@ -1964,7 +2099,7 @@ msgstr "Цю гру зроблено за мізерний бюджет."
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(28).Subtitles.Text
 msgctxt ",D40830F344FFDDE2D0C15AB1D9222298"
 msgid "We're gonna get back to sorting out the computer situation now, as leaving that unfixed-"
-msgstr "Ми зараз повернемося до вирішення комп'ютерної ситуації, адже якщо залишити її невиправленою —"
+msgstr "Ми зараз повернемося до вирішення комп'ютерної ситуації, адже якщо залишити її невиправленою-"
 
 #. Key:	D49D2A30423FB0B6B955BB9E8A48D4D5
 #. SourceLocation:	/Game/Widgets/W_TelemetryDialogue.W_TelemetryDialogue_C:WidgetTree.TextBlock_63.Text
@@ -2048,14 +2183,14 @@ msgstr "Музика Головного Меню"
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
 msgctxt ",DE8B66684A058CF30D2ED9B326F9818E"
 msgid "\"NOOOO WHY ISN'T THIS GAME REALISTIC?!\""
-msgstr "«НІІІІ!!! ЧОМУ ЦЯ ГРА НЕ РЕАЛІСТИЧНА?!»"
+msgstr "«НІІІІ!!! ЧОМУ ГРА НЕ РЕАЛІСТИЧНА?!»"
 
 #. Key:	DFD730DF45E662B2612CFF8E87655847
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(29).Subtitles.Text
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(29).Subtitles.Text
 msgctxt ",DFD730DF45E662B2612CFF8E87655847"
 msgid "-could slow down our workflow substantially, and we don't want that to happen now, do we?"
-msgstr "— це може суттєво сповільнити наш робочий процес, а нам цього зараз точно не треба, чи не так?"
+msgstr "-це може суттєво сповільнити наш робочий процес, а нам цього зараз точно не треба, чи не так?"
 
 #. Key:	DFF055A040C6D28C279839A46D8C0035
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(18).Subtitles.Text
@@ -2097,14 +2232,20 @@ msgstr "Ну, щодо цього..."
 #: /Game/Widgets/W_PauseMenu/W_ConfirmLeave.W_ConfirmLeave_C:ExecuteUbergraph_W_ConfirmLeave [Script Bytecode]
 msgctxt ",E16A0B814454E3D6B0014DA5BC6C73A8"
 msgid "FUCK YOU FUCK YOU FUCK YOU FUCK YOU FUCK YOU FUCK YOU FUCK YOU FUCK YOU FUCK YOU FUCK YOU "
-msgstr "ПІШОВ ТИ ПІШОВ ТИ ПІШОВ ТИ ПІШОВ ТИ ПІШОВ ТИ ПІШОВ ТИ ПІШОВ ТИ ПІШОВ ТИ ПІШОВ ТИ ПІШОВ ТИ "
+msgstr "ЙДИ НАХУЙ ЙДИ НАХУЙ ЙДИ НАХУЙ ЙДИ НАХУЙ ЙДИ НАХУЙ ЙДИ НАХУЙ ЙДИ НАХУЙ ЙДИ НАХУЙ ЙДИ НАХУЙ "
 
 #. Key:	E18F82134B6517874DE03CA632AFBC9C
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:ExecuteUbergraph_W_MPMenu [Script Bytecode]
 #: /Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:ExecuteUbergraph_W_MPMenu [Script Bytecode]
 msgctxt ",E18F82134B6517874DE03CA632AFBC9C"
-msgid "Your Budget Backrooms installation is outdated. Check your Steam client for any possible updates to Budget Backrooms, or the selected branch.\r\n\r\nLatest version: v0.{0}\r\nCurrently installed version: v0.{1}"
-msgstr "Твоя інсталяція Budget Backrooms застаріла. Перевір у Steam, чи немає оновлень для Budget Backrooms або обраної гілки.\r\n\r\nОстання версія: v0.{0}\r\nВстановлена версія: v0.{1}"
+msgid "Your Budget Backrooms installation is outdated. Check your Steam client for any possible updates to Budget Backrooms, or the selected branch.\r\n"
+"\r\n"
+"Latest version: v0.{0}\r\n"
+"Currently installed version: v0.{1}"
+msgstr "Твоя інсталяція Budget Backrooms застаріла. Перевір у Steam, чи немає оновлень для Budget Backrooms або обраної гілки.\r\n"
+"\r\n"
+"Остання версія: v0.{0}\r\n"
+"Встановлена версія: v0.{1}"
 
 #. Key:	E4F9AC6E432644862F8BD59A3F65CF36
 #. SourceLocation:	/Game/Widgets/W_RebindKeys/W_RebindKeys.W_RebindKeys_C:WidgetTree.TextBlock_123.Text
@@ -2167,7 +2308,7 @@ msgstr "Розробник"
 #: /Game/Widgets/W_Errors/W_ConnTravErr.W_ConnTravErr_C:WidgetTree.TextBlock_63.Text
 msgctxt ",EBA2280649DE145149C473A155CB5DCA"
 msgid "fucking hell"
-msgstr "та ну нафіг, капець"
+msgstr "піздець"
 
 #. Key:	EC1EEF89400FD7017791B9A576C40873
 #. SourceLocation:	/Game/Widgets/Warnings/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock_7.Text
@@ -2180,8 +2321,10 @@ msgstr "Низька продуктивність"
 #. SourceLocation:	/Game/Widgets/W_SprintOff/W_DisabledSprint.W_DisabledSprint_C:WidgetTree.TextBlock_0.Text
 #: /Game/Widgets/W_SprintOff/W_DisabledSprint.W_DisabledSprint_C:WidgetTree.TextBlock_0.Text
 msgctxt ",ED4912F443969BC63B8E05A1BB01BBEE"
-msgid "Sprinting is disabled\r\nhere."
-msgstr "Тут бігати\r\nне можна."
+msgid "Sprinting is disabled\r\n"
+"here."
+msgstr "Тут бігати\r\n"
+"не можна."
 
 #. Key:	EDB08C4A48EB7724169598971ACC5681
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(15).Subtitles.Text
@@ -2194,8 +2337,10 @@ msgstr "«Останнім часом ми отримали кілька пов�
 #. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_DelConfirm.W_TT_DelConfirm_C:ExecuteUbergraph_W_TT_DelConfirm [Script Bytecode]
 #: /Game/Widgets/W_Tooltips/W_TT_DelConfirm.W_TT_DelConfirm_C:ExecuteUbergraph_W_TT_DelConfirm [Script Bytecode]
 msgctxt ",EE5F29BF4EBC230821B511A0D7089D30"
-msgid "After resetting,\r\nthe game will reload."
-msgstr "Після скидання\r\nгра перезавантажиться."
+msgid "After resetting,\r\n"
+"the game will reload."
+msgstr "Після скидання\r\n"
+"гра перезавантажиться."
 
 #. Key:	EF4C37954E647F6D6485A995B9000AAF
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(2).Subtitles.Text
@@ -2293,7 +2438,7 @@ msgstr "Кінець повідомлень."
 #: /Game/Widgets/Multiplayer/W_Badges.W_Badges_C:WidgetTree.kofi.ToolTipText
 msgctxt ",F5B9B92441455482E5C3F0BF57A40FFA"
 msgid "Ko-Fi Donator"
-msgstr "Донатер Ko-Fi"
+msgstr "Спонсор Ko-Fi"
 
 #. Key:	F758D4064FBFF4E24AE5BA90DF82DCEB
 #. SourceLocation:	/Game/Widgets/W_TelemetryDialogue.W_TelemetryDialogue_C:WidgetTree.TextBlock_3.Text
@@ -2411,8 +2556,10 @@ msgstr "Режими гри"
 #. SourceLocation:	/Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock_0.Text
 #: /Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock_0.Text
 msgctxt "Game,03EDA3DD4B9F6D070C0A4B9FD328A778"
-msgid "Screw you,\r\nnext page please!"
-msgstr "Відчепись,\r\nнаступна сторінка, будь ласка!"
+msgid "Screw you,\r\n"
+"next page please!"
+msgstr "Відчепись,\r\n"
+"наступна сторінка, будь ласка!"
 
 #. Key:	0403F8384DD243BA5DFA23A34DF7291E
 #. SourceLocation:	/Game/Widgets/W_PauseMenu/W_ConfirmLeave.W_ConfirmLeave_C:WidgetTree.TextBlock_63.Text
@@ -2495,8 +2642,14 @@ msgstr "Змінити мову"
 #. SourceLocation:	/Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_1.Text
 #: /Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_1.Text
 msgctxt "Game,256064344289478637DF8AA0DA120257"
-msgid "Well.. I guess that's it for now.\r\nYou've reached the end of this version, feel free to explore more, quit, or do whatever you want.\r\n\r\nThank you for playing the game, and perhaps fill out that survey form because apparently, your opinion matters."
-msgstr "Ну що ж... Мабуть, на цьому поки що все.\r\nЦе кінець цієї версії — можеш і далі досліджувати світ, вийти з гри чи робити що душа забажає.\r\n\r\nДякуємо за гру! І, може, заповни форму опитування — адже, виявляється, твоя думка важлива."
+msgid "Well.. I guess that's it for now.\r\n"
+"You've reached the end of this version, feel free to explore more, quit, or do whatever you want.\r\n"
+"\r\n"
+"Thank you for playing the game, and perhaps fill out that survey form because apparently, your opinion matters."
+msgstr "Ну що ж... Мабуть, на цьому поки що все.\r\n"
+"Це кінець цієї версії — можете й далі досліджувати світ, вийти з гри чи робити що душа забажає.\r\n"
+"\r\n"
+"Дякуємо, що пройшли! І, може, заповніть форму опитування — адже, виявляється, ваша думка важлива."
 
 #. Key:	2A1B5DED49C6C258E7F3AC81A0B422F1
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_9.Text
@@ -2509,8 +2662,10 @@ msgstr "Класичний"
 #. SourceLocation:	/Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_3.Text
 #: /Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_3.Text
 msgctxt "Game,2A92293E4560C3EE6AD404AB625FAA4E"
-msgid "Restart\r\nlevel"
-msgstr "Перезапустити\r\nрівень"
+msgid "Restart\r\n"
+"level"
+msgstr "Перезапустити\r\n"
+"рівень"
 
 #. Key:	2ADBE2A342395C576AAA349214958440
 #. SourceLocation:	/Game/Widgets/Animations/FadeOut.FadeOut_C:WidgetTree.TextBlock_2.Text
@@ -2531,14 +2686,16 @@ msgstr "Ні"
 #: /Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.TextBlock_5.Text
 msgctxt "Game,2DBEBE9742B8C6B7219AC998615667F3"
 msgid "FAQ"
-msgstr "FAQ"
+msgstr "ЧаПи"
 
 #. Key:	3143F271489310E79B1B6FB73A685A98
 #. SourceLocation:	/Game/Widgets/Animations/FadeIn_Edited.FadeIn_Edited_C:WidgetTree.TextBlock_2.Text
 #: /Game/Widgets/Animations/FadeIn_Edited.FadeIn_Edited_C:WidgetTree.TextBlock_2.Text
 msgctxt "Game,3143F271489310E79B1B6FB73A685A98"
-msgid "Press F to turn on\r\nyour flashlight"
-msgstr "Натисни F, щоб\r\nувімкнути ліхтарик"
+msgid "Press F to turn on\r\n"
+"your flashlight"
+msgstr "Натисни F, щоб\r\n"
+"увімкнути ліхтарик"
 
 #. Key:	3E949C5E491BA028AAC881ADBA81C6FF
 #. SourceLocation:	/Game/Widgets/Animations/FadeIn.FadeIn_C:WidgetTree.TextBlock_2.Text
@@ -2565,8 +2722,20 @@ msgstr "Утримуй V, щоб озирнутися."
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_8.Text
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_8.Text
 msgctxt "Game,4C8AA8F349D731711BF25ABAB9A3F1AB"
-msgid "'Unused Levels' are a part of this game's big ass size. Here you find a list of playable, unused levels, that didn't made it into the Classic Gamemode or any gamemode at all. Developer stuff is also included if you're lazy to use the in-game console.\r\n\r\nList may change :)\r\n\r\nLevels may restart the game at unexpected times, have patience.\r\n\r\nNote: Discord RPC *may* not be visible because I'm too lazy or I didn't want to add it into the level"
-msgstr "«Невикористані рівні» — одна з причин величезного розміру цієї гри. Тут зібрано список рівнів, у які можна пограти, але які не потрапили до класичного режиму чи до жодного іншого. Також тут є матеріали для розробників — на випадок, якщо лінь користуватися внутрішньоігровою консоллю.\r\n\r\nСписок може змінюватися :)\r\n\r\nРівні можуть несподівано перезапускати гру — май терпіння.\r\n\r\nПримітка: Discord RPC *може* не відображатися, бо мені було ліньки або я просто не захотів додавати його в рівень"
+msgid "'Unused Levels' are a part of this game's big ass size. Here you find a list of playable, unused levels, that didn't made it into the Classic Gamemode or any gamemode at all. Developer stuff is also included if you're lazy to use the in-game console.\r\n"
+"\r\n"
+"List may change :)\r\n"
+"\r\n"
+"Levels may restart the game at unexpected times, have patience.\r\n"
+"\r\n"
+"Note: Discord RPC *may* not be visible because I'm too lazy or I didn't want to add it into the level"
+msgstr "«Невикористані рівні» — одна з причин величезного розміру цієї гри. Тут зібрано список рівнів, у які можна пограти, але які не потрапили до класичного режиму чи до жодного іншого. Також тут є матеріали для розробників — на випадок, якщо лінь користуватися внутрішньоігровою консоллю.\r\n"
+"\r\n"
+"Список може змінюватися :)\r\n"
+"\r\n"
+"Рівні можуть несподівано перезапускати гру — май терпіння.\r\n"
+"\r\n"
+"Примітка: Discord RPC *може* не відображатися, бо мені було ліньки або я просто не захотів додавати його в рівень"
 
 #. Key:	51F2AD76410263E048696CA2B46E768B
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPInit.W_MPInit_C:WidgetTree.TextBlock_1.Text
@@ -2579,8 +2748,26 @@ msgstr "Скасувати з'єднання"
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_11.Text
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_11.Text
 msgctxt "Game,54EB8E24458BB63DB97315A74E25F00A"
-msgid "Even though I had no place to put Gamemode in title, this is The Memerooms™. A goofy ahh refined experience of Budget Backrooms.\r\n\r\nI've inserted 21st century humor (probably unfunny) into the game, what's the worst that could happen?\r\n\r\nModifiers:\r\n- Howlers? Out, replaced with NextBots chasing you like they're after a rare NFT.\r\n- Stamina endless like the queue for toilet paper in the early days of the pandemic.\r\n- Player Speed faster than my dad going for milk.\r\n\r\n[UNFUNNY WARNING, PROCEED WITH CAUTION! SOME CONTENT IS UNFINISHED]"
-msgstr "Хоч мені й не було куди вставити слово «режим» у назву, це The Memerooms™ — безглуздий, але вдосконалений варіант Budget Backrooms.\r\n\r\nЯ напхав у гру гумору 21 століття (імовірно, не смішного) — що поганого може статися?\r\n\r\nМодифікатори:\r\n- Ховлери? Прибрано, замість них — некстботи, що ганяються за тобою, як за рідкісним NFT.\r\n- Витривалість нескінченна, як черги за гречкою на початку карантину.\r\n- Швидкість гравця вища, ніж у мого тата, коли той пішов по цигарки.\r\n\r\n[ПОПЕРЕДЖЕННЯ: НЕСМІШНО, ДІЙ ОБЕРЕЖНО! ДЕЯКИЙ КОНТЕНТ НЕЗАВЕРШЕНИЙ]"
+msgid "Even though I had no place to put Gamemode in title, this is The Memerooms™. A goofy ahh refined experience of Budget Backrooms.\r\n"
+"\r\n"
+"I've inserted 21st century humor (probably unfunny) into the game, what's the worst that could happen?\r\n"
+"\r\n"
+"Modifiers:\r\n"
+"- Howlers? Out, replaced with NextBots chasing you like they're after a rare NFT.\r\n"
+"- Stamina endless like the queue for toilet paper in the early days of the pandemic.\r\n"
+"- Player Speed faster than my dad going for milk.\r\n"
+"\r\n"
+"[UNFUNNY WARNING, PROCEED WITH CAUTION! SOME CONTENT IS UNFINISHED]"
+msgstr "Хоч мені й не було куди вставити слово «режим» у назву, це The Memerooms™ — безглуздий, але вдосконалений варіант Budget Backrooms.\r\n"
+"\r\n"
+"Я напхав у гру гумору 21 століття (імовірно, не смішного) — що поганого може статися?\r\n"
+"\r\n"
+"Модифікатори:\r\n"
+"- Бактерії? Прибрано, замість них — некстботи, що ганяються за тобою, як за рідкісним NFT.\r\n"
+"- Витривалість нескінченна, як черги за гречкою на початку карантину.\r\n"
+"- Швидкість гравця вища, ніж у мого батька, коли той пішов по хлiб.\r\n"
+"\r\n"
+"[ПОПЕРЕДЖЕННЯ: НЕСМІШНО, ДІЙ ОБЕРЕЖНО! ДЕЯКИЙ КОНТЕНТ НЕЗАВЕРШЕНИЙ]"
 
 #. Key:	559AA7AF406F7FF3D67C5497BE1AEC61
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_193.Text
@@ -2691,8 +2878,10 @@ msgstr "Притримай коней!"
 #. SourceLocation:	/Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_2.Text
 #: /Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_2.Text
 msgctxt "Game,929408BC45B96F3CC78507BD87C307DF"
-msgid "Back to \r\nsurvey page"
-msgstr "Назад до\r\nсторінки опитування"
+msgid "Back to \r\n"
+"survey page"
+msgstr "Назад до\r\n"
+"сторінки опитування"
 
 #. Key:	940CA13E452B66BA51291D884AE0A4AF
 #. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_Screensaver.W_TT_Screensaver_C:WidgetTree.TextBlock_1.Text
@@ -2713,14 +2902,14 @@ msgstr "Скинути розсудок"
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_6.Text
 msgctxt "Game,A22F78484DDEF116D05FBCB66BB008C6"
 msgid "Experience the Backrooms in its most authentic form with the Classic gamemode. Explore through various levels and find the exit while encountering strange entities and levels. The first level is guided by arrows on the walls, but beware of noclippable walls that lead to sub-levels. You're not alone in the Backrooms, so stay alert and keep moving, and watch your sanity!"
-msgstr "Відчуй Закулісся в його найавтентичнішому вигляді в класичному режимі. Досліджуй різні рівні й шукай вихід, зустрічаючи дивних сутностей. Перший рівень підказують стрілки на стінах, але стережися стін, крізь які можна пройти (ноуклип) — вони ведуть на підрівні. У Закулісся ти не сам, тому будь насторожі, не зупиняйся й стеж за розсудком!"
+msgstr "Відчуйте Залаштунки в його найавтентичнішому вигляді в класичному режимі. Досліджуйте різні рівні й шукайте вихід, зустрічаючи дивних сутностей. Перший рівень підказують стрілки на стінах, але стережіться стін, крізь які можна пройти (ноуклип) — вони ведуть на підрівні. У Залаштунки ви не самі, тому будьте насторожі, не зупиняйтеся й стежте за розсудком!"
 
 #. Key:	A97DE58E4F1FA713A36D5195C77F7283
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_4.Text
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_4.Text
 msgctxt "Game,A97DE58E4F1FA713A36D5195C77F7283"
 msgid "The Memerooms™"
-msgstr "Мемне Закулісся™"
+msgstr "The Memerooms™"
 
 #. Key:	AD7DBA0043B70D71BC2B6083CD00F0DE
 #. SourceLocation:	/Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_192.Text
@@ -2734,7 +2923,7 @@ msgstr "Видалити збереження"
 #: /Game/Widgets/W_Respawn/W_Respawn_LV2.W_Respawn_LV2_C:WidgetTree.dead.Text
 msgctxt "Game,AE37393348921D5E2025D7A42D566D9F"
 msgid "You died"
-msgstr "Тебе вбито"
+msgstr "Ви загинули"
 
 #. Key:	B1DD77C547FB9435B0A9D6BEDD089D2E
 #. SourceLocation:	/Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_0.Text
@@ -2755,7 +2944,7 @@ msgstr "Точно?"
 #: /Game/Widgets/W_Respawn/W_Respawn_LV0.W_Respawn_LV0_C:WidgetTree.dead.Text
 msgctxt "Game,BD2EE5214C90F96A537C17844C251221"
 msgid "You died"
-msgstr "Тебе вбито"
+msgstr "Ви загинули"
 
 #. Key:	BF69D65743CE7FF7D0C1B08FDAF564BB
 #. SourceLocation:	/Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock_3.Text
@@ -2776,7 +2965,7 @@ msgstr "Перезапустити"
 #: /Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock.Text
 msgctxt "Game,C64865914BC6514F1F378FA2AE92180E"
 msgid "\"Hi there, would you like to sign my petition?\""
-msgstr "«Привіт, не хочете підписати мою петицію?»"
+msgstr "«Привіт, ви не могли б підписати мою петицію?»"
 
 #. Key:	C8D736EA4C22F2F05FE266B279162222
 #. SourceLocation:	/Game/Widgets/W_HUD.W_HUD_C:WidgetTree.TextBlock_0.Text
@@ -2790,14 +2979,16 @@ msgstr "Витривалість відновлюється, коли ти зу�
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_3.Text
 msgctxt "Game,D02790D3455C59CF228013A881859793"
 msgid "The Memerooms"
-msgstr "Мемне Закулісся"
+msgstr "The Memerooms"
 
 #. Key:	D535479940C75A7CDD9589A29B3DDC1F
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.TextBlock_1.Text
 #: /Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.TextBlock_1.Text
 msgctxt "Game,D535479940C75A7CDD9589A29B3DDC1F"
-msgid "Budget\r\nMultiplayer"
-msgstr "Budget\r\nMultiplayer"
+msgid "Budget\r\n"
+"Multiplayer"
+msgstr "Budget\r\n"
+"Multiplayer"
 
 #. Key:	DBAF3F647996966C7B8E5BDBDDC097C
 #. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn_LV2.W_Respawn_LV2_C:WidgetTree.TextBlock.Text
@@ -2831,8 +3022,12 @@ msgstr "Завантаження..."
 #. SourceLocation:	/Game/Widgets/W_Prohibited/W_LockedMemerooms.W_LockedMemerooms_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/W_Prohibited/W_LockedMemerooms.W_LockedMemerooms_C:WidgetTree.TextBlock.Text
 msgctxt "Game,F64B0AE84B3F7AE51702F4BD80D1622B"
-msgid "I just caught you in 4K trying to bypass The Memerooms, I don't want to be mean to you but you have to play how it was intended.\r\n\r\nLooks like your save says you didn't finish the Classic Gamemode yet. Please come back when you finish the game at least once! (Classic Gamemode)"
-msgstr "Я щойно впіймав тебе в 4K на спробі обійти The Memerooms. Не хочу бути грубим, але грати треба так, як задумано.\r\n\r\nСудячи зі збереження, ти ще не пройшов класичний режим. Повертайся, коли пройдеш гру бодай раз! (Класичний режим)"
+msgid "I just caught you in 4K trying to bypass The Memerooms, I don't want to be mean to you but you have to play how it was intended.\r\n"
+"\r\n"
+"Looks like your save says you didn't finish the Classic Gamemode yet. Please come back when you finish the game at least once! (Classic Gamemode)"
+msgstr "Я щойно впіймав вас у 4K на спробі обійти The Memerooms. Шукайте себе в шльондрах інтернету. Не хочу бути грубим, але ви повинні грати так, як було задумано.\r\n"
+"\r\n"
+"Судячи з вашого збереження, ви ще не пройшли класичний режим. Повертайтеся, коли пройдете гру бодай раз! (Класичний режим)"
 
 #. Key:	FE1B6E874FA303D513285488670CD5A2
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_7.Text
