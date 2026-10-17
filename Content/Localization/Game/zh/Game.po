@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-16 17:00\n"
-"PO-Revision-Date: 2026-10-17 11:30\n"
+"PO-Revision-Date: 2026-10-17 12:33\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
@@ -23,77 +23,77 @@ msgstr ""
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(22).Subtitles.Text
 msgctxt ",015116CF4E1DD8C07D5E21856B5ABD48"
 msgid "\"Look\""
-msgstr ""
+msgstr "“请看”"
 
 #. Key:	01B8AF6545F702B056BCB78B8DC51999
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:Set MOTD [Script Bytecode]
 #: /Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:Set MOTD [Script Bytecode]
 msgctxt ",01B8AF6545F702B056BCB78B8DC51999"
 msgid "Merry Christmas!!!"
-msgstr ""
+msgstr "圣诞快乐！！！"
 
 #. Key:	02D654DA4768E747A50431BDAB324CDE
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(12).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(12).Subtitles.Text
 msgctxt ",02D654DA4768E747A50431BDAB324CDE"
 msgid "\"friendly reminder...\""
-msgstr ""
+msgstr "“友情提示...”"
 
 #. Key:	0301D76E4F2A4E4849C05B8858D1090E
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPInit.W_MPInit_C:ExecuteUbergraph_W_MPInit [Script Bytecode]
 #: /Game/Widgets/Multiplayer/W_MPInit.W_MPInit_C:ExecuteUbergraph_W_MPInit [Script Bytecode]
 msgctxt ",0301D76E4F2A4E4849C05B8858D1090E"
 msgid "Loading...?"
-msgstr ""
+msgstr "加载...?"
 
 #. Key:	0457A0024D4DBC14FC9E18A7A61819CC
 #. SourceLocation:	/Game/Widgets/Warnings/W_NightlyWarn.W_NightlyWarn_C:WidgetTree.warn.Text
 #: /Game/Widgets/Warnings/W_NightlyWarn.W_NightlyWarn_C:WidgetTree.warn.Text
 msgctxt ",0457A0024D4DBC14FC9E18A7A61819CC"
 msgid "you better mark my words, next boot will disable light mode"
-msgstr ""
+msgstr "你最好记住我的话，下次启动将禁用亮色模式。"
 
 #. Key:	0549CDDF4ABC01C9B2C64B94029E1717
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(14).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(14).Subtitles.Text
 msgctxt ",0549CDDF4ABC01C9B2C64B94029E1717"
 msgid "\"PLEASE label them.\""
-msgstr ""
+msgstr "“请务必给它们打上标签。”"
 
 #. Key:	05627DDD4A2CF3CACFCD42BF63AEC342
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.hdr_text.Text
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.hdr_text.Text
 msgctxt ",05627DDD4A2CF3CACFCD42BF63AEC342"
 msgid "Options"
-msgstr ""
+msgstr "选项"
 
 #. Key:	05E828A4455E38C6444CFEA78FDA32A8
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(23).Subtitles.Text
 #: /Game/Audio/dave_2.dave_2.Subtitles(23).Subtitles.Text
 msgctxt ",05E828A4455E38C6444CFEA78FDA32A8"
 msgid "Browse cameras.. unlock. That's it."
-msgstr ""
+msgstr "检查摄像头画面..然后解锁。就这么简单。"
 
 #. Key:	066AAD0F432400DE433D138705B00951
 #. SourceLocation:	/Game/Widgets/Warnings/W_ControllerWarn.W_ControllerWarn_C:WidgetTree.TextBlock_63.Text
 #: /Game/Widgets/Warnings/W_ControllerWarn.W_ControllerWarn_C:WidgetTree.TextBlock_63.Text
 msgctxt ",066AAD0F432400DE433D138705B00951"
 msgid "fffffffffffuck you david"
-msgstr ""
+msgstr "作者我去你大爷的！！"
 
 #. Key:	06A2645449908CDC0CB6AEB7CF835FF5
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(22).Subtitles.Text
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(22).Subtitles.Text
 msgctxt ",06A2645449908CDC0CB6AEB7CF835FF5"
 msgid "I'd suggest just getting the folks from IT to check it out."
-msgstr ""
+msgstr "我建议直接叫IT部门的那群家伙们去检查一下。"
 
 #. Key:	06FA728F4F2B8EE3F171C99EB7B5A3F7
 #. SourceLocation:	/Game/Widgets/Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_22.Text
 #: /Game/Widgets/Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_22.Text
 msgctxt ",06FA728F4F2B8EE3F171C99EB7B5A3F7"
 msgid "RUN!"
-msgstr ""
+msgstr "快跑！"
 
 #. Key:	07128F89424800253FEB0F97123FD7F0
 #. SourceLocation:	/Game/Widgets/cmOS/W_CamBoot.W_CamBoot_C:ExecuteUbergraph_W_CamBoot [Script Bytecode]
@@ -101,21 +101,22 @@ msgstr ""
 msgctxt ",07128F89424800253FEB0F97123FD7F0"
 msgid "Checking devices... OK!\r\n"
 "Restoring session... "
-msgstr ""
+msgstr "正在检查设备...正常！\r\n"
+"正在重启会话..."
 
 #. Key:	0780830B417DAC423AD1668B75BCE576
 #. SourceLocation:	/Game/Widgets/W_PauseMenu/W_ConfirmLeave.W_ConfirmLeave_C:ExecuteUbergraph_W_ConfirmLeave [Script Bytecode]
 #: /Game/Widgets/W_PauseMenu/W_ConfirmLeave.W_ConfirmLeave_C:ExecuteUbergraph_W_ConfirmLeave [Script Bytecode]
 msgctxt ",0780830B417DAC423AD1668B75BCE576"
 msgid "Are you sure you want to miss this opportunity?"
-msgstr ""
+msgstr "你确定你要这样错过这次机会吗？"
 
 #. Key:	07C3046C461A5B844E53B587C0506398
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_ControllerIndicator.W_ControllerIndicator_C:WidgetTree.TextBlock_0.Text
 #: /Game/Widgets/W_MainMenu/W_ControllerIndicator.W_ControllerIndicator_C:WidgetTree.TextBlock_0.Text
 msgctxt ",07C3046C461A5B844E53B587C0506398"
 msgid "Connected"
-msgstr ""
+msgstr "已连接"
 
 #. Key:	084E856044F06AEFDE634E8E06EB4D51
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_95.Text
@@ -129,7 +130,7 @@ msgstr "单击此处继续"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(27).Subtitles.Text
 msgctxt ",0B631C5A441FFE36A7E5CC804041F31B"
 msgid "And that's pretty much it."
-msgstr ""
+msgstr "差不多就这样了。"
 
 #. Key:	0B63AE0B4768A30314B307AB9675F418
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_1.Text
@@ -145,28 +146,28 @@ msgstr "Budget\r\n"
 #: /Game/Widgets/Animations/W_Safezone.W_Safezone_C:WidgetTree.TextBlock_1.Text
 msgctxt ",0CC0EA584CE4691B97BD4B81C5A6EEE8"
 msgid "Now entering..."
-msgstr ""
+msgstr "正在进入..."
 
 #. Key:	0E5DE39F4FCB453AC020AAA0E32D0A9E
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPInit.W_MPInit_C:ExecuteUbergraph_W_MPInit [Script Bytecode]
 #: /Game/Widgets/Multiplayer/W_MPInit.W_MPInit_C:ExecuteUbergraph_W_MPInit [Script Bytecode]
 msgctxt ",0E5DE39F4FCB453AC020AAA0E32D0A9E"
 msgid "Couldn't get Steam profile information. Retrying..."
-msgstr ""
+msgstr "无法获取Steam个人资料信息。正在重试..."
 
 #. Key:	103FC79D4420074F4D9EB88997EB5674
 #. SourceLocation:	/Game/Widgets/Warnings/W_GraphicsConflict.W_GraphicsConflict_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/Warnings/W_GraphicsConflict.W_GraphicsConflict_C:WidgetTree.TextBlock.Text
 msgctxt ",103FC79D4420074F4D9EB88997EB5674"
 msgid "Looks like you've disabled Anti-Aliasing and having FidelityFX enabled at the same time. I don't wanna stress you bud but the quality is gonna look worse so I'd recommend you atleast try to keep Anti-Aliasing on low. Just sayin'"
-msgstr ""
+msgstr "看起来您同时关闭了抗锯齿并开启了 FidelityFX。哥们，我不是想给你上压力，但这么搞画质真的会变差的，所以我建议你至少把抗锯齿开到低。我只是提个建议"
 
 #. Key:	10B56E324DD535C86DE171AA03A1DD95
 #. SourceLocation:	/Game/Widgets/Warnings/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/Warnings/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock.Text
 msgctxt ",10B56E324DD535C86DE171AA03A1DD95"
 msgid "The game is experiencing slow performance. To improve, adjust graphical settings in the Pause Menu."
-msgstr ""
+msgstr "看起来游戏现在运行并不流畅。如需改善，请在暂停菜单中调整画面设置。"
 
 #. Key:	1116724D44253BA23F575586773C02A3
 #. SourceLocation:	/Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_1.Text
@@ -180,7 +181,7 @@ msgstr "启动时忽略集成显卡警告"
 #: /Game/Widgets/W_LoadingScreen/W_Memerooms_Loading.W_Memerooms_Loading_C:WidgetTree.small_text.Text
 msgctxt ",11725C93458C388566C2158F453178A4"
 msgid "Now no-clipping to..."
-msgstr ""
+msgstr "正在卡入至..."
 
 #. Key:	11F8752C4EC569899EC8649F20860474
 #. SourceLocation:	/Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_6.Text
@@ -194,28 +195,28 @@ msgstr "Level 0"
 #: /Game/Widgets/Animations/W_TheFogAnim.W_TheFogAnim_C:WidgetTree.TextBlock_22.Text
 msgctxt ",1360B1DC44A90F1FE3597A80039A1D62"
 msgid "RUN!"
-msgstr ""
+msgstr "快跑！"
 
 #. Key:	158359F84BDEA3C79C699383383AD603
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(24).Subtitles.Text
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(24).Subtitles.Text
 msgctxt ",158359F84BDEA3C79C699383383AD603"
 msgid "It's either paranormal activity, or we're all losing our minds due to stress and stuff like that."
-msgstr ""
+msgstr "要么是超自然现象，要么就是大伙都因为太大或者怎么的精神崩溃了。"
 
 #. Key:	1661FE164B80B233E848B987B6E34D1D
 #. SourceLocation:	/Game/Widgets/Warnings/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
 #: /Game/Widgets/Warnings/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
 msgctxt ",1661FE164B80B233E848B987B6E34D1D"
 msgid "This feels off..."
-msgstr ""
+msgstr "感觉不太对劲..."
 
 #. Key:	16E3C5BF43E901CDC5231CAA8FAF5833
 #. SourceLocation:	/Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.Empty_TT.Text
 #: /Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.Empty_TT.Text
 msgctxt ",16E3C5BF43E901CDC5231CAA8FAF5833"
 msgid "Find the no-clippable walls in Level 0 and complete through the sub-levels to enable this."
-msgstr ""
+msgstr "在 Level 0 中找到可卡出的墙壁，并通关相应的子层级，即可解锁此项。"
 
 #. Key:	18091DCB4D286220E2E78894815EBE8E
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_15.Text
@@ -229,14 +230,14 @@ msgstr "纹理质量"
 #: /Game/Widgets/W_Errors/W_ConnLost.W_ConnLost_C:WidgetTree.TextBlock.Text
 msgctxt ",1999226F4332CB8FD39BAB8045D793E0"
 msgid "I'm sorry to interrupt you Elizabeth, but you have lost connection to the host or the host could've lost connection, maybe something else but this error message would look different."
-msgstr ""
+msgstr "很抱歉打断你，伊丽莎白，但你与主机的连接断了，或者是主机端掉线了。也许还有别的原因，但如果是别的原因，报错信息应该不长这样。"
 
 #. Key:	19C6EBEC4435FED9C7CAC3AB54DDCDF1
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(17).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(17).Subtitles.Text
 msgctxt ",19C6EBEC4435FED9C7CAC3AB54DDCDF1"
 msgid "\"No need to--\""
-msgstr ""
+msgstr "“不需要-”"
 
 #. Key:	19F8EA6E47751DD0CC07AFB15F038B7B
 #. SourceLocation:	/Game/Widgets/W_PauseMenu/W_ConfirmLeave.W_ConfirmLeave_C:WidgetTree.TextBlock.Text
@@ -245,7 +246,9 @@ msgctxt ",19F8EA6E47751DD0CC07AFB15F038B7B"
 msgid "Are you sure you want to go back to the Main Menu?\r\n"
 "\r\n"
 "You will be able to start from this level at any time using the Level Selector in the Main Menu."
-msgstr ""
+msgstr "您确定要回到主菜单吗？\r\n"
+"\r\n"
+"您可以通过主菜单的层级选择随时从这一层级开始游戏"
 
 #. Key:	1A8C72D646BF429E378787BD0809460E
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_0.Text
@@ -259,7 +262,7 @@ msgstr "开始游戏"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(31).Subtitles.Text
 msgctxt ",1AB6487D4FF3967CB4BE0E9CB37177E9"
 msgid "End of messages."
-msgstr ""
+msgstr "留言结束。"
 
 #. Key:	1B06C0A4487BC5E56FEDA5AC4C1F499B
 #. SourceLocation:	/Game/Widgets/Settings/W_Settings_Selection.W_Settings_Selection_C:WidgetTree.TextBlock_1.Text
@@ -267,28 +270,29 @@ msgstr ""
 msgctxt ",1B06C0A4487BC5E56FEDA5AC4C1F499B"
 msgid "Video\r\n"
 "Settings"
-msgstr ""
+msgstr "视频\r\n"
+"设置"
 
 #. Key:	1BE787BB47590C7B230A0B822C8A32C7
 #. SourceLocation:	/Game/Widgets/W_Errors/W_ConnDrivErr.W_ConnDrivErr_C:WidgetTree.TextBlock_1.Text
 #: /Game/Widgets/W_Errors/W_ConnDrivErr.W_ConnDrivErr_C:WidgetTree.TextBlock_1.Text
 msgctxt ",1BE787BB47590C7B230A0B822C8A32C7"
 msgid "IMPORTANT ERROR PLEASE REPORT TO DEV ON THE DISCORD SERVER OR STEAM"
-msgstr ""
+msgstr "严重错误！请在 Discord 服务器或 Steam 上向开发者报告"
 
 #. Key:	1BE89557478F40A65EC9B6A1BDD6413A
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(6).Subtitles.Text
 #: /Game/Audio/dave_2.dave_2.Subtitles(6).Subtitles.Text
 msgctxt ",1BE89557478F40A65EC9B6A1BDD6413A"
 msgid "Yes, hello, it's Dave from The Singularity. Now listen up,"
-msgstr ""
+msgstr "你好啊，我是来自“奇点”的 Dave。现在给我竖起耳朵听好了，"
 
 #. Key:	1D3B4527451B7EFA194BA08E49122F86
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
 msgctxt ",1D3B4527451B7EFA194BA08E49122F86"
 msgid "This game was made in Unreal Engine 4.27.2"
-msgstr ""
+msgstr "本游戏使用虚幻引擎 4.27.2 制作。"
 
 #. Key:	1D7C9D3144D722EB7C783BB328182A4F
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock.Text
@@ -309,21 +313,21 @@ msgstr "Level 1"
 #: /Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.title.ToolTipText
 msgctxt ",1FC10EE84C7B7F2CEEF21F8FE74EE42D"
 msgid "yes, the game is paused indeed"
-msgstr ""
+msgstr "是的，游戏确实已经暂停了。"
 
 #. Key:	1FE59D4349C2427AF47827928F391E7A
 #. SourceLocation:	/Game/Widgets/W_Saves/W_SaveMigrationNew.W_SaveMigrationNew_C:WidgetTree.TextBlock_63.Text
 #: /Game/Widgets/W_Saves/W_SaveMigrationNew.W_SaveMigrationNew_C:WidgetTree.TextBlock_63.Text
 msgctxt ",1FE59D4349C2427AF47827928F391E7A"
 msgid "Continue"
-msgstr ""
+msgstr "继续"
 
 #. Key:	20BD3B9A402D94F89902CCBE479F5544
 #. SourceLocation:	/Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_3.Text
 #: /Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_3.Text
 msgctxt ",20BD3B9A402D94F89902CCBE479F5544"
 msgid "Sub-Level \"!\""
-msgstr ""
+msgstr "子层级 “！”"
 
 #. Key:	20F3970145DD796217DD6296535FAC1F
 #. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_UnavGM.W_TT_UnavGM_C:WidgetTree.TextBlock_0.Text
@@ -331,21 +335,22 @@ msgstr ""
 msgctxt ",20F3970145DD796217DD6296535FAC1F"
 msgid "Gamemode unavailable yet.\r\n"
 ":("
-msgstr ""
+msgstr "该模式目前无法游玩。\r\n"
+":("
 
 #. Key:	20FC75D54C68A45BC09B1BA0ABF2B0A7
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(21).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(21).Subtitles.Text
 msgctxt ",20FC75D54C68A45BC09B1BA0ABF2B0A7"
 msgid "\"And I heard some of you talking about strange noises in the break room last night.\""
-msgstr ""
+msgstr "“而且我听到你们昨晚在讨论休息室里传来了奇怪的声音。”"
 
 #. Key:	21F376E343A32785528CC19B4551F526
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(30).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(30).Subtitles.Text
 msgctxt ",21F376E343A32785528CC19B4551F526"
 msgid "\"send-- send a team over to uh.. check it out.\""
-msgstr ""
+msgstr "“派..派一批人去..呃..去那看看情况”"
 
 #. Key:	22421B744A7B577C3C6BC0856297430A
 #. SourceLocation:	/Game/Widgets/Settings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_4.Text
@@ -359,7 +364,7 @@ msgstr "音频设置"
 #: /Game/Widgets/W_TelemetryDialogue.W_TelemetryDialogue_C:WidgetTree.TextBlock_132.Text
 msgctxt ",2264D1C64B491B76F5C815AA5B6CBA21"
 msgid "Would you like to contribute?"
-msgstr ""
+msgstr "您愿意让我们的游戏越来越好吗？"
 
 #. Key:	24783675495A29482773CA8614B460EA
 #. SourceLocation:	/Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_3.Text
@@ -387,14 +392,14 @@ msgstr "阴影质量"
 #: /Game/Audio/dave_2.dave_2.Subtitles(0).Subtitles.Text
 msgctxt ",2784FC72442FA17E4E75328B10D55010"
 msgid "You have"
-msgstr ""
+msgstr "您有"
 
 #. Key:	2797205C48DBDE95D152BAB7EF46D7A5
 #. SourceLocation:	/Game/Widgets/W_Errors/W_ConnDrivErr.W_ConnDrivErr_C:WidgetTree.TextBlock_132.Text
 #: /Game/Widgets/W_Errors/W_ConnDrivErr.W_ConnDrivErr_C:WidgetTree.TextBlock_132.Text
 msgctxt ",2797205C48DBDE95D152BAB7EF46D7A5"
 msgid "Net Driver Error"
-msgstr ""
+msgstr "网络驱动错误"
 
 #. Key:	280062164C6F59E411D6CAA313B3EDAA
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_3.Text
@@ -408,21 +413,21 @@ msgstr "开发中版本：本游戏仍然处于开发阶段，不代表最终品
 #: /Game/Audio/dave_2.dave_2.Subtitles(12).Subtitles.Text
 msgctxt ",28D27CD447CAD830C098EEB458CAD332"
 msgid "we'd have to try it out potato potatoe-- Listen."
-msgstr ""
+msgstr "我们总得去试一下，半斤八两啦——反正听我说。"
 
 #. Key:	2B1098E743BFBEC7B25A9D8E7F6F1ED5
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(23).Subtitles.Text
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(23).Subtitles.Text
 msgctxt ",2B1098E743BFBEC7B25A9D8E7F6F1ED5"
 msgid "Oh, and about the break room again..."
-msgstr ""
+msgstr "哦，还有，关于那个休息室的事……"
 
 #. Key:	2B6CB5D84F3109C152E8B89B74F94054
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 #: /Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 msgctxt ",2B6CB5D84F3109C152E8B89B74F94054"
 msgid "[The handle just moves freely, not engaging anything. Doesn't look like I can open it.]"
-msgstr ""
+msgstr "[把手只是在空转着，并没有连着什么机关。看样子我是打不开的。]"
 
 #. Key:	2B9D8614416432891BBEC9A7AC2F68C3
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_5.Text
@@ -443,7 +448,7 @@ msgstr "选择输出显示格式，您可在标准动态范围（LDR）与各种
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(8).Subtitles.Text
 msgctxt ",2C04AEBC4A5F7BDDB59288AA2C4D4441"
 msgid "Hope this message finds you well."
-msgstr ""
+msgstr "希望您收到这条消息时，一切都好。"
 
 #. Key:	2C27E3A34EF1DFC8FAB3F7A66D4619FE
 #. SourceLocation:	/Game/Widgets/W_Screeensaver/W_Screensaver_InitDIal.W_Screensaver_InitDIal_C:WidgetTree.TextBlock.Text
@@ -458,7 +463,8 @@ msgstr "屏幕保护模式将隐藏主菜单，并全屏无遮挡地展示过场
 msgctxt ",2C6F04E64FE815956A96A985A97E6874"
 msgid "wait the dev has birthday today?\r\n"
 "maybe say happy birthday i guess??????"
-msgstr ""
+msgstr "等等，今天是开发者的生日？\r\n"
+"我猜我也该说句生日快乐？？？？？？"
 
 #. Key:	2CDA71264A1C4CF068AEE58874AB441C
 #. SourceLocation:	/Game/Widgets/Settings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_0.Text
@@ -479,28 +485,28 @@ msgstr "主持游戏"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(12).Subtitles.Text
 msgctxt ",2F1C9FEB4EB96B6D38E6C8B3077A4C29"
 msgid "But when we go check, it's empty."
-msgstr ""
+msgstr "但当我们过去检查时，里面空空如也。"
 
 #. Key:	30A038684B89AA503759DEBF0EE3E3B3
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_JoinSession.W_JoinSession_C:WidgetTree.TextBlock_156.Text
 #: /Game/Widgets/Multiplayer/W_JoinSession.W_JoinSession_C:WidgetTree.TextBlock_156.Text
 msgctxt ",30A038684B89AA503759DEBF0EE3E3B3"
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 #. Key:	31690A9F4525B8EE7D1D2E892B80758A
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(10).Subtitles.Text
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(10).Subtitles.Text
 msgctxt ",31690A9F4525B8EE7D1D2E892B80758A"
 msgid "So, first of all, it appears the break room has come to life somehow."
-msgstr ""
+msgstr "呃，首先就是，那个休息室似乎不知怎么地就和活过来了一样。"
 
 #. Key:	32C6E59041060B90678371888594BB50
 #. SourceLocation:	/Game/Widgets/Warnings/W_NightlyLocked.W_NightlyLocked_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/Warnings/W_NightlyLocked.W_NightlyLocked_C:WidgetTree.TextBlock.Text
 msgctxt ",32C6E59041060B90678371888594BB50"
 msgid "Nightly builds have been technically disabled, new update coming soon, please switch to normal branch and wait patiently :)"
-msgstr ""
+msgstr "夜间构建版本已暂停技术开放，新更新即将到来，请切换至常规分支并耐心等待 :)"
 
 #. Key:	347E1C8F4664E08C76956695B4D0D7E2
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.TextBlock_0.Text
@@ -514,70 +520,70 @@ msgstr "加入游戏"
 #: /Game/Widgets/Warnings/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
 msgctxt ",34CF8B3946D39E4BF4D31283A09C40FC"
 msgid "Why am I doing this?"
-msgstr ""
+msgstr "我到底在干啥？"
 
 #. Key:	34D6F70A4EBED7126302998F3F013140
 #. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn_old.W_Respawn_old_C:WidgetTree.Tip.Text
 #: /Game/Widgets/W_Respawn/W_Respawn_old.W_Respawn_old_C:WidgetTree.Tip.Text
 msgctxt ",34D6F70A4EBED7126302998F3F013140"
 msgid "Tip: Avoid using the flashlight near Smilers, as it upsets them."
-msgstr ""
+msgstr "提示：在“笑魇”附近请不要使用手电筒，因为这将激怒它们。"
 
 #. Key:	353340D64CB689BB3301CCA38FFFE543
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.fsr_warn.Text
 #: /Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.fsr_warn.Text
 msgctxt ",353340D64CB689BB3301CCA38FFFE543"
 msgid "Option disabled, please set \"Anti-Aliasing\" to Low or better."
-msgstr ""
+msgstr "该选项已禁用，请将“抗锯齿”设置为“低”或更高。"
 
 #. Key:	35D2913A43EC7C20C9AB329DD1532965
 #. SourceLocation:	/Game/Widgets/Warnings/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
 #: /Game/Widgets/Warnings/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
 msgctxt ",35D2913A43EC7C20C9AB329DD1532965"
 msgid "This looks risky.."
-msgstr ""
+msgstr "这看上去很危险..."
 
 #. Key:	36335B3C4AFCC0CB276416831F247574
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(1).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(1).Subtitles.Text
 msgctxt ",36335B3C4AFCC0CB276416831F247574"
 msgid "one"
-msgstr ""
+msgstr "一条"
 
 #. Key:	364430A246D29C64E1C04396E88C340C
 #. SourceLocation:	/Game/Widgets/W_Errors/W_ConnDrivErr.W_ConnDrivErr_C:WidgetTree.TextBlock_63.Text
 #: /Game/Widgets/W_Errors/W_ConnDrivErr.W_ConnDrivErr_C:WidgetTree.TextBlock_63.Text
 msgctxt ",364430A246D29C64E1C04396E88C340C"
 msgid "you gotta be kidding me"
-msgstr ""
+msgstr "你逗我玩呢"
 
 #. Key:	38AF16154C99E7B73DE3F3BDB93AE8AF
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(24).Subtitles.Text
 #: /Game/Audio/dave_2.dave_2.Subtitles(24).Subtitles.Text
 msgctxt ",38AF16154C99E7B73DE3F3BDB93AE8AF"
 msgid "Alright?"
-msgstr ""
+msgstr "好吗？"
 
 #. Key:	39935905454494977EC65AB83FC09BDF
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(23).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(23).Subtitles.Text
 msgctxt ",39935905454494977EC65AB83FC09BDF"
 msgid "\"I get it, you're all on your toes for the...\""
-msgstr ""
+msgstr "我懂，你们都在为……提心吊胆"
 
 #. Key:	3B2AF7BF40FC584CBE7DC1ABD3E8E542
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(10).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(10).Subtitles.Text
 msgctxt ",3B2AF7BF40FC584CBE7DC1ABD3E8E542"
 msgid "\"Also...\""
-msgstr ""
+msgstr "“还有...”"
 
 #. Key:	3B5A90074A15DE71471B8993DF217DBC
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 #: /Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 msgctxt ",3B5A90074A15DE71471B8993DF217DBC"
 msgid "I don't have a good feeling, perhaps I should head the other way."
-msgstr ""
+msgstr "我总有种不祥的预感，也许我应该往另一个方向走。"
 
 #. Key:	3CD57F374BF1D50078E5C8BDA6A31D21
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_0.Text
@@ -591,7 +597,7 @@ msgstr "返回"
 #: /Game/Widgets/Warnings/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
 msgctxt ",3D9AF7624CA02E7CD2A5EEADC42E13A9"
 msgid "I should restore the power first."
-msgstr ""
+msgstr "我应该先恢复电力。"
 
 #. Key:	3DBF285142ACF63F17A052A7DEBA2FBD
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.tip.Text
@@ -599,14 +605,15 @@ msgstr ""
 msgctxt ",3DBF285142ACF63F17A052A7DEBA2FBD"
 msgid "Did you know?\r\n"
 "This game was made in Unreal Engine 4"
-msgstr ""
+msgstr "你知道吗？\r\n"
+"这款游戏是用虚幻4引擎制作的"
 
 #. Key:	3F43F82C44FEAEC5C700589CBF034E2A
 #. SourceLocation:	/Game/Widgets/Warnings/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
 #: /Game/Widgets/Warnings/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
 msgctxt ",3F43F82C44FEAEC5C700589CBF034E2A"
 msgid "I don't have a good feeling, perhaps I should head the other way."
-msgstr ""
+msgstr "我总有种不祥的预感，也许我应该往另一个方向走。"
 
 #. Key:	3F60C01D4F018D823832059D48173F0B
 #. SourceLocation:	/Game/Widgets/Settings/W_Settings_Selection.W_Settings_Selection_C:WidgetTree.TextBlock.Text
@@ -614,7 +621,8 @@ msgstr ""
 msgctxt ",3F60C01D4F018D823832059D48173F0B"
 msgid "Miscellaneous\r\n"
 "Settings"
-msgstr ""
+msgstr "其他\r\n"
+"设置"
 
 #. Key:	4088789F4F09A439F7AAE489952E8E1D
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_1.Text
@@ -628,14 +636,14 @@ msgstr "巨大噪音：如果音量过大导致您不适，请在主菜单的“
 #: /Game/Widgets/W_Tooltips/W_TT_Reload.W_TT_Reload_C:WidgetTree.restart_text.Text
 msgctxt ",408C1C9045910921D13A31B001F6FAD3"
 msgid "By pressing this, the game will force a reload. All unsaved data will be discarded."
-msgstr ""
+msgstr "点击此按钮，游戏将进行强制重启。所有未保存的数据将丢失。"
 
 #. Key:	408D53B240A142C80EA98BA1D3DB02C6
 #. SourceLocation:	/Game/Widgets/Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_2.Text
 #: /Game/Widgets/Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_2.Text
 msgctxt ",408D53B240A142C80EA98BA1D3DB02C6"
 msgid "RUN!"
-msgstr ""
+msgstr "快跑！"
 
 #. Key:	41596F554AC689A4223BC2A3BC17DDDD
 #. SourceLocation:	/Game/Widgets/W_TelemetryDialogue.W_TelemetryDialogue_C:WidgetTree.TextBlock.Text
@@ -650,14 +658,24 @@ msgid "Budget Backrooms is now able to collect anonymized telemetry data of your
 "A new session token is generated when this option is enabled and at game startup.\r\n"
 "\r\n"
 "For any concerns or questions, contact me at dabardev@dabar.dev or dabardibid@proton.me"
-msgstr ""
+msgstr "Budget Backrooms现在能够收集您在探索各个层级时游戏内位置的匿名遥测数据。这些数据将用于生成地图上最常被走动的区域或路径的热力图。\r\n"
+"\r\n"
+"游戏会发送以下数据：\r\n"
+"\r\n"
+"您的 SteamID 将用于生成经过哈希处理的会话令牌。您的 SteamID 不会被存储。请放心，该会话令牌无法追溯至您本人，无法通过发送的位置信息识别出您的身份。\r\n"
+"\r\n"
+"每隔 60 秒发送一次游戏内的位置样本。\r\n"
+"\r\n"
+"当您启用此选项以及每次启动游戏时，都会生成一个新的会话令牌。\r\n"
+"\r\n"
+"如果您有任何疑虑或问题，请通过 dabardev@dabar.dev 或 dabardibid@proton.me 与我联系。"
 
 #. Key:	4162F7AF43EB38C10CDA7F95FF187490
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(9).Subtitles.Text
 #: /Game/Audio/dave_2.dave_2.Subtitles(9).Subtitles.Text
 msgctxt ",4162F7AF43EB38C10CDA7F95FF187490"
 msgid "basically the whole hotel."
-msgstr ""
+msgstr "差不多整个酒店。"
 
 #. Key:	4458A33747AD473356797A8DDB61AE95
 #. SourceLocation:	/Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_7.Text
@@ -671,14 +689,14 @@ msgstr "Level 2"
 #: /Game/Widgets/Multiplayer/W_Badges.W_Badges_C:ExecuteUbergraph_W_Badges [Script Bytecode]
 msgctxt ",462B690F40E9D087995C8A9126D5DBF6"
 msgid "Ko-Fi Donator"
-msgstr ""
+msgstr "Ko-Fi 赞助者"
 
 #. Key:	468C326A40800B62B9DD04BCB763B0C3
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.TextBlock.Text
 msgctxt ",468C326A40800B62B9DD04BCB763B0C3"
 msgid "Host session"
-msgstr ""
+msgstr "创建房间"
 
 #. Key:	471A60DE41367DBE6A3E0CB811AE38F1
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.b_mp_text.Text
@@ -692,35 +710,35 @@ msgstr "多人游戏"
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
 msgctxt ",4893565141F7BA406D963D864F812BBF"
 msgid "You can switch to 'nightly-dev' branch for a more in-dev experience!"
-msgstr ""
+msgstr "您可以切换到'夜间开发'分支以获得更多开发中版本的体验！"
 
 #. Key:	4899D7684FEBC4D531D376B5C0F554F4
 #. SourceLocation:	/Game/Widgets/Warnings/W_NightlyLocked.W_NightlyLocked_C:ExecuteUbergraph_W_NightlyLocked [Script Bytecode]
 #: /Game/Widgets/Warnings/W_NightlyLocked.W_NightlyLocked_C:ExecuteUbergraph_W_NightlyLocked [Script Bytecode]
 msgctxt ",4899D7684FEBC4D531D376B5C0F554F4"
 msgid "Cringe"
-msgstr ""
+msgstr "尴尬"
 
 #. Key:	48C844644A16D45A8BBD65995C133D37
 #. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_Streamer.W_TT_Streamer_C:WidgetTree.te.Text
 #: /Game/Widgets/W_Tooltips/W_TT_Streamer.W_TT_Streamer_C:WidgetTree.te.Text
 msgctxt ",48C844644A16D45A8BBD65995C133D37"
 msgid "By enabling this option, it will mute Level 0 background music, and/or will replace some sounds with copyright-free ones. (Previously called Streamer Mode)"
-msgstr ""
+msgstr "启用此选项将关闭 Level 0 的背景音乐，并/或将部分音效替换为无版权音效。（原名：主播模式）"
 
 #. Key:	495DA9A6441447032659A89A05AC7C75
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(24).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(24).Subtitles.Text
 msgctxt ",495DA9A6441447032659A89A05AC7C75"
 msgid "\"stress and stuff like that but--\""
-msgstr ""
+msgstr "“压力啊之类的事情，但是——”"
 
 #. Key:	4A06DF4B4A5908148D980CBF87A65822
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(13).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(13).Subtitles.Text
 msgctxt ",4A06DF4B4A5908148D980CBF87A65822"
 msgid "\"If you got any snacks in the communal fridge..\""
-msgstr ""
+msgstr "“如果你在公共冰箱里塞了什么零食的话……”"
 
 #. Key:	4A685E724120F27E5D75E28584F8E8AD
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock.Text
@@ -734,70 +752,70 @@ msgstr "成就"
 #: /Game/Audio/ammo_pickup.ammo_pickup.Subtitles(0).Subtitles.Text
 msgctxt ",4A8D30B644AFEA682B9FFEA4C760C3C1"
 msgid "[placeholder pickup sound]"
-msgstr ""
+msgstr "[拾取音效占位符]"
 
 #. Key:	4C2630C442E7D19F78D08BB3E8A4ACDC
 #. SourceLocation:	/Game/Widgets/W_PauseMenu/W_ConfirmLeave.W_ConfirmLeave_C:ExecuteUbergraph_W_ConfirmLeave [Script Bytecode]
 #: /Game/Widgets/W_PauseMenu/W_ConfirmLeave.W_ConfirmLeave_C:ExecuteUbergraph_W_ConfirmLeave [Script Bytecode]
 msgctxt ",4C2630C442E7D19F78D08BB3E8A4ACDC"
 msgid "Wait ({1})"
-msgstr ""
+msgstr "等待({1})"
 
 #. Key:	4C531DE34C0FF0DE9657D1B964C26A36
 #. SourceLocation:	/Game/Widgets/Warnings/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
 #: /Game/Widgets/Warnings/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
 msgctxt ",4C531DE34C0FF0DE9657D1B964C26A36"
 msgid "Whose idea was it to cut off the power?"
-msgstr ""
+msgstr "到底谁想的要把电关掉？"
 
 #. Key:	4D0891E547E63B9C5ED4878B8DCFBB7F
 #. SourceLocation:	/Game/Widgets/W_TelemetryDialogue.W_TelemetryDialogue_C:WidgetTree.TextBlock_2.Text
 #: /Game/Widgets/W_TelemetryDialogue.W_TelemetryDialogue_C:WidgetTree.TextBlock_2.Text
 msgctxt ",4D0891E547E63B9C5ED4878B8DCFBB7F"
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 #. Key:	4D718B7349E824069285A79540459CD6
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(0).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(0).Subtitles.Text
 msgctxt ",4D718B7349E824069285A79540459CD6"
 msgid "You have"
-msgstr ""
+msgstr "您有"
 
 #. Key:	4EEAEEBA4F190CCEA81A3DB76A99E478
 #. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_RestartReq.W_TT_RestartReq_C:WidgetTree.restart_text.Text
 #: /Game/Widgets/W_Tooltips/W_TT_RestartReq.W_TT_RestartReq_C:WidgetTree.restart_text.Text
 msgctxt ",4EEAEEBA4F190CCEA81A3DB76A99E478"
 msgid "Manual game restart is required in order to apply changes."
-msgstr ""
+msgstr "设置需要您手动重启游戏才能生效。"
 
 #. Key:	4F0E48A34DED746BFC9BD18B5225C948
 #. SourceLocation:	/Game/Widgets/Warnings/W_ExperLevel.W_ExperLevel_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/Warnings/W_ExperLevel.W_ExperLevel_C:WidgetTree.TextBlock.Text
 msgctxt ",4F0E48A34DED746BFC9BD18B5225C948"
 msgid "The game is officially ending here, but for this version there's also a work-in-progress level after this one. You can either end your gameplay here, or continue further on, and get an early look. (Speedrunners, the timer should stop here)"
-msgstr ""
+msgstr "游戏到这里就正式结束了，但在这个版本，在此之后还有一个正在开发中的层级。您可以选择在这里结束游戏，或者继续深入，抢先预览一下。（速通玩家请注意，计时器应在此处停止）"
 
 #. Key:	504FFE4F4E9148C7B85235829E2CBA1C
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 #: /Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 msgctxt ",504FFE4F4E9148C7B85235829E2CBA1C"
 msgid "This doesn't look so safe, perhaps I should head the other way."
-msgstr ""
+msgstr "我总有种不祥的预感，也许我应该往另一个方向走。"
 
 #. Key:	528045B1434F306D1C3E17847FB33DE6
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 #: /Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 msgctxt ",528045B1434F306D1C3E17847FB33DE6"
 msgid "I should restore the power first."
-msgstr ""
+msgstr "我应该先恢复电力"
 
 #. Key:	52B16461484F7D1D757D9298A256A23A
 #. SourceLocation:	/Game/Widgets/Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_3.Text
 #: /Game/Widgets/Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_3.Text
 msgctxt ",52B16461484F7D1D757D9298A256A23A"
 msgid "FASTER"
-msgstr ""
+msgstr "快点！"
 
 #. Key:	52E157914CE8B0F1AFA61E95E1CB0970
 #. SourceLocation:	/Game/Widgets/Settings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_85.Text
@@ -818,70 +836,70 @@ msgstr "确认"
 #: /Game/Widgets/Multiplayer/W_Badges.W_Badges_C:ExecuteUbergraph_W_Badges [Script Bytecode]
 msgctxt ",55AEF1CA46A68982A2C68CB5A66E8E4B"
 msgid "Contributor to game's source code"
-msgstr ""
+msgstr "游戏源代码贡献者"
 
 #. Key:	5614A195423FB26CFF43CA8A753EFDB1
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(6).Subtitles.Text
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(6).Subtitles.Text
 msgctxt ",5614A195423FB26CFF43CA8A753EFDB1"
 msgid "Good afternoon, boss."
-msgstr ""
+msgstr "下午好，老板。"
 
 #. Key:	5617C3D840B7E7A4339C68A31470BDAB
 #. SourceLocation:	/Game/Widgets/Warnings/W_NightlyLocked.W_NightlyLocked_C:ExecuteUbergraph_W_NightlyLocked [Script Bytecode]
 #: /Game/Widgets/Warnings/W_NightlyLocked.W_NightlyLocked_C:ExecuteUbergraph_W_NightlyLocked [Script Bytecode]
 msgctxt ",5617C3D840B7E7A4339C68A31470BDAB"
 msgid "Wait ({1})"
-msgstr ""
+msgstr "等待({1})"
 
 #. Key:	56CC942F4E5CC98507254BA16A7C7979
 #. SourceLocation:	/Game/Widgets/W_Credits/W_Credits_Memerooms.W_Credits_Memerooms_C:WidgetTree.TextBlock_3.Text
 #: /Game/Widgets/W_Credits/W_Credits_Memerooms.W_Credits_Memerooms_C:WidgetTree.TextBlock_3.Text
 msgctxt ",56CC942F4E5CC98507254BA16A7C7979"
 msgid "Lory Games - Integrating Memerooms in Lory's Modpack [github.com/lorenzohappy19] before me"
-msgstr ""
+msgstr "Lory Games - 在我之前将 梗室 集成到了 Lory 的模组包 [github.com/lorenzohappy19] 中"
 
 #. Key:	574F69D44E9FC786CD40A29F92F48422
 #. SourceLocation:	/Game/Widgets/W_Restarting.W_Restarting_C:WidgetTree.TextBlock_0.Text
 #: /Game/Widgets/W_Restarting.W_Restarting_C:WidgetTree.TextBlock_0.Text
 msgctxt ",574F69D44E9FC786CD40A29F92F48422"
 msgid "Restarting executable..."
-msgstr ""
+msgstr "正在重启可执行文件……"
 
 #. Key:	58D677054E565B5130AC62B63822753E
 #. SourceLocation:	/Game/Widgets/W_RebindKeys/W_RebindEntry.W_RebindEntry_C:WidgetTree.kbmbutton.KeySelectionText
 #: /Game/Widgets/W_RebindKeys/W_RebindEntry.W_RebindEntry_C:WidgetTree.kbmbutton.KeySelectionText
 msgctxt ",58D677054E565B5130AC62B63822753E"
 msgid "Press any key?"
-msgstr ""
+msgstr "按任意键？"
 
 #. Key:	59789EC64D703F1AD2F041B85FE193B4
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(16).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(16).Subtitles.Text
 msgctxt ",59789EC64D703F1AD2F041B85FE193B4"
 msgid "\"people having their lunch mysteriously disappearing out of nowhere.\""
-msgstr ""
+msgstr "“人们的午餐莫名其妙地就凭空消失了。”"
 
 #. Key:	5ABAE032431D6FAEEA8477B61905E51A
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(19).Subtitles.Text
 #: /Game/Audio/dave_2.dave_2.Subtitles(19).Subtitles.Text
 msgctxt ",5ABAE032431D6FAEEA8477B61905E51A"
 msgid "Thanks."
-msgstr ""
+msgstr "多谢。"
 
 #. Key:	5AF6FE0244DBDA8C4254F49E06FCC48C
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(9).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(9).Subtitles.Text
 msgctxt ",5AF6FE0244DBDA8C4254F49E06FCC48C"
 msgid "\"Do NOT panic, it's just the machines getting their beauty sleep.\""
-msgstr ""
+msgstr "“请不要惊慌，这只是机器们在睡美容觉。”"
 
 #. Key:	5B0CFB614AAE57D557E54B9AF90AE2FC
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(25).Subtitles.Text
 #: /Game/Audio/dave_2.dave_2.Subtitles(25).Subtitles.Text
 msgctxt ",5B0CFB614AAE57D557E54B9AF90AE2FC"
 msgid "And we'll be paying you extra if needed."
-msgstr ""
+msgstr "如有需要，我们会给支付额外报酬。"
 
 #. Key:	5D636B944CFE6074F271A0BF5DD8053E
 #. SourceLocation:	/Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_9.Text
@@ -902,7 +920,7 @@ msgstr "2,5 (默认)"
 #: /Game/Widgets/Multiplayer/W_UnstableMP.W_UnstableMP_C:WidgetTree.TextBlock_1.Text
 msgctxt ",5E4CE86947F5CC412156D5A61442541A"
 msgid "I am aware of that, and I still want to play this gamemode, despite the circumstances."
-msgstr ""
+msgstr "我已经知晓，尽管如此，我仍然想玩这个游戏模式。"
 
 #. Key:	5F28DDE1471B402C037A10B341E9CFF9
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
@@ -910,7 +928,8 @@ msgstr ""
 msgctxt ",5F28DDE1471B402C037A10B341E9CFF9"
 msgid "Did you know?\r\n"
 "{1}"
-msgstr ""
+msgstr "你知道吗？\r\n"
+"{1}"
 
 #. Key:	5F5289C645CF4F7681762B814A116420
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_2.Text
@@ -925,35 +944,36 @@ msgstr "输出显示格式"
 msgctxt ",5FF47DD84FFB12FE1CD2C991B3A7BF62"
 msgid "{sec}s Grace time\r\n"
 "Run with Shift"
-msgstr ""
+msgstr "{sec}秒缓冲时间\r\n"
+"按住shift奔跑"
 
 #. Key:	6092D65B44718B2AF96A1A8C295D5C5E
 #. SourceLocation:	/Game/Audio/jammed.jammed.Subtitles(0).Subtitles.Text
 #: /Game/Audio/jammed.jammed.Subtitles(0).Subtitles.Text
 msgctxt ",6092D65B44718B2AF96A1A8C295D5C5E"
 msgid "[cannot use]"
-msgstr ""
+msgstr "[无法使用]"
 
 #. Key:	6310847043B0A156AA0FCABB8F95ACF4
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
 msgctxt ",6310847043B0A156AA0FCABB8F95ACF4"
 msgid "You can exit the game by pressing ALT+F4."
-msgstr ""
+msgstr "您可以通过同时按下alt+f4退出游戏。"
 
 #. Key:	6311957F48691744B246F28A00DC570A
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_Badges.W_Badges_C:WidgetTree.tester.ToolTipText
 #: /Game/Widgets/Multiplayer/W_Badges.W_Badges_C:WidgetTree.tester.ToolTipText
 msgctxt ",6311957F48691744B246F28A00DC570A"
 msgid "Had Early Access to Multiplayer while it was in the works"
-msgstr ""
+msgstr "在多人模式开发期间参与了抢先体验"
 
 #. Key:	63233EF042AA0A196BF745B5CA6DFC10
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(7).Subtitles.Text
 #: /Game/Audio/dave_2.dave_2.Subtitles(7).Subtitles.Text
 msgctxt ",63233EF042AA0A196BF745B5CA6DFC10"
 msgid "I've left my keycard in one of those rooms..."
-msgstr ""
+msgstr "我把钥匙卡忘在其中一个房间里了..."
 
 #. Key:	63295C394479C9CC0CD2C8A12C76B1E3
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_5.Text
@@ -967,70 +987,70 @@ msgstr "非1:1还原“后室”设定：本游戏并非根据后室Wiki进行1:
 #: /Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:ExecuteUbergraph_W_OptionalSurvey [Script Bytecode]
 msgctxt ",649E7FCC4144988064D51CA1DD380674"
 msgid "Nah, another time"
-msgstr ""
+msgstr "算了吧，下次再说"
 
 #. Key:	66CA23354EB16F549F90CCA7B5468772
 #. SourceLocation:	/Game/Widgets/W_Banner.W_Banner_C:ExecuteUbergraph_W_Banner [Script Bytecode]
 #: /Game/Widgets/W_Banner.W_Banner_C:ExecuteUbergraph_W_Banner [Script Bytecode]
 msgctxt ",66CA23354EB16F549F90CCA7B5468772"
 msgid "Restart pending to apply some changed settings;"
-msgstr ""
+msgstr "正在等待重启以应用部分更改的设置；"
 
 #. Key:	687BDE734B3294204F6EB994F858501B
 #. SourceLocation:	/Game/Widgets/Warnings/W_NightlyWarn.W_NightlyWarn_C:ExecuteUbergraph_W_NightlyWarn [Script Bytecode]
 #: /Game/Widgets/Warnings/W_NightlyWarn.W_NightlyWarn_C:ExecuteUbergraph_W_NightlyWarn [Script Bytecode]
 msgctxt ",687BDE734B3294204F6EB994F858501B"
 msgid "Wait ({1})"
-msgstr ""
+msgstr "等待({1})"
 
 #. Key:	6A268743483FA7777E8CA4891CC33C12
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_Badges.W_Badges_C:WidgetTree.lor.ToolTipText
 #: /Game/Widgets/Multiplayer/W_Badges.W_Badges_C:WidgetTree.lor.ToolTipText
 msgctxt ",6A268743483FA7777E8CA4891CC33C12"
 msgid "The True Lory Games"
-msgstr ""
+msgstr "真的Lory Games"
 
 #. Key:	6A5895C94975E4273745409B88CE53D8
 #. SourceLocation:	/Game/Widgets/Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_4.Text
 #: /Game/Widgets/Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_4.Text
 msgctxt ",6A5895C94975E4273745409B88CE53D8"
 msgid "FASTER"
-msgstr ""
+msgstr "快点"
 
 #. Key:	6C3D2BAE460E633E4FE260AE026D0418
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 #: /Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 msgctxt ",6C3D2BAE460E633E4FE260AE026D0418"
 msgid "This looks risky.."
-msgstr ""
+msgstr "这看起来很危险......"
 
 #. Key:	6C417B4941E6236E62177093B3805EB3
 #. SourceLocation:	/Game/Widgets/W_HUD.W_HUD_C:WidgetTree.sanity_title.Text
 #: /Game/Widgets/W_HUD.W_HUD_C:WidgetTree.sanity_title.Text
 msgctxt ",6C417B4941E6236E62177093B3805EB3"
 msgid "Sanity"
-msgstr ""
+msgstr "理智值"
 
 #. Key:	6DADD71043D15F4EE6D321B8E20EBF96
 #. SourceLocation:	/Game/Widgets/W_Banner.W_Banner_C:WidgetTree.TextBlock_83.Text
 #: /Game/Widgets/W_Banner.W_Banner_C:WidgetTree.TextBlock_83.Text
 msgctxt ",6DADD71043D15F4EE6D321B8E20EBF96"
 msgid "Restart here"
-msgstr ""
+msgstr "在这里重启"
 
 #. Key:	6DBAF3F647996966C7B8E5BDBDDC097C
 #. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn.W_Respawn_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/W_Respawn/W_Respawn.W_Respawn_C:WidgetTree.TextBlock.Text
 msgctxt ",6DBAF3F647996966C7B8E5BDBDDC097C"
 msgid "Respawn"
-msgstr ""
+msgstr "重生"
 
 #. Key:	6E5288C842360C3B823C2DBEE843EFD2
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
 msgctxt ",6E5288C842360C3B823C2DBEE843EFD2"
 msgid "This game is free."
-msgstr ""
+msgstr "该游戏是免费的。"
 
 #. Key:	704A61E54D8CA487018B9F92D6762B7A
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.BRUv.Text
@@ -1044,7 +1064,7 @@ msgstr "显示/隐藏帧率"
 #: /Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 msgctxt ",71CB218F45FAEC754EDB78AD8F9E7F01"
 msgid "[It's locked]"
-msgstr ""
+msgstr "[锁上了]"
 
 #. Key:	7407BED84FAEBD67F6915E8C537807B5
 #. SourceLocation:	/Game/Widgets/cmOS/W_CamBoot.W_CamBoot_C:ExecuteUbergraph_W_CamBoot [Script Bytecode]
@@ -1052,14 +1072,15 @@ msgstr ""
 msgctxt ",7407BED84FAEBD67F6915E8C537807B5"
 msgid "Checking devices... OK!\r\n"
 "Restoring session... INITIALIZING..."
-msgstr ""
+msgstr "正在检查设备…… 正常！\n"
+"正在恢复会话……"
 
 #. Key:	74E49D71451A5748AABAC985FDCC1476
 #. SourceLocation:	/Game/Widgets/W_RebindKeys/W_RebindKeys.W_RebindKeys_C:WidgetTree.W_RebindEntry_2.ActionLabel
 #: /Game/Widgets/W_RebindKeys/W_RebindKeys.W_RebindKeys_C:WidgetTree.W_RebindEntry_2.ActionLabel
 msgctxt ",74E49D71451A5748AABAC985FDCC1476"
 msgid "Flashlight"
-msgstr ""
+msgstr "手电筒"
 
 #. Key:	7538550F4344618750E7468D3E0CCB58
 #. SourceLocation:	/Game/Widgets/W_Saves/W_SaveWipe.W_SaveWipe_C:WidgetTree.TextBlock.Text
@@ -1079,14 +1100,14 @@ msgstr "您即将重置您的游戏进度，这包括已解锁的关卡，设置
 #: /Game/Audio/dave_2.dave_2.Subtitles(1).Subtitles.Text
 msgctxt ",7684BEE242A019D532DECEB57328FC3F"
 msgid "one"
-msgstr ""
+msgstr "一条"
 
 #. Key:	776CCCB9468E9C4AD3026A9C40A7C341
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.download_text.Text
 #: /Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.download_text.Text
 msgctxt ",776CCCB9468E9C4AD3026A9C40A7C341"
 msgid "Client out-of-date. Check your Steam client for any possible updates to Budget Backrooms."
-msgstr ""
+msgstr "客户端版本过旧。请检查您的 Steam 客户端，查看是否有《Budget Backrooms》的任何可用更新。"
 
 #. Key:	77D4F8C940763200D2D66487E2AF044B
 #. SourceLocation:	/Game/Widgets/W_BBNetInfo.W_BBNetInfo_C:WidgetTree.TextBlock_0.Text
@@ -1094,21 +1115,22 @@ msgstr ""
 msgctxt ",77D4F8C940763200D2D66487E2AF044B"
 msgid "Netstats unavailable.\r\n"
 "You're most likely a host."
-msgstr ""
+msgstr "网络状态不可用。\r\n"
+"您大概率是房主。"
 
 #. Key:	7807521646256AFEFF78D098D8CB4091
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(1).Subtitles.Text
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(1).Subtitles.Text
 msgctxt ",7807521646256AFEFF78D098D8CB4091"
 msgid "one"
-msgstr ""
+msgstr "一条"
 
 #. Key:	784F3A824638F585EA4A74AFFD1373A1
 #. SourceLocation:	/Game/Widgets/W_RebindKeys/W_RebindEntry.W_RebindEntry_C:WidgetTree.clear.ToolTipText
 #: /Game/Widgets/W_RebindKeys/W_RebindEntry.W_RebindEntry_C:WidgetTree.clear.ToolTipText
 msgctxt ",784F3A824638F585EA4A74AFFD1373A1"
 msgid "Restore to default for this bind"
-msgstr ""
+msgstr "将此按键绑定恢复为默认值"
 
 #. Key:	78A0E87942FE9F1514EB1E8434F5F3C5
 #. SourceLocation:	/Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_5.Text
@@ -1123,14 +1145,15 @@ msgstr "准星样式"
 msgctxt ",7938DC2040A75C61A2A55A845D39B377"
 msgid "Press F to turn on\r\n"
 "your flashlight"
-msgstr ""
+msgstr "按F打开\r\n"
+"您的手电筒"
 
 #. Key:	79B9E61145CA1C5337F8199089CB2728
 #. SourceLocation:	/Game/Widgets/W_RebindKeys/W_RebindKeys.W_RebindKeys_C:WidgetTree.W_RebindEntry.ActionLabel
 #: /Game/Widgets/W_RebindKeys/W_RebindKeys.W_RebindKeys_C:WidgetTree.W_RebindEntry.ActionLabel
 msgctxt ",79B9E61145CA1C5337F8199089CB2728"
 msgid "Interact"
-msgstr ""
+msgstr "交互"
 
 #. Key:	79CC8E664296C5DF88766BA5C7CF48C0
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.res_text.Text
@@ -1151,49 +1174,49 @@ msgstr "Level 5"
 #: /Game/Widgets/W_HUD.W_HUD_C:Ver [Script Bytecode]
 msgctxt ",7B63012E4FDAC92B101D7CA7E76DC20E"
 msgid "(nightly build, based on future {0})"
-msgstr ""
+msgstr "(夜间构建版本，基于未来的 {0})"
 
 #. Key:	7C91C4F045818540F1F5A2B8069F353A
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(15).Subtitles.Text
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(15).Subtitles.Text
 msgctxt ",7C91C4F045818540F1F5A2B8069F353A"
 msgid "Hell, I don't even believe in ghosts, if I gotta be honest with you."
-msgstr ""
+msgstr "真见鬼了，老实跟你说，我甚至都不信有鬼。"
 
 #. Key:	7CD4572D401816154425E98DAE74A457
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(13).Subtitles.Text
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(13).Subtitles.Text
 msgctxt ",7CD4572D401816154425E98DAE74A457"
 msgid "It's really, really strange."
-msgstr ""
+msgstr "这真的，真的太诡异了。"
 
 #. Key:	7D75C59344F0F1D83D4C7E9D22F217BA
 #. SourceLocation:	/Game/Widgets/Multiplayer/WB_ServerList.WB_ServerList_C:WidgetTree.TextBlock_282.Text
 #: /Game/Widgets/Multiplayer/WB_ServerList.WB_ServerList_C:WidgetTree.TextBlock_282.Text
 msgctxt ",7D75C59344F0F1D83D4C7E9D22F217BA"
 msgid "Refresh"
-msgstr ""
+msgstr "刷新"
 
 #. Key:	7D9E996D4A7D8ACAFB789D8C280081F1
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 #: /Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 msgctxt ",7D9E996D4A7D8ACAFB789D8C280081F1"
 msgid "[This door needs to be unlocked from the Security Room]"
-msgstr ""
+msgstr "[这扇门需要从安保室中解锁]"
 
 #. Key:	7E1ADCD548C9324BC2CA69BD1476F3AE
 #. SourceLocation:	/Game/Widgets/Animations/W_Safezone.W_Safezone_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/Animations/W_Safezone.W_Safezone_C:WidgetTree.TextBlock.Text
 msgctxt ",7E1ADCD548C9324BC2CA69BD1476F3AE"
 msgid "Safe Zone"
-msgstr ""
+msgstr "安全区"
 
 #. Key:	7EF251E34081146D10C144B5881E8192
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(19).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(19).Subtitles.Text
 msgctxt ",7EF251E34081146D10C144B5881E8192"
 msgid "\"Mark whatever it's yours.\""
-msgstr ""
+msgstr "“把属于你的东西标记出来。”"
 
 #. Key:	7F809B8545A418DD1740D88828585408
 #. SourceLocation:	/Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_10.Text
@@ -1207,28 +1230,28 @@ msgstr "禁用随关卡变化的主菜单背景"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(26).Subtitles.Text
 msgctxt ",7F82BC2843D806C1CC2135BEAC3100CD"
 msgid "You never know what could be in there.."
-msgstr ""
+msgstr "你永远也不知道里边会有啥.."
 
 #. Key:	7FF0231A4FE90F8848A67F88B77740F2
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 #: /Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 msgctxt ",7FF0231A4FE90F8848A67F88B77740F2"
 msgid "Why am I doing this?"
-msgstr ""
+msgstr "我到底在干啥？"
 
 #. Key:	812BB0274F32C6D9DDE4639EE480CE6A
 #. SourceLocation:	/Game/Widgets/W_RebindKeys/W_RebindKeys.W_RebindKeys_C:WidgetTree.W_RebindEntry_5.ActionLabel
 #: /Game/Widgets/W_RebindKeys/W_RebindKeys.W_RebindKeys_C:WidgetTree.W_RebindEntry_5.ActionLabel
 msgctxt ",812BB0274F32C6D9DDE4639EE480CE6A"
 msgid "Sprint"
-msgstr ""
+msgstr "冲刺"
 
 #. Key:	815EAC784AB5B266046AED8E4F8933E6
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 #: /Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 msgctxt ",815EAC784AB5B266046AED8E4F8933E6"
 msgid "Whose idea was it to cut off the power?"
-msgstr ""
+msgstr "到底谁想的要把电关掉？"
 
 #. Key:	81A2334B45FA460FDF54339C876318D9
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(20).Subtitles.Text
@@ -1263,7 +1286,7 @@ msgstr "梗室™"
 #: /Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.select.Text
 msgctxt ",84F1C7BA41333CF011D0BF8455332F2D"
 msgid "Select"
-msgstr ""
+msgstr "选择"
 
 #. Key:	85793A364574E72787D01ABE159F2C21
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(19).Subtitles.Text
@@ -1277,21 +1300,21 @@ msgstr ""
 #: /Game/Widgets/Warnings/W_NightlyWarn.W_NightlyWarn_C:WidgetTree.title.Text
 msgctxt ",85FE9D2F40485A2BC3F503A305F7DFEA"
 msgid "Welcome to Nightly"
-msgstr ""
+msgstr "欢迎来到夜间构建版"
 
 #. Key:	86BCAF0245EDE47AD823FB83CF7A9BCF
 #. SourceLocation:	/Game/Widgets/W_Interaction/W_InteractionHint.W_InteractionHint_C:WidgetTree.TextBlock_1.Text
 #: /Game/Widgets/W_Interaction/W_InteractionHint.W_InteractionHint_C:WidgetTree.TextBlock_1.Text
 msgctxt ",86BCAF0245EDE47AD823FB83CF7A9BCF"
 msgid "Ok"
-msgstr ""
+msgstr "好的"
 
 #. Key:	87A4B6F74F63C260834A2A8AC3EF1058
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:OutdatedBuild [Script Bytecode]
 #: /Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:OutdatedBuild [Script Bytecode]
 msgctxt ",87A4B6F74F63C260834A2A8AC3EF1058"
 msgid "running on commit [{0}]"
-msgstr ""
+msgstr "运行于提交版本 {0}"
 
 #. Key:	88484C8D444A7F816590F6AB2E582FA8
 #. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_External.W_TT_External_C:WidgetTree.TextBlock_1.Text
@@ -1299,7 +1322,8 @@ msgstr ""
 msgctxt ",88484C8D444A7F816590F6AB2E582FA8"
 msgid "This will open a link\r\n"
 "in your default browser."
-msgstr ""
+msgstr "这将在您的默认浏览器中\r\n"
+"打开一个链接。"
 
 #. Key:	88C24F834803C9160210F5A24072D42C
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(7).Subtitles.Text
@@ -1546,7 +1570,7 @@ msgstr ""
 #: /Game/Widgets/W_TelemetryDialogue.W_TelemetryDialogue_C:WidgetTree.TextBlock_1.Text
 msgctxt ",A204ECEA4CE16E43C70A4C93E825E4CE"
 msgid "Yes, I would like to contribute."
-msgstr ""
+msgstr "当然。"
 
 #. Key:	A23891DA48D9221824463AB5473A7708
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(16).Subtitles.Text
@@ -1680,7 +1704,7 @@ msgstr ""
 #: /Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_1.Text
 msgctxt ",B4FBD559491E45565B8590A8A74387D4"
 msgid "Sub-Level \"Before This Game Existed\""
-msgstr ""
+msgstr "子层级 “游戏尚未存在之时”"
 
 #. Key:	B54B0E9D4B007A5579F6E2A47F5381E4
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_2.Text
@@ -2045,7 +2069,7 @@ msgstr ""
 #: /Game/Widgets/W_TelemetryDialogue.W_TelemetryDialogue_C:WidgetTree.TextBlock_63.Text
 msgctxt ",D49D2A30423FB0B6B955BB9E8A48D4D5"
 msgid "No, thanks."
-msgstr ""
+msgstr "但是，我拒绝。"
 
 #. Key:	D652CB3446A3CF36EC224999F8BAA722
 #. SourceLocation:	/Game/Widgets/cmOS/W_CamBoot.W_CamBoot_C:ExecuteUbergraph_W_CamBoot [Script Bytecode]
@@ -2323,7 +2347,7 @@ msgstr ""
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:ExecuteUbergraph_W_GMSelect [Script Bytecode]
 msgctxt ",F1F021994A137C5A23E7B1BEF926B6FD"
 msgid "Locked"
-msgstr ""
+msgstr "已锁定"
 
 #. Key:	F295717741467DA02764AB867E6B814B
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
@@ -2379,7 +2403,7 @@ msgstr ""
 #: /Game/Widgets/W_TelemetryDialogue.W_TelemetryDialogue_C:WidgetTree.TextBlock_3.Text
 msgctxt ",F758D4064FBFF4E24AE5BA90DF82DCEB"
 msgid "You can opt-out / opt-in at any time in the Settings."
-msgstr ""
+msgstr "您可以随时在设置中选择退出 / 加入此数据收集。"
 
 #. Key:	F7AA6C614B57DB81F1DDA39BE40687A9
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPInit.W_MPInit_C:ExecuteUbergraph_W_MPInit [Script Bytecode]
@@ -2657,7 +2681,13 @@ msgid "'Unused Levels' are a part of this game's big ass size. Here you find a l
 "Levels may restart the game at unexpected times, have patience.\r\n"
 "\r\n"
 "Note: Discord RPC *may* not be visible because I'm too lazy or I didn't want to add it into the level"
-msgstr ""
+msgstr "这些废案层级就是这游戏体积如此庞大的原因之一。在这里，您可以找到一份可玩的废案层级列表——这些都是没能入选经典模式或其他模式的层级。如果您懒得用游戏内控制台，我们也为您提供了一些开发者专属的妙妙工具。\r\n"
+"\r\n"
+"列表随时可能变动 :)\r\n"
+"\r\n"
+"这些层级可能会在您意想不到的时候把游戏搞重启，请耐心点。\r\n"
+"\r\n"
+"请注意：Discord RPC *可能*不会显示，因为我太懒了，或者我压根就不想把它加进这些层级里"
 
 #. Key:	51F2AD76410263E048696CA2B46E768B
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPInit.W_MPInit_C:WidgetTree.TextBlock_1.Text
@@ -2780,7 +2810,7 @@ msgstr "经典模式"
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_18.Text
 msgctxt "Game,8D9233084B8FE552469A8C819491A4D3"
 msgid "Enter Level 4 at least once to unlock this."
-msgstr ""
+msgstr "该选项将在您进入Level 4至少1次后解锁。"
 
 #. Key:	8EF3511743B8A34842C79EBD1E11349F
 #. SourceLocation:	/Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_7.Text
@@ -2952,5 +2982,5 @@ msgstr ""
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_7.Text
 msgctxt "Game,FE1B6E874FA303D513285488670CD5A2"
 msgid "Unused Levels"
-msgstr "未被使用的层级"
+msgstr "废案层级"
 
