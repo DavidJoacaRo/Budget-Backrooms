@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-16 17:00\n"
-"PO-Revision-Date: 2026-10-16 17:07\n"
+"PO-Revision-Date: 2026-10-18 16:17\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -769,7 +769,7 @@ msgstr "Masz"
 #: /Game/Widgets/W_Tooltips/W_TT_RestartReq.W_TT_RestartReq_C:WidgetTree.restart_text.Text
 msgctxt ",4EEAEEBA4F190CCEA81A3DB76A99E478"
 msgid "Manual game restart is required in order to apply changes."
-msgstr ""
+msgstr "Aby wprowadzić zmiany, wymagany jest ręczny restart gry."
 
 #. Key:	4F0E48A34DED746BFC9BD18B5225C948
 #. SourceLocation:	/Game/Widgets/Warnings/W_ExperLevel.W_ExperLevel_C:WidgetTree.TextBlock.Text
