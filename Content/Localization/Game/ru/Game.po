@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-18 21:07\n"
-"PO-Revision-Date: 2026-10-18 22:07\n"
+"PO-Revision-Date: 2026-10-18 22:51\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -79,7 +79,7 @@ msgstr "Просматривай камеры... разблокируй. Вот 
 #: /Game/Widgets/Warnings/W_ControllerWarn.W_ControllerWarn_C:WidgetTree.TextBlock_63.Text
 msgctxt ",066AAD0F432400DE433D138705B00951"
 msgid "fffffffffffuck you david"
-msgstr "дааааааааааааа Пошёл Ты, Дэвид"
+msgstr "дааааааааааааа пошёл ты, дэвид"
 
 #. Key:	06A2645449908CDC0CB6AEB7CF835FF5
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(22).Subtitles.Text
@@ -262,7 +262,7 @@ msgstr "Начать"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(31).Subtitles.Text
 msgctxt ",1AB6487D4FF3967CB4BE0E9CB37177E9"
 msgid "End of messages."
-msgstr "Больше нет сообщений."
+msgstr "Сообщений больше нет."
 
 #. Key:	1B06C0A4487BC5E56FEDA5AC4C1F499B
 #. SourceLocation:	/Game/Widgets/Settings/W_Settings_Selection.W_Settings_Selection_C:WidgetTree.TextBlock_1.Text
@@ -441,7 +441,7 @@ msgstr "Список изменений"
 #: /Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_3.Text
 msgctxt ",2BC16CBE4BF434AD53A4D09B75D02873"
 msgid "Selects the output display format, choosing between standard dynamic range (SDR) and various high dynamic range (HDR) configurations."
-msgstr ""
+msgstr "Выбирает формат вывода изображения: стандартный динамический диапазон (SDR) или различные конфигурации расширенного динамического диапазона (HDR)."
 
 #. Key:	2C04AEBC4A5F7BDDB59288AA2C4D4441
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(8).Subtitles.Text
@@ -548,7 +548,7 @@ msgstr "Выглядит рискованно.."
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(1).Subtitles.Text
 msgctxt ",36335B3C4AFCC0CB276416831F247574"
 msgid "one"
-msgstr "один"
+msgstr "одно"
 
 #. Key:	364430A246D29C64E1C04396E88C340C
 #. SourceLocation:	/Game/Widgets/W_Errors/W_ConnDrivErr.W_ConnDrivErr_C:WidgetTree.TextBlock_63.Text
@@ -1023,7 +1023,10 @@ msgid "Product is not genuine\r\n"
 "Go to Settings to activate cmOS.\r\n"
 "\r\n"
 "v0.0.3 | Non-Enterprise Edition"
-msgstr ""
+msgstr "Продукт не является подлинным\r\n"
+"Перейдите в настройки, чтобы активировать cmOS.\r\n"
+"\r\n"
+"v0.0.3 | Корпоративная Версия"
 
 #. Key:	6C3D2BAE460E633E4FE260AE026D0418
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
@@ -1108,7 +1111,7 @@ msgstr "Вы собираетесь сбросить игровой прогре
 #: /Game/Audio/dave_2.dave_2.Subtitles(1).Subtitles.Text
 msgctxt ",7684BEE242A019D532DECEB57328FC3F"
 msgid "one"
-msgstr "один"
+msgstr "одно"
 
 #. Key:	776CCCB9468E9C4AD3026A9C40A7C341
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.download_text.Text
@@ -1131,7 +1134,7 @@ msgstr "Статистика сети недоступна.\r\n"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(1).Subtitles.Text
 msgctxt ",7807521646256AFEFF78D098D8CB4091"
 msgid "one"
-msgstr "один"
+msgstr "одно"
 
 #. Key:	784F3A824638F585EA4A74AFFD1373A1
 #. SourceLocation:	/Game/Widgets/W_RebindKeys/W_RebindEntry.W_RebindEntry_C:WidgetTree.clear.ToolTipText
@@ -1566,7 +1569,7 @@ msgstr "«Но если ты всё‑таки услышишь что‑то, �
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(32).Subtitles.Text
 msgctxt ",9EFC7C534ED28A2E5DB63F9A5DCF9948"
 msgid "End of messages"
-msgstr "Сообщений больше нет"
+msgstr "Сообщений больше нет."
 
 #. Key:	A0DEE0E8465F1F74CCF62FB855F582D6
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(29).Subtitles.Text
@@ -1615,7 +1618,7 @@ msgstr "Ладно‑ладно, как скажешь…"
 #: /Game/Audio/dave_2.dave_2.Subtitles(4).Subtitles.Text
 msgctxt ",A82BA4564863A802463BB3A8DDFD1A7A"
 msgid "First message."
-msgstr "Первое сообщение."
+msgstr "Первое сообщение:"
 
 #. Key:	A8DF3B32415DB3B4CB2342B271C89551
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock.Text
@@ -2124,7 +2127,8 @@ msgstr "Нет, спасибо."
 msgctxt ",D572E1294E79B0AC60889891B42DB9E7"
 msgid "Activate cmOS\r\n"
 "Go to Settings to activate cmOS."
-msgstr ""
+msgstr "Активировать cmOS.\r\n"
+"Перейдите в Настройки, чтобы активировать cmOS."
 
 #. Key:	D652CB3446A3CF36EC224999F8BAA722
 #. SourceLocation:	/Game/Widgets/cmOS/W_CamBoot.W_CamBoot_C:ExecuteUbergraph_W_CamBoot [Script Bytecode]
@@ -2236,7 +2240,7 @@ msgstr "В разработке // Скоро..."
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(4).Subtitles.Text
 msgctxt ",E027143146C22EF17CE6A3A549A6A366"
 msgid "First message."
-msgstr "Первое сообщение."
+msgstr "Первое сообщение:"
 
 #. Key:	E141D0134AE27B0788183D9955EDEA65
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_UnstableMP.W_UnstableMP_C:WidgetTree.TextBlock_132.Text
@@ -2540,7 +2544,7 @@ msgstr "Устаревший клиент"
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(6).Subtitles.Text
 msgctxt ",FDE6039F45F0386D036A64BAF0610EE5"
 msgid "\"Hey, it's uh Jake from IT. Just a quick heads up:\""
-msgstr "«Привет, это, ээ, Джейк из IT. Просто хотел предупредить:»"
+msgstr "«Привет! Это, ээ, Джейк из IT. Просто хочу предупредить:»"
 
 #. Key:	FF3BB15F42529D8EBBEB79B0A77DFAEA
 #. SourceLocation:	/Game/Widgets/Settings/W_Settings_Saved.W_Settings_Saved_C:WidgetTree.TextBlock_0.Text
