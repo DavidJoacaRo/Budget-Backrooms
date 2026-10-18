@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-18 21:07\n"
-"PO-Revision-Date: 2026-10-18 22:07\n"
+"PO-Revision-Date: 2026-10-18 22:30\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -441,7 +441,7 @@ msgstr "Список изменений"
 #: /Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_3.Text
 msgctxt ",2BC16CBE4BF434AD53A4D09B75D02873"
 msgid "Selects the output display format, choosing between standard dynamic range (SDR) and various high dynamic range (HDR) configurations."
-msgstr ""
+msgstr "Выбирает формат вывода изображения: стандартный динамический диапазон (SDR) или различные конфигурации расширенного динамического диапазона (HDR)."
 
 #. Key:	2C04AEBC4A5F7BDDB59288AA2C4D4441
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(8).Subtitles.Text
@@ -1023,7 +1023,10 @@ msgid "Product is not genuine\r\n"
 "Go to Settings to activate cmOS.\r\n"
 "\r\n"
 "v0.0.3 | Non-Enterprise Edition"
-msgstr ""
+msgstr "Продукт не является подлинным/\r\n"
+"Перейдите в «Настройки», чтобы активировать cmOS.\r\n"
+"\r\n"
+"V0.0.3 | Не корпоративная версия"
 
 #. Key:	6C3D2BAE460E633E4FE260AE026D0418
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
@@ -2124,7 +2127,8 @@ msgstr "Нет, спасибо."
 msgctxt ",D572E1294E79B0AC60889891B42DB9E7"
 msgid "Activate cmOS\r\n"
 "Go to Settings to activate cmOS."
-msgstr ""
+msgstr "Активировать cmOS.\r\n"
+"Перейдите в «Настройки», чтобы активировать cmOS."
 
 #. Key:	D652CB3446A3CF36EC224999F8BAA722
 #. SourceLocation:	/Game/Widgets/cmOS/W_CamBoot.W_CamBoot_C:ExecuteUbergraph_W_CamBoot [Script Bytecode]
