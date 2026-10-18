@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
-"POT-Creation-Date: 2026-10-16 17:00\n"
-"PO-Revision-Date: 2026-10-18 13:06\n"
+"POT-Creation-Date: 2026-10-18 21:07\n"
+"PO-Revision-Date: 2026-10-18 22:08\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
@@ -163,8 +163,8 @@ msgid "Looks like you've disabled Anti-Aliasing and having FidelityFX enabled at
 msgstr "看起来您同时关闭了抗锯齿并开启了 FidelityFX。哥们，我不是想给你上压力，但这么搞画质真的会变差的，所以我建议你至少把抗锯齿开到低。我只是提个建议"
 
 #. Key:	10B56E324DD535C86DE171AA03A1DD95
-#. SourceLocation:	/Game/Widgets/Warnings/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock.Text
-#: /Game/Widgets/Warnings/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock.Text
+#. SourceLocation:	/Game/Widgets/Animations/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock.Text
+#: /Game/Widgets/Animations/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock.Text
 msgctxt ",10B56E324DD535C86DE171AA03A1DD95"
 msgid "The game is experiencing slow performance. To improve, adjust graphical settings in the Pause Menu."
 msgstr "看起来游戏现在运行并不流畅。如需改善，请在暂停菜单中调整画面设置。"
@@ -440,8 +440,8 @@ msgstr "更新日志"
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_3.Text
 #: /Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_3.Text
 msgctxt ",2BC16CBE4BF434AD53A4D09B75D02873"
-msgid "Selects the output display format, choosing between standard dynamic range (LDR) and various high dynamic range (HDR) configurations."
-msgstr "选择输出显示格式，您可在标准动态范围（LDR）与各种高动态范围（HDR）配置之间进行选择。"
+msgid "Selects the output display format, choosing between standard dynamic range (SDR) and various high dynamic range (HDR) configurations."
+msgstr ""
 
 #. Key:	2C04AEBC4A5F7BDDB59288AA2C4D4441
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(8).Subtitles.Text
@@ -1016,6 +1016,16 @@ msgstr "真的Lory Games"
 msgctxt ",6A5895C94975E4273745409B88CE53D8"
 msgid "FASTER"
 msgstr "快点"
+
+#. Key:	6B43EC7D4C4519637B6B2B96371AA30A
+#. SourceLocation:	/Game/Widgets/cmOS/W_CamIntro.W_CamIntro_C:WidgetTree.cmOS_ver.Text
+#: /Game/Widgets/cmOS/W_CamIntro.W_CamIntro_C:WidgetTree.cmOS_ver.Text
+msgctxt ",6B43EC7D4C4519637B6B2B96371AA30A"
+msgid "Product is not genuine\r\n"
+"Go to Settings to activate cmOS.\r\n"
+"\r\n"
+"v0.0.3 | Non-Enterprise Edition"
+msgstr ""
 
 #. Key:	6C3D2BAE460E633E4FE260AE026D0418
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
@@ -2110,6 +2120,14 @@ msgctxt ",D49D2A30423FB0B6B955BB9E8A48D4D5"
 msgid "No, thanks."
 msgstr "但是，我拒绝。"
 
+#. Key:	D572E1294E79B0AC60889891B42DB9E7
+#. SourceLocation:	/Game/Widgets/cmOS/W_CamSwitch.W_CamSwitch_C:WidgetTree.cmOS_ver.Text
+#: /Game/Widgets/cmOS/W_CamSwitch.W_CamSwitch_C:WidgetTree.cmOS_ver.Text
+msgctxt ",D572E1294E79B0AC60889891B42DB9E7"
+msgid "Activate cmOS\r\n"
+"Go to Settings to activate cmOS."
+msgstr ""
+
 #. Key:	D652CB3446A3CF36EC224999F8BAA722
 #. SourceLocation:	/Game/Widgets/cmOS/W_CamBoot.W_CamBoot_C:ExecuteUbergraph_W_CamBoot [Script Bytecode]
 #: /Game/Widgets/cmOS/W_CamBoot.W_CamBoot_C:ExecuteUbergraph_W_CamBoot [Script Bytecode]
@@ -2313,8 +2331,8 @@ msgid "fucking hell"
 msgstr "妈了个巴子的"
 
 #. Key:	EC1EEF89400FD7017791B9A576C40873
-#. SourceLocation:	/Game/Widgets/Warnings/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock_7.Text
-#: /Game/Widgets/Warnings/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock_7.Text
+#. SourceLocation:	/Game/Widgets/Animations/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock_7.Text
+#: /Game/Widgets/Animations/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock_7.Text
 msgctxt ",EC1EEF89400FD7017791B9A576C40873"
 msgid "Slow Performance"
 msgstr "运行缓慢"
@@ -2613,8 +2631,8 @@ msgid "Quit to main menu"
 msgstr "退出至主菜单"
 
 #. Key:	155F7E6C488B71EF11190F9715134915
-#. SourceLocation:	/Game/Widgets/Animations/FadeIn.FadeIn_C:WidgetTree.TextBlock_0.Text
-#: /Game/Widgets/Animations/FadeIn.FadeIn_C:WidgetTree.TextBlock_0.Text
+#. SourceLocation:	/Game/Widgets/Animations/FadeOut.FadeOut_C:WidgetTree.TextBlock_0.Text
+#: /Game/Widgets/Animations/FadeOut.FadeOut_C:WidgetTree.TextBlock_0.Text
 msgctxt "Game,155F7E6C488B71EF11190F9715134915"
 msgid "Loading..."
 msgstr "加载中......"

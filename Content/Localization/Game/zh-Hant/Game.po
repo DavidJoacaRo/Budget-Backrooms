@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
-"POT-Creation-Date: 2026-10-16 17:00\n"
-"PO-Revision-Date: 2026-10-17 16:28\n"
+"POT-Creation-Date: 2026-10-18 21:07\n"
+"PO-Revision-Date: 2026-10-18 22:08\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
@@ -161,8 +161,8 @@ msgid "Looks like you've disabled Anti-Aliasing and having FidelityFX enabled at
 msgstr ""
 
 #. Key:	10B56E324DD535C86DE171AA03A1DD95
-#. SourceLocation:	/Game/Widgets/Warnings/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock.Text
-#: /Game/Widgets/Warnings/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock.Text
+#. SourceLocation:	/Game/Widgets/Animations/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock.Text
+#: /Game/Widgets/Animations/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock.Text
 msgctxt ",10B56E324DD535C86DE171AA03A1DD95"
 msgid "The game is experiencing slow performance. To improve, adjust graphical settings in the Pause Menu."
 msgstr ""
@@ -434,7 +434,7 @@ msgstr ""
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_3.Text
 #: /Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_3.Text
 msgctxt ",2BC16CBE4BF434AD53A4D09B75D02873"
-msgid "Selects the output display format, choosing between standard dynamic range (LDR) and various high dynamic range (HDR) configurations."
+msgid "Selects the output display format, choosing between standard dynamic range (SDR) and various high dynamic range (HDR) configurations."
 msgstr ""
 
 #. Key:	2C04AEBC4A5F7BDDB59288AA2C4D4441
@@ -994,6 +994,16 @@ msgstr ""
 #: /Game/Widgets/Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_4.Text
 msgctxt ",6A5895C94975E4273745409B88CE53D8"
 msgid "FASTER"
+msgstr ""
+
+#. Key:	6B43EC7D4C4519637B6B2B96371AA30A
+#. SourceLocation:	/Game/Widgets/cmOS/W_CamIntro.W_CamIntro_C:WidgetTree.cmOS_ver.Text
+#: /Game/Widgets/cmOS/W_CamIntro.W_CamIntro_C:WidgetTree.cmOS_ver.Text
+msgctxt ",6B43EC7D4C4519637B6B2B96371AA30A"
+msgid "Product is not genuine\r\n"
+"Go to Settings to activate cmOS.\r\n"
+"\r\n"
+"v0.0.3 | Non-Enterprise Edition"
 msgstr ""
 
 #. Key:	6C3D2BAE460E633E4FE260AE026D0418
@@ -2043,6 +2053,14 @@ msgctxt ",D49D2A30423FB0B6B955BB9E8A48D4D5"
 msgid "No, thanks."
 msgstr ""
 
+#. Key:	D572E1294E79B0AC60889891B42DB9E7
+#. SourceLocation:	/Game/Widgets/cmOS/W_CamSwitch.W_CamSwitch_C:WidgetTree.cmOS_ver.Text
+#: /Game/Widgets/cmOS/W_CamSwitch.W_CamSwitch_C:WidgetTree.cmOS_ver.Text
+msgctxt ",D572E1294E79B0AC60889891B42DB9E7"
+msgid "Activate cmOS\r\n"
+"Go to Settings to activate cmOS."
+msgstr ""
+
 #. Key:	D652CB3446A3CF36EC224999F8BAA722
 #. SourceLocation:	/Game/Widgets/cmOS/W_CamBoot.W_CamBoot_C:ExecuteUbergraph_W_CamBoot [Script Bytecode]
 #: /Game/Widgets/cmOS/W_CamBoot.W_CamBoot_C:ExecuteUbergraph_W_CamBoot [Script Bytecode]
@@ -2243,8 +2261,8 @@ msgid "fucking hell"
 msgstr ""
 
 #. Key:	EC1EEF89400FD7017791B9A576C40873
-#. SourceLocation:	/Game/Widgets/Warnings/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock_7.Text
-#: /Game/Widgets/Warnings/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock_7.Text
+#. SourceLocation:	/Game/Widgets/Animations/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock_7.Text
+#: /Game/Widgets/Animations/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock_7.Text
 msgctxt ",EC1EEF89400FD7017791B9A576C40873"
 msgid "Slow Performance"
 msgstr ""
@@ -2540,8 +2558,8 @@ msgid "Quit to main menu"
 msgstr ""
 
 #. Key:	155F7E6C488B71EF11190F9715134915
-#. SourceLocation:	/Game/Widgets/Animations/FadeIn.FadeIn_C:WidgetTree.TextBlock_0.Text
-#: /Game/Widgets/Animations/FadeIn.FadeIn_C:WidgetTree.TextBlock_0.Text
+#. SourceLocation:	/Game/Widgets/Animations/FadeOut.FadeOut_C:WidgetTree.TextBlock_0.Text
+#: /Game/Widgets/Animations/FadeOut.FadeOut_C:WidgetTree.TextBlock_0.Text
 msgctxt "Game,155F7E6C488B71EF11190F9715134915"
 msgid "Loading..."
 msgstr ""
