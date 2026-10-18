@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-16 17:00\n"
-"PO-Revision-Date: 2026-10-17 13:54\n"
+"PO-Revision-Date: 2026-10-18 02:13\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
@@ -1558,7 +1558,7 @@ msgstr ""
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(32).Subtitles.Text
 msgctxt ",9EFC7C534ED28A2E5DB63F9A5DCF9948"
 msgid "End of messages"
-msgstr ""
+msgstr "留言结束"
 
 #. Key:	A0DEE0E8465F1F74CCF62FB855F582D6
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(29).Subtitles.Text
@@ -1607,7 +1607,7 @@ msgstr ""
 #: /Game/Audio/dave_2.dave_2.Subtitles(4).Subtitles.Text
 msgctxt ",A82BA4564863A802463BB3A8DDFD1A7A"
 msgid "First message."
-msgstr ""
+msgstr "第一条消息。"
 
 #. Key:	A8DF3B32415DB3B4CB2342B271C89551
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock.Text
@@ -1635,7 +1635,7 @@ msgstr "输出色域"
 #: /Game/Widgets/W_CornerReminder/W_CornerReminder.W_CornerReminder_C:WidgetTree.TextBlock_1.Text
 msgctxt ",ACE7A09943384A3ED43C87B14F331C7C"
 msgid "Hold V to look behind you."
-msgstr ""
+msgstr "按住 V 来回头看"
 
 #. Key:	AD92A30648A8C21C970AA2BDE61197FD
 #. SourceLocation:	/Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_117.Text
@@ -1649,7 +1649,7 @@ msgstr "切换至子层级"
 #: /Game/Widgets/W_Respawn/W_Respawn.W_Respawn_C:WidgetTree.dead.Text
 msgctxt ",AE37393348921D5E2025D7A42D566D9F"
 msgid "You Died"
-msgstr ""
+msgstr "你死了"
 
 #. Key:	AE4122AA494FDE6D09FB2DBAB05E4573
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(18).Subtitles.Text
@@ -1664,7 +1664,8 @@ msgstr ""
 msgctxt ",AE5CCB4242DCF6F2767D4FB1AF8BA62E"
 msgid "You can pick up the \r\n"
 "flashlight by pressing E"
-msgstr ""
+msgstr "你可以按下E\r\n"
+"捡起手电筒"
 
 #. Key:	AFDDD1E64D3A7F5B5AFF47B18BAC5CFE
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.lan_text.Text
