@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
-"POT-Creation-Date: 2026-10-10 17:47\n"
-"PO-Revision-Date: 2026-10-10 18:58\n"
+"POT-Creation-Date: 2026-10-18 21:07\n"
+"PO-Revision-Date: 2026-10-18 22:51\n"
 "Language-Team: Romanian\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
@@ -141,13 +141,6 @@ msgid "Budget\r\n"
 msgstr "Budget\r\n"
 "Backrooms"
 
-#. Key:	0BD5C3AA400CA31F93B89480456EA200
-#. SourceLocation:	/Game/Widgets/W_TextTip.Default__W_TextTip_C.PerLangContributedTextThing
-#: /Game/Widgets/W_TextTip.Default__W_TextTip_C.PerLangContributedTextThing
-msgctxt ",0BD5C3AA400CA31F93B89480456EA200"
-msgid "Translated for you by "
-msgstr ""
-
 #. Key:	0CC0EA584CE4691B97BD4B81C5A6EEE8
 #. SourceLocation:	/Game/Widgets/Animations/W_Safezone.W_Safezone_C:WidgetTree.TextBlock_1.Text
 #: /Game/Widgets/Animations/W_Safezone.W_Safezone_C:WidgetTree.TextBlock_1.Text
@@ -170,8 +163,8 @@ msgid "Looks like you've disabled Anti-Aliasing and having FidelityFX enabled at
 msgstr "Se pare că ai dezactivat Anti-Aliasing și ai FidelityFX activat în același timp. Nu vreau să te stresez prietene, dar graficile vor arăta oribil deci iți recomand să ai Anti-Aliasing activat MĂCAR pe low. Doar spun! ¯\\_(ツ)_/¯"
 
 #. Key:	10B56E324DD535C86DE171AA03A1DD95
-#. SourceLocation:	/Game/Widgets/Warnings/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock.Text
-#: /Game/Widgets/Warnings/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock.Text
+#. SourceLocation:	/Game/Widgets/Animations/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock.Text
+#: /Game/Widgets/Animations/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock.Text
 msgctxt ",10B56E324DD535C86DE171AA03A1DD95"
 msgid "The game is experiencing slow performance. To improve, adjust graphical settings in the Pause Menu."
 msgstr "Jocul are o performanță slabă. Pentru a o îmbunătăți, ajustează setările grafice din meniul de pauză."
@@ -446,8 +439,8 @@ msgstr "Jurnal de modificări"
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_3.Text
 #: /Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_3.Text
 msgctxt ",2BC16CBE4BF434AD53A4D09B75D02873"
-msgid "Selects the output display format, choosing between standard dynamic range (LDR) and various high dynamic range (HDR) configurations."
-msgstr "Selectează formatul afișajului, alegând între configurațiile de rază dinamică standard (LDR) și rază dinamică (HDR)."
+msgid "Selects the output display format, choosing between standard dynamic range (SDR) and various high dynamic range (HDR) configurations."
+msgstr "Selectează formatul afișajului, alegând între configurațiile de rază dinamică standard (SDR) și rază dinamică (HDR)."
 
 #. Key:	2C04AEBC4A5F7BDDB59288AA2C4D4441
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(8).Subtitles.Text
@@ -1019,6 +1012,16 @@ msgctxt ",6A5895C94975E4273745409B88CE53D8"
 msgid "FASTER"
 msgstr "MAI REPEDE"
 
+#. Key:	6B43EC7D4C4519637B6B2B96371AA30A
+#. SourceLocation:	/Game/Widgets/cmOS/W_CamIntro.W_CamIntro_C:WidgetTree.cmOS_ver.Text
+#: /Game/Widgets/cmOS/W_CamIntro.W_CamIntro_C:WidgetTree.cmOS_ver.Text
+msgctxt ",6B43EC7D4C4519637B6B2B96371AA30A"
+msgid "Product is not genuine\r\n"
+"Go to Settings to activate cmOS.\r\n"
+"\r\n"
+"v0.0.3 | Non-Enterprise Edition"
+msgstr ""
+
 #. Key:	6C3D2BAE460E633E4FE260AE026D0418
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 #: /Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
@@ -1309,17 +1312,6 @@ msgstr "Bine ai venit la Nightly"
 msgctxt ",86BCAF0245EDE47AD823FB83CF7A9BCF"
 msgid "Ok"
 msgstr "Ok"
-
-#. Key:	8769A0F840B1EF7D538F76AE89C9297D
-#. SourceLocation:	/Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.b_host.ToolTipText
-#: /Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.b_host.ToolTipText
-msgctxt ",8769A0F840B1EF7D538F76AE89C9297D"
-msgid "FOR TESTERS\r\n"
-"\r\n"
-"Clicking will host a online session with max to 4 players, for testing the replication."
-msgstr "PENTRU TESTERI\r\n"
-"\r\n"
-"Apăsând aici vei găzdui o sesiune online cu maxim 4 jucători, pentru a testa replicarea."
 
 #. Key:	87A4B6F74F63C260834A2A8AC3EF1058
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:OutdatedBuild [Script Bytecode]
@@ -1910,17 +1902,6 @@ msgstr "[Unele credite ar putea lipsi; Toate drepturile melodiilor revin artișt
 "\r\n"
 "Bad Style - Time Back"
 
-#. Key:	C00DF14941A15EBB05B7149B55068D78
-#. SourceLocation:	/Game/Widgets/Multiplayer/W_JoinSession.W_JoinSession_C:WidgetTree.create_but.ToolTipText
-#: /Game/Widgets/Multiplayer/W_JoinSession.W_JoinSession_C:WidgetTree.create_but.ToolTipText
-msgctxt ",C00DF14941A15EBB05B7149B55068D78"
-msgid "FOR TESTERS:\r\n"
-"\r\n"
-"Clicking will create a LAN session for testing me myself and I, and or multiple instances of the game if I'm alone :("
-msgstr "PENTRU TESTERI:\r\n"
-"\r\n"
-"Apăsând aici vei crea o sesiune LAN pentru a te testa pe tine însuți, sau mai multe instanțe de joc dacă ești singur. :( (Părere de rău)"
-
 #. Key:	C08377274F042124625A1B8DFFC029D4
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 #: /Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
@@ -2129,6 +2110,14 @@ msgctxt ",D49D2A30423FB0B6B955BB9E8A48D4D5"
 msgid "No, thanks."
 msgstr "Nu, mulțumesc."
 
+#. Key:	D572E1294E79B0AC60889891B42DB9E7
+#. SourceLocation:	/Game/Widgets/cmOS/W_CamSwitch.W_CamSwitch_C:WidgetTree.cmOS_ver.Text
+#: /Game/Widgets/cmOS/W_CamSwitch.W_CamSwitch_C:WidgetTree.cmOS_ver.Text
+msgctxt ",D572E1294E79B0AC60889891B42DB9E7"
+msgid "Activate cmOS\r\n"
+"Go to Settings to activate cmOS."
+msgstr ""
+
 #. Key:	D652CB3446A3CF36EC224999F8BAA722
 #. SourceLocation:	/Game/Widgets/cmOS/W_CamBoot.W_CamBoot_C:ExecuteUbergraph_W_CamBoot [Script Bytecode]
 #: /Game/Widgets/cmOS/W_CamBoot.W_CamBoot_C:ExecuteUbergraph_W_CamBoot [Script Bytecode]
@@ -2332,8 +2321,8 @@ msgid "fucking hell"
 msgstr "la naiba"
 
 #. Key:	EC1EEF89400FD7017791B9A576C40873
-#. SourceLocation:	/Game/Widgets/Warnings/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock_7.Text
-#: /Game/Widgets/Warnings/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock_7.Text
+#. SourceLocation:	/Game/Widgets/Animations/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock_7.Text
+#: /Game/Widgets/Animations/W_LowFPSWarn.W_LowFPSWarn_C:WidgetTree.TextBlock_7.Text
 msgctxt ",EC1EEF89400FD7017791B9A576C40873"
 msgid "Slow Performance"
 msgstr "Performanță slabă"
@@ -2630,8 +2619,8 @@ msgid "Quit to main menu"
 msgstr "Ieși la ecranul principal"
 
 #. Key:	155F7E6C488B71EF11190F9715134915
-#. SourceLocation:	/Game/Widgets/Animations/FadeIn.FadeIn_C:WidgetTree.TextBlock_0.Text
-#: /Game/Widgets/Animations/FadeIn.FadeIn_C:WidgetTree.TextBlock_0.Text
+#. SourceLocation:	/Game/Widgets/Animations/FadeOut.FadeOut_C:WidgetTree.TextBlock_0.Text
+#: /Game/Widgets/Animations/FadeOut.FadeOut_C:WidgetTree.TextBlock_0.Text
 msgctxt "Game,155F7E6C488B71EF11190F9715134915"
 msgid "Loading..."
 msgstr "Se încarcă..."
