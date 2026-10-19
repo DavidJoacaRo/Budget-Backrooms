@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-18 21:07\n"
-"PO-Revision-Date: 2026-10-19 00:55\n"
+"PO-Revision-Date: 2026-10-19 10:28\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -1311,7 +1311,7 @@ msgstr "«Мы пытались выяснить источник проблем
 #: /Game/Widgets/Warnings/W_NightlyWarn.W_NightlyWarn_C:WidgetTree.title.Text
 msgctxt ",85FE9D2F40485A2BC3F503A305F7DFEA"
 msgid "Welcome to Nightly"
-msgstr "Добро пожаловать в Ночную сборку"
+msgstr "Добро пожаловать в Ночную Сборку"
 
 #. Key:	86BCAF0245EDE47AD823FB83CF7A9BCF
 #. SourceLocation:	/Game/Widgets/W_Interaction/W_InteractionHint.W_InteractionHint_C:WidgetTree.TextBlock_1.Text
@@ -1355,7 +1355,7 @@ msgstr "тип иконки паузы"
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_114.Text
 msgctxt ",8937878845D1C792DABAD7B72A06313B"
 msgid "Resume from...?"
-msgstr "Продолжить с…?"
+msgstr "Продолжить"
 
 #. Key:	89A2D34A49B50F5E165B949278F378FD
 #. SourceLocation:	/Game/Widgets/Multiplayer/WB_Badge.WB_Badge_C:WidgetTree.lor.ToolTipText

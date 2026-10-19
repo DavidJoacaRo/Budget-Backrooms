@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-18 21:07\n"
-"PO-Revision-Date: 2026-10-19 00:55\n"
+"PO-Revision-Date: 2026-10-19 02:17\n"
 "Language-Team: Ukrainian\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -285,7 +285,7 @@ msgstr "ВАЖЛИВА ПОМИЛКА! ПОВІДОМ ПРО НЕЇ РОЗРОБ
 #: /Game/Audio/dave_2.dave_2.Subtitles(6).Subtitles.Text
 msgctxt ",1BE89557478F40A65EC9B6A1BDD6413A"
 msgid "Yes, hello, it's Dave from The Singularity. Now listen up,"
-msgstr "«Так, привіт, це Дейв з «Сингулярності». А тепер слухай сюди,»"
+msgstr "«Так, привіт, це Дейв з «Сингулярності». А тепер слухай сюди»"
 
 #. Key:	1D3B4527451B7EFA194BA08E49122F86
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
@@ -548,7 +548,7 @@ msgstr "Виглядає ризиковано.."
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(1).Subtitles.Text
 msgctxt ",36335B3C4AFCC0CB276416831F247574"
 msgid "one"
-msgstr "один"
+msgstr "одне"
 
 #. Key:	364430A246D29C64E1C04396E88C340C
 #. SourceLocation:	/Game/Widgets/W_Errors/W_ConnDrivErr.W_ConnDrivErr_C:WidgetTree.TextBlock_63.Text
@@ -1023,7 +1023,10 @@ msgid "Product is not genuine\r\n"
 "Go to Settings to activate cmOS.\r\n"
 "\r\n"
 "v0.0.3 | Non-Enterprise Edition"
-msgstr ""
+msgstr "Продукт не є справжнім\r\n"
+"Перейдіть у налаштування, щоб активувати cmOS.\r\n"
+"\r\n"
+"v0.0.3 | Корпоративна версія"
 
 #. Key:	6C3D2BAE460E633E4FE260AE026D0418
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
@@ -1108,7 +1111,7 @@ msgstr "Ви збираєтеся скинути гру. Це включає в�
 #: /Game/Audio/dave_2.dave_2.Subtitles(1).Subtitles.Text
 msgctxt ",7684BEE242A019D532DECEB57328FC3F"
 msgid "one"
-msgstr "один"
+msgstr "одне"
 
 #. Key:	776CCCB9468E9C4AD3026A9C40A7C341
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.download_text.Text
@@ -1131,7 +1134,7 @@ msgstr "Статистика мережі недоступна.\r\n"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(1).Subtitles.Text
 msgctxt ",7807521646256AFEFF78D098D8CB4091"
 msgid "one"
-msgstr "один"
+msgstr "одне"
 
 #. Key:	784F3A824638F585EA4A74AFFD1373A1
 #. SourceLocation:	/Game/Widgets/W_RebindKeys/W_RebindEntry.W_RebindEntry_C:WidgetTree.clear.ToolTipText
@@ -1352,7 +1355,7 @@ msgstr "щось на кшталт значка паузи"
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_114.Text
 msgctxt ",8937878845D1C792DABAD7B72A06313B"
 msgid "Resume from...?"
-msgstr "Продовжити з...?"
+msgstr "Продовжити"
 
 #. Key:	89A2D34A49B50F5E165B949278F378FD
 #. SourceLocation:	/Game/Widgets/Multiplayer/WB_Badge.WB_Badge_C:WidgetTree.lor.ToolTipText
@@ -1566,7 +1569,7 @@ msgstr "«Хоча якщо ви РАПТО почуєте щось, що зву
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(32).Subtitles.Text
 msgctxt ",9EFC7C534ED28A2E5DB63F9A5DCF9948"
 msgid "End of messages"
-msgstr "Кінець повідомлень"
+msgstr "Кінець повідомлень."
 
 #. Key:	A0DEE0E8465F1F74CCF62FB855F582D6
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(29).Subtitles.Text
@@ -1615,7 +1618,7 @@ msgstr "Та добре, добре, як скажеш..."
 #: /Game/Audio/dave_2.dave_2.Subtitles(4).Subtitles.Text
 msgctxt ",A82BA4564863A802463BB3A8DDFD1A7A"
 msgid "First message."
-msgstr "Перше повідомлення."
+msgstr "Перше повідомлення:"
 
 #. Key:	A8DF3B32415DB3B4CB2342B271C89551
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock.Text
@@ -2124,7 +2127,8 @@ msgstr "Ні, дякую."
 msgctxt ",D572E1294E79B0AC60889891B42DB9E7"
 msgid "Activate cmOS\r\n"
 "Go to Settings to activate cmOS."
-msgstr ""
+msgstr "Активувати cmOS.\r\n"
+"Перейдіть у Налаштування, щоб активувати cmOS."
 
 #. Key:	D652CB3446A3CF36EC224999F8BAA722
 #. SourceLocation:	/Game/Widgets/cmOS/W_CamBoot.W_CamBoot_C:ExecuteUbergraph_W_CamBoot [Script Bytecode]
@@ -2236,7 +2240,7 @@ msgstr "У розробці // Незабаром..."
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(4).Subtitles.Text
 msgctxt ",E027143146C22EF17CE6A3A549A6A366"
 msgid "First message."
-msgstr "Перше повідомлення."
+msgstr "Перше повідомлення:"
 
 #. Key:	E141D0134AE27B0788183D9955EDEA65
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_UnstableMP.W_UnstableMP_C:WidgetTree.TextBlock_132.Text
@@ -2365,7 +2369,7 @@ msgstr "Після скидання\r\n"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(2).Subtitles.Text
 msgctxt ",EF4C37954E647F6D6485A995B9000AAF"
 msgid "new message"
-msgstr "нове повідомлення"
+msgstr "нове повідомлення."
 
 #. Key:	EFA5511C4EEFEC0E17217381EFEBF25F
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(2).Subtitles.Text
