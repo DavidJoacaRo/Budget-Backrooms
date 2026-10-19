@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-18 21:07\n"
-"PO-Revision-Date: 2026-10-19 18:25\n"
+"PO-Revision-Date: 2026-10-19 19:20\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -123,14 +123,14 @@ msgstr "Połączony"
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_95.Text
 msgctxt ",084E856044F06AEFDE634E8E06EB4D51"
 msgid "Click here to continue"
-msgstr "Kliknij Tutaj by kontynuować"
+msgstr "Kliknij tutaj, aby kontynuować"
 
 #. Key:	0B631C5A441FFE36A7E5CC804041F31B
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(27).Subtitles.Text
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(27).Subtitles.Text
 msgctxt ",0B631C5A441FFE36A7E5CC804041F31B"
 msgid "And that's pretty much it."
-msgstr "Ogólnie to wszystko."
+msgstr "I to w zasadzie tyle."
 
 #. Key:	0B63AE0B4768A30314B307AB9675F418
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_1.Text
@@ -277,7 +277,7 @@ msgstr ""
 #: /Game/Widgets/W_Errors/W_ConnDrivErr.W_ConnDrivErr_C:WidgetTree.TextBlock_1.Text
 msgctxt ",1BE787BB47590C7B230A0B822C8A32C7"
 msgid "IMPORTANT ERROR PLEASE REPORT TO DEV ON THE DISCORD SERVER OR STEAM"
-msgstr "WAŻNY BŁĄD PROSZĘ POINFORMUJ DEVELOPERA NA SERVERZE DISCORD ALBO NA STEAMIE"
+msgstr "WAŻNY BŁĄD PROSZĘ POINFORMUJ DEVELOPERA NA SERWERZE DISCORD ALBO NA STEAMIE"
 
 #. Key:	1BE89557478F40A65EC9B6A1BDD6413A
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(6).Subtitles.Text
@@ -312,7 +312,7 @@ msgstr "Level 1"
 #: /Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.title.ToolTipText
 msgctxt ",1FC10EE84C7B7F2CEEF21F8FE74EE42D"
 msgid "yes, the game is paused indeed"
-msgstr "Tak gra jest rzeczywiście zatrzymana"
+msgstr "tak, gra jest wstrzymana, dobrze widzisz"
 
 #. Key:	1FE59D4349C2427AF47827928F391E7A
 #. SourceLocation:	/Game/Widgets/W_Saves/W_SaveMigrationNew.W_SaveMigrationNew_C:WidgetTree.TextBlock_63.Text
@@ -334,7 +334,7 @@ msgstr "Sub-Level \"!\""
 msgctxt ",20F3970145DD796217DD6296535FAC1F"
 msgid "Gamemode unavailable yet.\r\n"
 ":("
-msgstr "Tryb gry niedostępny jeszcze.\r\n"
+msgstr "Tryb gry jeszcze niedostępny.\r\n"
 ":("
 
 #. Key:	20FC75D54C68A45BC09B1BA0ABF2B0A7
