@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-18 21:07\n"
-"PO-Revision-Date: 2026-10-18 22:51\n"
+"PO-Revision-Date: 2026-10-19 00:55\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,7 @@ msgstr ""
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(22).Subtitles.Text
 msgctxt ",015116CF4E1DD8C07D5E21856B5ABD48"
 msgid "\"Look\""
-msgstr "«Смотри»"
+msgstr "«Слушайте»"
 
 #. Key:	01B8AF6545F702B056BCB78B8DC51999
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:Set MOTD [Script Bytecode]
@@ -37,7 +37,7 @@ msgstr "Счастливого Рождества!!!"
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(12).Subtitles.Text
 msgctxt ",02D654DA4768E747A50431BDAB324CDE"
 msgid "\"friendly reminder...\""
-msgstr "«Дружеское напоминание...»"
+msgstr "«Напоминаю по-дружески...»"
 
 #. Key:	0301D76E4F2A4E4849C05B8858D1090E
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPInit.W_MPInit_C:ExecuteUbergraph_W_MPInit [Script Bytecode]
@@ -58,7 +58,7 @@ msgstr "вам лучше запомнить мои слова, при след�
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(14).Subtitles.Text
 msgctxt ",0549CDDF4ABC01C9B2C64B94029E1717"
 msgid "\"PLEASE label them.\""
-msgstr "«ПОЖАЛУЙСТА, пометь их.»"
+msgstr "«ПОЖАЛУЙСТА, подписывайте их.»"
 
 #. Key:	05627DDD4A2CF3CACFCD42BF63AEC342
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.hdr_text.Text
@@ -72,7 +72,7 @@ msgstr "Настройки"
 #: /Game/Audio/dave_2.dave_2.Subtitles(23).Subtitles.Text
 msgctxt ",05E828A4455E38C6444CFEA78FDA32A8"
 msgid "Browse cameras.. unlock. That's it."
-msgstr "Просматривай камеры... разблокируй. Вот и всё."
+msgstr "«Пролистываешь камеры.. разблокируешь. Вот и всё.»"
 
 #. Key:	066AAD0F432400DE433D138705B00951
 #. SourceLocation:	/Game/Widgets/Warnings/W_ControllerWarn.W_ControllerWarn_C:WidgetTree.TextBlock_63.Text
@@ -86,7 +86,7 @@ msgstr "дааааааааааааа пошёл ты, дэвид"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(22).Subtitles.Text
 msgctxt ",06A2645449908CDC0CB6AEB7CF835FF5"
 msgid "I'd suggest just getting the folks from IT to check it out."
-msgstr "Я бы посоветовал просто позвать людей из IT-отдела, чтобы они это проверили."
+msgstr "«Я бы посоветовал просто позвать ребят из IT, чтобы они проверили.»"
 
 #. Key:	06FA728F4F2B8EE3F171C99EB7B5A3F7
 #. SourceLocation:	/Game/Widgets/Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_22.Text
@@ -130,7 +130,7 @@ msgstr "Нажмите здесь, чтобы продолжить"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(27).Subtitles.Text
 msgctxt ",0B631C5A441FFE36A7E5CC804041F31B"
 msgid "And that's pretty much it."
-msgstr "Вот, собственно, и всё."
+msgstr "«Ну и в общем-то всё.»"
 
 #. Key:	0B63AE0B4768A30314B307AB9675F418
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_1.Text
@@ -202,7 +202,7 @@ msgstr "БЕГИ!"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(24).Subtitles.Text
 msgctxt ",158359F84BDEA3C79C699383383AD603"
 msgid "It's either paranormal activity, or we're all losing our minds due to stress and stuff like that."
-msgstr "Либо тут паранормальная активность, либо мы все сходим с ума из‑за стресса и всего такого."
+msgstr "«Это либо паранормальная активность, либо мы все сходим с ума из-за стресса и всего такого.»"
 
 #. Key:	1661FE164B80B233E848B987B6E34D1D
 #. SourceLocation:	/Game/Widgets/Warnings/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
@@ -237,7 +237,7 @@ msgstr "Прости, что перебиваю, Элизабет, но у те�
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(17).Subtitles.Text
 msgctxt ",19C6EBEC4435FED9C7CAC3AB54DDCDF1"
 msgid "\"No need to--\""
-msgstr "«Нет необходимости--»"
+msgstr "«Не нужно...»"
 
 #. Key:	19F8EA6E47751DD0CC07AFB15F038B7B
 #. SourceLocation:	/Game/Widgets/W_PauseMenu/W_ConfirmLeave.W_ConfirmLeave_C:WidgetTree.TextBlock.Text
@@ -285,7 +285,7 @@ msgstr "КРИТИЧЕСКАЯ ОШИБКА ПОЖАЛУЙСТА СООБЩИТ�
 #: /Game/Audio/dave_2.dave_2.Subtitles(6).Subtitles.Text
 msgctxt ",1BE89557478F40A65EC9B6A1BDD6413A"
 msgid "Yes, hello, it's Dave from The Singularity. Now listen up,"
-msgstr "Да, здравствуйте, это Дэйв из «Сингулярности». А теперь слушайте внимательно,"
+msgstr "«Да, привет, это Дейв из «Сингулярности». А теперь слушай сюда»"
 
 #. Key:	1D3B4527451B7EFA194BA08E49122F86
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
@@ -343,14 +343,14 @@ msgstr "Режим игры пока недоступен.\r\n"
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(21).Subtitles.Text
 msgctxt ",20FC75D54C68A45BC09B1BA0ABF2B0A7"
 msgid "\"And I heard some of you talking about strange noises in the break room last night.\""
-msgstr "\"И я слышал, как кто-то из вас говорил о странных звуках в комнате отдыха прошлой ночью.\""
+msgstr "«И ещё, я слышал, некоторые из вас обсуждали странные звуки в комнате отдыха прошлой ночью.»"
 
 #. Key:	21F376E343A32785528CC19B4551F526
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(30).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(30).Subtitles.Text
 msgctxt ",21F376E343A32785528CC19B4551F526"
 msgid "\"send-- send a team over to uh.. check it out.\""
-msgstr "«отправь-- отправь команду туда, ээ.. проверь, что там.»"
+msgstr "«отправим-- отправим туда команду, ээ.. проверить, в чём дело.»"
 
 #. Key:	22421B744A7B577C3C6BC0856297430A
 #. SourceLocation:	/Game/Widgets/Settings/W_AudioSettings.W_AudioSettings_C:WidgetTree.TextBlock_4.Text
@@ -413,14 +413,14 @@ msgstr "Всё, что вы видите в этой игре, всё ещё н�
 #: /Game/Audio/dave_2.dave_2.Subtitles(12).Subtitles.Text
 msgctxt ",28D27CD447CAD830C098EEB458CAD332"
 msgid "we'd have to try it out potato potatoe-- Listen."
-msgstr "стоит опробовать это масло масляное-- Слушай."
+msgstr "«...нам надо попробовать, не суть... Слушай.»"
 
 #. Key:	2B1098E743BFBEC7B25A9D8E7F6F1ED5
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(23).Subtitles.Text
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(23).Subtitles.Text
 msgctxt ",2B1098E743BFBEC7B25A9D8E7F6F1ED5"
 msgid "Oh, and about the break room again..."
-msgstr "Ох, и снова про комнату отдыха…"
+msgstr "«Ах да, и ещё раз насчёт комнаты отдыха...»"
 
 #. Key:	2B6CB5D84F3109C152E8B89B74F94054
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
@@ -448,7 +448,7 @@ msgstr "Выбирает формат вывода изображения: ст�
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(8).Subtitles.Text
 msgctxt ",2C04AEBC4A5F7BDDB59288AA2C4D4441"
 msgid "Hope this message finds you well."
-msgstr "Надеюсь, это сообщение застанет вас в добром здравии."
+msgstr "«Надеюсь, у вас всё в порядке.»"
 
 #. Key:	2C27E3A34EF1DFC8FAB3F7A66D4619FE
 #. SourceLocation:	/Game/Widgets/W_Screeensaver/W_Screensaver_InitDIal.W_Screensaver_InitDIal_C:WidgetTree.TextBlock.Text
@@ -485,7 +485,7 @@ msgstr "Список сеансов"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(12).Subtitles.Text
 msgctxt ",2F1C9FEB4EB96B6D38E6C8B3077A4C29"
 msgid "But when we go check, it's empty."
-msgstr "Но когда мы идём проверять — там пусто."
+msgstr "«Но когда мы идём проверять, там пусто.»"
 
 #. Key:	30A038684B89AA503759DEBF0EE3E3B3
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_JoinSession.W_JoinSession_C:WidgetTree.TextBlock_156.Text
@@ -499,7 +499,7 @@ msgstr "Закрыть"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(10).Subtitles.Text
 msgctxt ",31690A9F4525B8EE7D1D2E892B80758A"
 msgid "So, first of all, it appears the break room has come to life somehow."
-msgstr "Итак, во‑первых, похоже, что комната отдыха каким‑то образом… ожила."
+msgstr "«Итак, во-первых, кажется, комната отдыха каким-то образом ожила.»"
 
 #. Key:	32C6E59041060B90678371888594BB50
 #. SourceLocation:	/Game/Widgets/Warnings/W_NightlyLocked.W_NightlyLocked_C:WidgetTree.TextBlock.Text
@@ -562,21 +562,21 @@ msgstr "ты, должно быть, шутишь надо мной"
 #: /Game/Audio/dave_2.dave_2.Subtitles(24).Subtitles.Text
 msgctxt ",38AF16154C99E7B73DE3F3BDB93AE8AF"
 msgid "Alright?"
-msgstr "Всё в порядке?"
+msgstr "«Ясно?»"
 
 #. Key:	39935905454494977EC65AB83FC09BDF
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(23).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(23).Subtitles.Text
 msgctxt ",39935905454494977EC65AB83FC09BDF"
 msgid "\"I get it, you're all on your toes for the...\""
-msgstr "«Понимаю, вы все на взводе из-за...»"
+msgstr "«Я понимаю, вы все на нервах из-за...»"
 
 #. Key:	3B2AF7BF40FC584CBE7DC1ABD3E8E542
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(10).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(10).Subtitles.Text
 msgctxt ",3B2AF7BF40FC584CBE7DC1ABD3E8E542"
 msgid "\"Also...\""
-msgstr "«К тому же…»"
+msgstr "«А ещё...»"
 
 #. Key:	3B5A90074A15DE71471B8993DF217DBC
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
@@ -673,7 +673,7 @@ msgstr "Budget Backrooms теперь может собирать анонимн
 #: /Game/Audio/dave_2.dave_2.Subtitles(9).Subtitles.Text
 msgctxt ",4162F7AF43EB38C10CDA7F95FF187490"
 msgid "basically the whole hotel."
-msgstr "по сути, весь отель."
+msgstr "«Ну, в общем, в целом отеле.»"
 
 #. Key:	4458A33747AD473356797A8DDB61AE95
 #. SourceLocation:	/Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_7.Text
@@ -729,14 +729,14 @@ msgstr "При включении этой опции отключится фо�
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(24).Subtitles.Text
 msgctxt ",495DA9A6441447032659A89A05AC7C75"
 msgid "\"stress and stuff like that but--\""
-msgstr "«Стресс и всё такое, но--»"
+msgstr "«...стресса и всего такого, но...»"
 
 #. Key:	4A06DF4B4A5908148D980CBF87A65822
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(13).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(13).Subtitles.Text
 msgctxt ",4A06DF4B4A5908148D980CBF87A65822"
 msgid "\"If you got any snacks in the communal fridge..\""
-msgstr "«Если у тебя завалялись какие-нибудь вкусняшки в общем холодильнике...»"
+msgstr "«Если у вас в общем холодильнике есть какие-то вкусняшки..»"
 
 #. Key:	4A685E724120F27E5D75E28584F8E8AD
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock.Text
@@ -841,7 +841,7 @@ msgstr "Участник разработки исходного кода"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(6).Subtitles.Text
 msgctxt ",5614A195423FB26CFF43CA8A753EFDB1"
 msgid "Good afternoon, boss."
-msgstr "Добрый день, Шэф."
+msgstr "«Добрый день, шэф.»"
 
 #. Key:	5617C3D840B7E7A4339C68A31470BDAB
 #. SourceLocation:	/Game/Widgets/Warnings/W_NightlyLocked.W_NightlyLocked_C:ExecuteUbergraph_W_NightlyLocked [Script Bytecode]
@@ -876,28 +876,28 @@ msgstr "Нажмите любую клавишу"
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(16).Subtitles.Text
 msgctxt ",59789EC64D703F1AD2F041B85FE193B4"
 msgid "\"people having their lunch mysteriously disappearing out of nowhere.\""
-msgstr "«у людей загадочным образом пропадают обеды на ровном месте.»"
+msgstr "«у людей загадочным образом пропадают обеды прямо на ровном месте.»"
 
 #. Key:	5ABAE032431D6FAEEA8477B61905E51A
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(19).Subtitles.Text
 #: /Game/Audio/dave_2.dave_2.Subtitles(19).Subtitles.Text
 msgctxt ",5ABAE032431D6FAEEA8477B61905E51A"
 msgid "Thanks."
-msgstr "Спасибо."
+msgstr "«Спасибо.»"
 
 #. Key:	5AF6FE0244DBDA8C4254F49E06FCC48C
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(9).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(9).Subtitles.Text
 msgctxt ",5AF6FE0244DBDA8C4254F49E06FCC48C"
 msgid "\"Do NOT panic, it's just the machines getting their beauty sleep.\""
-msgstr "\"НЕ паникуй, это просто машины ушли подремать.\""
+msgstr "«НЕ паникуйте, это просто машины ушли подремать.»"
 
 #. Key:	5B0CFB614AAE57D557E54B9AF90AE2FC
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(25).Subtitles.Text
 #: /Game/Audio/dave_2.dave_2.Subtitles(25).Subtitles.Text
 msgctxt ",5B0CFB614AAE57D557E54B9AF90AE2FC"
 msgid "And we'll be paying you extra if needed."
-msgstr "И мы доплатим вам, если потребуется."
+msgstr "«И мы доплатим тебе, если надо.»"
 
 #. Key:	5D636B944CFE6074F271A0BF5DD8053E
 #. SourceLocation:	/Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_9.Text
@@ -971,7 +971,7 @@ msgstr "Имел ранний доступ к сетевой игре на эт�
 #: /Game/Audio/dave_2.dave_2.Subtitles(7).Subtitles.Text
 msgctxt ",63233EF042AA0A196BF745B5CA6DFC10"
 msgid "I've left my keycard in one of those rooms..."
-msgstr "Я оставил свою ключ-карту в одной из тех комнат..."
+msgstr "«Я оставил свою ключ-карту в одной из тех комнат...»"
 
 #. Key:	63295C394479C9CC0CD2C8A12C76B1E3
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_5.Text
@@ -1192,14 +1192,14 @@ msgstr "(ночная сборка, основана на будущей вер�
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(15).Subtitles.Text
 msgctxt ",7C91C4F045818540F1F5A2B8069F353A"
 msgid "Hell, I don't even believe in ghosts, if I gotta be honest with you."
-msgstr "Чёрт, если честно, я не из тех, кто верит в призраков."
+msgstr "«Чёрт, да я даже в призраков не верю, если честно.»"
 
 #. Key:	7CD4572D401816154425E98DAE74A457
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(13).Subtitles.Text
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(13).Subtitles.Text
 msgctxt ",7CD4572D401816154425E98DAE74A457"
 msgid "It's really, really strange."
-msgstr "Это очень, очень странно."
+msgstr "«Это реально, реально странно.»"
 
 #. Key:	7D75C59344F0F1D83D4C7E9D22F217BA
 #. SourceLocation:	/Game/Widgets/Multiplayer/WB_ServerList.WB_ServerList_C:WidgetTree.TextBlock_282.Text
@@ -1227,7 +1227,7 @@ msgstr "Безопасная Зона"
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(19).Subtitles.Text
 msgctxt ",7EF251E34081146D10C144B5881E8192"
 msgid "\"Mark whatever it's yours.\""
-msgstr "«Помечайте всё, что считаете своим»."
+msgstr "«Помечайте всё, что ваше.»"
 
 #. Key:	7F809B8545A418DD1740D88828585408
 #. SourceLocation:	/Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_10.Text
@@ -1241,7 +1241,7 @@ msgstr "Отключить фон главного меню, зависящий 
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(26).Subtitles.Text
 msgctxt ",7F82BC2843D806C1CC2135BEAC3100CD"
 msgid "You never know what could be in there.."
-msgstr "Никогда не знаешь, что там может быть…"
+msgstr "«Никогда не знаешь, что там может быть..»"
 
 #. Key:	7FF0231A4FE90F8848A67F88B77740F2
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
@@ -1269,14 +1269,14 @@ msgstr "Кто вообще додумался вырубить питание?"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(20).Subtitles.Text
 msgctxt ",81A2334B45FA460FDF54339C876318D9"
 msgid "It's like our tech has developed a mind of its own somehow."
-msgstr "Такое ощущение, будто наша техника вдруг обрела собственный разум."
+msgstr "«Такое чувство, будто наша техника обзавелась собственным разумом.»"
 
 #. Key:	8474C42A48D65BED8892FEBD6571C3A6
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(30).Subtitles.Text
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(30).Subtitles.Text
 msgctxt ",8474C42A48D65BED8892FEBD6571C3A6"
 msgid "Have a good rest of your day, boss."
-msgstr "Хорошего дня, шэф."
+msgstr "«Хорошего вам остатка дня, шэф.»"
 
 #. Key:	847639D14B332C465DEC4CAB8A2FA544
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_Badges.W_Badges_C:WidgetTree.contributor.ToolTipText
@@ -1304,7 +1304,7 @@ msgstr "Выбрать"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(19).Subtitles.Text
 msgctxt ",85793A364574E72787D01ABE159F2C21"
 msgid "We've been investigating to find out the source of the problem, but we really can't."
-msgstr "Мы пытались выяснить источник проблемы, но так и не смогли."
+msgstr "«Мы пытались выяснить источник проблемы, но у нас реально не выходит.»"
 
 #. Key:	85FE9D2F40485A2BC3F503A305F7DFEA
 #. SourceLocation:	/Game/Widgets/Warnings/W_NightlyWarn.W_NightlyWarn_C:WidgetTree.title.Text
@@ -1341,7 +1341,7 @@ msgstr "Ссылка откроется\r\n"
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(7).Subtitles.Text
 msgctxt ",88C24F834803C9160210F5A24072D42C"
 msgid "\"Rolling out some system updates tonight, so if you find your computer acting a bit...\""
-msgstr "«Сегодня вечером выкатываем системные обновления, так что, если компьютер будет вести себя немного…»"
+msgstr "«Сегодня вечером мы ставим системные обновления, так что если завтра утром ваш компьютер будет вести себя слегка...»"
 
 #. Key:	892CF167411347302BB99F8D36BD93A1
 #. SourceLocation:	/Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.pause_icon.ToolTipText
@@ -1397,7 +1397,7 @@ msgstr "Музыка"
 #: /Game/Audio/dave_2.dave_2.Subtitles(18).Subtitles.Text
 msgctxt ",8E1D8A7645278ACCE3A7CA995CC04B00"
 msgid "Alright."
-msgstr "Хорошо."
+msgstr "«Идёт.»"
 
 #. Key:	8E5797074539148476C001B7AC88E791
 #. SourceLocation:	/Game/Widgets/Warnings/W_ControllerWarn.W_ControllerWarn_C:WidgetTree.TextBlock.Text
@@ -1411,7 +1411,7 @@ msgstr "Похоже, у вас подключён контроллер (или 
 #: /Game/Audio/dave_2.dave_2.Subtitles(26).Subtitles.Text
 msgctxt ",905364A14453589E21DC52B3AE6A2C49"
 msgid "See ya."
-msgstr "Увидимся."
+msgstr "«Бывай.»"
 
 #. Key:	90D2E00443A2DCA4DDB88082A4F8A4E6
 #. SourceLocation:	/Game/Widgets/W_Screeensaver/W_Screensaver_InitDIal.W_Screensaver_InitDIal_C:WidgetTree.TextBlock_3.Text
@@ -1478,14 +1478,14 @@ msgstr "Подожди!"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(9).Subtitles.Text
 msgctxt ",96518F664A587DD7A41E928A8E5583C7"
 msgid "Just calling to give you a quick rundown on all the weird stuff that we can report about lately."
-msgstr "Просто звоню, чтобы быстренько рассказать про все странные штуки, о которых мы в последнее время можем отчитаться."
+msgstr "«Звоню, чтобы вкратце обрисовать все те странности, о которых мы можем доложить за последнее время.»"
 
 #. Key:	96FDF24242737C5C9777F1AD9E6C021D
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(20).Subtitles.Text
 #: /Game/Audio/dave_2.dave_2.Subtitles(20).Subtitles.Text
 msgctxt ",96FDF24242737C5C9777F1AD9E6C021D"
 msgid "Look-- it's not gonna take much time."
-msgstr "Слушай, это не займёт много времени."
+msgstr "«Слушай, времени это много не займёт.»"
 
 #. Key:	97494E14468916A014D0CAA273B40A35
 #. SourceLocation:	/Game/Widgets/Warnings/W_ControllerWarn.W_ControllerWarn_C:WidgetTree.TextBlock_132.Text
@@ -1562,7 +1562,7 @@ msgstr "Настройки HDR"
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(27).Subtitles.Text
 msgctxt ",9EC6B8564C3F8E280D2D64A4DDCA743F"
 msgid "\"Though if you DO hear something that sounds more than settling..\""
-msgstr "«Но если ты всё‑таки услышишь что‑то, что звучит не просто как оседание…»"
+msgstr "«Хотя если вы ВДРУГ услышите что-то, что звучит не просто как осадка здания..»"
 
 #. Key:	9EFC7C534ED28A2E5DB63F9A5DCF9948
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(32).Subtitles.Text
@@ -1576,7 +1576,7 @@ msgstr "Сообщений больше нет."
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(29).Subtitles.Text
 msgctxt ",A0DEE0E8465F1F74CCF62FB855F582D6"
 msgid "\"Let me know and we'll--\""
-msgstr "«Только дай знать — и мы --»"
+msgstr "«Дайте мне знать, и мы...»"
 
 #. Key:	A204ECEA4CE16E43C70A4C93E825E4CE
 #. SourceLocation:	/Game/Widgets/W_TelemetryDialogue.W_TelemetryDialogue_C:WidgetTree.TextBlock_1.Text
@@ -1590,7 +1590,7 @@ msgstr "Да, я хочу внести свой вклад."
 #: /Game/Audio/dave_2.dave_2.Subtitles(16).Subtitles.Text
 msgctxt ",A23891DA48D9221824463AB5473A7708"
 msgid "And... then maybe unlock that door, because we have not tested the new remote unlock system."
-msgstr "И… затем, может быть, отпереть ту дверь, потому что мы ещё не тестировали новую систему дистанционной разблокировки."
+msgstr "«И... потом, может, разблокируй ту дверь, потому что мы ещё не тестировали новую систему дистанционной разблокировки.»"
 
 #. Key:	A3AEDF9D4CE4CA889ED08795364C2D47
 #. SourceLocation:	/Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock.Text
@@ -1667,7 +1667,7 @@ msgstr "Вы погибли"
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(18).Subtitles.Text
 msgctxt ",AE4122AA494FDE6D09FB2DBAB05E4573"
 msgid "\"start a detective agency over just..\""
-msgstr "«Просто заново открыть детективное агентство...»"
+msgstr "«открывать детективное агентство из-за..»"
 
 #. Key:	AE5CCB4242DCF6F2767D4FB1AF8BA62E
 #. SourceLocation:	/Game/Widgets/W_Interaction/W_InteractionHint.W_InteractionHint_C:WidgetTree.TextBlock_0.Text
@@ -1732,7 +1732,7 @@ msgstr "В этой игре есть мерцающий свет, глитч‑
 #: /Game/Audio/dave_2.dave_2.Subtitles(15).Subtitles.Text
 msgctxt ",B86A83AC4E4C28AB09ED7A91454C4705"
 msgid "Browse through the camera feed, see if there is anything peculiar."
-msgstr "Проверь камеры, посмотри, не творится ли там что‑то странное."
+msgstr "«Пролистай записи с камер, посмотри, нет ли там чего-то странного.»"
 
 #. Key:	B8DBA6F942BE216F4D3214893BEABABA
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
@@ -1818,7 +1818,7 @@ msgstr "С возвращением, {1}"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(21).Subtitles.Text
 msgctxt ",BD0F5851439767F0F067CA855E88F863"
 msgid "I'll keep investigating and see if there's any logical reasoning behind all this, but honestly..."
-msgstr "Буду копать дальше — может, тут есть какое‑то логическое объяснение… Но, если честно…"
+msgstr "«Я продолжу копать и посмотрю, есть ли во всём этом какая-то логика, но, честно говоря...»"
 
 #. Key:	BDC83823493637856C2A7EB9ACEC72FE
 #. SourceLocation:	/Game/Widgets/W_Errors/W_ConnTravErr.W_ConnTravErr_C:WidgetTree.TextBlock.Text
@@ -1846,7 +1846,7 @@ msgstr "«Произошла ошибка привязки сетевого др
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(8).Subtitles.Text
 msgctxt ",BE45127944D0DAD31E6A1F93A17213BE"
 msgid "\"wonky tomorrow morning, or quirky or anyway--\""
-msgstr "«Завтра утром всё будет шатко, или с причудами, или как-то так—»"
+msgstr "«...странно, глючно или как-то не так»"
 
 #. Key:	BF6A87AC4EB2C857DFA02FB4B74B9AA4
 #. SourceLocation:	/Game/Widgets/W_Credits/W_Credits_Memerooms.W_Credits_Memerooms_C:WidgetTree.TextBlock.Text
@@ -1932,14 +1932,14 @@ msgstr "О НЕТ"
 #: /Game/Audio/dave_2.dave_2.Subtitles(17).Subtitles.Text
 msgctxt ",C2F8C9874EF16151BAE43DB6043D90C1"
 msgid "Alright?"
-msgstr "Хорошо?"
+msgstr "«Идёт?»"
 
 #. Key:	C3E31F8A477DC630D3DACF8B38E6F78F
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(25).Subtitles.Text
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(25).Subtitles.Text
 msgctxt ",C3E31F8A477DC630D3DACF8B38E6F78F"
 msgid "\"It's an old building and it tends to creak...\""
-msgstr "Это старое здание, тут вечно что‑нибудь скрипит…"
+msgstr "«Это старое здание, оно любит поскрипеть...»"
 
 #. Key:	C44E428641D462DAC88057BB03F7CB08
 #. SourceLocation:	/Game/Widgets/Warnings/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
@@ -1974,7 +1974,7 @@ msgstr "Совет: не используйте фонарик рядом с У�
 #: /Game/Audio/dave_2.dave_2.Subtitles(14).Subtitles.Text
 msgctxt ",C7475304420FE7A93DF9309E1251BD87"
 msgid "Just..."
-msgstr "Просто..."
+msgstr "«Просто...»"
 
 #. Key:	C74A162A46CE94F54CD3F48867E393A5
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_JoinSession.W_JoinSession_C:WidgetTree.TextBlock.Text
@@ -2049,7 +2049,7 @@ msgstr "Осторожно!"
 #: /Game/Audio/dave_2.dave_2.Subtitles(11).Subtitles.Text
 msgctxt ",CF5990CF4F7D73D699AA5FB9CEF6F794"
 msgid "What I'd want you to do would be to take the keycard, go into the security room, boot cmOS up, because people from Bloom said..."
-msgstr "Слушай, мне нужно, чтобы ты взял ключ‑карту, зашёл в комнату охраны и запустил cmOS… Потому что люди из Bloom сказали…"
+msgstr "«Что я от тебя хочу: возьми ключ-карту, зайди в комнату охраны, запусти cmOS, потому что ребята из Bloom сказали...»"
 
 #. Key:	CFA6B9244F09782E6EECE588D2693779
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
@@ -2063,7 +2063,7 @@ msgstr "Да уж, тут как‑то небезопасно…"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(16).Subtitles.Text
 msgctxt ",D00DE7424D301973552149B1709DB038"
 msgid "And secondly..."
-msgstr "И во‑вторых…"
+msgstr "«И во-вторых...»"
 
 #. Key:	D12610E44B9281594DAB4AA3A56BD18B
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_Badges.W_Badges_C:ExecuteUbergraph_W_Badges [Script Bytecode]
@@ -2091,14 +2091,14 @@ msgstr "После сброса вы снова окажетесь на Уров
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(7).Subtitles.Text
 msgctxt ",D216B35C4BAA256FE075BD89D53D82DE"
 msgid "It's Jake from IT speaking."
-msgstr "Это Джейк из IT на связи."
+msgstr "«Это Джейк из IT.»"
 
 #. Key:	D21CF3684C88CCC7AE715AB81C30F96C
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(25).Subtitles.Text
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(25).Subtitles.Text
 msgctxt ",D21CF3684C88CCC7AE715AB81C30F96C"
 msgid "Might be worth taking a look for yourself, but be careful."
-msgstr "Возможно, стоит взглянуть самому, но будь осторожен."
+msgstr "«Возможно, вам стоит взглянуть на это самому, но будьте осторожны.»"
 
 #. Key:	D3C8B2BC4A95A92B7B04C3862C4FAE3B
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
@@ -2112,7 +2112,7 @@ msgstr "Игра была создана с низким бюджетом."
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(28).Subtitles.Text
 msgctxt ",D40830F344FFDDE2D0C15AB1D9222298"
 msgid "We're gonna get back to sorting out the computer situation now, as leaving that unfixed-"
-msgstr "Сейчас мы вернёмся к устранению неполадок с компьютером. Оставлять проблему нерешённой нельзя"
+msgstr "«Мы сейчас вернёмся к решению проблемы с компьютерами, так как если оставить всё как есть...»"
 
 #. Key:	D49D2A30423FB0B6B955BB9E8A48D4D5
 #. SourceLocation:	/Game/Widgets/W_TelemetryDialogue.W_TelemetryDialogue_C:WidgetTree.TextBlock_63.Text
@@ -2212,14 +2212,14 @@ msgstr "«НЕЕЕТ!! ПОЧЕМУ ЭТА ИГРА НЕ РЕАЛИСТИЧНА�
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(29).Subtitles.Text
 msgctxt ",DFD730DF45E662B2612CFF8E87655847"
 msgid "-could slow down our workflow substantially, and we don't want that to happen now, do we?"
-msgstr "Это может существенно замедлить наш рабочий процесс, а мы не хотим, чтобы это произошло сейчас, не так ли?"
+msgstr "«это может существенно замедлить нашу работу, а нам ведь этого не хочется, верно?»"
 
 #. Key:	DFF055A040C6D28C279839A46D8C0035
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(18).Subtitles.Text
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(18).Subtitles.Text
 msgctxt ",DFF055A040C6D28C279839A46D8C0035"
 msgid "Screens were flickering, and my desktop even rearranged itself somehow."
-msgstr "Экраны мерцали, а рабочий стол каким‑то образом перестроился."
+msgstr "«Экраны мерцали, а мой рабочий стол вообще каким-то образом сам перестроился.»"
 
 #. Key:	DFFB4F734FA4835D102B11803100B178
 #. SourceLocation:	/Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:ExecuteUbergraph_PauseMenuWidget [Script Bytecode]
@@ -2353,7 +2353,7 @@ msgstr "Здесь отключён\r\n"
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(15).Subtitles.Text
 msgctxt ",EDB08C4A48EB7724169598971ACC5681"
 msgid "\"We've had a couple of reports recently about\""
-msgstr "В последнее время поступило несколько сообщений о"
+msgstr "«В последнее время нам поступало несколько жалоб на то, что»"
 
 #. Key:	EE5F29BF4EBC230821B511A0D7089D30
 #. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_DelConfirm.W_TT_DelConfirm_C:ExecuteUbergraph_W_TT_DelConfirm [Script Bytecode]
@@ -2439,7 +2439,7 @@ msgstr "Взаимодействия"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(11).Subtitles.Text
 msgctxt ",F4267D64462BBD64FC6F4EAD3784F0A7"
 msgid "We keep hearing these really weird noises coming from in there, like someone's redecorating."
-msgstr "Мы постоянно слышим какие‑то очень странные звуки оттуда, будто там соседи делают ремонт."
+msgstr "«Мы постоянно слышим оттуда эти реально странные звуки, будто кто-то делает там ремонт.»"
 
 #. Key:	F454C5E04355473BCC8D48AECB8C9028
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_30.Text
@@ -2495,7 +2495,7 @@ msgstr "Нет, спасибо"
 #: /Game/Audio/dave_2.dave_2.Subtitles(22).Subtitles.Text
 msgctxt ",F850B59D49C11521BEB658983BB4971C"
 msgid "Take keycard, get in the room..."
-msgstr "Возьми ключ‑карту, войди в комнату…"
+msgstr "«Берёшь ключ-карту, заходишь в комнату...»"
 
 #. Key:	F912874C4BF4F8E305532C8245A2F95D
 #. SourceLocation:	/Game/Widgets/W_Screeensaver/W_Screensaver_InitDIal.W_Screensaver_InitDIal_C:WidgetTree.TextBlock_2.Text
@@ -2509,7 +2509,7 @@ msgstr "Отмена"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(14).Subtitles.Text
 msgctxt ",FAE1BEF94F6C34B6AAB4C38805088177"
 msgid "And every time I go in there, I'm half expecting a ghost to pop out at any minute."
-msgstr "И каждый раз, когда я туда захожу, мне кажется, что в любую минуту из темноты выскочит призрак."
+msgstr "«И каждый раз, когда я туда захожу, я наполовину жду, что оттуда в любую секунду выскочит призрак.»"
 
 #. Key:	FB8502B34F66BE631A96BEAE92260AB3
 #. SourceLocation:	/Game/Widgets/W_LevelSelector/W_LevelSelector.W_LevelSelector_C:WidgetTree.TextBlock_8.Text
@@ -2544,7 +2544,7 @@ msgstr "Устаревший клиент"
 #: /Game/Audio/jake_lele.jake_lele.Subtitles(6).Subtitles.Text
 msgctxt ",FDE6039F45F0386D036A64BAF0610EE5"
 msgid "\"Hey, it's uh Jake from IT. Just a quick heads up:\""
-msgstr "«Привет! Это, ээ, Джейк из IT. Просто хочу предупредить:»"
+msgstr "«Привет, это, ээ, Джейк из IT. Просто хочу быстро предупредить:»"
 
 #. Key:	FF3BB15F42529D8EBBEB79B0A77DFAEA
 #. SourceLocation:	/Game/Widgets/Settings/W_Settings_Saved.W_Settings_Saved_C:WidgetTree.TextBlock_0.Text
@@ -2565,7 +2565,7 @@ msgstr "Перенос сохранений"
 #: /Game/Audio/jake_lele2.jake_lele2.Subtitles(17).Subtitles.Text
 msgctxt ",FFFFE92A42D0732790FB13A5A7E752EF"
 msgid "Secondly, we've been getting reports of our PCs acting really, really weirdly since our last update."
-msgstr "Во-вторых, мы получаем сообщения о том, что наши ПК ведут себя очень, очень странно после последнего обновления."
+msgstr "«Во-вторых, к нам поступают сообщения, что наши ПК ведут себя очень, очень странно после последнего обновления.»"
 
 #. Key:	02ED8B414F72956E478E5F837A952E5C
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_0.Text
