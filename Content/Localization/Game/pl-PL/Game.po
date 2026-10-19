@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-18 21:07\n"
-"PO-Revision-Date: 2026-10-19 17:22\n"
+"PO-Revision-Date: 2026-10-19 18:25\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -2721,7 +2721,7 @@ msgstr ""
 #: /Game/Widgets/Multiplayer/W_MPInit.W_MPInit_C:WidgetTree.TextBlock_1.Text
 msgctxt "Game,51F2AD76410263E048696CA2B46E768B"
 msgid "Discard connection"
-msgstr ""
+msgstr "Zerwij połączenie"
 
 #. Key:	54EB8E24458BB63DB97315A74E25F00A
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_11.Text
@@ -2737,42 +2737,51 @@ msgid "Even though I had no place to put Gamemode in title, this is The Memeroom
 "- Player Speed faster than my dad going for milk.\r\n"
 "\r\n"
 "[UNFUNNY WARNING, PROCEED WITH CAUTION! SOME CONTENT IS UNFINISHED]"
-msgstr ""
+msgstr "Mimo że nie ma miejsca dodać tryby gry w tej grze, to jest Memerooms™. Prześmieszna, wyszukana przygoda w Budget Backrooms.\r\n"
+"\r\n"
+"Wrzuciłem do gry humor XXI wieku (prawdopodobnie nieśmieszny). Co najgorszego może się stać?\r\n"
+"\r\n"
+"Modyfikatory:\r\n"
+"-Howlery? Wylatują, zastępują je NextBoty, które cię gonią, jakbyś był rzadkim NFT.\r\n"
+"-Nieskończona stamina, jak kolejka po papier toaletowy na początku pandemii.\r\n"
+"-Prędkość gracza większa niż prędkość mojego ojca, gdy szedł po mleko.\r\n"
+"\r\n"
+"[OSTRZEŻENIE: NIEŚMIESZNE! KONTYNUUJ NA WŁASNĄ ODPOWIEDZIALNOŚĆ! CZĘŚĆ ZAWARTOŚCI JEST NIEDOKOŃCZONA]"
 
 #. Key:	559AA7AF406F7FF3D67C5497BE1AEC61
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_193.Text
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_193.Text
 msgctxt "Game,559AA7AF406F7FF3D67C5497BE1AEC61"
 msgid "Play Gamemode"
-msgstr ""
+msgstr "Graj"
 
 #. Key:	5B01E0A64686673A6F12F6A6F25814B9
 #. SourceLocation:	/Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_4.Text
 #: /Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_4.Text
 msgctxt "Game,5B01E0A64686673A6F12F6A6F25814B9"
 msgid "That's all folks!"
-msgstr ""
+msgstr "To już wszystko!"
 
 #. Key:	606805C340EDA7C57DF31796C1F0897F
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock.Text
 msgctxt "Game,606805C340EDA7C57DF31796C1F0897F"
 msgid "Hardcore"
-msgstr ""
+msgstr "Hardcore"
 
 #. Key:	6366616F42DD42ACE70F62B1AA6F7905
 #. SourceLocation:	/Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.title.Text
 #: /Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.title.Text
 msgctxt "Game,6366616F42DD42ACE70F62B1AA6F7905"
 msgid "Paused"
-msgstr ""
+msgstr "Paused"
 
 #. Key:	64569A724EDAF950E441CE9056A47FF7
 #. SourceLocation:	/Game/Widgets/Animations/FadeIn_Edited.FadeIn_Edited_C:WidgetTree.TextBlock_1.Text
 #: /Game/Widgets/Animations/FadeIn_Edited.FadeIn_Edited_C:WidgetTree.TextBlock_1.Text
 msgctxt "Game,64569A724EDAF950E441CE9056A47FF7"
 msgid "Hold V to look behind you."
-msgstr ""
+msgstr "Przytrzymaj V żeby patrzeć za siebie"
 
 #. Key:	6491EE9E410A07B1F04868BEE7E68849
 #. SourceLocation:	/Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock.Text
@@ -2786,63 +2795,63 @@ msgstr "Czułość Kamery"
 #: /Game/Widgets/W_Respawn/W_Respawn_LV0.W_Respawn_LV0_C:WidgetTree.TextBlock.Text
 msgctxt "Game,6DBAF3F647996966C7B8E5BDBDDC097C"
 msgid "Respawn"
-msgstr ""
+msgstr "Odrodzenie"
 
 #. Key:	70777739430B6F2B780BA4BD11FE2205
 #. SourceLocation:	/Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.title_1.Text
 #: /Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.title_1.Text
 msgctxt "Game,70777739430B6F2B780BA4BD11FE2205"
 msgid "Playing..."
-msgstr ""
+msgstr "Grasz..."
 
 #. Key:	717467B041210819657883A8AEE4AF61
 #. SourceLocation:	/Game/Widgets/W_Interaction/W_Interact_Powerbox.W_Interact_Powerbox_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/W_Interaction/W_Interact_Powerbox.W_Interact_Powerbox_C:WidgetTree.TextBlock.Text
 msgctxt "Game,717467B041210819657883A8AEE4AF61"
 msgid "Press E to restart the power."
-msgstr ""
+msgstr "Kliknij E żeby zresetować zasilanie."
 
 #. Key:	7A69258444E514D225C222A10B62A023
 #. SourceLocation:	/Game/Widgets/Animations/FadeIn.FadeIn_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/Animations/FadeIn.FadeIn_C:WidgetTree.TextBlock.Text
 msgctxt "Game,7A69258444E514D225C222A10B62A023"
 msgid "Hold C to zoom."
-msgstr ""
+msgstr "Przytrzymaj C żeby przybliżyć."
 
 #. Key:	829033944810A708BD8F31B9D655627B
 #. SourceLocation:	/Game/Widgets/Animations/FadeIn_Edited.FadeIn_Edited_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/Animations/FadeIn_Edited.FadeIn_Edited_C:WidgetTree.TextBlock.Text
 msgctxt "Game,829033944810A708BD8F31B9D655627B"
 msgid "Hold C to zoom."
-msgstr ""
+msgstr "Przytrzymaj C żeby przybliżyć."
 
 #. Key:	8A9C5A2B416C98E00E045F8C64BDFCA1
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_5.Text
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_5.Text
 msgctxt "Game,8A9C5A2B416C98E00E045F8C64BDFCA1"
 msgid "Classic Gamemode"
-msgstr ""
+msgstr "Klasyczny Tryb Gry"
 
 #. Key:	8D9233084B8FE552469A8C819491A4D3
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_18.Text
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_18.Text
 msgctxt "Game,8D9233084B8FE552469A8C819491A4D3"
 msgid "Enter Level 4 at least once to unlock this."
-msgstr ""
+msgstr "Wejdź do level 4 chociaż raz żeby to odblokować."
 
 #. Key:	8EF3511743B8A34842C79EBD1E11349F
 #. SourceLocation:	/Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_7.Text
 #: /Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_7.Text
 msgctxt "Game,8EF3511743B8A34842C79EBD1E11349F"
 msgid "Edit Controls"
-msgstr ""
+msgstr "Edytuj sterowanie"
 
 #. Key:	8F5B97114176D27B552C2587A302E397
 #. SourceLocation:	/Game/Widgets/W_Prohibited/W_LockedMemerooms.W_LockedMemerooms_C:WidgetTree.TextBlock_0.Text
 #: /Game/Widgets/W_Prohibited/W_LockedMemerooms.W_LockedMemerooms_C:WidgetTree.TextBlock_0.Text
 msgctxt "Game,8F5B97114176D27B552C2587A302E397"
 msgid "Whoa, hold on!"
-msgstr ""
+msgstr "Whoa, Czekaj!"
 
 #. Key:	929408BC45B96F3CC78507BD87C307DF
 #. SourceLocation:	/Game/Widgets/W_MapFinished/W_FinishMap_Alpha.W_FinishMap_Alpha_C:WidgetTree.TextBlock_2.Text
@@ -2850,49 +2859,50 @@ msgstr ""
 msgctxt "Game,929408BC45B96F3CC78507BD87C307DF"
 msgid "Back to \r\n"
 "survey page"
-msgstr ""
+msgstr "Spowrotem do\r\n"
+"storny ankiety"
 
 #. Key:	940CA13E452B66BA51291D884AE0A4AF
 #. SourceLocation:	/Game/Widgets/W_Tooltips/W_TT_Screensaver.W_TT_Screensaver_C:WidgetTree.TextBlock_1.Text
 #: /Game/Widgets/W_Tooltips/W_TT_Screensaver.W_TT_Screensaver_C:WidgetTree.TextBlock_1.Text
 msgctxt "Game,940CA13E452B66BA51291D884AE0A4AF"
 msgid "Screensaver Mode"
-msgstr ""
+msgstr "Tryb Wygaszania Ekranu"
 
 #. Key:	9E0BA20A4B54936AD8539EB5F550A92B
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_19.Text
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_19.Text
 msgctxt "Game,9E0BA20A4B54936AD8539EB5F550A92B"
 msgid "Reset Sanity"
-msgstr ""
+msgstr "zresetuj poczytalność"
 
 #. Key:	A22F78484DDEF116D05FBCB66BB008C6
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_6.Text
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_6.Text
 msgctxt "Game,A22F78484DDEF116D05FBCB66BB008C6"
 msgid "Experience the Backrooms in its most authentic form with the Classic gamemode. Explore through various levels and find the exit while encountering strange entities and levels. The first level is guided by arrows on the walls, but beware of noclippable walls that lead to sub-levels. You're not alone in the Backrooms, so stay alert and keep moving, and watch your sanity!"
-msgstr ""
+msgstr "Doświadcz Backrooms w ich najbardziej autentycznej formie w klasycznym trybie gry. Eksploruj różne poziomy i szukaj wyjścia, napotykając dziwne byty oraz nietypowe poziomy. Na pierwszym poziomie drogę wskazują strzałki na ścianach, ale uważaj na ściany, przez które można przenikać i które prowadzą do podpoziomów. W Backrooms nie jesteś sam, więc zachowaj czujność, nie przestawaj się poruszać i pilnuj swojej poczytalności!"
 
 #. Key:	A97DE58E4F1FA713A36D5195C77F7283
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_4.Text
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_4.Text
 msgctxt "Game,A97DE58E4F1FA713A36D5195C77F7283"
 msgid "The Memerooms™"
-msgstr ""
+msgstr "The Memerooms™"
 
 #. Key:	AD7DBA0043B70D71BC2B6083CD00F0DE
 #. SourceLocation:	/Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_192.Text
 #: /Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_192.Text
 msgctxt "Game,AD7DBA0043B70D71BC2B6083CD00F0DE"
 msgid "Delete Saved Data"
-msgstr ""
+msgstr "Usuń zapisane dane"
 
 #. Key:	AE37393348921D5E2025D7A42D566D9F
 #. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn_LV2.W_Respawn_LV2_C:WidgetTree.dead.Text
 #: /Game/Widgets/W_Respawn/W_Respawn_LV2.W_Respawn_LV2_C:WidgetTree.dead.Text
 msgctxt "Game,AE37393348921D5E2025D7A42D566D9F"
 msgid "You died"
-msgstr ""
+msgstr "Umarłeś"
 
 #. Key:	B1DD77C547FB9435B0A9D6BEDD089D2E
 #. SourceLocation:	/Game/Widgets/Settings/W_GeneralSettings.W_GeneralSettings_C:WidgetTree.TextBlock_0.Text
@@ -2906,14 +2916,14 @@ msgstr "Pozostałe Ustawienia"
 #: /Game/Widgets/W_PauseMenu/W_ConfirmLeave.W_ConfirmLeave_C:WidgetTree.TextBlock_132.Text
 msgctxt "Game,B3A739A7412BD37C491490ADBC9334F8"
 msgid "You sure?"
-msgstr ""
+msgstr "Jesteś pewien?"
 
 #. Key:	BD2EE5214C90F96A537C17844C251221
 #. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn_LV0.W_Respawn_LV0_C:WidgetTree.dead.Text
 #: /Game/Widgets/W_Respawn/W_Respawn_LV0.W_Respawn_LV0_C:WidgetTree.dead.Text
 msgctxt "Game,BD2EE5214C90F96A537C17844C251221"
 msgid "You died"
-msgstr ""
+msgstr "Umarłeś"
 
 #. Key:	BF69D65743CE7FF7D0C1B08FDAF564BB
 #. SourceLocation:	/Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock_3.Text
@@ -2927,28 +2937,28 @@ msgstr ""
 #: /Game/Widgets/W_PauseMenu/PauseMenuWidget.PauseMenuWidget_C:WidgetTree.TextBlock.Text
 msgctxt "Game,C032988B4159487CF0E5F8A075B843FA"
 msgid "Restart"
-msgstr ""
+msgstr "Restart"
 
 #. Key:	C64865914BC6514F1F378FA2AE92180E
 #. SourceLocation:	/Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/W_MapFinished/W_OptionalSurvey.W_OptionalSurvey_C:WidgetTree.TextBlock.Text
 msgctxt "Game,C64865914BC6514F1F378FA2AE92180E"
 msgid "\"Hi there, would you like to sign my petition?\""
-msgstr ""
+msgstr "\"Cześć czy chciałbyś podpisać moją petycję\""
 
 #. Key:	C8D736EA4C22F2F05FE266B279162222
 #. SourceLocation:	/Game/Widgets/W_HUD.W_HUD_C:WidgetTree.TextBlock_0.Text
 #: /Game/Widgets/W_HUD.W_HUD_C:WidgetTree.TextBlock_0.Text
 msgctxt "Game,C8D736EA4C22F2F05FE266B279162222"
 msgid "Stamina regenerates once you stop walking."
-msgstr ""
+msgstr "Stamina regeneruje się, kiedy przestaniesz chodzić."
 
 #. Key:	D02790D3455C59CF228013A881859793
 #. SourceLocation:	/Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_3.Text
 #: /Game/Widgets/W_GMSelect/W_GMSelect.W_GMSelect_C:WidgetTree.TextBlock_3.Text
 msgctxt "Game,D02790D3455C59CF228013A881859793"
 msgid "The Memerooms"
-msgstr ""
+msgstr "The Memerooms"
 
 #. Key:	D535479940C75A7CDD9589A29B3DDC1F
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_MPMenu.W_MPMenu_C:WidgetTree.TextBlock_1.Text
@@ -2956,35 +2966,36 @@ msgstr ""
 msgctxt "Game,D535479940C75A7CDD9589A29B3DDC1F"
 msgid "Budget\r\n"
 "Multiplayer"
-msgstr ""
+msgstr "Budżetowy\r\n"
+"Multiplayer"
 
 #. Key:	DBAF3F647996966C7B8E5BDBDDC097C
 #. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn_LV2.W_Respawn_LV2_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/W_Respawn/W_Respawn_LV2.W_Respawn_LV2_C:WidgetTree.TextBlock.Text
 msgctxt "Game,DBAF3F647996966C7B8E5BDBDDC097C"
 msgid "Respawn"
-msgstr ""
+msgstr "Odrodzenie"
 
 #. Key:	E24B64224B720DC14EDC46A887F2D5CE
 #. SourceLocation:	/Game/Widgets/Animations/FadeOut.FadeOut_C:WidgetTree.TextBlock.Text
 #: /Game/Widgets/Animations/FadeOut.FadeOut_C:WidgetTree.TextBlock.Text
 msgctxt "Game,E24B64224B720DC14EDC46A887F2D5CE"
 msgid "Hold C to zoom."
-msgstr ""
+msgstr "Przytrzymaj C żeby przybliżyć"
 
 #. Key:	E98CC95C4741BD618971C5ACD6D3E040
 #. SourceLocation:	/Game/Widgets/W_Respawn/W_Respawn_LV2.W_Respawn_LV2_C:WidgetTree.TextBlock_0.Text
 #: /Game/Widgets/W_Respawn/W_Respawn_LV2.W_Respawn_LV2_C:WidgetTree.TextBlock_0.Text
 msgctxt "Game,E98CC95C4741BD618971C5ACD6D3E040"
 msgid "Go to main menu"
-msgstr ""
+msgstr "Przejdź do menu głównego"
 
 #. Key:	F24DA65E4DB40480791CE38324D76902
 #. SourceLocation:	/Game/Widgets/Animations/FadeIn_Edited.FadeIn_Edited_C:WidgetTree.TextBlock_0.Text
 #: /Game/Widgets/Animations/FadeIn_Edited.FadeIn_Edited_C:WidgetTree.TextBlock_0.Text
 msgctxt "Game,F24DA65E4DB40480791CE38324D76902"
 msgid "Loading..."
-msgstr ""
+msgstr "Ładowanie..."
 
 #. Key:	F64B0AE84B3F7AE51702F4BD80D1622B
 #. SourceLocation:	/Game/Widgets/W_Prohibited/W_LockedMemerooms.W_LockedMemerooms_C:WidgetTree.TextBlock.Text
