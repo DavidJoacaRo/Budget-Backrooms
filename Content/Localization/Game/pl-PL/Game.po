@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: budget-backrooms\n"
 "POT-Creation-Date: 2026-10-18 21:07\n"
-"PO-Revision-Date: 2026-10-19 19:20\n"
+"PO-Revision-Date: 2026-10-20 07:39\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -405,7 +405,7 @@ msgstr ""
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_3.Text
 msgctxt ",280062164C6F59E411D6CAA313B3EDAA"
 msgid "Everything you see in this game is still in development and it might not be final. Game could be popular, discontinued, or still in development in the future."
-msgstr ""
+msgstr "Wszystko, co widzisz w gdzie jest nadal w fazie rozwoju i nie jest ostateczne. Gra może być popularna, przestać dostawać aktualizacje, albo nadal być rozwijana."
 
 #. Key:	28D27CD447CAD830C098EEB458CAD332
 #. SourceLocation:	/Game/Audio/dave_2.dave_2.Subtitles(12).Subtitles.Text
@@ -426,7 +426,7 @@ msgstr "A jeszcze wracając do pokoju socjalnego..."
 #: /Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 msgctxt ",2B6CB5D84F3109C152E8B89B74F94054"
 msgid "[The handle just moves freely, not engaging anything. Doesn't look like I can open it.]"
-msgstr ""
+msgstr "[Klamka porusza się swobodnie, nie zahaczając o nic. Wygląda na to, że nie mogę jej otworzyć.]"
 
 #. Key:	2B9D8614416432891BBEC9A7AC2F68C3
 #. SourceLocation:	/Game/Widgets/W_MainMenu/W_MainMenu.W_MainMenu_C:WidgetTree.TextBlock_5.Text
@@ -582,7 +582,7 @@ msgstr "\"Przy okazji...\""
 #: /Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 msgctxt ",3B5A90074A15DE71471B8993DF217DBC"
 msgid "I don't have a good feeling, perhaps I should head the other way."
-msgstr ""
+msgstr "Mam złe przeczucie, może powinienem iść w drugą stronę."
 
 #. Key:	3CD57F374BF1D50078E5C8BDA6A31D21
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_GraphicMenu.W_GraphicMenu_C:WidgetTree.TextBlock_0.Text
@@ -612,7 +612,7 @@ msgstr "Wiedziałeś, że?\r\n"
 #: /Game/Widgets/Warnings/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
 msgctxt ",3F43F82C44FEAEC5C700589CBF034E2A"
 msgid "I don't have a good feeling, perhaps I should head the other way."
-msgstr ""
+msgstr "Mam złe przeczucie, może powinienem iść w drugą stronę."
 
 #. Key:	3F60C01D4F018D823832059D48173F0B
 #. SourceLocation:	/Game/Widgets/Settings/W_Settings_Selection.W_Settings_Selection_C:WidgetTree.TextBlock.Text
@@ -620,7 +620,8 @@ msgstr ""
 msgctxt ",3F60C01D4F018D823832059D48173F0B"
 msgid "Miscellaneous\r\n"
 "Settings"
-msgstr ""
+msgstr "Pozostałe\r\n"
+"Ustawienia"
 
 #. Key:	4088789F4F09A439F7AAE489952E8E1D
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:WidgetTree.TextBlock_1.Text
@@ -634,7 +635,7 @@ msgstr "Głośne dźwięki, jeśli gra jest za głośna dla ciebie proszę dosto
 #: /Game/Widgets/W_Tooltips/W_TT_Reload.W_TT_Reload_C:WidgetTree.restart_text.Text
 msgctxt ",408C1C9045910921D13A31B001F6FAD3"
 msgid "By pressing this, the game will force a reload. All unsaved data will be discarded."
-msgstr ""
+msgstr "Po kliknięciu tego gra zostanie ponownie załadowana. Wszystkie nie zapisane dane zostaną usunięte."
 
 #. Key:	408D53B240A142C80EA98BA1D3DB02C6
 #. SourceLocation:	/Game/Widgets/Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_2.Text
@@ -754,7 +755,7 @@ msgstr ""
 #: /Game/Widgets/Warnings/W_PowerWarn.W_PowerWarn_C:ExecuteUbergraph_W_PowerWarn [Script Bytecode]
 msgctxt ",4C531DE34C0FF0DE9657D1B964C26A36"
 msgid "Whose idea was it to cut off the power?"
-msgstr ""
+msgstr "Kogo to był pomysł, żeby wyłączyć prąd?"
 
 #. Key:	4D0891E547E63B9C5ED4878B8DCFBB7F
 #. SourceLocation:	/Game/Widgets/W_TelemetryDialogue.W_TelemetryDialogue_C:WidgetTree.TextBlock_2.Text
@@ -782,21 +783,21 @@ msgstr "Aby wprowadzić zmiany, wymagany jest ręczny restart gry."
 #: /Game/Widgets/Warnings/W_ExperLevel.W_ExperLevel_C:WidgetTree.TextBlock.Text
 msgctxt ",4F0E48A34DED746BFC9BD18B5225C948"
 msgid "The game is officially ending here, but for this version there's also a work-in-progress level after this one. You can either end your gameplay here, or continue further on, and get an early look. (Speedrunners, the timer should stop here)"
-msgstr ""
+msgstr "Gra się oficjalnie kończy tutaj, ale dla tej wersji istnieją niedokończone poziomy. Możesz zakończyć swoją rozgrywkę tutaj albo kontynuować i zobaczyć wczesne wersje kolejnych poziomów.(Speedrunnerzy w tym miejscu licznik czasu powinien zostać zatrzymany)"
 
 #. Key:	504FFE4F4E9148C7B85235829E2CBA1C
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 #: /Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 msgctxt ",504FFE4F4E9148C7B85235829E2CBA1C"
 msgid "This doesn't look so safe, perhaps I should head the other way."
-msgstr ""
+msgstr "Nie wygląda to bezpiecznie, może powinienem iść w drugą stronę."
 
 #. Key:	528045B1434F306D1C3E17847FB33DE6
 #. SourceLocation:	/Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 #: /Game/Widgets/W_CrosshairHint.W_CrosshairHint_C:Get_keycardshit_Text_0 [Script Bytecode]
 msgctxt ",528045B1434F306D1C3E17847FB33DE6"
 msgid "I should restore the power first."
-msgstr ""
+msgstr "Najpierw powinienem przywrócić zasilanie."
 
 #. Key:	52B16461484F7D1D757D9298A256A23A
 #. SourceLocation:	/Game/Widgets/Animations/W_LVRunAnim.W_LVRunAnim_C:WidgetTree.TextBlock_3.Text
@@ -824,7 +825,7 @@ msgstr "Zrozumiano"
 #: /Game/Widgets/Multiplayer/W_Badges.W_Badges_C:ExecuteUbergraph_W_Badges [Script Bytecode]
 msgctxt ",55AEF1CA46A68982A2C68CB5A66E8E4B"
 msgid "Contributor to game's source code"
-msgstr ""
+msgstr "Współautor kodu źródłowego gry"
 
 #. Key:	5614A195423FB26CFF43CA8A753EFDB1
 #. SourceLocation:	/Game/Audio/jake_lele2.jake_lele2.Subtitles(6).Subtitles.Text
@@ -852,14 +853,14 @@ msgstr ""
 #: /Game/Widgets/W_Restarting.W_Restarting_C:WidgetTree.TextBlock_0.Text
 msgctxt ",574F69D44E9FC786CD40A29F92F48422"
 msgid "Restarting executable..."
-msgstr ""
+msgstr "Restartowanie pliku wykonawczego..."
 
 #. Key:	58D677054E565B5130AC62B63822753E
 #. SourceLocation:	/Game/Widgets/W_RebindKeys/W_RebindEntry.W_RebindEntry_C:WidgetTree.kbmbutton.KeySelectionText
 #: /Game/Widgets/W_RebindKeys/W_RebindEntry.W_RebindEntry_C:WidgetTree.kbmbutton.KeySelectionText
 msgctxt ",58D677054E565B5130AC62B63822753E"
 msgid "Press any key?"
-msgstr ""
+msgstr "Naciśnij dowolny klawisz?"
 
 #. Key:	59789EC64D703F1AD2F041B85FE193B4
 #. SourceLocation:	/Game/Audio/jake_lele.jake_lele.Subtitles(16).Subtitles.Text
@@ -916,7 +917,8 @@ msgstr ""
 msgctxt ",5F28DDE1471B402C037A10B341E9CFF9"
 msgid "Did you know?\r\n"
 "{1}"
-msgstr ""
+msgstr "Wiedziałeś, że\r\n"
+"{1}"
 
 #. Key:	5F5289C645CF4F7681762B814A116420
 #. SourceLocation:	/Game/Widgets/W_Graphic_Menu/W_HDRMenu.W_HDRMenu_C:WidgetTree.TextBlock_2.Text
@@ -938,14 +940,14 @@ msgstr ""
 #: /Game/Audio/jammed.jammed.Subtitles(0).Subtitles.Text
 msgctxt ",6092D65B44718B2AF96A1A8C295D5C5E"
 msgid "[cannot use]"
-msgstr ""
+msgstr "[nie można użyć]"
 
 #. Key:	6310847043B0A156AA0FCABB8F95ACF4
 #. SourceLocation:	/Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
 #: /Game/Widgets/Warnings/W_Disclaimer.W_Disclaimer_C:Get_tip_Text_0 [Script Bytecode]
 msgctxt ",6310847043B0A156AA0FCABB8F95ACF4"
 msgid "You can exit the game by pressing ALT+F4."
-msgstr ""
+msgstr "Możesz wyjść z gry klikając ALT+F4."
 
 #. Key:	6311957F48691744B246F28A00DC570A
 #. SourceLocation:	/Game/Widgets/Multiplayer/W_Badges.W_Badges_C:WidgetTree.tester.ToolTipText
@@ -980,7 +982,7 @@ msgstr ""
 #: /Game/Widgets/W_Banner.W_Banner_C:ExecuteUbergraph_W_Banner [Script Bytecode]
 msgctxt ",66CA23354EB16F549F90CCA7B5468772"
 msgid "Restart pending to apply some changed settings;"
-msgstr ""
+msgstr "Restartowanie, żeby wprowadzić zmiany;"
 
 #. Key:	687BDE734B3294204F6EB994F858501B
 #. SourceLocation:	/Game/Widgets/Warnings/W_NightlyWarn.W_NightlyWarn_C:ExecuteUbergraph_W_NightlyWarn [Script Bytecode]
